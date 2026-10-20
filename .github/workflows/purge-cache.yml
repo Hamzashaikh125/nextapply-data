@@ -1,0 +1,101 @@
+# purge-cache.yml - AUTO CACHE REFRESH on every push to nextapply-data@main.
+#
+# Setup (one time, in THIS repo on GitHub):
+#   Settings > Secrets and variables > Actions
+#     - Secret  DATA_SYNC_WEBHOOK_TOKEN  (same value as the DATA_SYNC_WEBHOOK_TOKEN
+#       env var on Netlify: Site settings > Environment variables)
+#     - Variable SITE_URL = https://nextapply.co.uk  (optional, has a default)
+#
+# What it does on every push that changes public/data/**:
+#   1. Diffs the push against the previous commit.
+#   2. Purges each changed file on jsDelivr (jsDelivr caches @main up to 7 days).
+#   3. Calls the site webhook (POST /api/webhooks/data-sync) which flushes the
+#      Next.js ISR cache, the in-process memos and the Netlify CDN - no deploy.
+
+name: Purge CDN caches
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "public/data/**"
+
+  workflow_dispatch: {}
+
+concurrency:
+  group: purge-cache
+  cancel-in-progress: false
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (with previous commit for the diff)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: List changed public/data files
+        id: diff
+        run: |
+          if git rev-parse --verify -q HEAD~1 >/dev/null; then
+            BASE=HEAD~1
+          else
+            BASE=$(git hash-object -t tree /dev/null)
+          fi
+          git diff --name-only "$BASE" HEAD -- 'public/data/**' | tee changed.txt
+          echo "count=$(wc -l < changed.txt | tr -d ' ')" >> "$GITHUB_OUTPUT"
+
+      - name: Purge changed files on jsDelivr (cap 200)
+        if: steps.diff.outputs.count > 0
+        run: |
+          CAP=200
+          i=0
+          FAIL=0
+          while IFS= read -r p; do
+            [ -z "$p" ] && continue
+            i=$((i+1))
+            [ "$i" -gt "$CAP" ] && break
+            code=$(curl -s -o /dev/null -w '%{http_code}' "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/${p}") || code=000
+            if [ "$code" != "200" ]; then
+              echo "::warning::jsDelivr purge $p -> HTTP $code"
+              FAIL=$((FAIL+1))
+            fi
+          done < changed.txt
+          echo "jsDelivr purge attempted=$i failures=$FAIL"
+
+      - name: Refresh site caches (ISR + memos + Netlify CDN + jsDelivr core)
+        if: steps.diff.outputs.count > 0
+        env:
+          WEBHOOK_TOKEN: ${{ secrets.DATA_SYNC_WEBHOOK_TOKEN }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: |
+          PATHS_JSON=$(python3 - <<'EOF'
+          import json
+          with open('changed.txt') as f:
+              paths = [l.strip() for l in f if l.strip()]
+          print(json.dumps({"paths": paths[:300]}))
+          EOF
+          )
+          SITE="${SITE_URL:-https://nextapply.co.uk}"
+          code=$(curl -s -o response.json -w '%{http_code}' -X POST \
+            -H "x-webhook-token: $WEBHOOK_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d "$PATHS_JSON" \
+            "$SITE/api/webhooks/data-sync") || code=000
+          cat response.json 2>/dev/null || true
+          if [ "$code" != "200" ]; then
+            echo "::error::Site webhook -> HTTP $code"
+            exit 1
+          fi
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "## CDN purge summary"
+            echo ""
+            echo "- Changed public/data files: \`${{ steps.diff.outputs.count }}\`"
+            echo "- jsDelivr per-file purge: done (cap 200)"
+            echo "- Site webhook (ISR + Netlify + jsDelivr core): done"
+          } >> "$GITHUB_STEP_SUMMARY"
