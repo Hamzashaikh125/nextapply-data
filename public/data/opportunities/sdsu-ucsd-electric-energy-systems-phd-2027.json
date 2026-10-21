@@ -1,1 +1,76 @@
-{"addedDate":"2026-09-08T21:59:15.296Z","city":"San Diego","fundingCoverage":{"stipendProvided":true,"tuitionCovered":true},"description":"<h2>Basic Information</h2>\n<ul><li><strong>Full Programme Name:</strong> SDSU-UC San Diego Joint Doctoral Program in Engineering Science (Electric Energy Systems)</li><li><strong>Host Institutions:</strong> San Diego State University &amp; University of California San Diego</li><li><strong>Location:</strong> California USA</li><li><strong>Positions:</strong> 2 fully funded PhD positions</li><li><strong>Intake:</strong> Fall 2027</li><li><strong>Duration:</strong> 4-5 years</li><li><strong>Funding Type:</strong> Fully Funded</li><li><strong>Application Window:</strong> 1 October 2026 - 1 December 2026</li><li><strong>Eligibility:</strong> Open to international students</li></ul>\n<h2>About the Programme</h2>\n<p>The Joint Doctoral Program (JDP) in Engineering Science with focus on Electric Energy Systems offers 2 fully funded PhD positions through the SDSU-UCSD partnership. The programme combines AI cybersecurity power systems power electronics and control for advanced energy research.</p>\n<h2>Key Research Areas</h2>\n<ul><li>Power systems engineering</li><li>Energy technologies and smart grid</li><li>Cyber-physical security for energy infrastructure</li><li>Power electronics and control</li><li>Signal processing for energy applications</li><li>Renewable energy integration</li><li>Machine learning for power systems</li></ul>\n<h2>Eligibility Requirements</h2>\n<ul><li>Strong background in electrical engineering computer engineering control or signal processing</li><li>Master's degree preferred (or exceptional Bachelor's)</li><li>Must submit complete applications to BOTH SDSU and UCSD systems</li><li>Applications only accepted during October 1 - December 1 2026 window</li><li>Spring Summer and Winter admissions NOT offered</li></ul>\n<h2>Funding Details</h2>\n<ul><li>Fully funded (tuition + salary support)</li><li>Joint PhD awarded by both SDSU and UCSD</li><li>Access to research facilities at both universities</li><li>Industry partnerships with utilities national labs and technology companies</li></ul>\n<h2>How to Apply</h2>\n<ol><li>Submit application to SDSU Graduate Application (by December 1 2026)</li><li>Submit application to UCSD Graduate Application (by December 1 2026)</li><li>Must complete BOTH applications</li><li>Indicate interest in Electric Energy Systems JDP\",SDSU|UCSD|Electric Energy Systems|Power Systems|Joint Doctoral Program|USA|California|Fully Funded|Fall 2027|PhD,https://www.engineering.sdsu.edu/admissions/joint-doctoral,true,published,true,false,worldwide,Fully funded tuition plus salary support</li></ol>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-academic-cv-phd-applications-sample\">Academic CV for PhD Applications: Structure and an Example</a></li></ul>","eligibility":"worldwide","stipend":"Fully funded tuition plus salary support","applyLink":"https://www.engineering.sdsu.edu/admissions/joint-doctoral","seoTitle":"Two Fully Funded PhD Positions in Electric Energy Systems at SDSU-UC San Diego Fall 2027","title":"Two Fully Funded PhD Positions in Electric Energy Systems at SDSU-UC San Diego Fall 2027","fundingStatus":"fully_funded","ieltsRequired":true,"organizationId":"san-diego-state-university","createdAt":"2026-09-08T21:59:15.296Z","stipendAmount":null,"fundingType":"fully_funded","countryCode":"US","intro":"Two fully funded PhD positions in Electric Energy Systems through the SDSU-UC San Diego Joint Doctoral Program combining AI cybersecurity power systems and power electronics.","deadlineTimezone":"America/New_York","deadline":"2026-12-01T00:00:00.000Z","degreeLevels":["phd"],"isFeatured":false,"slug":"sdsu-ucsd-electric-energy-systems-phd-2027","updatedAt":"2026-10-13T23:19:36.497Z","deadlineText":null,"publishedAt":"2026-09-08T21:59:15.296Z","verificationStatus":"unverified","seoDescription":"Two fully funded PhD positions in Electric Energy Systems through the SDSU-UC San Diego Joint Doctoral Program combining AI cybersecurity power systems and power electronics.","isRemote":false,"ogImage":"https://nextapply.co.uk/sdsu-ucsd-electric-energy-systems-phd-2027/opengraph-image","tags":["San Diego State University","Electrical Engineering","Control Systems","Cybersecurity","Data Science","Artificial Intelligence","Machine Learning","Phd Position","Fully Funded","SDSU","UCSD","Electric Energy Systems"],"opportunityType":"phd_position","isOpen":true,"disciplines":["electrical_engineering","control_systems","cybersecurity","data_science","artificial_intelligence","machine_learning"],"stipendCurrency":null,"verificationScore":95,"deadlineType":"fixed","regionId":"north_america","sourceType":"official_university","stipendPeriod":null,"organization":{"website":"https://www.sdsu.edu","name":"San Diego State University","id":"san-diego-state-university","logoUrl":"https://www.pngfind.com/pngs/m/556-5565981_san-diego-state-university-logo-san-diego-state.png","slug":"san-diego-state-university"},"category":"phd_position","status":"published","id":"zwKTaQxIoNkixpT28rKs"}
+{
+  "addedDate": "2026-09-08T21:59:15.296Z",
+  "city": "San Diego",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "description": "<h2>Basic Information</h2>\n<ul><li><strong>Full Programme Name:</strong> SDSU-UC San Diego Joint Doctoral Program in Engineering Science (Electric Energy Systems)</li><li><strong>Host Institutions:</strong> San Diego State University &amp; University of California San Diego</li><li><strong>Location:</strong> California USA</li><li><strong>Positions:</strong> 2 fully funded PhD positions</li><li><strong>Intake:</strong> Fall 2027</li><li><strong>Duration:</strong> 4-5 years</li><li><strong>Funding Type:</strong> Fully Funded</li><li><strong>Application Window:</strong> 1 October 2026 - 1 December 2026</li><li><strong>Eligibility:</strong> Open to international students</li></ul>\n<h2>About the Programme</h2>\n<p>The Joint Doctoral Program (JDP) in Engineering Science with focus on Electric Energy Systems offers 2 fully funded PhD positions through the SDSU-UCSD partnership. The programme combines AI cybersecurity power systems power electronics and control for advanced energy research.</p>\n<h2>Key Research Areas</h2>\n<ul><li>Power systems engineering</li><li>Energy technologies and smart grid</li><li>Cyber-physical security for energy infrastructure</li><li>Power electronics and control</li><li>Signal processing for energy applications</li><li>Renewable energy integration</li><li>Machine learning for power systems</li></ul>\n<h2>Eligibility Requirements</h2>\n<ul><li>Strong background in electrical engineering computer engineering control or signal processing</li><li>Master's degree preferred (or exceptional Bachelor's)</li><li>Must submit complete applications to BOTH SDSU and UCSD systems</li><li>Applications only accepted during October 1 - December 1 2026 window</li><li>Spring Summer and Winter admissions NOT offered</li></ul>\n<h2>Funding Details</h2>\n<ul><li>Fully funded (tuition + salary support)</li><li>Joint PhD awarded by both SDSU and UCSD</li><li>Access to research facilities at both universities</li><li>Industry partnerships with utilities national labs and technology companies</li></ul>\n<h2>How to Apply</h2>\n<ol><li>Submit application to SDSU Graduate Application (by December 1 2026)</li><li>Submit application to UCSD Graduate Application (by December 1 2026)</li><li>Must complete BOTH applications</li><li>Indicate interest in Electric Energy Systems JDP\",SDSU|UCSD|Electric Energy Systems|Power Systems|Joint Doctoral Program|USA|California|Fully Funded|Fall 2027|PhD,https://www.engineering.sdsu.edu/admissions/joint-doctoral,true,published,true,false,worldwide,Fully funded tuition plus salary support</li></ol>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-academic-cv-phd-applications-sample\">Academic CV for PhD Applications: Structure and an Example</a></li></ul>",
+  "eligibility": "worldwide",
+  "stipend": "Fully funded tuition plus salary support",
+  "applyLink": "https://www.engineering.sdsu.edu/admissions/joint-doctoral",
+  "seoTitle": "Fully Funded PhD at San Diego State University 2027",
+  "title": "Two Fully Funded PhD Positions in Electric Energy Systems at SDSU-UC San Diego Fall 2027",
+  "fundingStatus": "fully_funded",
+  "ieltsRequired": true,
+  "organizationId": "san-diego-state-university",
+  "createdAt": "2026-09-08T21:59:15.296Z",
+  "stipendAmount": null,
+  "fundingType": "fully_funded",
+  "countryCode": "US",
+  "intro": "Two fully funded PhD positions in Electric Energy Systems through the SDSU-UC San Diego Joint Doctoral Program combining AI cybersecurity power systems and power electronics.",
+  "deadlineTimezone": "America/New_York",
+  "deadline": "2026-12-01T00:00:00.000Z",
+  "degreeLevels": [
+    "phd"
+  ],
+  "isFeatured": false,
+  "slug": "sdsu-ucsd-electric-energy-systems-phd-2027",
+  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "deadlineText": null,
+  "publishedAt": "2026-09-08T21:59:15.296Z",
+  "verificationStatus": "unverified",
+  "seoDescription": "Fully Funded PhD in San Diego at San Diego State University: Apply via NextApply.",
+  "isRemote": false,
+  "ogImage": "https://nextapply.co.uk/sdsu-ucsd-electric-energy-systems-phd-2027/opengraph-image",
+  "tags": [
+    "San Diego State University",
+    "Electrical Engineering",
+    "Control Systems",
+    "Cybersecurity",
+    "Data Science",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Phd Position",
+    "Fully Funded",
+    "SDSU",
+    "UCSD",
+    "Electric Energy Systems"
+  ],
+  "opportunityType": "phd_position",
+  "isOpen": true,
+  "disciplines": [
+    "electrical_engineering",
+    "control_systems",
+    "cybersecurity",
+    "data_science",
+    "artificial_intelligence",
+    "machine_learning"
+  ],
+  "stipendCurrency": null,
+  "verificationScore": 95,
+  "deadlineType": "fixed",
+  "regionId": "north_america",
+  "sourceType": "official_university",
+  "stipendPeriod": null,
+  "organization": {
+    "website": "https://www.sdsu.edu",
+    "name": "San Diego State University",
+    "id": "san-diego-state-university",
+    "logoUrl": "https://www.pngfind.com/pngs/m/556-5565981_san-diego-state-university-logo-san-diego-state.png",
+    "slug": "san-diego-state-university"
+  },
+  "category": "phd_position",
+  "status": "published",
+  "id": "zwKTaQxIoNkixpT28rKs"
+}

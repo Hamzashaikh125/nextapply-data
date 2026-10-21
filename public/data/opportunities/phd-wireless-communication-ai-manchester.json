@@ -1,1 +1,74 @@
-{"addedDate":"2026-08-22T20:43:09.974Z","city":"Manchester","fundingCoverage":{"stipendProvided":true,"tuitionCovered":true},"description":"<h2>Basic Information</h2>\n<ul><li><strong>Full Project Title:</strong> PhD Studentship: Wireless Communication, Signal Processing, and AI</li><li><strong>Host Institution:</strong> The University of Manchester</li><li><strong>Department:</strong> Department of Electrical and Electronic Engineering</li><li><strong>Supervisor:</strong> Dr Kaitao Meng</li><li><strong>Study Level:</strong> PhD</li><li><strong>Duration:</strong> 3.5 years</li><li><strong>Start Date:</strong> January 2027</li><li><strong>Funding Type:</strong> Fully Funded</li><li><strong>Stipend:</strong> £21,805 per year (tax-free, UKRI rate for 2026/27)</li><li><strong>Tuition Fees:</strong> Covered for Home rate students</li><li><strong>Eligibility:</strong> UK Students only (Home fee status)</li><li><strong>Application Deadline:</strong> 2 September 2026</li><li><strong>Reference:</strong> jobs.ac.uk reference: DSL336</li></ul>\n<h2>Project Description</h2>\n<p>This fully funded PhD explores AI-native and sensing-aware wireless systems where communications and sensing are co-designed end-to-end. You will unify modern machine learning, statistical signal processing, or optimisation to turn heterogeneous knowledge (channel/network state, maps and topology, mobility, hardware constraints, and task-level KPIs) into reliable and efficient decisions. The work spans theory to lightweight on-hardware prototypes, with publications targeted at leading IEEE venues in communications and signal processing, and relevant AI venues.</p>\n<h2>Indicative Research Directions (choose one or combine):</h2>\n<ul><li>Network-level design and multi-node cooperation (coordination, topology design, distributed/federated learning, etc.)</li><li>Wireless resource allocation and scheduling under multi-objective KPIs (rate, latency, detection, localisation, etc.)</li><li>Reconfigurable/programmable radio environments and system/network-level antenna design</li><li>Theory with guarantees (convex/non-convex optimisation, performance analysis, machine learning, etc.)</li></ul>\n<h2>Requirements</h2>\n<ul><li>At least a Master's (or international equivalent) in a relevant science or engineering-related discipline</li><li>Strong programming ability in optimisation or machine learning (e.g., Python/Matlab/C++; PyTorch/TensorFlow)</li><li>Experience in signal processing/wireless or SDR/GPU prototyping is a plus</li><li>Demonstrated research potential is highly desirable (evidence may include peer-reviewed publications in top-tier journals and conferences)</li></ul>\n<h2>How to Apply</h2>\n<p>Contact the main supervisor, Dr Kaitao Meng (kaitao.meng@manchester.ac.uk). Please include details of your current level of study, academic background, any relevant experience, and a paragraph about your motivation to study this PhD project. Apply early as the advert will be removed once the position has been filled.</p>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>","eligibility":"uk_only","stipend":"£21,805 per year (tax-free, UKRI rate for 2026/27)","applyLink":"https://www.se.manchester.ac.uk/study/postgraduate-research/getting-started/applying/","seoTitle":"Fully Funded PhD Studentship: Wireless Communication, Signal Processing, and AI","title":"Fully Funded PhD Studentship: Wireless Communication, Signal Processing, and AI","fundingStatus":"fully_funded","ieltsRequired":true,"organizationId":"0OJsTOxyT9g3NXo9WtwQ","createdAt":"2026-08-22T20:43:09.974Z","stipendAmount":21805,"fundingType":"fully_funded","countryCode":"GB","intro":"This fully funded PhD explores AI-native and sensing-aware wireless systems where communications and sensing are co-designed end-to-end.","deadlineTimezone":"Europe/London","deadline":null,"degreeLevels":["phd"],"isFeatured":false,"slug":"phd-wireless-communication-ai-manchester","updatedAt":"2026-10-13T23:19:36.497Z","deadlineText":"2 September 2026","publishedAt":"2026-08-22T20:43:09.974Z","verificationStatus":"unverified","seoDescription":"This fully funded PhD explores AI-native and sensing-aware wireless systems where communications and sensing are co-designed end-to-end.","isRemote":false,"ogImage":"https://nextapply.co.uk/phd-wireless-communication-ai-manchester/opengraph-image","tags":["University of Manchester","Electrical Engineering","Artificial Intelligence","Data Science","Machine Learning","Phd Position","Fully Funded","Wireless Communication","Signal Processing","AI","Optimisation","IEEE"],"opportunityType":"phd_position","isOpen":true,"disciplines":["electrical_engineering","artificial_intelligence","data_science","machine_learning"],"stipendCurrency":"GBP","verificationScore":85,"deadlineType":"rolling","regionId":"europe","sourceType":"official_university","stipendPeriod":"year","organization":{"website":"https://www.manchester.ac.uk/","name":"University of Manchester","id":"0OJsTOxyT9g3NXo9WtwQ","logoUrl":"https://static.cdnlogo.com/logos/u/64/university-of-manchester_800.png","slug":"university-of-manchester"},"category":"phd_position","status":"published","id":"ihMC7kbMHb60ZY9tO8az"}
+{
+  "addedDate": "2026-08-22T20:43:09.974Z",
+  "city": "Manchester",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "description": "<h2>Basic Information</h2>\n<ul><li><strong>Full Project Title:</strong> PhD Studentship: Wireless Communication, Signal Processing, and AI</li><li><strong>Host Institution:</strong> The University of Manchester</li><li><strong>Department:</strong> Department of Electrical and Electronic Engineering</li><li><strong>Supervisor:</strong> Dr Kaitao Meng</li><li><strong>Study Level:</strong> PhD</li><li><strong>Duration:</strong> 3.5 years</li><li><strong>Start Date:</strong> January 2027</li><li><strong>Funding Type:</strong> Fully Funded</li><li><strong>Stipend:</strong> £21,805 per year (tax-free, UKRI rate for 2026/27)</li><li><strong>Tuition Fees:</strong> Covered for Home rate students</li><li><strong>Eligibility:</strong> UK Students only (Home fee status)</li><li><strong>Application Deadline:</strong> 2 September 2026</li><li><strong>Reference:</strong> jobs.ac.uk reference: DSL336</li></ul>\n<h2>Project Description</h2>\n<p>This fully funded PhD explores AI-native and sensing-aware wireless systems where communications and sensing are co-designed end-to-end. You will unify modern machine learning, statistical signal processing, or optimisation to turn heterogeneous knowledge (channel/network state, maps and topology, mobility, hardware constraints, and task-level KPIs) into reliable and efficient decisions. The work spans theory to lightweight on-hardware prototypes, with publications targeted at leading IEEE venues in communications and signal processing, and relevant AI venues.</p>\n<h2>Indicative Research Directions (choose one or combine):</h2>\n<ul><li>Network-level design and multi-node cooperation (coordination, topology design, distributed/federated learning, etc.)</li><li>Wireless resource allocation and scheduling under multi-objective KPIs (rate, latency, detection, localisation, etc.)</li><li>Reconfigurable/programmable radio environments and system/network-level antenna design</li><li>Theory with guarantees (convex/non-convex optimisation, performance analysis, machine learning, etc.)</li></ul>\n<h2>Requirements</h2>\n<ul><li>At least a Master's (or international equivalent) in a relevant science or engineering-related discipline</li><li>Strong programming ability in optimisation or machine learning (e.g., Python/Matlab/C++; PyTorch/TensorFlow)</li><li>Experience in signal processing/wireless or SDR/GPU prototyping is a plus</li><li>Demonstrated research potential is highly desirable (evidence may include peer-reviewed publications in top-tier journals and conferences)</li></ul>\n<h2>How to Apply</h2>\n<p>Contact the main supervisor, Dr Kaitao Meng (kaitao.meng@manchester.ac.uk). Please include details of your current level of study, academic background, any relevant experience, and a paragraph about your motivation to study this PhD project. Apply early as the advert will be removed once the position has been filled.</p>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
+  "eligibility": "uk_only",
+  "stipend": "£21,805 per year (tax-free, UKRI rate for 2026/27)",
+  "applyLink": "https://www.se.manchester.ac.uk/study/postgraduate-research/getting-started/applying/",
+  "seoTitle": "Fully Funded PhD in Electrical_Engineering – Manchester",
+  "title": "Fully Funded PhD Studentship: Wireless Communication, Signal Processing, and AI",
+  "fundingStatus": "fully_funded",
+  "ieltsRequired": true,
+  "organizationId": "0OJsTOxyT9g3NXo9WtwQ",
+  "createdAt": "2026-08-22T20:43:09.974Z",
+  "stipendAmount": 21805,
+  "fundingType": "fully_funded",
+  "countryCode": "GB",
+  "intro": "This fully funded PhD explores AI-native and sensing-aware wireless systems where communications and sensing are co-designed end-to-end.",
+  "deadlineTimezone": "Europe/London",
+  "deadline": null,
+  "degreeLevels": [
+    "phd"
+  ],
+  "isFeatured": false,
+  "slug": "phd-wireless-communication-ai-manchester",
+  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "deadlineText": "2 September 2026",
+  "publishedAt": "2026-08-22T20:43:09.974Z",
+  "verificationStatus": "unverified",
+  "seoDescription": "This fully funded PhD explores AI-native and sensing-aware wireless systems where communications and sensing are co-designed end-to-end.",
+  "isRemote": false,
+  "ogImage": "https://nextapply.co.uk/phd-wireless-communication-ai-manchester/opengraph-image",
+  "tags": [
+    "University of Manchester",
+    "Electrical Engineering",
+    "Artificial Intelligence",
+    "Data Science",
+    "Machine Learning",
+    "Phd Position",
+    "Fully Funded",
+    "Wireless Communication",
+    "Signal Processing",
+    "AI",
+    "Optimisation",
+    "IEEE"
+  ],
+  "opportunityType": "phd_position",
+  "isOpen": true,
+  "disciplines": [
+    "electrical_engineering",
+    "artificial_intelligence",
+    "data_science",
+    "machine_learning"
+  ],
+  "stipendCurrency": "GBP",
+  "verificationScore": 85,
+  "deadlineType": "rolling",
+  "regionId": "europe",
+  "sourceType": "official_university",
+  "stipendPeriod": "year",
+  "organization": {
+    "website": "https://www.manchester.ac.uk/",
+    "name": "University of Manchester",
+    "id": "0OJsTOxyT9g3NXo9WtwQ",
+    "logoUrl": "https://static.cdnlogo.com/logos/u/64/university-of-manchester_800.png",
+    "slug": "university-of-manchester"
+  },
+  "category": "phd_position",
+  "status": "published",
+  "id": "ihMC7kbMHb60ZY9tO8az"
+}

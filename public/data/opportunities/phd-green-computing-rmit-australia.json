@@ -1,1 +1,75 @@
-{"addedDate":"2026-08-22T20:43:32.779Z","city":"Melbourne","fundingCoverage":{"stipendProvided":true,"tuitionCovered":true},"description":"<h2>Basic Information</h2>\n<ul><li><strong>Host Institution:</strong> RMIT University, Australia</li><li><strong>Study Level:</strong> PhD</li><li><strong>Positions:</strong> 2</li><li><strong>Funding Type:</strong> Fully Funded</li><li><strong>Stipend:</strong> AUD $36,245/year</li><li><strong>Deadline:</strong> 30 December 2026</li><li><strong>Fields:</strong> Green Computing, Sustainable AI, energy-efficient AI, Green Software, edge/cloud computing, cybersecurity, 5G/6G</li><li><strong>Eligibility:</strong> Domestic and international students</li></ul>\n<h2>Project Overview &amp; Significance</h2>\n<p>RMIT University in Melbourne, Australia, is a global leader in technology and engineering research. It offers two fully funded PhD scholarships in Green Computing. As the digital revolution accelerates, the energy consumption of data centres, AI models, and cloud computing has become a critical environmental concern. This project addresses the urgent need to make computing more sustainable. 'Green Computing' encompasses the design, engineering, and deployment of computer systems that minimise environmental impact. The research focuses on developing energy-efficient AI algorithms, 'green' software engineering practices, and sustainable edge/cloud architectures. By tackling the carbon footprint of digital technologies, this research directly contributes to global net-zero emission targets. The fully funded nature of the scholarship, offering a highly competitive stipend, makes it an attractive proposition for top-tier international computer science talent.</p>\n<h2>Research Themes &amp; Objectives</h2>\n<p>The research themes are highly relevant to the future of technology. They include 'Sustainable AI' (reducing the energy required to train large language models), 'Green Software' (optimising code for energy efficiency), and the integration of renewable energy sources into edge computing networks. The objective is to develop new frameworks, algorithms, and tools that allow developers to build high-performance systems without compromising on sustainability. The project may also explore the intersection of green computing with cybersecurity and next-generation 5G/6G networks, ensuring that future digital infrastructure is both secure and green.</p>\n<h2>Training &amp; Development</h2>\n<p>PhD candidates at RMIT benefit from access to the university's  research facilities and its strong industry partnerships with leading tech companies. Training includes advanced computational techniques, academic publishing, and professional development. The research is often applied, offering students the chance to see their theoretical work implemented in real-world, industrial-scale systems. Graduates will be highly sought after by the global tech industry, which is increasingly prioritising sustainability.</p>\n<h2>Eligibility &amp; Requirements</h2>\n<p>Applicants must hold a first-class or upper second-class honours degree, or a Master's degree in computer science, software engineering, or a related discipline. Strong programming skills and a background in AI, cloud computing, or software engineering are essential. The scholarship is open to both domestic and international students.</p>\n<h2>How to Apply &amp; Official Contacts</h2>\n<p>Prospective candidates should prepare a CV, academic transcripts, and a brief research proposal aligning with the green computing theme. Applications should be submitted via the RMIT University application portal before the deadline. For informal enquiries, candidates can contact the School of Computing Technologies directly via the RMIT staff directory.</p>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>","eligibility":"worldwide","stipend":"AUD $36,245/year","applyLink":"https://www.rmit.edu.au/","seoTitle":"Fully Funded PhD Studentship: Green Computing - RMIT University","title":"Fully Funded PhD Studentship: Green Computing - RMIT University","fundingStatus":"fully_funded","ieltsRequired":true,"organizationId":"LL5br18zjklTnL3Osrxb","createdAt":"2026-08-22T20:43:32.779Z","stipendAmount":36245,"fundingType":"fully_funded","countryCode":"AU","intro":"RMIT University offers 2 fully funded PhD scholarships in Green Computing, focusing on sustainable AI and energy-efficient cloud computing.","deadlineTimezone":"Australia/Sydney","lastVerifiedAt":null,"deadline":"2026-12-30T12:59:59.999Z","degreeLevels":["phd"],"isFeatured":false,"slug":"phd-green-computing-rmit-australia","updatedAt":"2026-10-13T23:19:36.497Z","deadlineText":"30 December 2026","publishedAt":"2026-08-22T20:43:32.779Z","verificationStatus":"unverified","seoDescription":"RMIT University offers 2 fully funded PhD scholarships in Green Computing, focusing on sustainable AI and energy-efficient cloud computing.","isRemote":false,"ogImage":"https://nextapply.co.uk/phd-green-computing-rmit-australia/opengraph-image","tags":["RMIT University","Computer Science","Artificial Intelligence","Engineering","Cybersecurity","Phd Position","Fully Funded","Australia","Green Computing","Sustainable AI","Energy Efficient","Cloud Computing"],"opportunityType":"phd_position","isOpen":true,"disciplines":["computer_science","artificial_intelligence","engineering","cybersecurity"],"stipendCurrency":"AUD","verificationScore":95,"deadlineType":"fixed","regionId":"oceania","sourceType":"official_university","stipendPeriod":"year","organization":{"website":"https://www.rmit.edu.au","name":"RMIT University","id":"LL5br18zjklTnL3Osrxb","logoUrl":"https://images.seeklogo.com/logo-png/29/1/rmit-university-logo-png_seeklogo-298479.png","slug":"rmit-university"},"category":"phd_position","status":"published","id":"ihcMLfvpPIUqFMAxzw3N"}
+{
+  "addedDate": "2026-08-22T20:43:32.779Z",
+  "city": "Melbourne",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "description": "<h2>Basic Information</h2>\n<ul><li><strong>Host Institution:</strong> RMIT University, Australia</li><li><strong>Study Level:</strong> PhD</li><li><strong>Positions:</strong> 2</li><li><strong>Funding Type:</strong> Fully Funded</li><li><strong>Stipend:</strong> AUD $36,245/year</li><li><strong>Deadline:</strong> 30 December 2026</li><li><strong>Fields:</strong> Green Computing, Sustainable AI, energy-efficient AI, Green Software, edge/cloud computing, cybersecurity, 5G/6G</li><li><strong>Eligibility:</strong> Domestic and international students</li></ul>\n<h2>Project Overview &amp; Significance</h2>\n<p>RMIT University in Melbourne, Australia, is a global leader in technology and engineering research. It offers two fully funded PhD scholarships in Green Computing. As the digital revolution accelerates, the energy consumption of data centres, AI models, and cloud computing has become a critical environmental concern. This project addresses the urgent need to make computing more sustainable. 'Green Computing' encompasses the design, engineering, and deployment of computer systems that minimise environmental impact. The research focuses on developing energy-efficient AI algorithms, 'green' software engineering practices, and sustainable edge/cloud architectures. By tackling the carbon footprint of digital technologies, this research directly contributes to global net-zero emission targets. The fully funded nature of the scholarship, offering a highly competitive stipend, makes it an attractive proposition for top-tier international computer science talent.</p>\n<h2>Research Themes &amp; Objectives</h2>\n<p>The research themes are highly relevant to the future of technology. They include 'Sustainable AI' (reducing the energy required to train large language models), 'Green Software' (optimising code for energy efficiency), and the integration of renewable energy sources into edge computing networks. The objective is to develop new frameworks, algorithms, and tools that allow developers to build high-performance systems without compromising on sustainability. The project may also explore the intersection of green computing with cybersecurity and next-generation 5G/6G networks, ensuring that future digital infrastructure is both secure and green.</p>\n<h2>Training &amp; Development</h2>\n<p>PhD candidates at RMIT benefit from access to the university's  research facilities and its strong industry partnerships with leading tech companies. Training includes advanced computational techniques, academic publishing, and professional development. The research is often applied, offering students the chance to see their theoretical work implemented in real-world, industrial-scale systems. Graduates will be highly sought after by the global tech industry, which is increasingly prioritising sustainability.</p>\n<h2>Eligibility &amp; Requirements</h2>\n<p>Applicants must hold a first-class or upper second-class honours degree, or a Master's degree in computer science, software engineering, or a related discipline. Strong programming skills and a background in AI, cloud computing, or software engineering are essential. The scholarship is open to both domestic and international students.</p>\n<h2>How to Apply &amp; Official Contacts</h2>\n<p>Prospective candidates should prepare a CV, academic transcripts, and a brief research proposal aligning with the green computing theme. Applications should be submitted via the RMIT University application portal before the deadline. For informal enquiries, candidates can contact the School of Computing Technologies directly via the RMIT staff directory.</p>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+  "eligibility": "worldwide",
+  "stipend": "AUD $36,245/year",
+  "applyLink": "https://www.rmit.edu.au/",
+  "seoTitle": "Fully Funded PhD in Computer_Science – RMIT University",
+  "title": "Fully Funded PhD Studentship: Green Computing - RMIT University",
+  "fundingStatus": "fully_funded",
+  "ieltsRequired": true,
+  "organizationId": "LL5br18zjklTnL3Osrxb",
+  "createdAt": "2026-08-22T20:43:32.779Z",
+  "stipendAmount": 36245,
+  "fundingType": "fully_funded",
+  "countryCode": "AU",
+  "intro": "RMIT University offers 2 fully funded PhD scholarships in Green Computing, focusing on sustainable AI and energy-efficient cloud computing.",
+  "deadlineTimezone": "Australia/Sydney",
+  "lastVerifiedAt": null,
+  "deadline": "2026-12-30T12:59:59.999Z",
+  "degreeLevels": [
+    "phd"
+  ],
+  "isFeatured": false,
+  "slug": "phd-green-computing-rmit-australia",
+  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "deadlineText": "30 December 2026",
+  "publishedAt": "2026-08-22T20:43:32.779Z",
+  "verificationStatus": "unverified",
+  "seoDescription": "RMIT University offers 2 fully funded PhD scholarships in Green Computing, focusing on sustainable AI and energy-efficient cloud computing.",
+  "isRemote": false,
+  "ogImage": "https://nextapply.co.uk/phd-green-computing-rmit-australia/opengraph-image",
+  "tags": [
+    "RMIT University",
+    "Computer Science",
+    "Artificial Intelligence",
+    "Engineering",
+    "Cybersecurity",
+    "Phd Position",
+    "Fully Funded",
+    "Australia",
+    "Green Computing",
+    "Sustainable AI",
+    "Energy Efficient",
+    "Cloud Computing"
+  ],
+  "opportunityType": "phd_position",
+  "isOpen": true,
+  "disciplines": [
+    "computer_science",
+    "artificial_intelligence",
+    "engineering",
+    "cybersecurity"
+  ],
+  "stipendCurrency": "AUD",
+  "verificationScore": 95,
+  "deadlineType": "fixed",
+  "regionId": "oceania",
+  "sourceType": "official_university",
+  "stipendPeriod": "year",
+  "organization": {
+    "website": "https://www.rmit.edu.au",
+    "name": "RMIT University",
+    "id": "LL5br18zjklTnL3Osrxb",
+    "logoUrl": "https://images.seeklogo.com/logo-png/29/1/rmit-university-logo-png_seeklogo-298479.png",
+    "slug": "rmit-university"
+  },
+  "category": "phd_position",
+  "status": "published",
+  "id": "ihcMLfvpPIUqFMAxzw3N"
+}

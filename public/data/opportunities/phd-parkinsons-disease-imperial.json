@@ -1,1 +1,72 @@
-{"addedDate":"2026-08-22T20:43:25.625Z","city":"London","fundingCoverage":{"stipendProvided":true,"tuitionCovered":true},"description":"<h2>Basic Information</h2>\n<ul><li><strong>Full Title:</strong> Edmond &amp; Lily Safra PhD Studentship in Parkinson's Disease</li><li><strong>Host Institution:</strong> Imperial College London</li><li><strong>Department:</strong> Brain Sciences / UK DRI at Imperial</li><li><strong>Supervisors:</strong> Dr Cynthia Sandor, Dr Katarzyna Zoltowska</li><li><strong>Study Level:</strong> PhD</li><li><strong>Duration:</strong> 3 years (+ up to 6 months writing-up)</li><li><strong>Start Date:</strong> 2026/27</li><li><strong>Funding Type:</strong> Fully Funded</li><li><strong>Stipend:</strong> £23,805 per year (tax-free)</li><li><strong>Tuition Fees:</strong> Home fees covered</li><li><strong>Eligibility:</strong> Home fee status</li><li><strong>Application Deadline:</strong> 15 October 2026</li></ul>\n<h2>How to Apply</h2>\n<p>Email CV, brief statement of research interests &amp; motivation, and contact details for two academic referees to Dr Cynthia Sandor (c.sandor@imperial.ac.uk) or Dr Katarzyna Zoltowska (zoltowska@imperial.ac.uk).</p>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>","eligibility":"uk_only","stipend":"£23,805 per year (tax-free)","applyLink":"https://www.ukdri.ac.uk/vacancies/phd-program-edmond-and-lily-safra-phd-studentship-parkinsons-disease","seoTitle":"Fully Funded PhD Studentship: Edmond & Lily Safra PhD Studentship in Parkinson's Disease","title":"Fully Funded PhD Studentship: Edmond & Lily Safra PhD Studentship in Parkinson's Disease","fundingStatus":"fully_funded","ieltsRequired":true,"organizationId":"Hjv9m6PF46euuLT0knnL","createdAt":"2026-08-22T20:43:25.625Z","stipendAmount":23805,"fundingType":"fully_funded","countryCode":"GB","intro":"A fully funded PhD studentship in Parkinson's Disease at the UK DRI at Imperial.","deadlineTimezone":"Europe/London","deadline":"2026-10-30T23:59:59.999Z","degreeLevels":["phd"],"isFeatured":false,"slug":"phd-parkinsons-disease-imperial","updatedAt":"2026-10-13T23:19:36.497Z","deadlineText":"30 October 2026 (time not specified)","publishedAt":"2026-08-22T20:43:25.625Z","verificationStatus":"unverified","seoDescription":"A fully funded PhD studentship in Parkinson's Disease at the UK DRI at Imperial. Funded award or position; review the stated coverage.","isRemote":false,"ogImage":"https://nextapply.co.uk/phd-parkinsons-disease-imperial/opengraph-image","tags":["Imperial College London","Neuroscience","Medicine","Phd Position","Fully Funded","Parkinson's Disease","Brain Sciences","UK DRI","UK"],"opportunityType":"phd_position","isOpen":true,"disciplines":["neuroscience","medicine"],"stipendCurrency":"GBP","verificationScore":null,"deadlineType":"fixed","regionId":"europe","sourceType":"official_university","stipendPeriod":"year","organization":{"website":"https://www.imperial.ac.uk/","name":"Imperial College London","id":"Hjv9m6PF46euuLT0knnL","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/0/06/Imperial_College_London_new_logo.png","slug":"imperial-college-london"},"category":"phd_position","status":"published","id":"YxeQR6gdvmZL13i2IPkS"}
+{
+  "addedDate": "2026-08-22T20:43:25.625Z",
+  "city": "London",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "description": "<h2>Basic Information</h2>\n<ul><li><strong>Full Title:</strong> Edmond &amp; Lily Safra PhD Studentship in Parkinson's Disease</li><li><strong>Host Institution:</strong> Imperial College London</li><li><strong>Department:</strong> Brain Sciences / UK DRI at Imperial</li><li><strong>Supervisors:</strong> Dr Cynthia Sandor, Dr Katarzyna Zoltowska</li><li><strong>Study Level:</strong> PhD</li><li><strong>Duration:</strong> 3 years (+ up to 6 months writing-up)</li><li><strong>Start Date:</strong> 2026/27</li><li><strong>Funding Type:</strong> Fully Funded</li><li><strong>Stipend:</strong> £23,805 per year (tax-free)</li><li><strong>Tuition Fees:</strong> Home fees covered</li><li><strong>Eligibility:</strong> Home fee status</li><li><strong>Application Deadline:</strong> 15 October 2026</li></ul>\n<h2>How to Apply</h2>\n<p>Email CV, brief statement of research interests &amp; motivation, and contact details for two academic referees to Dr Cynthia Sandor (c.sandor@imperial.ac.uk) or Dr Katarzyna Zoltowska (zoltowska@imperial.ac.uk).</p>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
+  "eligibility": "uk_only",
+  "stipend": "£23,805 per year (tax-free)",
+  "applyLink": "https://www.ukdri.ac.uk/vacancies/phd-program-edmond-and-lily-safra-phd-studentship-parkinsons-disease",
+  "seoTitle": "Fully Funded PhD in Neuroscience – Imperial College London",
+  "title": "Fully Funded PhD Studentship: Edmond & Lily Safra PhD Studentship in Parkinson's Disease",
+  "fundingStatus": "fully_funded",
+  "ieltsRequired": true,
+  "organizationId": "Hjv9m6PF46euuLT0knnL",
+  "createdAt": "2026-08-22T20:43:25.625Z",
+  "stipendAmount": 23805,
+  "fundingType": "fully_funded",
+  "countryCode": "GB",
+  "intro": "A fully funded PhD studentship in Parkinson's Disease at the UK DRI at Imperial. Hosted by Imperial College London in London. Apply by 30 October 2026 (time not specified).",
+  "deadlineTimezone": "Europe/London",
+  "deadline": "2026-10-30T23:59:59.999Z",
+  "degreeLevels": [
+    "phd"
+  ],
+  "isFeatured": false,
+  "slug": "phd-parkinsons-disease-imperial",
+  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "deadlineText": "30 October 2026 (time not specified)",
+  "publishedAt": "2026-08-22T20:43:25.625Z",
+  "verificationStatus": "unverified",
+  "seoDescription": "Fully Funded PhD in London at Imperial College London: £23,805/yr stipend. Deadline: 30 October 2026 (time not specified). Apply via NextApply.",
+  "isRemote": false,
+  "ogImage": "https://nextapply.co.uk/phd-parkinsons-disease-imperial/opengraph-image",
+  "tags": [
+    "Imperial College London",
+    "Neuroscience",
+    "Medicine",
+    "Phd Position",
+    "Fully Funded",
+    "Parkinson's Disease",
+    "Brain Sciences",
+    "UK DRI",
+    "UK",
+    "London",
+    "United Kingdom",
+    "PhD"
+  ],
+  "opportunityType": "phd_position",
+  "isOpen": true,
+  "disciplines": [
+    "neuroscience",
+    "medicine"
+  ],
+  "stipendCurrency": "GBP",
+  "verificationScore": null,
+  "deadlineType": "fixed",
+  "regionId": "europe",
+  "sourceType": "official_university",
+  "stipendPeriod": "year",
+  "organization": {
+    "website": "https://www.imperial.ac.uk/",
+    "name": "Imperial College London",
+    "id": "Hjv9m6PF46euuLT0knnL",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Imperial_College_London_new_logo.png",
+    "slug": "imperial-college-london"
+  },
+  "category": "phd_position",
+  "status": "published",
+  "id": "YxeQR6gdvmZL13i2IPkS"
+}

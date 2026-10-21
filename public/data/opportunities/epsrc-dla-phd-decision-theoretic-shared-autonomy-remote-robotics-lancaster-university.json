@@ -1,1 +1,76 @@
-{"addedDate":"2026-09-14T00:38:42.564Z","clickCount":0,"city":"Lancaster","fundingCoverage":{"stipendProvided":true,"tuitionCovered":true},"description":"<h2>Project Overview</h2>\n<p>Applications are invited for a fully funded PhD studentship in the School of Engineering, Lancaster University, hosted by the Data Science and AI Institute (DSAIL) and funded by an EPSRC Doctoral Landscape Award. The project will develop a decision-theoretic shared-autonomy framework for safety-critical remote robotics, enabling robotic systems to adapt the allocation of authority between human operators and autonomous agents under uncertain communication conditions.</p>\n<h2>Project Details</h2>\n<p>Remote robotic systems are increasingly used in safety-critical environments such as nuclear decommissioning, infrastructure inspection, offshore energy and hazardous industrial operations. Real deployments often involve degraded communication, including latency, packet loss and bandwidth fluctuation, as well as changing operator states. This PhD will develop a new framework for communication-aware shared-autonomy allocation. The project will combine AI, probabilistic modelling, robotic control and human-robot interaction, with validation through simulation, digital twins and embodied robotic experiments.</p>\n<h2>Supervisory Team</h2>\n<ul><li>Dr Ziwei Wang (Engineering / DSAIL, Lancaster University)</li><li>Professor Qiang Ni (School of Computing and Communications / DSAIL, Lancaster University)</li></ul>\n<h2>Funding</h2>\n<ul><li>3.5-year full-time studentship covers UK Home tuition fees, a tax-free stipend at the UKRI minimum rate for 2026/27 (£22,780 p.a.), and a Research Training Support Grant (RTSG) of £1,000 per year.</li><li>The studentship is primarily available to home applicants. Exceptional international applicants may be considered subject to eligibility, institutional approval, and confirmation of how any fee difference would be covered.</li></ul>\n<h2>Eligibility</h2>\n<ul><li>Applicants should hold, or expect to obtain, at least an upper-second-class honours degree, and ideally a Master's, in Engineering, Computer Science, Robotics, Artificial Intelligence, Control, Communications, Data Science or a closely related quantitative discipline.</li><li>Strong programming skills in Python, MATLAB, C++ or similar are expected.</li><li>Experience or strong interest in robotics, machine learning, probabilistic modelling, human-robot interaction, control systems, communication networks, ROS/ROS2, robotic simulation or safety-critical systems would be advantageous.</li></ul>\n<h2>Application Process</h2>\n<p>Apply through the official Lancaster University application process. Include:</p>\n<ul><li>An academic CV with names and contact details of two referees.</li><li>A two-page personal statement/cover letter.</li><li>Academic transcripts.</li><li>Evidence of technical work (code portfolio, GitHub repository, project, dissertation, or publication).</li><li>For the LU application, you may upload a copy of this advertisement in place of a Research Proposal.</li></ul>\n<h2>Dates</h2>\n<ul><li>Application deadline: TBC.</li><li>Studentship start date: 1 October 2026.</li></ul>\n<h2>Contact</h2>\n<p>Dr Ziwei Wang (z.wang82@lancaster.ac.uk) for informal enquiries.</p>\n<h2>Official Link</h2>\n<p>https://www.lancaster.ac.uk/scc/study/phd/phd-opportunities/</p>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>","eligibility":"uk_only","stipend":"£22,780 per year stipend plus UK home fees and £1,000 RTSG.","applyLink":"https://www.lancaster.ac.uk/scc/study/phd/phd-opportunities/","seoTitle":"EPSRC DLA PhD: Decision-Theoretic Shared-Autonomy for Remote Robotics at Lancaster University","title":"EPSRC DLA PhD: Decision-Theoretic Shared-Autonomy for Remote Robotics at Lancaster University","fundingStatus":"fully_funded","ieltsRequired":true,"organizationId":"i2On7Ep6Y7Ho2bqoQJHZ","createdAt":"2026-09-14T00:38:42.564Z","stipendAmount":22780,"fundingType":"fully_funded","countryCode":"GB","intro":"3.5-year fully funded PhD developing shared-autonomy framework for safety-critical remote robotics. UK home students. £22,780 stipend.","deadlineTimezone":"Europe/London","deadline":null,"degreeLevels":["phd"],"isFeatured":false,"slug":"epsrc-dla-phd-decision-theoretic-shared-autonomy-remote-robotics-lancaster-university","updatedAt":"2026-10-13T23:19:36.497Z","deadlineText":"Open - Rolling until filled","verificationStatus":"verified","seoDescription":"3.5-year fully funded PhD developing shared-autonomy framework for safety-critical remote robotics. Funded award or position; review the stated coverage.","isRemote":false,"ogImage":"https://nextapply.co.uk/epsrc-dla-phd-decision-theoretic-shared-autonomy-remote-robotics-lancaster-university/opengraph-image","tags":["Lancaster University","Robotics","Artificial Intelligence","Engineering","Computer Science","Control Systems","Phd Position","Fully Funded","Shared Autonomy","AI","UK Home Students","DSAIL"],"opportunityType":"phd_position","isOpen":true,"disciplines":["robotics","artificial_intelligence","engineering","computer_science","control_systems"],"stipendCurrency":"GBP","verificationScore":100,"deadlineType":"rolling","regionId":"europe","sourceType":"official_university","stipendPeriod":"year","organization":{"website":"https://www.lancaster.ac.uk/","name":"Lancaster University","id":"i2On7Ep6Y7Ho2bqoQJHZ","logoUrl":"https://www.lancaster.ac.uk/media/lancaster-university/content-assets/images/lancaster-international-lecture-series/LU---Logo---Positive-%28CMYK%29.png","slug":"lancaster-university"},"category":"phd_position","status":"published","publishedAt":"2026-09-14T00:38:42.564Z","id":"KAJolXbchg1pyMAcYW5e"}
+{
+  "addedDate": "2026-09-14T00:38:42.564Z",
+  "clickCount": 0,
+  "city": "Lancaster",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">EPSRC DLA PhD: Decision-Theoretic Shared-Autonomy for Remote Robotics at Lancaster University</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Lancaster University</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Lancaster, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded, stipend provided, tuition covered</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">£22,780 per year stipend plus UK home fees and £1,000 RTSG.</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Open - Rolling until filled</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.lancaster.ac.uk/scc/study/phd/phd-opportunities/\">Official application page ↗</a></td></tr></tbody></table><h2>Project Overview</h2>\n<p>Applications are invited for a fully funded PhD studentship in the School of Engineering, Lancaster University, hosted by the Data Science and AI Institute (DSAIL) and funded by an EPSRC Doctoral Landscape Award. The project will develop a decision-theoretic shared-autonomy framework for safety-critical remote robotics, enabling robotic systems to adapt the allocation of authority between human operators and autonomous agents under uncertain communication conditions.</p>\n<h2>Project Details</h2>\n<p>Remote robotic systems are increasingly used in safety-critical environments such as nuclear decommissioning, infrastructure inspection, offshore energy and hazardous industrial operations. Real deployments often involve degraded communication, including latency, packet loss and bandwidth fluctuation, as well as changing operator states. This PhD will develop a new framework for communication-aware shared-autonomy allocation. The project will combine AI, probabilistic modelling, robotic control and human-robot interaction, with validation through simulation, digital twins and embodied robotic experiments.</p>\n<h2>Supervisory Team</h2>\n<ul><li>Dr Ziwei Wang (Engineering / DSAIL, Lancaster University)</li><li>Professor Qiang Ni (School of Computing and Communications / DSAIL, Lancaster University)</li></ul>\n<h2>Funding</h2>\n<ul><li>3.5-year full-time studentship covers UK Home tuition fees, a tax-free stipend at the UKRI minimum rate for 2026/27 (£22,780 p.a.), and a Research Training Support Grant (RTSG) of £1,000 per year.</li><li>The studentship is primarily available to home applicants. Exceptional international applicants may be considered subject to eligibility, institutional approval, and confirmation of how any fee difference would be covered.</li></ul>\n<h2>Eligibility</h2>\n<ul><li>Applicants should hold, or expect to obtain, at least an upper-second-class honours degree, and ideally a Master's, in Engineering, Computer Science, Robotics, Artificial Intelligence, Control, Communications, Data Science or a closely related quantitative discipline.</li><li>Strong programming skills in Python, MATLAB, C++ or similar are expected.</li><li>Experience or strong interest in robotics, machine learning, probabilistic modelling, human-robot interaction, control systems, communication networks, ROS/ROS2, robotic simulation or safety-critical systems would be advantageous.</li></ul>\n<h2>Application Process</h2>\n<p>Apply through the official Lancaster University application process. Include:</p>\n<ul><li>An academic CV with names and contact details of two referees.</li><li>A two-page personal statement/cover letter.</li><li>Academic transcripts.</li><li>Evidence of technical work (code portfolio, GitHub repository, project, dissertation, or publication).</li><li>For the LU application, you may upload a copy of this advertisement in place of a Research Proposal.</li></ul>\n<h2>Dates</h2>\n<ul><li>Application deadline: TBC.</li><li>Studentship start date: 1 October 2026.</li></ul>\n<h2>Contact</h2>\n<p>Dr Ziwei Wang (z.wang82@lancaster.ac.uk) for informal enquiries.</p>\n<h2>Official Link</h2>\n<p>https://www.lancaster.ac.uk/scc/study/phd/phd-opportunities/</p>\n<h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: Open - Rolling until filled. Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://www.lancaster.ac.uk/scc/study/phd/phd-opportunities/\">Open the official application page ↗</a></p><h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
+  "eligibility": "uk_only",
+  "stipend": "£22,780 per year stipend plus UK home fees and £1,000 RTSG.",
+  "applyLink": "https://www.lancaster.ac.uk/scc/study/phd/phd-opportunities/",
+  "seoTitle": "Fully Funded PhD in Robotics – Lancaster University",
+  "title": "EPSRC DLA PhD: Decision-Theoretic Shared-Autonomy for Remote Robotics at Lancaster University",
+  "fundingStatus": "fully_funded",
+  "ieltsRequired": true,
+  "organizationId": "i2On7Ep6Y7Ho2bqoQJHZ",
+  "createdAt": "2026-09-14T00:38:42.564Z",
+  "stipendAmount": 22780,
+  "fundingType": "fully_funded",
+  "countryCode": "GB",
+  "intro": "3.5-year fully funded PhD developing shared-autonomy framework for safety-critical remote robotics. UK home students. £22,780 stipend.",
+  "deadlineTimezone": "Europe/London",
+  "deadline": null,
+  "degreeLevels": [
+    "phd"
+  ],
+  "isFeatured": false,
+  "slug": "epsrc-dla-phd-decision-theoretic-shared-autonomy-remote-robotics-lancaster-university",
+  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "deadlineText": "Open - Rolling until filled",
+  "verificationStatus": "verified",
+  "seoDescription": "Fully Funded PhD in Lancaster at Lancaster University: £22,780/yr stipend. Deadline: Open - Rolling until filled. Apply via NextApply.",
+  "isRemote": false,
+  "ogImage": "https://nextapply.co.uk/epsrc-dla-phd-decision-theoretic-shared-autonomy-remote-robotics-lancaster-university/opengraph-image",
+  "tags": [
+    "Lancaster University",
+    "Robotics",
+    "Artificial Intelligence",
+    "Engineering",
+    "Computer Science",
+    "Control Systems",
+    "Phd Position",
+    "Fully Funded",
+    "Shared Autonomy",
+    "AI",
+    "UK Home Students",
+    "DSAIL"
+  ],
+  "opportunityType": "phd_position",
+  "isOpen": true,
+  "disciplines": [
+    "robotics",
+    "artificial_intelligence",
+    "engineering",
+    "computer_science",
+    "control_systems"
+  ],
+  "stipendCurrency": "GBP",
+  "verificationScore": 100,
+  "deadlineType": "rolling",
+  "regionId": "europe",
+  "sourceType": "official_university",
+  "stipendPeriod": "year",
+  "organization": {
+    "website": "https://www.lancaster.ac.uk/",
+    "name": "Lancaster University",
+    "id": "i2On7Ep6Y7Ho2bqoQJHZ",
+    "logoUrl": "https://www.lancaster.ac.uk/media/lancaster-university/content-assets/images/lancaster-international-lecture-series/LU---Logo---Positive-%28CMYK%29.png",
+    "slug": "lancaster-university"
+  },
+  "category": "phd_position",
+  "status": "published",
+  "publishedAt": "2026-09-14T00:38:42.564Z",
+  "id": "KAJolXbchg1pyMAcYW5e"
+}

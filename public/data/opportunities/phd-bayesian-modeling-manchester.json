@@ -1,1 +1,72 @@
-{"addedDate":"2026-08-22T20:43:25.110Z","city":"Manchester","fundingCoverage":{"stipendProvided":true,"tuitionCovered":true},"description":"<h2>Deadline to confirm</h2><p>The imported record contains conflicting closing dates. Confirm the current deadline and availability directly with the university before applying; this listing does not establish a submission time.</p><h2>Basic Information</h2>\n<ul><li>Full Project Title: PhD Studentship: Bayesian Modeling of High-dimensional Structural Data</li><li>Host Institution: The University of Manchester</li><li>Department: Department of Mathematics</li><li>Supervisor: Dr Nilabja Guha</li><li>Study Level: PhD</li><li>Duration: 3.5 years</li><li>Start Date: October 2026</li><li>Funding Type: Fully Funded</li><li>Stipend: £21,805 per year (tax-free, UKRI rate for 2026/27)</li><li>Tuition Fees: Covered</li><li>Eligibility: Home students (UK) only</li><li>Application Deadline: 28 October 2026 (all year round)</li></ul>\n<h2>Project Description</h2>\n<p>In many applications such as biological sciences, social science, and engineering, we encounter high-dimensional observations. Bayesian approach can provide a flexible modeling framework for underlying structures in high dimension such as underlying covariance structure, conditional dependency graphs etc. With the change in data-generating mechanism, these high-dimensional structures may change with time, where the change can depend on latent factors or variables. These projects will focus on developing a comprehensive Bayesian learning framework for this broad class of problems while focusing on specific applications. The goal would be to develop computationally efficient and scalable Bayesian learning methodologies with practical applications and establish relevant theoretical properties.</p>\n<h2>Requirements</h2>\n<ul><li>At least a 2.1 honours degree or a Master's (or international equivalent) in a relevant science or engineering-related discipline</li></ul>\n<h2>How to Apply</h2>\n<p>Contact Dr Nilabja Guha (nilabja.guha@manchester.ac.uk). Please include details of your current level of study, academic background, any relevant experience, and a paragraph about your motivation to study this PhD project. Apply early as the advert may be removed before the deadline.</p>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>","eligibility":"uk_only","stipend":"£21,805 per year (tax-free, UKRI rate for 2026/27)","applyLink":"https://www.se.manchester.ac.uk/study/postgraduate-research/getting-started/applying/","seoTitle":"Fully Funded PhD Studentship: Bayesian Modeling of High-Dimensional Structural Data","title":"Fully Funded PhD Studentship: Bayesian Modeling of High-Dimensional Structural Data","fundingStatus":"fully_funded","ieltsRequired":true,"organizationId":"0OJsTOxyT9g3NXo9WtwQ","createdAt":"2026-08-22T20:43:25.110Z","stipendAmount":21805,"fundingType":"fully_funded","countryCode":"GB","intro":"This project focuses on developing a comprehensive Bayesian learning framework for high-dimensional structural data with practical applications.","deadlineTimezone":"Europe/London","deadline":null,"degreeLevels":["phd"],"isFeatured":false,"slug":"phd-bayesian-modeling-manchester","updatedAt":"2026-10-13T23:19:36.497Z","deadlineText":"Deadline not confirmed: imported dates conflict (28 October and 31 December 2026). Confirm with Manchester before applying.","publishedAt":"2026-08-22T20:43:25.110Z","verificationStatus":"unverified","seoDescription":"This project focuses on developing a comprehensive Bayesian learning framework for high-dimensional structural data with practical applications.","isRemote":false,"ogImage":"https://nextapply.co.uk/phd-bayesian-modeling-manchester/opengraph-image","tags":["University of Manchester","Mathematics","Data Science","Phd Position","Fully Funded","Bayesian Modeling","High-Dimensional Data","Statistics","UK"],"opportunityType":"phd_position","isOpen":true,"disciplines":["mathematics","data_science"],"stipendCurrency":"GBP","verificationScore":100,"deadlineType":"custom","regionId":"europe","sourceType":"official_university","stipendPeriod":"year","organization":{"website":"https://www.manchester.ac.uk/","name":"University of Manchester","id":"0OJsTOxyT9g3NXo9WtwQ","logoUrl":"https://static.cdnlogo.com/logos/u/64/university-of-manchester_800.png","slug":"university-of-manchester"},"category":"phd_position","status":"published","id":"1JYqR9QwTMrXpAPoDeey"}
+{
+  "addedDate": "2026-08-22T20:43:25.110Z",
+  "city": "Manchester",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded PhD Studentship: Bayesian Modeling of High-Dimensional Structural Data</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">University of Manchester</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Manchester, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded, stipend provided, tuition covered</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">£21,805 per year (tax-free, UKRI rate for 2026/27)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Deadline not confirmed: imported dates conflict (28 October and 31 December 2026). Confirm with Manchester before applying.</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.se.manchester.ac.uk/study/postgraduate-research/getting-started/applying/\">Official application page ↗</a></td></tr></tbody></table><h2>Deadline to confirm</h2><p>The imported record contains conflicting closing dates. Confirm the current deadline and availability directly with the university before applying; this listing does not establish a submission time.</p><h2>Basic Information</h2>\n<ul><li>Full Project Title: PhD Studentship: Bayesian Modeling of High-dimensional Structural Data</li><li>Host Institution: The University of Manchester</li><li>Department: Department of Mathematics</li><li>Supervisor: Dr Nilabja Guha</li><li>Study Level: PhD</li><li>Duration: 3.5 years</li><li>Start Date: October 2026</li><li>Funding Type: Fully Funded</li><li>Stipend: £21,805 per year (tax-free, UKRI rate for 2026/27)</li><li>Tuition Fees: Covered</li><li>Eligibility: Home students (UK) only</li><li>Application Deadline: 28 October 2026 (all year round)</li></ul>\n<h2>Project Description</h2>\n<p>In many applications such as biological sciences, social science, and engineering, we encounter high-dimensional observations. Bayesian approach can provide a flexible modeling framework for underlying structures in high dimension such as underlying covariance structure, conditional dependency graphs etc. With the change in data-generating mechanism, these high-dimensional structures may change with time, where the change can depend on latent factors or variables. These projects will focus on developing a comprehensive Bayesian learning framework for this broad class of problems while focusing on specific applications. The goal would be to develop computationally efficient and scalable Bayesian learning methodologies with practical applications and establish relevant theoretical properties.</p>\n<h2>Requirements</h2>\n<ul><li>At least a 2.1 honours degree or a Master's (or international equivalent) in a relevant science or engineering-related discipline</li></ul>\n<h2>How to Apply</h2>\n<p>Contact Dr Nilabja Guha (nilabja.guha@manchester.ac.uk). Please include details of your current level of study, academic background, any relevant experience, and a paragraph about your motivation to study this PhD project. Apply early as the advert may be removed before the deadline.</p>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
+  "eligibility": "uk_only",
+  "stipend": "£21,805 per year (tax-free, UKRI rate for 2026/27)",
+  "applyLink": "https://www.se.manchester.ac.uk/study/postgraduate-research/getting-started/applying/",
+  "seoTitle": "Fully Funded PhD in Mathematics – Manchester",
+  "title": "Fully Funded PhD Studentship: Bayesian Modeling of High-Dimensional Structural Data",
+  "fundingStatus": "fully_funded",
+  "ieltsRequired": true,
+  "organizationId": "0OJsTOxyT9g3NXo9WtwQ",
+  "createdAt": "2026-08-22T20:43:25.110Z",
+  "stipendAmount": 21805,
+  "fundingType": "fully_funded",
+  "countryCode": "GB",
+  "intro": "This project focuses on developing a comprehensive Bayesian learning framework for high-dimensional structural data with practical applications.",
+  "deadlineTimezone": "Europe/London",
+  "deadline": null,
+  "degreeLevels": [
+    "phd"
+  ],
+  "isFeatured": false,
+  "slug": "phd-bayesian-modeling-manchester",
+  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "deadlineText": "Deadline not confirmed: imported dates conflict (28 October and 31 December 2026). Confirm with Manchester before applying.",
+  "publishedAt": "2026-08-22T20:43:25.110Z",
+  "verificationStatus": "unverified",
+  "seoDescription": "This project focuses on developing a comprehensive Bayesian learning framework for high-dimensional structural data with practical applications.",
+  "isRemote": false,
+  "ogImage": "https://nextapply.co.uk/phd-bayesian-modeling-manchester/opengraph-image",
+  "tags": [
+    "University of Manchester",
+    "Mathematics",
+    "Data Science",
+    "Phd Position",
+    "Fully Funded",
+    "Bayesian Modeling",
+    "High-Dimensional Data",
+    "Statistics",
+    "UK",
+    "Manchester",
+    "United Kingdom",
+    "PhD"
+  ],
+  "opportunityType": "phd_position",
+  "isOpen": true,
+  "disciplines": [
+    "mathematics",
+    "data_science"
+  ],
+  "stipendCurrency": "GBP",
+  "verificationScore": 100,
+  "deadlineType": "custom",
+  "regionId": "europe",
+  "sourceType": "official_university",
+  "stipendPeriod": "year",
+  "organization": {
+    "website": "https://www.manchester.ac.uk/",
+    "name": "University of Manchester",
+    "id": "0OJsTOxyT9g3NXo9WtwQ",
+    "logoUrl": "https://static.cdnlogo.com/logos/u/64/university-of-manchester_800.png",
+    "slug": "university-of-manchester"
+  },
+  "category": "phd_position",
+  "status": "published",
+  "id": "1JYqR9QwTMrXpAPoDeey"
+}

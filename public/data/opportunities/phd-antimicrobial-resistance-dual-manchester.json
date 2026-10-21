@@ -1,1 +1,73 @@
-{"addedDate":"2026-08-22T20:43:24.551Z","city":"Manchester","fundingCoverage":{"stipendProvided":true,"tuitionCovered":true},"description":"<h2>Basic Information</h2>\n<ul><li><strong>Full Project Title:</strong> Investigating the selective pressure for antimicrobial resistance under environmental factors</li><li><strong>Host Institution:</strong> The University of Manchester &amp; Peking University</li><li><strong>Study Level:</strong> PhD (Dual Award)</li><li><strong>Duration:</strong> 4 years (across Manchester and Beijing)</li><li><strong>Start Date:</strong> January 2027</li><li><strong>Funding Type:</strong> Fully Funded</li><li><strong>Eligibility:</strong> Check with supervisor</li></ul>\n<h2>Project Description</h2>\n<p>This interdisciplinary PhD project will investigate how environmental factors influence the evolution of antimicrobial resistance. At the University of Manchester, selected targets will be investigated experimentally using molecular biology, biochemical assays, and structural biology techniques.</p>\n<h2>How to Apply</h2>\n<p>Contact Dr Yi Jin: yi.jin@manchester.ac.uk</p>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>","eligibility":"worldwide","stipend":"Fully Funded","applyLink":"https://sites.manchester.ac.uk/amr-network/","seoTitle":"Fully Funded PhD Studentship: Environmental Controls on Antimicrobial Resistance (Dual-Degree)","title":"Fully Funded PhD Studentship: Environmental Controls on Antimicrobial Resistance (Dual-Degree)","fundingStatus":"fully_funded","ieltsRequired":true,"organizationId":"0OJsTOxyT9g3NXo9WtwQ","createdAt":"2026-08-22T20:43:24.551Z","stipendAmount":null,"fundingType":"fully_funded","countryCode":"GB","intro":"This dual-award PhD project will investigate how environmental factors influence the evolution of antimicrobial resistance across Manchester and Peking University.","deadlineTimezone":"Europe/London","deadline":null,"degreeLevels":["phd"],"isFeatured":false,"slug":"phd-antimicrobial-resistance-dual-manchester","updatedAt":"2026-10-13T23:19:36.497Z","deadlineText":"Rolling","publishedAt":"2026-08-22T20:43:24.551Z","verificationStatus":"unverified","seoDescription":"This dual-award PhD project will investigate how environmental factors influence the evolution of antimicrobial resistance across Manchester and Peking University.","isRemote":false,"ogImage":"https://nextapply.co.uk/phd-antimicrobial-resistance-dual-manchester/opengraph-image","tags":["University of Manchester","Microbiology","Biology","Environmental Science","Phd Position","Fully Funded","Antimicrobial Resistance","AMR","Environmental Factors","Dual Degree","Peking University","Molecular Biology"],"opportunityType":"phd_position","isOpen":true,"disciplines":["microbiology","biology","environmental_science"],"stipendCurrency":null,"verificationScore":85,"deadlineType":"rolling","regionId":"europe","sourceType":"official_university","stipendPeriod":null,"organization":{"website":"https://www.manchester.ac.uk/","name":"University of Manchester","id":"0OJsTOxyT9g3NXo9WtwQ","logoUrl":"https://static.cdnlogo.com/logos/u/64/university-of-manchester_800.png","slug":"university-of-manchester"},"category":"phd_position","status":"published","id":"VNtVT2xDSXoCpiZL5C9E"}
+{
+  "addedDate": "2026-08-22T20:43:24.551Z",
+  "city": "Manchester",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "description": "<h2>Basic Information</h2>\n<ul><li><strong>Full Project Title:</strong> Investigating the selective pressure for antimicrobial resistance under environmental factors</li><li><strong>Host Institution:</strong> The University of Manchester &amp; Peking University</li><li><strong>Study Level:</strong> PhD (Dual Award)</li><li><strong>Duration:</strong> 4 years (across Manchester and Beijing)</li><li><strong>Start Date:</strong> January 2027</li><li><strong>Funding Type:</strong> Fully Funded</li><li><strong>Eligibility:</strong> Check with supervisor</li></ul>\n<h2>Project Description</h2>\n<p>This interdisciplinary PhD project will investigate how environmental factors influence the evolution of antimicrobial resistance. At the University of Manchester, selected targets will be investigated experimentally using molecular biology, biochemical assays, and structural biology techniques.</p>\n<h2>How to Apply</h2>\n<p>Contact Dr Yi Jin: yi.jin@manchester.ac.uk</p>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
+  "eligibility": "worldwide",
+  "stipend": "Fully Funded",
+  "applyLink": "https://sites.manchester.ac.uk/amr-network/",
+  "seoTitle": "Fully Funded PhD in Microbiology – Manchester",
+  "title": "Fully Funded PhD Studentship: Environmental Controls on Antimicrobial Resistance (Dual-Degree)",
+  "fundingStatus": "fully_funded",
+  "ieltsRequired": true,
+  "organizationId": "0OJsTOxyT9g3NXo9WtwQ",
+  "createdAt": "2026-08-22T20:43:24.551Z",
+  "stipendAmount": null,
+  "fundingType": "fully_funded",
+  "countryCode": "GB",
+  "intro": "This dual-award PhD project will investigate how environmental factors influence the evolution of antimicrobial resistance across Manchester and Peking University.",
+  "deadlineTimezone": "Europe/London",
+  "deadline": null,
+  "degreeLevels": [
+    "phd"
+  ],
+  "isFeatured": false,
+  "slug": "phd-antimicrobial-resistance-dual-manchester",
+  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "deadlineText": "Rolling",
+  "publishedAt": "2026-08-22T20:43:24.551Z",
+  "verificationStatus": "unverified",
+  "seoDescription": "Fully Funded PhD in Manchester at University of Manchester: Deadline: Rolling. Apply via NextApply.",
+  "isRemote": false,
+  "ogImage": "https://nextapply.co.uk/phd-antimicrobial-resistance-dual-manchester/opengraph-image",
+  "tags": [
+    "University of Manchester",
+    "Microbiology",
+    "Biology",
+    "Environmental Science",
+    "Phd Position",
+    "Fully Funded",
+    "Antimicrobial Resistance",
+    "AMR",
+    "Environmental Factors",
+    "Dual Degree",
+    "Peking University",
+    "Molecular Biology"
+  ],
+  "opportunityType": "phd_position",
+  "isOpen": true,
+  "disciplines": [
+    "microbiology",
+    "biology",
+    "environmental_science"
+  ],
+  "stipendCurrency": null,
+  "verificationScore": 85,
+  "deadlineType": "rolling",
+  "regionId": "europe",
+  "sourceType": "official_university",
+  "stipendPeriod": null,
+  "organization": {
+    "website": "https://www.manchester.ac.uk/",
+    "name": "University of Manchester",
+    "id": "0OJsTOxyT9g3NXo9WtwQ",
+    "logoUrl": "https://static.cdnlogo.com/logos/u/64/university-of-manchester_800.png",
+    "slug": "university-of-manchester"
+  },
+  "category": "phd_position",
+  "status": "published",
+  "id": "VNtVT2xDSXoCpiZL5C9E"
+}

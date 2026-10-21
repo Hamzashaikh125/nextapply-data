@@ -1,1 +1,71 @@
-{"addedDate":"2026-10-09T14:27:56.210Z","clickCount":0,"city":"Halle","fundingCoverage":{"stipendProvided":true,"tuitionCovered":true},"description":"<h2>Research position overview</h2>\n<p>IMPRS Science and Technology of Nano-Systems offers funded PhD positions in Halle. Applicants choose from the advertised research projects and follow each project's application instructions, with research based at the Max Planck Institute and its university partner.</p>\n<h2>Research Areas</h2>\n<ul><li>Nanoscience</li><li>Materials science</li><li>Physics</li></ul>\n<h2>Funding and duration</h2>\n<table><thead><tr><th scope=\"col\">Component</th><th scope=\"col\">Details</th></tr></thead><tbody><tr><td>Award or position</td><td>PhD scholarship / studentship</td></tr><tr><td>Stipend / salary</td><td>Funded employment contract; exact salary not stated</td></tr></tbody></table>\n<h2>Eligibility and Requirements</h2>\n<table><thead><tr><th scope=\"col\">Criterion</th><th scope=\"col\">Requirement</th></tr></thead><tbody><tr><td>Applicant eligibility</td><td>Worldwide, subject to programme rules</td></tr><tr><td>Academic preparation</td><td>Relevant master’s qualification; select a project matching your research preparation.</td></tr><tr><td>Further conditions</td><td>Master's graduates; follow the application instructions for the selected project.</td></tr></tbody></table>\n<h2>Application dates</h2>\n<table><thead><tr><th scope=\"col\">Component</th><th scope=\"col\">Details</th></tr></thead><tbody><tr><td>Recruitment status</td><td>Open</td></tr><tr><td>Deadline / consideration round</td><td>15 November 2026</td></tr><tr><td>Location</td><td>Germany</td></tr><tr></tr></tbody></table>\n<h2>About Max Planck Society</h2>\n<p>The Max Planck Society operates research institutes and International Max Planck Research Schools in Germany. Doctoral candidates work within a selected institute or partner university, with funding and supervision arranged through the programme or project.</p>\n<p><strong>Official details:</strong> <a href=\"https://www.imprs-stns.mpg.de/imprs-call-2026\" rel=\"noopener noreferrer\" target=\"_blank\">Read the programme or project information</a></p>\n<p><strong>Application route:</strong> <a href=\"https://www.imprs-stns.mpg.de/imprs-call-2026\" rel=\"noopener noreferrer\" target=\"_blank\">Follow the official application instructions</a></p>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-academic-cv-phd-applications-sample\">Academic CV for PhD Applications: Structure and an Example</a></li><li><a href=\"https://nextapply.co.uk/articles/study-in-germany-for-free-complete-guide-2027\">Studying in Germany: Tuition Fees, Living Costs and Funding</a></li></ul>","eligibility":"worldwide","stipend":"Funded employment contract; exact salary not stated","applyLink":"https://www.imprs-stns.mpg.de/imprs-call-2026","seoTitle":"IMPRS Science and Technology of Nano-Systems PhD 2027","title":"IMPRS Science and Technology of Nano-Systems PhD 2027","fundingStatus":"fully_funded","ieltsRequired":false,"organizationId":"i44GUYngYXGSA7ZxHYQP","createdAt":"2026-10-09T14:27:56.625Z","stipendAmount":null,"fundingType":"fully_funded","countryCode":"DE","intro":"IMPRS Science and Technology of Nano-Systems offers funded PhD positions in Halle.","deadlineTimezone":"Europe/Berlin","deadline":"2026-11-15T22:59:59.999Z","degreeLevels":["phd"],"isFeatured":false,"slug":"imprs-science-and-technology-of-nano-systems-phd-2027","updatedAt":"2026-10-13T23:19:36.497Z","deadlineText":"15 November 2026","verificationStatus":"unverified","seoDescription":"IMPRS Science and Technology of Nano-Systems offers funded PhD positions in Halle. Funded award or position; review the stated coverage.","isRemote":false,"ogImage":"https://nextapply.co.uk/imprs-science-and-technology-of-nano-systems-phd-2027/opengraph-image","tags":["Max Planck Society","Materials Science","Physics","Phd Position","Fully Funded","Germany","Nanoscience","Materials science"],"opportunityType":"phd_position","isOpen":true,"disciplines":["materials_science","physics"],"stipendCurrency":null,"deadlineType":"fixed","regionId":"europe","sourceType":"official_organization","stipendPeriod":null,"organization":{"website":"https://www.mpg.de","name":"Max Planck Society","id":"i44GUYngYXGSA7ZxHYQP","logoUrl":"https://www.marefa.org/w/images/thumb/c/c9/Max-Planck-Gesellschaft.svg/1200px-Max-Planck-Gesellschaft.svg.png","slug":"max-planck-society"},"category":"phd_position","status":"published","publishedAt":"2026-10-09T14:27:56.625Z","id":"KSiWdVNlEJzqx8I7gqHL"}
+{
+  "addedDate": "2026-10-09T14:27:56.210Z",
+  "clickCount": 0,
+  "city": "Halle",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "description": "<h2>Research position overview</h2>\n<p>IMPRS Science and Technology of Nano-Systems offers funded PhD positions in Halle. Applicants choose from the advertised research projects and follow each project's application instructions, with research based at the Max Planck Institute and its university partner.</p>\n<h2>Research Areas</h2>\n<ul><li>Nanoscience</li><li>Materials science</li><li>Physics</li></ul>\n<h2>Funding and duration</h2>\n<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Component</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Award or position</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">PhD scholarship / studentship</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Stipend / salary</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Funded employment contract; exact salary not stated</td></tr></tbody></table>\n<h2>Eligibility and Requirements</h2>\n<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Criterion</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Requirement</th></tr></thead><tbody><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Applicant eligibility</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Worldwide, subject to programme rules</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Academic preparation</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Relevant master’s qualification; select a project matching your research preparation.</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Further conditions</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Master's graduates; follow the application instructions for the selected project.</td></tr></tbody></table>\n<h2>Application dates</h2>\n<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Component</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Recruitment status</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Open</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Deadline / consideration round</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">15 November 2026</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Germany</td></tr><tr></tr></tbody></table>\n<h2>About Max Planck Society</h2>\n<p>The Max Planck Society operates research institutes and International Max Planck Research Schools in Germany. Doctoral candidates work within a selected institute or partner university, with funding and supervision arranged through the programme or project.</p>\n<p><strong>Official details:</strong> <a href=\"https://www.imprs-stns.mpg.de/imprs-call-2026\" rel=\"noopener noreferrer\" target=\"_blank\">Read the programme or project information</a></p>\n<p><strong>Application route:</strong> <a href=\"https://www.imprs-stns.mpg.de/imprs-call-2026\" rel=\"noopener noreferrer\" target=\"_blank\">Follow the official application instructions</a></p>\n<h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: 15 November 2026. Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://www.imprs-stns.mpg.de/imprs-call-2026\">Open the official application page ↗</a></p><h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-academic-cv-phd-applications-sample\">Academic CV for PhD Applications: Structure and an Example</a></li><li><a href=\"https://nextapply.co.uk/articles/study-in-germany-for-free-complete-guide-2027\">Studying in Germany: Tuition Fees, Living Costs and Funding</a></li></ul>",
+  "eligibility": "worldwide",
+  "stipend": "Funded employment contract; exact salary not stated",
+  "applyLink": "https://www.imprs-stns.mpg.de/imprs-call-2026",
+  "seoTitle": "IMPRS Science and Technology of Nano-Systems PhD 2027",
+  "title": "IMPRS Science and Technology of Nano-Systems PhD 2027",
+  "fundingStatus": "fully_funded",
+  "ieltsRequired": false,
+  "organizationId": "i44GUYngYXGSA7ZxHYQP",
+  "createdAt": "2026-10-09T14:27:56.625Z",
+  "stipendAmount": null,
+  "fundingType": "fully_funded",
+  "countryCode": "DE",
+  "intro": "IMPRS Science and Technology of Nano-Systems offers funded PhD positions in Halle. Hosted by Max Planck Society in Halle. Apply by 15 November 2026.",
+  "deadlineTimezone": "Europe/Berlin",
+  "deadline": "2026-11-15T22:59:59.999Z",
+  "degreeLevels": [
+    "phd"
+  ],
+  "isFeatured": false,
+  "slug": "imprs-science-and-technology-of-nano-systems-phd-2027",
+  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "deadlineText": "15 November 2026",
+  "verificationStatus": "unverified",
+  "seoDescription": "Fully Funded PhD in Halle at Max Planck Society: Deadline: 15 November 2026. Apply via NextApply.",
+  "isRemote": false,
+  "ogImage": "https://nextapply.co.uk/imprs-science-and-technology-of-nano-systems-phd-2027/opengraph-image",
+  "tags": [
+    "Max Planck Society",
+    "Materials Science",
+    "Physics",
+    "Phd Position",
+    "Fully Funded",
+    "Germany",
+    "Nanoscience",
+    "Materials science",
+    "Halle",
+    "PhD",
+    "Materials_Science"
+  ],
+  "opportunityType": "phd_position",
+  "isOpen": true,
+  "disciplines": [
+    "materials_science",
+    "physics"
+  ],
+  "stipendCurrency": null,
+  "deadlineType": "fixed",
+  "regionId": "europe",
+  "sourceType": "official_organization",
+  "stipendPeriod": null,
+  "organization": {
+    "website": "https://www.mpg.de",
+    "name": "Max Planck Society",
+    "id": "i44GUYngYXGSA7ZxHYQP",
+    "logoUrl": "https://www.marefa.org/w/images/thumb/c/c9/Max-Planck-Gesellschaft.svg/1200px-Max-Planck-Gesellschaft.svg.png",
+    "slug": "max-planck-society"
+  },
+  "category": "phd_position",
+  "status": "published",
+  "publishedAt": "2026-10-09T14:27:56.625Z",
+  "id": "KSiWdVNlEJzqx8I7gqHL"
+}
