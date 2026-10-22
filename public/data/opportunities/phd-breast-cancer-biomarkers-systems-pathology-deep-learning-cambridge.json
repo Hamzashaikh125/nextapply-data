@@ -28,7 +28,7 @@
   ],
   "isFeatured": false,
   "slug": "phd-breast-cancer-biomarkers-systems-pathology-deep-learning-cambridge",
-  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "updatedAt": "2026-10-22T06:00:00.000Z",
   "deadlineText": "16 October 2026",
   "verificationStatus": "unverified",
   "seoDescription": "Fully Funded PhD in Cambridge at University of Cambridge: Deadline: 16 October 2026. Apply via NextApply.",
@@ -49,7 +49,7 @@
     "Breast Cancer"
   ],
   "opportunityType": "phd_position",
-  "isOpen": true,
+  "isOpen": false,
   "disciplines": [
     "artificial_intelligence",
     "machine_learning",
@@ -72,7 +72,7 @@
     "slug": "university-of-cambridge"
   },
   "category": "phd_position",
-  "status": "published",
+  "status": "expired",
   "publishedAt": "2026-09-23T12:10:31.558Z",
   "id": "KdJ8a7R3HOyFE7CM1kQ5"
 }

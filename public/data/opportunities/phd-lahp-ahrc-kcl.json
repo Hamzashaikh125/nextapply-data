@@ -61,11 +61,12 @@
     "website": "https://www.kcl.ac.uk/",
     "name": "King's College London",
     "id": "a3RQqlfADBIeAoJoxRbZ",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/King%27s_College_London_logo.svg/3840px-King%27s_College_London_logo.svg.png",
+    "logoUrl": "https://www.google.com/s2/favicons?domain=kcl.ac.uk&sz=256",
     "slug": "kings-college-london"
   },
   "category": "scholarship",
   "status": "published",
   "isOpen": true,
-  "id": "2R0iItZbAM6ksSlnu9bA"
+  "id": "2R0iItZbAM6ksSlnu9bA",
+  "ogImage": "https://www.google.com/s2/favicons?domain=kcl.ac.uk&sz=256"
 }

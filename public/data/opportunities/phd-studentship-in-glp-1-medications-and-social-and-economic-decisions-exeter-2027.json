@@ -27,7 +27,7 @@
   ],
   "isFeatured": false,
   "slug": "phd-studentship-in-glp-1-medications-and-social-and-economic-decisions-exeter-2027",
-  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "updatedAt": "2026-10-22T06:00:00.000Z",
   "deadlineText": "21 October 2026, 17:00 BST",
   "verificationStatus": "unverified",
   "seoDescription": "This Exeter project examines whether GLP-1 medicines, including Ozempic-type treatments, influence everyday social and economic decisions.",
@@ -47,7 +47,7 @@
     "Health_Economics"
   ],
   "opportunityType": "phd_position",
-  "isOpen": true,
+  "isOpen": false,
   "disciplines": [
     "health_economics",
     "psychology"
@@ -65,7 +65,7 @@
     "slug": "university-of-exeter"
   },
   "category": "phd_position",
-  "status": "published",
+  "status": "expired",
   "publishedAt": "2026-10-09T14:31:49.760Z",
   "id": "1ZQi7mowW0E0pKSorzaF"
 }

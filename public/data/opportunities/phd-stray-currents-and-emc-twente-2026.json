@@ -1,8 +1,8 @@
 {
   "title": "PhD in Mapping the Modern Electromagnetic Environment: Identifying Stray Currents at Twente, Netherlands",
-  "status": "published",
+  "status": "expired",
   "slug": "phd-stray-currents-and-emc-twente-2026",
-  "isOpen": true,
+  "isOpen": false,
   "category": "phd_position",
   "organizationId": "jGc3ALW15fGcYhQbIkh5",
   "organization": {
@@ -60,7 +60,7 @@
   "addedDate": "2026-10-15T14:29:12.678Z",
   "clickCount": 0,
   "createdAt": "2026-10-15T14:29:12.871Z",
-  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "updatedAt": "2026-10-22T06:00:00.000Z",
   "publishedAt": "2026-10-15T14:29:12.871Z",
   "fundingStatus": "fully_funded",
   "id": "sqJ7wYJ7kmcc9TE9cZHx",

@@ -27,7 +27,7 @@
   ],
   "isFeatured": false,
   "slug": "phd-studentship-in-crispr-cas-antimicrobials-against-klebsiella-exeter-2027",
-  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "updatedAt": "2026-10-22T06:00:00.000Z",
   "deadlineText": "21 October 2026, 17:00 BST",
   "verificationStatus": "unverified",
   "seoDescription": "Fully Funded PhD at University of Exeter: £21,805/yr stipend. Deadline: 21 October 2026, 17:00 BST. Apply via NextApply.",
@@ -44,7 +44,7 @@
     "PhD"
   ],
   "opportunityType": "phd_position",
-  "isOpen": true,
+  "isOpen": false,
   "disciplines": [
     "microbiology"
   ],
@@ -61,7 +61,7 @@
     "slug": "university-of-exeter"
   },
   "category": "phd_position",
-  "status": "published",
+  "status": "expired",
   "publishedAt": "2026-10-09T14:31:51.750Z",
   "id": "Tc0HdPotvSjO2jSgG4HZ"
 }

@@ -1,8 +1,8 @@
 {
   "title": "PhD in Bayesian ML for Type 2 Diabetes at University of Exeter, UK",
-  "status": "published",
+  "status": "expired",
   "slug": "phd-bayesian-machine-learning-for-type-2-diabetes-exeter-2027",
-  "isOpen": true,
+  "isOpen": false,
   "category": "phd_position",
   "organizationId": "ilDn70f8hVWU0pd8ztGA",
   "organization": {
@@ -61,7 +61,7 @@
   "addedDate": "2026-10-15T22:08:25.603Z",
   "clickCount": 0,
   "createdAt": "2026-10-15T22:08:25.793Z",
-  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "updatedAt": "2026-10-22T06:00:00.000Z",
   "publishedAt": "2026-10-15T22:08:25.793Z",
   "fundingStatus": "fully_funded",
   "id": "p4Apc8RoqpI4khcjsJM9",

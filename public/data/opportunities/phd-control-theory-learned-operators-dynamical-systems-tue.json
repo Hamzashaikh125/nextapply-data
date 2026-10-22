@@ -27,7 +27,7 @@
   ],
   "isFeatured": false,
   "slug": "phd-control-theory-learned-operators-dynamical-systems-tue",
-  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "updatedAt": "2026-10-22T06:00:00.000Z",
   "deadlineText": "18 October 2026",
   "verificationStatus": "unverified",
   "seoDescription": "Fully funded 4-year PhD in Control Theory for Learned Operators in Dynamical Systems at Eindhoven University of Technology.",
@@ -48,7 +48,7 @@
     "Learned Operators"
   ],
   "opportunityType": "phd_position",
-  "isOpen": true,
+  "isOpen": false,
   "disciplines": [
     "control_systems",
     "artificial_intelligence",
@@ -71,7 +71,7 @@
     "slug": "eindhoven-university-of-technology"
   },
   "category": "phd_position",
-  "status": "published",
+  "status": "expired",
   "publishedAt": "2026-09-16T23:02:37.999Z",
   "id": "aKSuMW8pgpRmBIq6HiTE"
 }

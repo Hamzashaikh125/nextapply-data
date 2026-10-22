@@ -27,7 +27,7 @@
   ],
   "isFeatured": false,
   "slug": "fully-funded-phd-in-alzheimers-risk-and-resilience-in-microglia-at-university-of-exeter-2027",
-  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "updatedAt": "2026-10-22T06:00:00.000Z",
   "deadlineText": "21 October 2026, 17:00 BST (21:00 Pakistan)",
   "verificationStatus": "unverified",
   "seoDescription": "The project examines pathways associated with Alzheimer’s disease risk and resilience using human stem-cell-derived microglia.",
@@ -48,7 +48,7 @@
     "PhD"
   ],
   "opportunityType": "phd_position",
-  "isOpen": true,
+  "isOpen": false,
   "disciplines": [
     "neuroscience",
     "computational_biology"
@@ -66,7 +66,7 @@
     "slug": "university-of-exeter"
   },
   "category": "phd_position",
-  "status": "published",
+  "status": "expired",
   "publishedAt": "2026-10-09T13:34:46.328Z",
   "id": "AGz7rKVk7tM2BCp9A6b2"
 }

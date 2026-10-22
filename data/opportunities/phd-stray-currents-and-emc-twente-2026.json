@@ -1,0 +1,70 @@
+{
+  "title": "PhD in Mapping the Modern Electromagnetic Environment: Identifying Stray Currents at Twente, Netherlands",
+  "status": "expired",
+  "slug": "phd-stray-currents-and-emc-twente-2026",
+  "isOpen": false,
+  "category": "phd_position",
+  "organizationId": "jGc3ALW15fGcYhQbIkh5",
+  "organization": {
+    "id": "jGc3ALW15fGcYhQbIkh5",
+    "slug": "university-of-twente",
+    "name": "University of Twente",
+    "logoUrl": "https://www.utwente.nl/.wh/ea/uc/ia260d80e010204cb420447d91e03ce688108daec591b0701c156042b0280/uug1guv3yqirt05cr4odjg.png",
+    "website": "https://www.utwente.nl",
+    "about": "University of Twente is a public university in Enschede, the Netherlands. It offers undergraduate, master's and doctoral programmes combining engineering, technology and social sciences. Its research connects technical innovation with human and societal needs, including work in digital systems, health and sustainability, supported by collaboration with industry and academic partners."
+  },
+  "regionId": "europe",
+  "countryCode": "NL",
+  "city": "Enschede",
+  "deadline": "2026-10-21T23:59:00.000Z",
+  "deadlineType": "fixed",
+  "deadlineText": "Before 22 October 2026",
+  "degreeLevels": [
+    "phd"
+  ],
+  "disciplines": [
+    "electrical_engineering",
+    "electronic_engineering"
+  ],
+  "subjects": [
+    "Electromagnetic compatibility",
+    "Stray currents",
+    "Synchronized sensing"
+  ],
+  "fundingType": "fully_funded",
+  "stipend": "€3,204–€4,051 gross/month, increasing with doctoral year.",
+  "intro": "This PhD develops methods for locating electromagnetic interference and stray currents in complex electrical systems. Dairy-farm measurements provide a practical application for studying sources and propagation paths.",
+  "description": "<h2>Project Overview</h2>\n<p>This PhD develops methods for locating electromagnetic interference and stray currents in complex electrical systems. Dairy-farm measurements provide a practical application for studying sources and propagation paths.</p>\n\n<h2>Research Position Overview</h2>\n<p>Create synchronised multi-node measurements of currents, voltages and fields. Combine signal processing with analysis across time, frequency, space and impedance to evaluate targeted mitigation.</p>\n\n<h2>Research Areas</h2>\n<ul>\n<li>Electromagnetic compatibility</li>\n<li>Stray-current sensing</li>\n<li>Digital signal processing</li>\n</ul>\n\n<h2>Funding and Duration</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"border-collapse:collapse;width:100%;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\">\n<caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Employment and financial support</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;background:#eaf1f7;\">Component</th><th scope=\"col\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;background:#eaf1f7;\">Details</th></tr></thead>\n<tbody>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Position</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">PhD employee</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Salary</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">€3,204–€4,051 gross/month, increasing with doctoral year.</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Duration</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Four years, full-time; qualifying assessment in year one.</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Benefits</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">8% holiday allowance, 8.3% year-end bonus and pension.</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Programme / host support</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Salaried doctoral role in the Radio Systems group.</td></tr>\n</tbody></table></div>\n\n<h2>Eligibility and Requirements</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"border-collapse:collapse;width:100%;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\">\n<caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Academic preparation and skills</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;background:#eaf1f7;\">Component</th><th scope=\"col\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;background:#eaf1f7;\">Details</th></tr></thead>\n<tbody>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Applicant eligibility</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Worldwide, subject to the official qualifications and recruitment checks.</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Academic preparation</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">MSc completed or nearly completed in electrical engineering or a related field.</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Research skills</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Measurement systems, experimental work and scientific programming; willingness to conduct field measurements.</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Language</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">English proficiency required. IELTS/TOEFL/Cambridge evidence applies to specified applicants; Dutch is advantageous.</td></tr>\n</tbody></table></div>\n\n<h2>Application Dates</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"border-collapse:collapse;width:100%;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\">\n<caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Recruitment dates and location</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;background:#eaf1f7;\">Component</th><th scope=\"col\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;background:#eaf1f7;\">Details</th></tr></thead>\n<tbody>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Recruitment status</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Open when verified against the official source</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Deadline</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Before 22 October 2026; vacancy summary lists 21 October.</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Start date</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Not specified in the vacancy.</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Location</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Enschede, Netherlands</td></tr>\n</tbody></table></div>\n\n<h2>How to Apply</h2>\n<ul>\n<li>Cover letter: maximum two A4 pages.</li>\n<li>CV with courses/grades and relevant references/publications; language evidence where applicable.</li>\n</ul><p>Submit through the application button on the official recruitment page.</p>\n\n<h2>Selection and Contact</h2>\n<p>Interviews are planned around 4–6 November 2026.</p><p>Project contact: Dr Tom Hartman.</p>\n\n<h2>About University of Twente</h2>\n<p>Twente’s Radio Systems group conducts experimental research in electromagnetic compatibility, RF systems and interference measurement.</p>\n\n<h2>Official Source</h2>\n<p>Vacancy details verified against the official source. The employer’s notice governs recruitment terms.</p><p><a href=\"https://utwentecareers.nl/en/vacancies/2610/phd-position-in-mapping-the-modern-electromagnetic-environment-identifying-stray-currents-in-complex-interaction-driven-systems/\" target=\"_blank\" rel=\"noopener noreferrer\">Read the official vacancy and apply</a></p><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+  "tags": [
+    "phd",
+    "twente",
+    "netherlands",
+    "electromagnetic-compatibility",
+    "stray-currents",
+    "synchronized-sensing",
+    "research-opportunity",
+    "2026",
+    "stray-current-sensing",
+    "digital-signal-processing",
+    "University of Twente",
+    "Enschede"
+  ],
+  "applyLink": "https://utwentecareers.nl/en/vacancies/2610/phd-position-in-mapping-the-modern-electromagnetic-environment-identifying-stray-currents-in-complex-interaction-driven-systems/",
+  "isFeatured": false,
+  "ieltsRequired": false,
+  "eligibility": "worldwide",
+  "seoTitle": "Stray Currents and EMC Measurement PhD | Twente",
+  "seoDescription": "Paid Twente PhD in electromagnetic compatibility and stray-current sensing. Check technical requirements and apply before 22 October 2026.",
+  "ogImage": "https://logo.clearbit.com/utwente.nl",
+  "verificationStatus": "unverified",
+  "addedDate": "2026-10-15T14:29:12.678Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-15T14:29:12.871Z",
+  "updatedAt": "2026-10-22T06:00:00.000Z",
+  "publishedAt": "2026-10-15T14:29:12.871Z",
+  "fundingStatus": "fully_funded",
+  "id": "sqJ7wYJ7kmcc9TE9cZHx",
+  "stipendAmount": 3204,
+  "stipendCurrency": "EUR",
+  "stipendPeriod": "month"
+}

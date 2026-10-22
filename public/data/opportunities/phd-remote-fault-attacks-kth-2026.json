@@ -1,8 +1,8 @@
 {
   "title": "PhD in Remote Fault Attacks on Cryptographic Algorithms at KTH, Sweden",
-  "status": "published",
+  "status": "expired",
   "slug": "phd-remote-fault-attacks-kth-2026",
-  "isOpen": true,
+  "isOpen": false,
   "category": "phd_position",
   "organizationId": "4mRUAVcBMAUy8ZvMxPY3",
   "organization": {
@@ -61,7 +61,7 @@
   "addedDate": "2026-10-15T14:48:12.705Z",
   "clickCount": 0,
   "createdAt": "2026-10-15T14:48:12.986Z",
-  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "updatedAt": "2026-10-22T06:00:00.000Z",
   "publishedAt": "2026-10-15T14:48:12.986Z",
   "fundingStatus": "fully_funded",
   "id": "T5UK5tWeTjJbCoJhmtb0"

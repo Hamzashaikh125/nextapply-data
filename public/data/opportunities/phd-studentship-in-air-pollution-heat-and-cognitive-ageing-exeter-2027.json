@@ -27,7 +27,7 @@
   ],
   "isFeatured": false,
   "slug": "phd-studentship-in-air-pollution-heat-and-cognitive-ageing-exeter-2027",
-  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "updatedAt": "2026-10-22T06:00:00.000Z",
   "deadlineText": "21 October 2026, 17:00 BST",
   "verificationStatus": "unverified",
   "seoDescription": "This project investigates the relationship between environmental exposures and cognitive ageing using longitudinal cohort data.",
@@ -48,7 +48,7 @@
     "PhD"
   ],
   "opportunityType": "phd_position",
-  "isOpen": true,
+  "isOpen": false,
   "disciplines": [
     "environmental_science",
     "psychology",
@@ -67,7 +67,7 @@
     "slug": "university-of-exeter"
   },
   "category": "phd_position",
-  "status": "published",
+  "status": "expired",
   "publishedAt": "2026-10-09T14:31:50.769Z",
   "id": "nW0dRtYWvIwYjnvF32zb"
 }

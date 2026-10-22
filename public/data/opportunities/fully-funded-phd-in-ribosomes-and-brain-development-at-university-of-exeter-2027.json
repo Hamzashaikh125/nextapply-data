@@ -27,7 +27,7 @@
   ],
   "isFeatured": false,
   "slug": "fully-funded-phd-in-ribosomes-and-brain-development-at-university-of-exeter-2027",
-  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "updatedAt": "2026-10-22T06:00:00.000Z",
   "deadlineText": "21 October 2026, 17:00 BST (21:00 Pakistan)",
   "verificationStatus": "unverified",
   "seoDescription": "Fully Funded PhD in Exeter at University of Exeter: £21,805/yr stipend. Deadline: 21 October 2026, 17:00 BST (21:00 Pakistan). Apply via NextApply.",
@@ -48,7 +48,7 @@
     "PhD"
   ],
   "opportunityType": "phd_position",
-  "isOpen": true,
+  "isOpen": false,
   "disciplines": [
     "neuroscience",
     "biology"
@@ -66,7 +66,7 @@
     "slug": "university-of-exeter"
   },
   "category": "phd_position",
-  "status": "published",
+  "status": "expired",
   "publishedAt": "2026-10-09T13:34:41.169Z",
   "id": "dLaaI0SzWW0uV5dfi8UE"
 }
