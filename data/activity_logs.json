@@ -1,5 +1,16 @@
 [
   {
+    "id": "1792683962824",
+    "action": "bulk_import",
+    "details": {
+      "added": 22,
+      "organizationsAdded": 4,
+      "note": "22-row owner list added; 4 new organizations (Radboudumc, University of Essex, CNRS, UMC Utrecht)"
+    },
+    "adminEmail": "rowddy1997@gmail.com",
+    "timestamp": "2026-10-22T15:46:02.000Z"
+  },
+  {
     "id": "1792674434265",
     "action": "bulk_import",
     "details": {

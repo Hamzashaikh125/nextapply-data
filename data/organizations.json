@@ -188,7 +188,7 @@
     "slug": "eindhoven-university-of-technology",
     "status": "published",
     "updatedAt": "2026-10-13T22:22:34.202Z",
-    "programCount": 3,
+    "programCount": 7,
     "id": "5L5GcPf0FsQQYS2RVcHV"
   },
   {
@@ -968,7 +968,7 @@
     "slug": "radboud-university",
     "status": "published",
     "updatedAt": "2026-10-13T22:22:34.202Z",
-    "programCount": 0,
+    "programCount": 3,
     "id": "QokXJzsw0JN6x6sPduzP"
   },
   {
@@ -1220,7 +1220,7 @@
     "slug": "maastricht-university",
     "status": "published",
     "updatedAt": "2026-10-22T07:30:00.000Z",
-    "programCount": 2,
+    "programCount": 4,
     "id": "YK4SCtYfENuzV1UgrtVG"
   },
   {
@@ -1508,7 +1508,7 @@
     "slug": "tu-delft",
     "status": "published",
     "updatedAt": "2026-10-22T07:30:00.000Z",
-    "programCount": 2,
+    "programCount": 4,
     "id": "fWDwnuGf3LBFaQhGO7iT"
   },
   {
@@ -2200,7 +2200,7 @@
     "website": "https://www.uu.se",
     "about": "Uppsala University is a comprehensive research university in Uppsala, Sweden, and the oldest university in the Nordic countries. Its research and education span science, medicine, technology, humanities and social sciences. Doctoral students are employed as paid researchers with monthly salaries across its departments.",
     "name": "Uppsala University",
-    "programCount": 4,
+    "programCount": 6,
     "logoUrl": "https://www.google.com/s2/favicons?domain=uu.se&sz=256",
     "slug": "uppsala-university",
     "status": "published",
@@ -2428,7 +2428,7 @@
     "website": "https://www.lunduniversity.lu.se",
     "about": "Lund University, founded in 1666, is one of Sweden's largest and most international universities and a member of the League of European Research Universities. Its faculties cover engineering, science, medicine, economics, humanities, social sciences, law and the performing arts, and the nearby Copenhagen area makes the Oresund region a strong research hub. Doctoral students are salaried employees under Swedish collective agreements, and postdoctoral fellowships are advertised through the university's Varbi recruitment portal. The university ranks among the top 100 research universities worldwide in major rankings.",
     "name": "Lund University",
-    "programCount": 3,
+    "programCount": 7,
     "logoUrl": "https://www.google.com/s2/favicons?domain=lunduniversity.lu.se&sz=256",
     "slug": "lund-university",
     "status": "published",
@@ -2530,5 +2530,53 @@
     "status": "published",
     "updatedAt": "2026-10-22T13:07:14.000Z",
     "id": "oQsQc9AVur8FDYyw6KBs"
+  },
+  {
+    "createdAt": "2026-10-22T15:46:02.000Z",
+    "website": "https://www.radboudumc.nl",
+    "about": "Radboudumc is the academic medical centre of Nijmegen, connected to Radboud University. It combines specialised patient care, research and education with a focus on prevention and personalised medicine, and hosts one of the Netherlands' leading clinical research environments. Doctoral researchers work in multidisciplinary teams spanning clinical departments, the Radboud Institute for Health Sciences and technology partners.",
+    "name": "Radboudumc",
+    "programCount": 2,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=radboudumc.nl&sz=256",
+    "slug": "radboudumc",
+    "status": "published",
+    "updatedAt": "2026-10-22T15:46:02.000Z",
+    "id": "TGDPG8cbTXPjoZTuvMwX"
+  },
+  {
+    "createdAt": "2026-10-22T15:46:02.000Z",
+    "website": "https://www.essex.ac.uk",
+    "about": "The University of Essex is a public research university in Colchester, England, with additional campuses in Southend and Loughton. Its Department of Government is ranked among the strongest in the UK, and the university is internationally known for research on conflict, human rights, democracy and the social sciences. Doctoral researchers join an international academic community with dedicated graduate training and funding support.",
+    "name": "University of Essex",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=essex.ac.uk&sz=256",
+    "slug": "university-of-essex",
+    "status": "published",
+    "updatedAt": "2026-10-22T15:46:02.000Z",
+    "id": "tFjsuzgCVUJSHtLe2gBD"
+  },
+  {
+    "createdAt": "2026-10-22T15:46:02.000Z",
+    "website": "https://www.cnrs.fr",
+    "about": "The French National Centre for Scientific Research (CNRS) is one of the world's largest fundamental research organisations, covering all fields of knowledge. Its Laboratoire Jacques-Louis Lions (UMR 7598), run jointly with Sorbonne Universite in Paris, is a leading centre for applied mathematics, analysis and partial differential equations. Researchers work within project teams with access to national research infrastructures and international collaborations.",
+    "name": "CNRS",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=cnrs.fr&sz=256",
+    "slug": "cnrs",
+    "status": "published",
+    "updatedAt": "2026-10-22T15:46:02.000Z",
+    "id": "829XIzpGMTu0hE82qDW0"
+  },
+  {
+    "createdAt": "2026-10-22T15:46:02.000Z",
+    "website": "https://www.umcutrecht.nl",
+    "about": "UMC Utrecht is the university medical centre of Utrecht, affiliated with Utrecht University. It combines specialised patient care with leading research programmes in life sciences and health, and trains the next generation of medical and biomedical researchers. Doctoral researchers work in multidisciplinary teams across clinical departments and research institutes, including the Wilhelmina Children's Hospital.",
+    "name": "UMC Utrecht",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=umcutrecht.nl&sz=256",
+    "slug": "umc-utrecht",
+    "status": "published",
+    "updatedAt": "2026-10-22T15:46:02.000Z",
+    "id": "W159XL4VKAfl1zGzj9CO"
   }
 ]
