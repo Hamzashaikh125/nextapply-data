@@ -1,5 +1,16 @@
 [
   {
+    "id": "1792674434265",
+    "action": "bulk_import",
+    "details": {
+      "added": 39,
+      "organizationsAdded": 6,
+      "note": "40-row owner list; 1 already present (TU Delft sea-ice) skipped as duplicate"
+    },
+    "adminEmail": "rowddy1997@gmail.com",
+    "timestamp": "2026-10-22T13:07:14.000Z"
+  },
+  {
     "id": "1792667974118",
     "action": "bulk_import",
     "details": {

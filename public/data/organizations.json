@@ -188,7 +188,7 @@
     "slug": "eindhoven-university-of-technology",
     "status": "published",
     "updatedAt": "2026-10-13T22:22:34.202Z",
-    "programCount": 2,
+    "programCount": 3,
     "id": "5L5GcPf0FsQQYS2RVcHV"
   },
   {
@@ -944,7 +944,7 @@
     "slug": "university-of-cambridge",
     "status": "published",
     "updatedAt": "2026-10-13T22:22:34.202Z",
-    "programCount": 0,
+    "programCount": 1,
     "id": "PnEG0pcrRuckMliHa12w"
   },
   {
@@ -1028,7 +1028,7 @@
     "slug": "ume-university",
     "status": "published",
     "updatedAt": "2026-10-13T22:22:34.202Z",
-    "programCount": 0,
+    "programCount": 1,
     "id": "S9cVtwrGVoxIt1blCgzJ"
   },
   {
@@ -1220,7 +1220,7 @@
     "slug": "maastricht-university",
     "status": "published",
     "updatedAt": "2026-10-22T07:30:00.000Z",
-    "programCount": 1,
+    "programCount": 2,
     "id": "YK4SCtYfENuzV1UgrtVG"
   },
   {
@@ -1256,7 +1256,7 @@
     "slug": "kings-college-london",
     "status": "published",
     "updatedAt": "2026-10-22T07:30:00.000Z",
-    "programCount": 0,
+    "programCount": 1,
     "id": "a3RQqlfADBIeAoJoxRbZ"
   },
   {
@@ -1280,7 +1280,7 @@
     "slug": "wageningen-university-research",
     "status": "published",
     "updatedAt": "2026-10-13T22:22:34.202Z",
-    "programCount": 2,
+    "programCount": 3,
     "id": "aH7cyJLYS4VOa85VihTb"
   },
   {
@@ -1508,7 +1508,7 @@
     "slug": "tu-delft",
     "status": "published",
     "updatedAt": "2026-10-22T07:30:00.000Z",
-    "programCount": 1,
+    "programCount": 2,
     "id": "fWDwnuGf3LBFaQhGO7iT"
   },
   {
@@ -1768,7 +1768,7 @@
     "website": "https://www.ox.ac.uk/",
     "about": "University of Oxford is a collegiate research university in Oxford, England. It offers undergraduate, postgraduate and doctoral education across medicine, science, engineering, humanities and social sciences. Its departments, colleges and research institutes support scholarship and international collaboration, providing opportunities for students and researchers to investigate questions across many academic fields.",
     "name": "University of Oxford",
-    "programCount": 0,
+    "programCount": 1,
     "logoUrl": "https://www.google.com/s2/favicons?domain=ox.ac.uk&sz=256",
     "slug": "university-of-oxford",
     "status": "published",
@@ -1864,7 +1864,7 @@
     "website": "https://www.ki.se",
     "about": "Karolinska Institutet is a medical university in Stockholm, Sweden. It offers education and research in medicine, health sciences and related fields, including doctoral training. Its researchers investigate human health and disease through experimental, clinical and public health approaches. The university's Nobel Assembly awards the Nobel Prize in Physiology or Medicine.",
     "name": "Karolinska Institutet",
-    "programCount": 0,
+    "programCount": 1,
     "logoUrl": "https://images.seeklogo.com/logo-png/41/1/karolinska-institutet-logo-png_seeklogo-410862.png",
     "slug": "karolinska-institutet",
     "status": "published",
@@ -2108,7 +2108,7 @@
     "about": "Vrije Universiteit Amsterdam is a research university in the Netherlands with strengths in physics, molecular sciences, and interdisciplinary research. Its Department of Physics and Astronomy hosts the NWO-XL consortium on human-made molecular machines.",
     "createdAt": "2026-10-15T09:38:34.023Z",
     "updatedAt": "2026-10-15T09:38:34.023Z",
-    "programCount": 0,
+    "programCount": 1,
     "id": "y2oa0jmOHBozhYMpXBBb"
   },
   {
@@ -2200,7 +2200,7 @@
     "website": "https://www.uu.se",
     "about": "Uppsala University is a comprehensive research university in Uppsala, Sweden, and the oldest university in the Nordic countries. Its research and education span science, medicine, technology, humanities and social sciences. Doctoral students are employed as paid researchers with monthly salaries across its departments.",
     "name": "Uppsala University",
-    "programCount": 3,
+    "programCount": 4,
     "logoUrl": "https://www.google.com/s2/favicons?domain=uu.se&sz=256",
     "slug": "uppsala-university",
     "status": "published",
@@ -2368,7 +2368,7 @@
     "website": "https://www.umcg.nl",
     "about": "UMCG is one of the largest university medical centres in the Netherlands and the academic hospital of the University of Groningen. It combines patient care with biomedical research and graduate education, organised around research institutes covering neuroscience, oncology, ageing, regenerative medicine and population health. The centre employs PhD candidates and postdocs on salaried contracts under the Dutch collective agreement for university medical centres (CAO-UMC). Research and clinical vacancies, including physician-researcher tracks and technical R&D roles, are published on its recruitment portal werkenbijumcg.nl.",
     "name": "University Medical Center Groningen (UMCG)",
-    "programCount": 5,
+    "programCount": 6,
     "logoUrl": "https://www.google.com/s2/favicons?domain=umcg.nl&sz=256",
     "slug": "umcg",
     "status": "published",
@@ -2380,7 +2380,7 @@
     "website": "https://www.universiteitleiden.nl/en",
     "about": "Leiden University, founded in 1575, is the oldest university in the Netherlands and a member of the League of European Research Universities (LERU). Its seven faculties in Leiden and The Hague cover humanities, law, social and behavioural sciences, medicine, science, archaeology and governance. Doctoral candidates at Leiden are salaried employees under the CAO-NU collective agreement rather than fee-paying students, which makes its PhD positions fully funded by design. All academic vacancies, including PhD and postdoctoral roles, are advertised on the university's dedicated careers portal.",
     "name": "Leiden University",
-    "programCount": 2,
+    "programCount": 5,
     "logoUrl": "https://www.google.com/s2/favicons?domain=universiteitleiden.nl&sz=256",
     "slug": "leiden-university",
     "status": "published",
@@ -2416,7 +2416,7 @@
     "website": "https://www.su.se/english",
     "about": "Stockholm University is a public research university in the Swedish capital with roughly 30,000 students and a strong research profile in the natural sciences, psychology, humanities, law and social sciences. Many of its departments collaborate with national research institutes located on the same campus areas, including the neighbouring Science for Life Laboratory environment. Doctoral students in Sweden are employed on paid contracts with collective-agreement salaries and full social benefits. PhD and postdoctoral vacancies are recruited through the national Varbi system used by Swedish universities.",
     "name": "Stockholm University",
-    "programCount": 1,
+    "programCount": 14,
     "logoUrl": "https://www.google.com/s2/favicons?domain=su.se&sz=256",
     "slug": "stockholm-university",
     "status": "published",
@@ -2428,7 +2428,7 @@
     "website": "https://www.lunduniversity.lu.se",
     "about": "Lund University, founded in 1666, is one of Sweden's largest and most international universities and a member of the League of European Research Universities. Its faculties cover engineering, science, medicine, economics, humanities, social sciences, law and the performing arts, and the nearby Copenhagen area makes the Oresund region a strong research hub. Doctoral students are salaried employees under Swedish collective agreements, and postdoctoral fellowships are advertised through the university's Varbi recruitment portal. The university ranks among the top 100 research universities worldwide in major rankings.",
     "name": "Lund University",
-    "programCount": 1,
+    "programCount": 3,
     "logoUrl": "https://www.google.com/s2/favicons?domain=lunduniversity.lu.se&sz=256",
     "slug": "lund-university",
     "status": "published",
@@ -2440,7 +2440,7 @@
     "website": "https://www.uva.nl",
     "about": "The University of Amsterdam (UvA) is the largest university in the Netherlands and one of Europe's leading research institutions. Its seven faculties span the humanities, social and behavioural sciences, economics and business, law, science, medicine in cooperation with Amsterdam UMC, and dentistry. PhD candidates at the UvA are employed on salaried contracts under the CAO-NU collective agreement, making doctoral research here fully funded. Academic vacancies and doctoral positions are published on the university's academic careers portal with detailed role profiles and application requirements.",
     "name": "University of Amsterdam",
-    "programCount": 2,
+    "programCount": 3,
     "logoUrl": "https://www.google.com/s2/favicons?domain=uva.nl&sz=256",
     "slug": "university-of-amsterdam",
     "status": "published",
@@ -2452,11 +2452,83 @@
     "website": "https://www.amsterdamumc.org",
     "about": "Amsterdam UMC is the combined academic medical centre of the University of Amsterdam and Vrije Universiteit Amsterdam, operating from AMC and VUmc campuses. It is one of the largest biomedical research institutions in the Netherlands, with research programmes spanning infectious diseases, oncology, cardiovascular science, epidemiology, public health and health data science. The centre employs PhD candidates and postdocs on salaried contracts under the CAO-UMC collective agreement. Research vacancies are published on the werkenbij.amsterdamumc.org portal, and many doctoral projects are embedded in national and European research consortia.",
     "name": "Amsterdam UMC",
-    "programCount": 2,
+    "programCount": 4,
     "logoUrl": "https://www.google.com/s2/favicons?domain=amsterdamumc.org&sz=256",
     "slug": "amsterdam-umc",
     "status": "published",
     "updatedAt": "2026-10-22T07:30:00.000Z",
     "id": "2Go1ThYV28FBR72JjjEp"
+  },
+  {
+    "createdAt": "2026-10-22T13:07:14.000Z",
+    "website": "https://www.maynoothuniversity.ie",
+    "about": "Maynooth University, near Dublin, is Ireland's fastest-growing university and one of its oldest seated institutions, tracing its origins to 1795. It combines a strong research profile in the sciences, social sciences, humanities, engineering and education with close student-faculty ratios. The university hosts funded research centres across climate, smart technologies, social science and health, and its postdoctoral researchers work on nationally and internationally funded projects, including EU Horizon and Science Foundation Ireland programmes. Research vacancies are published through the university's Corehr recruitment portal with full job specifications.",
+    "name": "Maynooth University",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=maynoothuniversity.ie&sz=256",
+    "slug": "maynooth-university",
+    "status": "published",
+    "updatedAt": "2026-10-22T13:07:14.000Z",
+    "id": "Q50vDSCkmCXb565qMTJI"
+  },
+  {
+    "createdAt": "2026-10-22T13:07:14.000Z",
+    "website": "https://www.ljmu.ac.uk",
+    "about": "Liverpool John Moores University is a large civic university in Liverpool, England, formed in 1992 from institutions dating back to 1823. It combines applied research with industry-linked teaching across science, engineering, health, business and the arts, and holds a strong record in environmental and ecological research, including peatland and wetland systems. LJMU research centres work with UKRI, Innovate UK and international partners on applied projects, and research staff positions are advertised on the university's dedicated jobs portal with clear vacancy specifications and closing dates.",
+    "name": "Liverpool John Moores University",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=ljmu.ac.uk&sz=256",
+    "slug": "liverpool-john-moores-university",
+    "status": "published",
+    "updatedAt": "2026-10-22T13:07:14.000Z",
+    "id": "zR4QClxPNWYRwAGn0Rkv"
+  },
+  {
+    "createdAt": "2026-10-22T13:07:14.000Z",
+    "website": "https://www.southampton.ac.uk",
+    "about": "The University of Southampton is a Russell Group research university on England's south coast, ranking among the UK's top engineering, ocean and earth science institutions. It hosts the National Oceanography Centre partnership, world-leading maritime robotics groups and one of the UK's largest doctorate-training portfolios, including Marie Sklodowska-Curie doctoral networks. Southampton research spans engineering, environmental and marine sciences, electronics, health and the humanities, with doctoral candidates recruited through the university's eRecruitment portal for funded projects across its faculties and research institutes.",
+    "name": "University of Southampton",
+    "programCount": 1,
+    "logoUrl": "https://www.southampton.ac.uk/favicon.ico",
+    "slug": "university-of-southampton",
+    "status": "published",
+    "updatedAt": "2026-10-22T13:07:14.000Z",
+    "id": "GmRq68XHnqjO3lND2vdL"
+  },
+  {
+    "createdAt": "2026-10-22T13:07:14.000Z",
+    "website": "https://www.bathspa.ac.uk",
+    "about": "Bath Spa University is a university in Bath, England, rooted in institutions dating back to 1852, with campuses including Newton Park and Corsham Court. It offers doctoral training across education, management and business, creative arts, humanities and social sciences, and is an active partner in the ESRC South West Doctoral Training Partnership (SWDTP) through which funded studentships are offered with partner universities. Research degrees at Bath Spa combine supervision by research-active staff with training in methods and professional development, and applications run through the university's research degrees admissions route.",
+    "name": "Bath Spa University",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=bathspa.ac.uk&sz=128",
+    "slug": "bath-spa-university",
+    "status": "published",
+    "updatedAt": "2026-10-22T13:07:14.000Z",
+    "id": "W1eT7tOK4s9Dv8s2nyZr"
+  },
+  {
+    "createdAt": "2026-10-22T13:07:14.000Z",
+    "website": "https://www.dtu.dk/english",
+    "about": "The Technical University of Denmark (DTU) is one of Europe's leading technical universities, based north of Copenhagen. It ranks among the world's best for engineering and hosts research across energy, computing, biotechnology, robotics and management engineering, including DTU Entrepreneurship as a dedicated hub for technology-based innovation studies. Doctoral candidates at DTU are salaried researchers under the Danish collective agreement, recruited through the university's online recruitment system, and DTU participates extensively in EU Horizon and Nordic research programmes with strong industry collaboration.",
+    "name": "Technical University of Denmark (DTU)",
+    "programCount": 1,
+    "logoUrl": "https://dtu.dk/favicon.ico",
+    "slug": "technical-university-of-denmark",
+    "status": "published",
+    "updatedAt": "2026-10-22T13:07:14.000Z",
+    "id": "LPZd6ls0cL2PwC0vJDRZ"
+  },
+  {
+    "createdAt": "2026-10-22T13:07:14.000Z",
+    "website": "https://www.lshtm.ac.uk",
+    "about": "The London School of Hygiene & Tropical Medicine (LSHTM) is a world-leading research university for public and global health, consistently ranked at the top of its field internationally. Its research spans epidemiology, infectious disease, immunology, health economics and health policy, with major multi-country trial and training programmes funded by Wellcome, UKRI and the global health agencies. LSHTM runs structured, fully funded doctoral training programmes such as CREATE for global health research, and recruits fellows and research staff through its online recruitment portal.",
+    "name": "London School of Hygiene & Tropical Medicine (LSHTM)",
+    "programCount": 1,
+    "logoUrl": "https://www.lshtm.ac.uk/apple-touch-icon.png",
+    "slug": "london-school-of-hygiene-tropical-medicine",
+    "status": "published",
+    "updatedAt": "2026-10-22T13:07:14.000Z",
+    "id": "oQsQc9AVur8FDYyw6KBs"
   }
 ]

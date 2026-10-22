@@ -1,0 +1,76 @@
+{
+  "title": "Marie Sklodowska-Curie Actions Doctoral Network BlueOcean (Robotic Seafloor Monitoring) - University of Southampton, United Kingdom",
+  "status": "published",
+  "slug": "msca-doctoral-network-blueocean-robotic-seafloor-monitoring-southampton",
+  "isOpen": true,
+  "category": "phd_position",
+  "organizationId": "GmRq68XHnqjO3lND2vdL",
+  "organization": {
+    "id": "GmRq68XHnqjO3lND2vdL",
+    "slug": "university-of-southampton",
+    "name": "University of Southampton",
+    "logoUrl": "https://www.southampton.ac.uk/favicon.ico",
+    "website": "https://www.southampton.ac.uk",
+    "about": "The University of Southampton is a Russell Group research university on England's south coast, ranking among the UK's top engineering, ocean and earth science institutions. It hosts the National Oceanography Centre partnership, world-leading maritime robotics groups and one of the UK's largest doctorate-training portfolios, including Marie Sklodowska-Curie doctoral networks. Southampton research spans engineering, environmental and marine sciences, electronics, health and the humanities, with doctoral candidates recruited through the university's eRecruitment portal for funded projects across its faculties and research institutes."
+  },
+  "regionId": "europe",
+  "countryCode": "GB",
+  "city": "Southampton",
+  "deadline": "2026-10-31T23:59:00.000Z",
+  "deadlineType": "fixed",
+  "deadlineText": "31 October 2026 (closing soon)",
+  "degreeLevels": [
+    "phd"
+  ],
+  "disciplines": [
+    "robotics",
+    "ocean_modelling",
+    "marine_biology",
+    "computer_science"
+  ],
+  "subjects": [
+    "MSCA doctoral network",
+    "Robotic monitoring",
+    "Seafloor change",
+    "Closing soon"
+  ],
+  "fundingType": "fully_funded",
+  "stipend": "MSCA doctoral candidate allowance (living + mobility per EU rates)",
+  "intro": "The University of Southampton recruits doctoral candidates to the Marie Sklodowska-Curie Actions Doctoral Network BlueOcean, focused on robotic monitoring and data processing for seafloor change. The network develops autonomous platforms, sensing technologies and data pipelines to observe and understand seafloor dynamics - from habitat change to geohazards - training a cohort of doctoral researchers across European partner institutions.",
+  "description": "<h2>Programme or Project Overview</h2>\n<p>The University of Southampton recruits doctoral candidates to the Marie Sklodowska-Curie Actions Doctoral Network BlueOcean, focused on robotic monitoring and data processing for seafloor change. The network develops autonomous platforms, sensing technologies and data pipelines to observe and understand seafloor dynamics - from habitat change to geohazards - training a cohort of doctoral researchers across European partner institutions. Applications close on 31 October 2026, so candidates should apply as early as possible.</p>\n<p>MSCA doctoral candidates receive an attractive EU-funded package: a generous monthly living allowance (adjusted by the host country), mobility and family allowances where applicable, plus full coverage of research and training costs. Doctoral researchers must comply with the MSCA mobility rule - they may not have resided or carried out their main activity in the recruiting country for more than 12 of the 36 months before recruitment - and positions typically run for three years with international secondments.</p>\n\n<h2>Candidate profile and application</h2>\n<p>Applicants hold a master's degree (or equivalent) in robotics, computer science, electrical, mechanical or ocean engineering, or a related discipline, with interests in autonomous systems, sensing or marine data science. Applications are made through the University of Southampton's eRecruitment portal referencing vacancy 3522426DA, with a CV, transcripts, references and a motivation statement; shortlisted candidates are interviewed by the network's host groups.</p>\n<h2>Highlights</h2>\n<ul>\n<li>MSCA Doctoral Network BlueOcean - robotic seafloor monitoring</li>\n<li>EU-funded allowance package with mobility terms</li>\n<li>Autonomous platforms, sensing and data pipelines</li>\n<li>International secondments across network partners</li>\n<li>MSCA mobility rule applies</li>\n<li>Closing date: 31 October 2026 - apply early</li>\n</ul>\n<h2>Funding and duration</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Award or position</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">PhD fellowship / salaried position</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Stipend / salary</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">MSCA doctoral candidate allowance (living + mobility per EU rates)</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Duration</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Three years (MSCA doctoral candidate)</td></tr>\n</tbody>\n</table>\n<h2>Eligibility and Requirements</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Applicant eligibility</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Worldwide</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Academic preparation</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Master's in robotics, computer science, electrical or mechanical engineering (MSCA mobility rule applies)</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Language</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">English proficiency required</td></tr>\n</tbody>\n</table>\n<h2>Application dates</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Recruitment status</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Open</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Deadline</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">31 October 2026 (closing soon)</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Location</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Southampton, United Kingdom</td></tr>\n</tbody>\n</table>\n<h2>About University of Southampton</h2>\n<p>The University of Southampton is a Russell Group research university on England's south coast, ranking among the UK's top engineering, ocean and earth science institutions. It hosts the National Oceanography Centre partnership, world-leading maritime robotics groups and one of the UK's largest doctorate-training portfolios, including Marie Sklodowska-Curie doctoral networks. Southampton research spans engineering, environmental and marine sciences, electronics, health and the humanities, with doctoral candidates recruited through the university's eRecruitment portal for funded projects across its faculties and research institutes.</p>\n\n<p><strong>Official details:</strong> <a href=\"https://jobs.soton.ac.uk/Vacancy.aspx?ref=3522426DA\" rel=\"noopener noreferrer\">Read the programme or project information</a></p>\n<p><strong>Application route:</strong> <a href=\"https://jobs.soton.ac.uk/Vacancy.aspx?ref=3522426DA\" rel=\"noopener noreferrer\">Follow the official application instructions</a></p><h2>How to Apply</h2><p>Submit your application through the official page before the deadline: 31 October 2026 (closing soon). Read the eligibility requirements carefully and prepare all requested documents - early applications are strongly recommended for competitive awards.</p><p><a href=\"https://jobs.soton.ac.uk/Vacancy.aspx?ref=3522426DA\">Open the official application page ↗</a></p><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-academic-cv-phd-applications-sample\">Academic CV for PhD Applications: Structure and an Example</a></li></ul>",
+  "tags": [
+    "phd",
+    "fully-funded",
+    "gb",
+    "2026",
+    "university-of-southampton"
+  ],
+  "applyLink": "https://jobs.soton.ac.uk/Vacancy.aspx?ref=3522426DA",
+  "isFeatured": false,
+  "ieltsRequired": true,
+  "eligibility": "worldwide",
+  "seoTitle": "Marie Sklodowska-Curie Actions Doctoral Network BlueOcean",
+  "seoDescription": "The University of Southampton recruits doctoral candidates to the Marie Sklodowska-Curie Actions Doctoral Network BlueOcean, focused on robotic monitoring",
+  "ogImage": "https://www.southampton.ac.uk/favicon.ico",
+  "verificationStatus": "verified",
+  "verifiedAt": "2026-10-22T13:07:14.000Z",
+  "addedDate": "2026-10-22T13:07:14.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-22T13:07:14.000Z",
+  "updatedAt": "2026-10-22T13:07:14.000Z",
+  "publishedAt": "2026-10-22T13:07:14.000Z",
+  "fundingStatus": "fully_funded",
+  "id": "mrhXLrBBOAshKB3JfxwN",
+  "opportunityType": "phd_position",
+  "isRemote": false,
+  "sourceType": "official_university",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipendCurrency": null,
+  "stipendAmount": null,
+  "stipendPeriod": null,
+  "deadlineTimezone": "Europe/London",
+  "verificationScore": 95
+}
