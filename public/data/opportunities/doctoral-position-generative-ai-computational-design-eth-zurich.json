@@ -1,0 +1,83 @@
+{
+ "title": "Doctoral Position in Generative AI-Based Computational Design Methods at ETH Zurich, Switzerland",
+ "status": "published",
+ "slug": "doctoral-position-generative-ai-computational-design-eth-zurich",
+ "isOpen": true,
+ "category": "phd_position",
+ "organizationId": "VDK5HvkfDwPkO0qnSBdN",
+ "organization": {
+  "createdAt": "2026-09-22T23:32:54.356Z",
+  "website": "https://ethz.ch",
+  "about": "ETH Zurich is Switzerland's federal institute of technology in Zurich. It offers undergraduate, master's and doctoral education across engineering, natural sciences, mathematics, architecture and related disciplines. Its research connects fundamental scientific questions with technological applications, supporting international collaboration and training for students interested in advanced study, innovation and scientific discovery.",
+  "name": "ETH Zurich",
+  "programCount": 5,
+  "logoUrl": "https://carbcomn.ugent.be/images/carbcomn_logos/partnerlogo_ETH.png",
+  "slug": "eth-zurich",
+  "status": "published",
+  "updatedAt": "2026-10-13T22:22:34.202Z",
+  "id": "VDK5HvkfDwPkO0qnSBdN"
+ },
+ "regionId": "europe",
+ "countryCode": "CH",
+ "city": "Zurich",
+ "deadline": "2026-11-01T22:59:59.999Z",
+ "deadlineType": "fixed",
+ "deadlineText": "1 November 2026",
+ "deadlineTimezone": "Europe/Zurich",
+ "degreeLevels": [
+  "phd"
+ ],
+ "disciplines": [
+  "artificial_intelligence",
+  "machine_learning",
+  "computer_science",
+  "engineering"
+ ],
+ "subjects": [
+  "Generative AI",
+  "Computational design",
+  "Engineering methods",
+  "Machine learning"
+ ],
+ "fundingType": "fully_funded",
+ "fundingStatus": "fully_funded",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "stipend": "Competitive salary according to ETH standards. Fully funded, full-time, fixed-term doctoral position.",
+ "stipendAmount": null,
+ "stipendCurrency": null,
+ "stipendPeriod": null,
+ "intro": "Fully funded ETH Zurich doctoral position on generative AI-based computational design methods for engineering. Competitive salary. Deadline: 1 November 2026.",
+ "description": "<h2>Position Overview</h2>\n<p>ETH Zurich advertises a doctoral position on generative AI-based computational design methods for engineering. The successful candidate will develop and study machine-learning methods that support and automate engineering design workflows, connecting generative models with domain-specific simulation and optimisation tools.</p>\n<p>The position suits candidates excited about the intersection of large generative models, geometry and engineering practice, and offers a fully funded doctoral contract at one of the leading technical universities in Europe.</p>\n<h2>Research Areas</h2>\n<ul><li>Generative AI models for engineering design tasks</li><li>Computational design pipelines and surrogate modelling</li><li>Integration of machine learning with simulation and optimisation</li><li>Evaluation of AI-designed solutions in real engineering settings</li></ul>\n<h2>Funding and Employment</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\"><caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Employment and financial support</caption><thead><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Component</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Details</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Position</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Fully funded, full-time, fixed-term doctoral position</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Salary</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Competitive salary according to ETH Zurich standards for doctoral students, paid monthly and increasing with seniority.</td></tr><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Duration</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Four-year doctoral programme with a structured doctoral education offer.</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Location</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">ETH Zurich, Zurich, Switzerland</td></tr></tbody></table></div>\n<h2>Eligibility and Requirements</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\"><caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Academic and research preparation</caption><thead><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Criterion</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Requirement</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Academic preparation</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Master's degree in computer science, mechanical or civil engineering, computational science, or a related field (see the official advert for the exact profile).</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Technical skills</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Strong programming and machine-learning background; experience with generative models or design automation is an asset.</td></tr><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">English</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Good command of English; ETH Zurich's doctoral admission requirements apply.</td></tr></tbody></table></div>\n<h2>Application Dates</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\"><caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Recruitment information</caption><thead><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Component</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Details</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Status</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Open when checked on 22 October 2026</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Deadline</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">1 November 2026</td></tr><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Start date</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">By agreement</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Location</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Zurich, Switzerland</td></tr></tbody></table></div>\n<h2>How to Apply</h2>\n<p>Apply through the official ETH Zurich job portal before 1 November 2026 using the application button on the advert. Applications typically include a CV, transcripts, a cover letter describing research interests and contact details for references.</p>\n<h2>About ETH Zurich</h2>\n<p>ETH Zurich is one of the world's leading universities in science and technology. Doctoral candidates benefit from structured doctoral education, world-class laboratories and a research community that spans engineering, computer science and the natural sciences.</p>\n<h2>Official Sources</h2><ul><li><a href=\"https://jobs.ethz.ch/job/view/JOPG_ethz_tezsMpGlVuLvSND8CC\" target=\"_blank\" rel=\"noopener noreferrer\">Official advert and application (verified link)</a></li><li><a href=\"https://ethz.ch/en/about/working.html\" target=\"_blank\" rel=\"noopener noreferrer\">Working at ETH Zurich (official)</a></li></ul>",
+ "tags": [
+  "ETH Zurich",
+  "Artificial Intelligence",
+  "Machine Learning",
+  "Phd Position",
+  "Fully Funded",
+  "Switzerland",
+  "Generative AI",
+  "Computational Design",
+  "Engineering"
+ ],
+ "applyLink": "https://jobs.ethz.ch/job/view/JOPG_ethz_tezsMpGlVuLvSND8CC",
+ "isFeatured": false,
+ "ieltsRequired": true,
+ "eligibility": "worldwide",
+ "seoTitle": "Generative AI Computational Design PhD | ETH Zurich",
+ "seoDescription": "Apply for an ETH Zurich doctoral position in generative AI-based computational design methods for engineering. Deadline 1 November 2026.",
+ "ogImage": "",
+ "verificationStatus": "unverified",
+ "verificationScore": null,
+ "addedDate": "2026-10-21T23:49:35.000Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-21T23:49:35.000Z",
+ "updatedAt": "2026-10-21T23:49:35.000Z",
+ "publishedAt": "2026-10-21T23:49:35.000Z",
+ "id": "rmmmUDnfx0iPkWkkiHdM",
+ "opportunityType": "phd_position",
+ "sourceType": "job_portal",
+ "isRemote": false
+}
