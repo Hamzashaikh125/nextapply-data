@@ -1,0 +1,78 @@
+{
+  "title": "META4.0 – Erasmus Mundus Master in Industry 4.0",
+  "status": "published",
+  "slug": "meta4-0-industry-4-0-erasmus-mundus",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "Bu9h8ebnx8dPGSzeYP3S",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.master-meta4-0.eu",
+    "about": "The META4.0 consortium delivers the Erasmus Mundus Joint Master in Industry 4.0 with European technical universities and industrial partners focused on digital manufacturing.",
+    "name": "META4.0 Consortium",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=master-meta4-0.eu&sz=256",
+    "slug": "meta4-0-consortium",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "Bu9h8ebnx8dPGSzeYP3S"
+  },
+  "regionId": "europe",
+  "countryCode": "FR",
+  "city": "Multi-city (consortium)",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Current call and closing date published on the official programme page",
+  "degreeLevels": [
+    "masters"
+  ],
+  "disciplines": [
+    "industrial_engineering",
+    "iot_sensors",
+    "automation",
+    "data_science",
+    "mechatronics"
+  ],
+  "subjects": [
+    "Industry 4.0",
+    "Smart manufacturing",
+    "Digital twins",
+    "Erasmus Mundus"
+  ],
+  "fundingType": "fully_funded",
+  "fundingStatus": "fully_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipend": "Erasmus Mundus scholarships for selected students per the live call.",
+  "intro": "META4.0 prepares engineers for the Industry 4.0 transition — smart manufacturing, industrial IoT, digital twins and data-driven production — across an Erasmus Mundus consortium of technical universities. Each year's call, including the exact closing date and scholarship places, is published on the programme site.",
+  "tags": [
+    "Erasmus Mundus",
+    "META4.0",
+    "Industry 4.0",
+    "Smart Manufacturing",
+    "IIoT",
+    "Fully Funded",
+    "Masters"
+  ],
+  "applyLink": "https://www.master-meta4-0.eu/",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "META4.0 Erasmus Mundus Master | Industry 4.0 Scholarships in Europe",
+  "seoDescription": "META4.0 Erasmus Mundus master in Industry 4.0 — smart manufacturing, industrial IoT and digital twins. Current call and deadline on the official programme page.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "FN6gEdwIduPaZrLTDbc8",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>META4.0 prepares engineers for the Industry 4.0 transition — smart manufacturing, industrial IoT, digital twins and data-driven production — across an Erasmus Mundus consortium of technical universities. Each year's call, including the exact closing date and scholarship places, is published on the programme site.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Industry 4.0 specialisation: IIoT, digital twins and smart production</li>\n <li>Mobility across European technical universities with industry projects</li>\n <li>Call-specific deadlines published annually on the official page</li>\n <li>Graduates enter manufacturing digitalisation, automation and industrial data roles</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Engineering graduates in mechanical, electrical, industrial and mechatronics disciplines with programming interest are the core applicants.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships for selected students per the live call.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Check the META4.0 website for the current call, then submit through the consortium's application form with the requested documents. Key deadline information: <strong>Current call and closing date published on the official programme page</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.master-meta4-0.eu/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

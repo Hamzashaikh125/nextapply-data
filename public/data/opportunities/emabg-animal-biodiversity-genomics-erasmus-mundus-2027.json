@@ -1,0 +1,82 @@
+{
+  "title": "EMABG – European Master in Animal Biodiversity and Genomics (Erasmus Mundus)",
+  "status": "published",
+  "slug": "emabg-animal-biodiversity-genomics-erasmus-mundus-2027",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "VClJOSGs9jh8GvgRzd7r",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.emabg.eu",
+    "about": "The EMABG consortium, coordinated centrally at BOKU Vienna, groups six European universities to deliver the Erasmus Mundus Joint Master in Animal Biodiversity and Genomics, with alumni across livestock and conservation genomics.",
+    "name": "EMABG Consortium (BOKU Vienna)",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=emabg.eu&sz=256",
+    "slug": "emabg-consortium-boku-vienna",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "VClJOSGs9jh8GvgRzd7r"
+  },
+  "regionId": "europe",
+  "countryCode": "AT",
+  "city": "Vienna (multi-country mobility)",
+  "deadline": "2027-01-15T22:59:59.999Z",
+  "deadlineType": "fixed",
+  "deadlineText": "15 January 2027 (EMJM scholarship round; applications opened 15 September 2026). Non-EU self-paying: 15 February 2027; EU self-paying: 15 April 2027",
+  "deadlineTimezone": "Europe/Vienna",
+  "degreeLevels": [
+    "masters"
+  ],
+  "disciplines": [
+    "genetics",
+    "animal_science",
+    "biodiversity",
+    "bioinformatics",
+    "agriculture"
+  ],
+  "subjects": [
+    "Animal breeding",
+    "Genomics",
+    "Biodiversity",
+    "Erasmus Mundus"
+  ],
+  "fundingType": "fully_funded",
+  "fundingStatus": "fully_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipend": "Around 15 Erasmus Mundus scholarships per intake: EUR 1,400 per month for 24 months plus tuition and insurance coverage.",
+  "stipendAmount": 1400,
+  "stipendCurrency": "EUR",
+  "stipendPeriod": "month",
+  "intro": "EMABG trains animal scientists in breeding, biodiversity and genomics across six consortium universities including BOKU Vienna, Wageningen, Göttingen, SLU, NMBU and AgroParisTech. The third-intake application round opened on 15 September 2026 and stays open until 15 January 2027, with roughly 15 fully funded Erasmus Mundus scholarships on offer.",
+  "tags": [
+    "Erasmus Mundus",
+    "EMABG",
+    "Animal Genomics",
+    "Biodiversity",
+    "Animal Breeding",
+    "Fully Funded",
+    "Masters"
+  ],
+  "applyLink": "https://www.emabg.eu/application/application-procedure/",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "EMABG Erasmus Mundus Master 2027 | Animal Biodiversity & Genomics Scholarships",
+  "seoDescription": "EMABG Erasmus Mundus master in animal biodiversity and genomics. EUR 1,400/month scholarships, ~15 per intake. Deadline 15 January 2027 via the official application portal.",
+  "ogImage": "",
+  "verificationStatus": "verified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "R3bwew7R9w6MNP7Y2HzP",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>EMABG trains animal scientists in breeding, biodiversity and genomics across six consortium universities including BOKU Vienna, Wageningen, Göttingen, SLU, NMBU and AgroParisTech. The third-intake application round opened on 15 September 2026 and stays open until 15 January 2027, with roughly 15 fully funded Erasmus Mundus scholarships on offer.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Six-university consortium spanning Austria, the Netherlands, Germany, Sweden, Norway and France</li>\n <li>EUR 1,400 monthly for 24 months, tuition and insurance included for scholarship holders</li>\n <li>Two-week study tracks at two consortium universities each</li>\n <li>Graduates enter livestock genomics, conservation genetics and breeding-industry R&D</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Backgrounds in animal science, biology, genetics, agriculture or biotechnology are welcomed, and applicants of any nationality can compete for the scholarship round. Note that students pre-finance initial travel before the first payment.</p>\n<h2>Funding and Costs</h2>\n<p>Around 15 Erasmus Mundus scholarships per intake: EUR 1,400 per month for 24 months plus tuition and insurance coverage.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Apply through the central EMABG office at BOKU by 15 January 2027 for scholarship consideration; self-funded rounds follow in February and April. Key deadline information: <strong>15 January 2027 (EMJM scholarship round; applications opened 15 September 2026). Non-EU self-paying: 15 February 2027; EU self-paying: 15 April 2027</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.emabg.eu/application/application-procedure/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

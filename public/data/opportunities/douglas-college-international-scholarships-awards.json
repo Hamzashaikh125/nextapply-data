@@ -1,0 +1,76 @@
+{
+  "title": "Douglas College – Scholarships and Awards for International Students (Canada)",
+  "status": "published",
+  "slug": "douglas-college-international-scholarships-awards",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "06MqQ01vkQ29pAywIEUI",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.douglascollege.ca",
+    "about": "Douglas College is a public college in Metro Vancouver offering diplomas and degrees, with entrance awards and scholarships for international students each semester.",
+    "name": "Douglas College",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=douglascollege.ca&sz=256",
+    "slug": "douglas-college",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "06MqQ01vkQ29pAywIEUI"
+  },
+  "regionId": "north_america",
+  "countryCode": "CA",
+  "city": "New Westminster (Metro Vancouver)",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Semester-based awards — apply with your admission application per the semester deadlines on the awards page",
+  "degreeLevels": [
+    "undergraduate"
+  ],
+  "disciplines": [
+    "all_subjects",
+    "business",
+    "nursing",
+    "computer_science",
+    "arts"
+  ],
+  "subjects": [
+    "Canada college awards",
+    "Entrance scholarships",
+    "British Columbia",
+    "Undergraduate"
+  ],
+  "fundingType": "partially_funded",
+  "fundingStatus": "partially_funded",
+  "fundingCoverage": {
+    "stipendProvided": false,
+    "tuitionCovered": false
+  },
+  "stipend": "Entrance awards and merit scholarships with values set per award; several are automatic at admission.",
+  "intro": "Douglas College in Metro Vancouver offers international students a set of entrance awards and merit scholarships tied to its semester intakes. The awards page lists each award's value, criteria and the semester deadlines, and several awards are assessed automatically with the admission application.",
+  "tags": [
+    "Douglas College",
+    "Canada Scholarships",
+    "College Awards",
+    "Vancouver",
+    "Undergraduate"
+  ],
+  "applyLink": "https://www.douglascollege.ca/fees-and-finances/awards-bursaries-and-scholarships/scholarships-and-awards-international-students",
+  "isFeatured": false,
+  "ieltsRequired": true,
+  "eligibility": "worldwide",
+  "seoTitle": "Douglas College International Scholarships | Awards in Metro Vancouver",
+  "seoDescription": "Douglas College scholarships and awards for international students — entrance and merit awards with semester-based deadlines on the official awards page.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "w3jTqCNJY73nhRvzJlGL",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>Douglas College in Metro Vancouver offers international students a set of entrance awards and merit scholarships tied to its semester intakes. The awards page lists each award's value, criteria and the semester deadlines, and several awards are assessed automatically with the admission application.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Semester-based intakes with matching award deadlines</li>\n <li>Mix of automatic and application-based awards</li>\n <li>Lower-tuition Canadian route with transfer options to universities</li>\n <li>Metro Vancouver location with co-op pathways</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>International applicants to Douglas College diploma and degree programmes, judged on admission-file strength for entrance awards.</p>\n<h2>Funding and Costs</h2>\n<p>Entrance awards and merit scholarships with values set per award; several are automatic at admission. Confirm the exact funding package on the official page before applying.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Check the international awards page for the semester you are targeting, then apply for admission and any listed award steps on time. Key deadline information: <strong>Semester-based awards — apply with your admission application per the semester deadlines on the awards page</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.douglascollege.ca/fees-and-finances/awards-bursaries-and-scholarships/scholarships-and-awards-international-students\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

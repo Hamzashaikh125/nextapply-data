@@ -1,0 +1,76 @@
+{
+  "title": "Study in Estonia – Programme Application via DreamApply (Listing 8503534)",
+  "status": "published",
+  "slug": "study-in-estonia-dreamapply-programme-8503534",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "83WqPNjfz62C1nheWatE",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://estonia.dreamapply.com",
+    "about": "Study in Estonia is the national gateway to Estonian higher education, using the DreamApply platform for direct applications to English-taught programmes with tuition-waiver options.",
+    "name": "Study in Estonia",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=dreamapply.com&sz=256",
+    "slug": "study-in-estonia",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "83WqPNjfz62C1nheWatE"
+  },
+  "regionId": "europe",
+  "countryCode": "EE",
+  "city": "Tallinn / Tartu",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Application windows per the listed programme — check the DreamApply course page for its closing date",
+  "degreeLevels": [
+    "masters"
+  ],
+  "disciplines": [
+    "all_subjects",
+    "computer_science",
+    "engineering",
+    "business"
+  ],
+  "subjects": [
+    "Estonian universities",
+    "Tuition waivers",
+    "DreamApply portal",
+    "Masters"
+  ],
+  "fundingType": "partially_funded",
+  "fundingStatus": "partially_funded",
+  "fundingCoverage": {
+    "stipendProvided": false,
+    "tuitionCovered": true
+  },
+  "stipend": "Estonian universities offer tuition-waiver places for strong applicants; scholarship conditions appear with each programme listing.",
+  "intro": "This DreamApply listing (ID 8503534) is part of the Study in Estonia application system, where international students apply directly to Estonian university programmes. Many Estonian programmes offer tuition-waiver places to top-ranked applicants, decided with the admission file rather than a separate scholarship form.",
+  "tags": [
+    "Study in Estonia",
+    "DreamApply",
+    "Estonia Scholarships",
+    "Tuition Waiver",
+    "Masters",
+    "Baltics"
+  ],
+  "applyLink": "https://estonia.dreamapply.com/courses/search/id/8503534-fq5fcx",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "Study in Estonia | DreamApply Programme Application (8503534)",
+  "seoDescription": "Apply to Estonian university programmes through DreamApply (listing 8503534). Tuition-waiver places for strong applicants; programme deadlines inside the portal.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "4Rj3kPktl5VgjBCUt9U9",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>This DreamApply listing (ID 8503534) is part of the Study in Estonia application system, where international students apply directly to Estonian university programmes. Many Estonian programmes offer tuition-waiver places to top-ranked applicants, decided with the admission file rather than a separate scholarship form.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Single-portal applications to Estonian universities</li>\n <li>Tuition-waiver places common for competitive applicants</li>\n <li>Programme-specific deadlines inside the DreamApply system</li>\n <li>English-taught degrees across IT, engineering and business fields</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Bachelor's graduates targeting English-taught Estonian master's programmes; requirements vary by programme within the listing.</p>\n<h2>Funding and Costs</h2>\n<p>Estonian universities offer tuition-waiver places for strong applicants; scholarship conditions appear with each programme listing. Confirm the exact funding package on the official page before applying.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Open the DreamApply listing, confirm the programme and its closing date, and complete the application inside the portal. Key deadline information: <strong>Application windows per the listed programme — check the DreamApply course page for its closing date</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://estonia.dreamapply.com/courses/search/id/8503534-fq5fcx\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

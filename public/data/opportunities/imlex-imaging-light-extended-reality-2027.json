@@ -1,0 +1,79 @@
+{
+  "title": "IMLEX – Master of Science in Imaging and Light in Extended Reality (Erasmus Mundus)",
+  "status": "published",
+  "slug": "imlex-imaging-light-extended-reality-2027",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "Tpzh9APhKYN2HNl6cnHR",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.imlex.org",
+    "about": "The IMLEX consortium is coordinated by the University of Eastern Finland and delivers the Erasmus Mundus master in Imaging and Light in Extended Reality with European and Japanese partners.",
+    "name": "IMLEX Consortium (University of Eastern Finland)",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=imlex.org&sz=256",
+    "slug": "imlex-consortium-university-of-eastern-finland",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "Tpzh9APhKYN2HNl6cnHR"
+  },
+  "regionId": "europe",
+  "countryCode": "FI",
+  "city": "Joensuu (multi-country mobility)",
+  "deadline": "2027-01-13T21:59:59.999Z",
+  "deadlineType": "fixed",
+  "deadlineText": "13 January 2027 (23:59 UTC+2); application window 2 December 2026 – 13 January 2027 via Studyinfo",
+  "deadlineTimezone": "Europe/Helsinki",
+  "degreeLevels": [
+    "masters"
+  ],
+  "disciplines": [
+    "photonics",
+    "computer_vision",
+    "extended_reality",
+    "optical_sensing",
+    "computer_science"
+  ],
+  "subjects": [
+    "Extended reality",
+    "Photonics",
+    "Lighting technology",
+    "Erasmus Mundus"
+  ],
+  "fundingType": "fully_funded",
+  "fundingStatus": "fully_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipend": "Full Erasmus Mundus scholarships for the best applicants: tuition coverage plus monthly allowance.",
+  "intro": "IMLEX combines photonics, lighting technology and computer science for extended-reality applications, coordinated from the University of Eastern Finland with Japanese industry ties through Yoshino Co. The next application round runs from 2 December 2026 to 13 January 2027 (23:59 UTC+2) via the national Studyinfo service.",
+  "tags": [
+    "Erasmus Mundus",
+    "IMLEX",
+    "Extended Reality",
+    "Photonics",
+    "University of Eastern Finland",
+    "Fully Funded",
+    "Masters"
+  ],
+  "applyLink": "https://www.imlex.org/how-to-apply/",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "IMLEX Erasmus Mundus Master 2027 | Imaging & Light in XR, Deadline 13 Jan 2027",
+  "seoDescription": "IMLEX Erasmus Mundus master in imaging and light for extended reality (Finland-Japan). Applications 2 Dec 2026 - 13 Jan 2027 (23:59 UTC+2). Full scholarships.",
+  "ogImage": "",
+  "verificationStatus": "verified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "SqQhF5PLB9YpGuNM5h4n",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>IMLEX combines photonics, lighting technology and computer science for extended-reality applications, coordinated from the University of Eastern Finland with Japanese industry ties through Yoshino Co. The next application round runs from 2 December 2026 to 13 January 2027 (23:59 UTC+2) via the national Studyinfo service.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>XR-plus-photonics specialisation with a Japanese industrial partner</li>\n <li>Six-week application window: 2 December 2026 – 13 January 2027</li>\n <li>Full Erasmus Mundus scholarships for the best-ranked applicants</li>\n <li>Graduates work in AR/VR engineering, lighting design and imaging systems</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Physics, photonics, computer science and electrical engineering graduates with programming basics fit the curriculum; the Studyinfo form carries the standard document set.</p>\n<h2>Funding and Costs</h2>\n<p>Full Erasmus Mundus scholarships for the best applicants: tuition coverage plus monthly allowance.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Apply through Studyinfo when the round opens on 2 December 2026 and submit before 13 January 2027 (23:59 UTC+2). Key deadline information: <strong>13 January 2027 (23:59 UTC+2); application window 2 December 2026 – 13 January 2027 via Studyinfo</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.imlex.org/how-to-apply/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

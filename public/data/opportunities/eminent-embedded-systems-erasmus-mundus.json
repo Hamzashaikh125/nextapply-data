@@ -1,0 +1,78 @@
+{
+  "title": "EMINENT – Erasmus Mundus Master in Embedded Systems",
+  "status": "published",
+  "slug": "eminent-embedded-systems-erasmus-mundus",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "E4JfR7laUX2j4L6wobMC",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://eminent-master.eu",
+    "about": "The EMINENT consortium delivers the Erasmus Mundus Joint Master in Embedded Systems with European technical universities and embedded-industry partners.",
+    "name": "EMINENT Consortium",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=eminent-master.eu&sz=256",
+    "slug": "eminent-consortium",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "E4JfR7laUX2j4L6wobMC"
+  },
+  "regionId": "europe",
+  "countryCode": "FR",
+  "city": "Multi-city (consortium)",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Current application dates published on the official programme page",
+  "degreeLevels": [
+    "masters"
+  ],
+  "disciplines": [
+    "embedded_systems",
+    "computer_engineering",
+    "electronics",
+    "cyber_physical_systems",
+    "real_time_systems"
+  ],
+  "subjects": [
+    "Embedded systems",
+    "Cyber-physical systems",
+    "Real-time computing",
+    "Erasmus Mundus"
+  ],
+  "fundingType": "fully_funded",
+  "fundingStatus": "fully_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipend": "Erasmus Mundus scholarships for selected students per the live call.",
+  "intro": "EMINENT is an Erasmus Mundus master dedicated to embedded and cyber-physical systems, delivered by a European consortium of technical universities. The programme page carries the live application dates, scholarship information and mobility structure for the next cohort.",
+  "tags": [
+    "Erasmus Mundus",
+    "EMINENT",
+    "Embedded Systems",
+    "Cyber-Physical Systems",
+    "Real-Time",
+    "Fully Funded",
+    "Masters"
+  ],
+  "applyLink": "https://eminent-master.eu/",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "EMINENT Erasmus Mundus Master | Embedded Systems Scholarships",
+  "seoDescription": "EMINENT Erasmus Mundus master in embedded systems — cyber-physical and real-time computing across European universities. Current application dates on the official page.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "6QFy9ZP0kyJAmwQnXlI4",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>EMINENT is an Erasmus Mundus master dedicated to embedded and cyber-physical systems, delivered by a European consortium of technical universities. The programme page carries the live application dates, scholarship information and mobility structure for the next cohort.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Embedded-systems specialisation with real-time and hardware-software co-design</li>\n <li>Industry-linked projects across the consortium's technology partners</li>\n <li>Application dates announced per cohort on the official site</li>\n <li>Graduates enter automotive, aerospace, telecom and semiconductor R&D</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Electrical, computer and software engineering graduates with strong C/RTOS and systems fundamentals fit the curriculum.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships for selected students per the live call.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Follow the EMINENT website for the live call and submit through the consortium's admission form. Key deadline information: <strong>Current application dates published on the official programme page</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://eminent-master.eu/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Albanian University – Scholarships for International and Domestic Students",
+  "status": "published",
+  "slug": "albanian-university-scholarships",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "eahdtCsWVmA9dLCCs8jP",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://albanianuniversity.edu.al",
+    "about": "Albanian University is a private higher-education institution in Tirana offering programmes in health sciences, law, economics and engineering, with an annual scholarship scheme.",
+    "name": "Albanian University",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=albanianuniversity.edu.al&sz=256",
+    "slug": "albanian-university",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "eahdtCsWVmA9dLCCs8jP"
+  },
+  "regionId": "europe",
+  "countryCode": "AL",
+  "city": "Tirana",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Call-specific deadlines published on the university's scholarships page",
+  "degreeLevels": [
+    "undergraduate",
+    "masters"
+  ],
+  "disciplines": [
+    "all_subjects",
+    "health_sciences",
+    "business",
+    "law",
+    "engineering"
+  ],
+  "subjects": [
+    "Albania scholarships",
+    "Merit awards",
+    "Balkans study",
+    "Tuition support"
+  ],
+  "fundingType": "partially_funded",
+  "fundingStatus": "partially_funded",
+  "fundingCoverage": {
+    "stipendProvided": false,
+    "tuitionCovered": true
+  },
+  "stipend": "Merit-based tuition reductions and full-fee awards depending on the call and study programme.",
+  "intro": "Albanian University in Tirana offers scholarships and fee reductions across its health sciences, law, business and engineering programmes for domestic and international students. The scholarships page lists the current calls, criteria and application steps for each academic year.",
+  "tags": [
+    "Albanian University",
+    "Albania Scholarships",
+    "Balkans",
+    "Tirana",
+    "Tuition Support"
+  ],
+  "applyLink": "https://albanianuniversity.edu.al/en/scholarships/",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "Albanian University Scholarships | Tuition Awards in Tirana",
+  "seoDescription": "Albanian University scholarships — merit tuition awards and fee reductions across health sciences, law, business and engineering. Current calls on the scholarships page.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "O3IXc3OcxKObD3uvW7RP",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>Albanian University in Tirana offers scholarships and fee reductions across its health sciences, law, business and engineering programmes for domestic and international students. The scholarships page lists the current calls, criteria and application steps for each academic year.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Tirana-based private university with multi-faculty programmes</li>\n <li>Merit tuition awards and fee reductions</li>\n <li>Call-specific application windows</li>\n <li>Affordable Balkans study destination with English-taught options in some programmes</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Prospective undergraduate and master's students meeting the call's academic criteria; international applicants should confirm language of instruction per programme.</p>\n<h2>Funding and Costs</h2>\n<p>Merit-based tuition reductions and full-fee awards depending on the call and study programme. Confirm the exact funding package on the official page before applying.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Review the scholarships page, choose the relevant call, and submit the requested documents before its deadline. Key deadline information: <strong>Call-specific deadlines published on the university's scholarships page</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://albanianuniversity.edu.al/en/scholarships/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

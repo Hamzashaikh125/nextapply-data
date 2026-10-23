@@ -1,0 +1,78 @@
+{
+  "title": "FAMEAIS – Erasmus Mundus Master in Functional Advanced Materials Engineering with AI for Sustainability",
+  "status": "published",
+  "slug": "fameais-functional-advanced-materials-engineering-2027",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "S2Xat94NRjWF9o5PLu7A",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.fame-master.eu",
+    "about": "The FAMEAIS consortium delivers the Erasmus Mundus Joint Master in Functional Advanced Materials Engineering with Artificial Intelligence for Sustainability, coordinated from UCLouvain with Grenoble INP, TU Darmstadt, Augsburg and Aveiro.",
+    "name": "FAMEAIS Consortium (UCLouvain)",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=fame-master.eu&sz=256",
+    "slug": "fameais-consortium-uclouvain",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "S2Xat94NRjWF9o5PLu7A"
+  },
+  "regionId": "europe",
+  "countryCode": "BE",
+  "city": "Louvain-la-Neuve (multi-country mobility)",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Application deadline falls in January for the following autumn (annual cycle) — exact date on the admissions page",
+  "degreeLevels": [
+    "masters"
+  ],
+  "disciplines": [
+    "materials_engineering",
+    "materials_science",
+    "machine_learning",
+    "sustainable_materials",
+    "nanotechnology"
+  ],
+  "subjects": [
+    "Advanced materials",
+    "AI for materials",
+    "Sustainability",
+    "Erasmus Mundus"
+  ],
+  "fundingType": "fully_funded",
+  "fundingStatus": "fully_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipend": "Erasmus Mundus scholarships for selected students: participation costs plus monthly allowance.",
+  "intro": "FAMEAIS is the renewed FAME+ Erasmus Mundus programme — functional advanced materials engineering now with artificial intelligence for sustainability — organised by UCLouvain, Grenoble INP, TU Darmstadt, Augsburg and Aveiro. Its application round closes in January each year, with the exact date on the admissions page.",
+  "tags": [
+    "Erasmus Mundus",
+    "FAMEAIS",
+    "Advanced Materials",
+    "AI Materials Design",
+    "UCLouvain",
+    "Fully Funded",
+    "Masters"
+  ],
+  "applyLink": "https://www.fame-master.eu/admissions/selection-process/",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "FAMEAIS Erasmus Mundus Master 2027 | Advanced Materials Engineering with AI",
+  "seoDescription": "FAMEAIS Erasmus Mundus master in functional advanced materials engineering with AI for sustainability. January scholarship deadline per the official admissions page.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "PG8PccM7rc9oF5j3lV5Q",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>FAMEAIS is the renewed FAME+ Erasmus Mundus programme — functional advanced materials engineering now with artificial intelligence for sustainability — organised by UCLouvain, Grenoble INP, TU Darmstadt, Augsburg and Aveiro. Its application round closes in January each year, with the exact date on the admissions page.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Twenty-year FAME tradition renewed with an AI-for-sustainability layer</li>\n <li>Five-university consortium across Belgium, France, Germany and Portugal</li>\n <li>January closing pattern for the scholarship round</li>\n <li>Graduates in materials R&D, energy materials and AI-driven design</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Materials, chemistry, physics and engineering graduates are the core audience; programming interest helps with the new AI components.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships for selected students: participation costs plus monthly allowance.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Check the FAMEAIS admissions page for the January cut-off and apply through the consortium form. Key deadline information: <strong>Application deadline falls in January for the following autumn (annual cycle) — exact date on the admissions page</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.fame-master.eu/admissions/selection-process/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

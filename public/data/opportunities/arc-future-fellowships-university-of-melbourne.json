@@ -1,0 +1,75 @@
+{
+  "title": "ARC Future Fellowships – University of Melbourne / Australian Research Council",
+  "status": "published",
+  "slug": "arc-future-fellowships-university-of-melbourne",
+  "isOpen": true,
+  "category": "fellowship",
+  "organizationId": "aEcG4nSTL14HsDkfohl7",
+  "organization": {
+    "createdAt": "2026-09-22T23:32:59.984Z",
+    "website": "https://www.unimelb.edu.au",
+    "about": "The University of Melbourne is a public research university in Victoria, Australia, and a member of the Group of Eight. It offers undergraduate, graduate and doctoral education across health, science, engineering, business, law and the arts. Its academic community supports research and collaboration addressing scientific questions and challenges in society.",
+    "name": "University of Melbourne",
+    "programCount": 1,
+    "logoUrl": "https://d33wubrfki0l68.cloudfront.net/0f65866bb86b0123413b7210f00820e417617f6a/a69de/assets/logos/melbourne.png",
+    "slug": "university-of-melbourne",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "aEcG4nSTL14HsDkfohl7"
+  },
+  "regionId": "oceania",
+  "countryCode": "AU",
+  "city": "Melbourne",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Scheme rounds run through Australian host universities — calls announced by the ARC",
+  "degreeLevels": [
+    "postdoctoral"
+  ],
+  "disciplines": [
+    "all_disciplines",
+    "research",
+    "science",
+    "social_science"
+  ],
+  "subjects": [
+    "Research fellowships",
+    "Australia funding",
+    "Mid-career researchers",
+    "ARC schemes"
+  ],
+  "fundingType": "fully_funded",
+  "fundingStatus": "fully_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipend": "Four-year fellowship salary plus project funding, administered through the host university per the ARC scheme rules.",
+  "intro": "ARC Future Fellowships are four-year mid-career research fellowships funded by the Australian Research Council and hosted by Australian universities such as Melbourne. Applications are submitted by the university on the researcher's behalf during scheme rounds announced by the ARC, so prospective applicants should engage their target school or institute first.",
+  "tags": [
+    "ARC Future Fellowships",
+    "Australia",
+    "Research Fellowship",
+    "University of Melbourne",
+    "Mid-career Researchers"
+  ],
+  "applyLink": "https://sites.research.unimelb.edu.au/research-funding/arc/future-fellowships",
+  "isFeatured": false,
+  "ieltsRequired": true,
+  "eligibility": "worldwide",
+  "seoTitle": "ARC Future Fellowships | Mid-Career Research Funding at Australian Universities",
+  "seoDescription": "ARC Future Fellowships: four-year fellowships for mid-career researchers hosted by Australian universities. Scheme rounds announced by the ARC — engage a host school early.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "vXBfnFcuuhtpKRDntITf",
+  "opportunityType": "fellowship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>ARC Future Fellowships are four-year mid-career research fellowships funded by the Australian Research Council and hosted by Australian universities such as Melbourne. Applications are submitted by the university on the researcher's behalf during scheme rounds announced by the ARC, so prospective applicants should engage their target school or institute first.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Prestigious four-year fellowship for mid-career researchers</li>\n <li>Salary plus project support administered via the host university</li>\n <li>Scheme rounds announced by the ARC with fixed submission dates</li>\n <li>Pathway into permanent Australian academic positions</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Researchers typically eight to fifteen years post-PhD with a strong publication record; eligibility rules including Australian residency requirements are set by the ARC guidelines.</p>\n<h2>Funding and Costs</h2>\n<p>Four-year fellowship salary plus project funding, administered through the host university per the ARC scheme rules.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Contact the research office of the target university (Melbourne's research-funding page lists support), then follow the ARC round timeline when announced. Key deadline information: <strong>Scheme rounds run through Australian host universities — calls announced by the ARC</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://sites.research.unimelb.edu.au/research-funding/arc/future-fellowships\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

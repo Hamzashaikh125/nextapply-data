@@ -1,0 +1,79 @@
+{
+  "title": "EU4M – Erasmus Mundus Joint Master in Mechatronic Engineering",
+  "status": "published",
+  "slug": "eu4m-mechatronic-engineering-erasmus-mundus-2027",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "oGW2FwRolzLfqCEfgPJ2",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.eu4m.eu",
+    "about": "The EU4M consortium delivers the Erasmus Mundus Joint Master in Mechatronic Engineering from Besançon with European partner universities, focusing on instrumentation, control and micro-engineering.",
+    "name": "EU4M Consortium",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=eu4m.eu&sz=256",
+    "slug": "eu4m-consortium",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "oGW2FwRolzLfqCEfgPJ2"
+  },
+  "regionId": "europe",
+  "countryCode": "FR",
+  "city": "Besançon (multi-country mobility)",
+  "deadline": "2027-01-15T22:59:59.999Z",
+  "deadlineType": "fixed",
+  "deadlineText": "15 January 2027 (scholarship round, expected); applications open for the 2027 intake",
+  "deadlineTimezone": "Europe/Paris",
+  "degreeLevels": [
+    "masters"
+  ],
+  "disciplines": [
+    "mechatronics",
+    "control_systems",
+    "robotics",
+    "electronic_engineering",
+    "mechanical_engineering"
+  ],
+  "subjects": [
+    "Mechatronics",
+    "Instrumentation",
+    "Erasmus Mundus",
+    "Embedded systems"
+  ],
+  "fundingType": "fully_funded",
+  "fundingStatus": "fully_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipend": "Erasmus Mundus scholarships for selected students: participation costs plus monthly allowance and travel support.",
+  "intro": "EU4M is the Erasmus Mundus master in mechatronic engineering coordinated from ENSMM Besançon with mobility through Spanish and German partner campuses. Scholarship rounds in recent cycles closed on 15 January, and the 2027 intake application window is already being promoted by the consortium.",
+  "tags": [
+    "Erasmus Mundus",
+    "EU4M",
+    "Mechatronics",
+    "Robotics",
+    "Precision Engineering",
+    "Fully Funded",
+    "Masters"
+  ],
+  "applyLink": "https://www.eu4m.eu/",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "EU4M Erasmus Mundus Master 2027 | Mechatronic Engineering Scholarships",
+  "seoDescription": "EU4M Erasmus Mundus joint master in mechatronic engineering. Scholarship round expected 15 January 2027. Fully funded mobility across France, Spain and Germany.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "f2R5Hu7EyyA9w2tkzg5s",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>EU4M is the Erasmus Mundus master in mechatronic engineering coordinated from ENSMM Besançon with mobility through Spanish and German partner campuses. Scholarship rounds in recent cycles closed on 15 January, and the 2027 intake application window is already being promoted by the consortium.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Micro-engineering and mechatronics focus tied to the Besançon watchmaking-tech cluster</li>\n <li>Mid-January scholarship deadline pattern across recent cycles</li>\n <li>Mobility across French, Spanish and German partner universities</li>\n <li>Graduates enter precision engineering, robotics and industrial automation</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Mechanical, electrical and mechatronics engineering graduates are the core applicants, with English documentation per the consortium checklist.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships for selected students: participation costs plus monthly allowance and travel support.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Track the EU4M website for the 2027 application form and submit before the mid-January scholarship cut-off. Key deadline information: <strong>15 January 2027 (scholarship round, expected); applications open for the 2027 intake</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.eu4m.eu/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

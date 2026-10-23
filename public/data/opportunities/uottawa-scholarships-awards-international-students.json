@@ -1,0 +1,74 @@
+{
+  "title": "University of Ottawa – Scholarships and Awards Overview",
+  "status": "published",
+  "slug": "uottawa-scholarships-awards-international-students",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "6feL4GYUk1DNv7qgKZIn",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.uottawa.ca",
+    "about": "The University of Ottawa is Canada's largest bilingual university, offering admission scholarships and international tuition exemptions across a broad programme portfolio.",
+    "name": "University of Ottawa",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=uottawa.ca&sz=256",
+    "slug": "university-of-ottawa",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "6feL4GYUk1DNv7qgKZIn"
+  },
+  "regionId": "north_america",
+  "countryCode": "CA",
+  "city": "Ottawa",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Award deadlines vary by programme and award type — see the official scholarships overview",
+  "degreeLevels": [
+    "masters",
+    "phd",
+    "undergraduate"
+  ],
+  "disciplines": [
+    "all_subjects"
+  ],
+  "subjects": [
+    "Canada scholarships",
+    "Entrance awards",
+    "Graduate funding",
+    "Ottawa"
+  ],
+  "fundingType": "partially_funded",
+  "fundingStatus": "partially_funded",
+  "fundingCoverage": {
+    "stipendProvided": false,
+    "tuitionCovered": false
+  },
+  "stipend": "Admission scholarships and differentiated tuition exemptions for international students; graduate awards vary by faculty.",
+  "intro": "The University of Ottawa's scholarships page consolidates entrance awards, international-student tuition exemptions and graduate funding options. Many awards are automatic at admission, while competitive awards follow their own deadlines listed on the overview page.",
+  "tags": [
+    "University of Ottawa",
+    "Canada Scholarships",
+    "Tuition Exemption",
+    "Graduate Funding",
+    "Undergraduate Awards"
+  ],
+  "applyLink": "https://www.uottawa.ca/study/fees-financial-support/scholarships-awards-overview",
+  "isFeatured": false,
+  "ieltsRequired": true,
+  "eligibility": "worldwide",
+  "seoTitle": "University of Ottawa Scholarships | Awards for International Students",
+  "seoDescription": "University of Ottawa scholarships and awards overview — admission scholarships, international tuition exemptions and graduate funding. Deadlines vary by award.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "9b7PPfUGJnlxyVMUWzHa",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>The University of Ottawa's scholarships page consolidates entrance awards, international-student tuition exemptions and graduate funding options. Many awards are automatic at admission, while competitive awards follow their own deadlines listed on the overview page.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Automatic admission scholarships for strong international files</li>\n <li>Differential tuition-fee exemption scholarships for international students</li>\n <li>Graduate-specific awards administered by faculties</li>\n <li>Bilingual institution with a large scholarship portfolio</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Prospective undergraduate and graduate students applying to uOttawa programmes; eligibility and values differ by level and faculty.</p>\n<h2>Funding and Costs</h2>\n<p>Admission scholarships and differentiated tuition exemptions for international students; graduate awards vary by faculty. Confirm the exact funding package on the official page before applying.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Review the scholarships-and-awards overview, identify the awards tied to your level, and check any separate application steps before the programme deadline. Key deadline information: <strong>Award deadlines vary by programme and award type — see the official scholarships overview</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.uottawa.ca/study/fees-financial-support/scholarships-awards-overview\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

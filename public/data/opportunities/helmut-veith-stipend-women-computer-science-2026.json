@@ -1,0 +1,81 @@
+{
+  "title": "Helmut Veith Stipend – Master's Funding for Women in Computer Science (TU Wien)",
+  "status": "published",
+  "slug": "helmut-veith-stipend-women-computer-science-2026",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "NOYJM4uPTZY9PNyC4L4X",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.vcla.at",
+    "about": "The Vienna Center for Logic and Algorithms at TU Wien coordinates the Helmut Veith Stipend, supporting women in computer science within Vienna's logic and algorithms research environment.",
+    "name": "Vienna Center for Logic and Algorithms (VCLA)",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=vcla.at&sz=256",
+    "slug": "vienna-center-for-logic-and-algorithms-vcla",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "NOYJM4uPTZY9PNyC4L4X"
+  },
+  "regionId": "europe",
+  "countryCode": "AT",
+  "city": "Vienna",
+  "deadline": "2026-11-30T22:59:59.999Z",
+  "deadlineType": "fixed",
+  "deadlineText": "30 November (annual deadline)",
+  "deadlineTimezone": "Europe/Vienna",
+  "degreeLevels": [
+    "masters"
+  ],
+  "disciplines": [
+    "computer_science",
+    "logic",
+    "artificial_intelligence",
+    "theoretical_computer_science"
+  ],
+  "subjects": [
+    "Women in CS",
+    "Vienna",
+    "Master's funding",
+    "Logic and computation"
+  ],
+  "fundingType": "fully_funded",
+  "fundingStatus": "fully_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipend": "EUR 7,000 per year towards living costs plus full tuition waiver for the two-year master's programme.",
+  "stipendAmount": 7000,
+  "stipendCurrency": "EUR",
+  "stipendPeriod": "year",
+  "intro": "The Helmut Veith Stipend honours the late TU Wien professor by funding outstanding women pursuing a master's in computer science at TU Wien, with emphasis on logic, computation and its applications. The annual deadline is 30 November, making the 2026 round a near-term target.",
+  "tags": [
+    "Helmut Veith Stipend",
+    "Women in STEM",
+    "TU Wien",
+    "Computer Science",
+    "Austria",
+    "Fully Funded",
+    "Masters"
+  ],
+  "applyLink": "https://www.vcla.at/helmut-veith-stipend/",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "Helmut Veith Stipend 2026 | EUR 7,000/yr for Women in CS at TU Wien",
+  "seoDescription": "Helmut Veith Stipend: EUR 7,000 per year plus tuition waiver for women in computer science at TU Wien. Annual deadline 30 November via the VCLA application.",
+  "ogImage": "",
+  "verificationStatus": "verified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "DxmxfeaCfOSLk4xiWnJj",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>The Helmut Veith Stipend honours the late TU Wien professor by funding outstanding women pursuing a master's in computer science at TU Wien, with emphasis on logic, computation and its applications. The annual deadline is 30 November, making the 2026 round a near-term target.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>EUR 7,000 per year plus a full tuition waiver</li>\n <li>Dedicated to women entering TU Wien's CS master's programme</li>\n <li>Fixed annual deadline of 30 November</li>\n <li>Connected to Vienna's logic-and-computation research community</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Female applicants to the TU Wien master of computer science with excellent academic records and motivation aligned with logic and computation areas.</p>\n<h2>Funding and Costs</h2>\n<p>EUR 7,000 per year towards living costs plus full tuition waiver for the two-year master's programme.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Apply through the VCLA page by 30 November with the listed documents — admission to the programme is part of the process. Key deadline information: <strong>30 November (annual deadline)</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.vcla.at/helmut-veith-stipend/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

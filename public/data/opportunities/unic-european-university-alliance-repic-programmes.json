@@ -1,0 +1,77 @@
+{
+  "title": "UNIC – European University Alliance Programmes (REPIC and more)",
+  "status": "published",
+  "slug": "unic-european-university-alliance-repic-programmes",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "sBhMuZQDhnBYW6n0XPuP",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.unic.eu",
+    "about": "UNIC is a European Universities alliance of ten comprehensive universities committed to inclusive higher education, superdiversity and collaborative research and teaching programmes across Europe.",
+    "name": "UNIC European University Alliance",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=unic.eu&sz=256",
+    "slug": "unic-european-university-alliance",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "sBhMuZQDhnBYW6n0XPuP"
+  },
+  "regionId": "europe",
+  "countryCode": "BE",
+  "city": "Multi-city (10 European universities)",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Multiple calls per year — each course, workshop and call carries its own deadline on the UNIC portal",
+  "degreeLevels": [
+    "masters",
+    "phd"
+  ],
+  "disciplines": [
+    "all_subjects",
+    "social_sciences",
+    "education",
+    "sustainability_transitions"
+  ],
+  "subjects": [
+    "University alliance",
+    "Student mobility",
+    "Workshops",
+    "Collaborative programmes"
+  ],
+  "fundingType": "partially_funded",
+  "fundingStatus": "partially_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": false
+  },
+  "stipend": "Mobility support and grants depend on the specific call; most student programmes are run through home-university funding.",
+  "intro": "UNIC is a European university alliance of ten universities from cities including Bochum, Cork, Rotterdam, Bilbao, Koper, Liège, Zagreb, Ankara, Helsinki and Malmö. Beyond joint degrees, its REPIC and related programmes publish rolling calls for courses, workshops, winter/summer schools and staff-student exchanges through the year.",
+  "tags": [
+    "UNIC",
+    "European University Alliance",
+    "Student Mobility",
+    "REPIC",
+    "Workshops",
+    "Europe"
+  ],
+  "applyLink": "https://4euplus.eu/4EU-984.html",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "UNIC European University Alliance | REPIC & Mobility Programmes",
+  "seoDescription": "UNIC European University Alliance (10 universities) publishes rolling calls for courses, workshops and mobility programmes. Check the UNIC portal for current deadlines.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "21CdEXqNfmemkS9pu13E",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>UNIC is a European university alliance of ten universities from cities including Bochum, Cork, Rotterdam, Bilbao, Koper, Liège, Zagreb, Ankara, Helsinki and Malmö. Beyond joint degrees, its REPIC and related programmes publish rolling calls for courses, workshops, winter/summer schools and staff-student exchanges through the year.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Ten-university alliance with continuous call calendar</li>\n <li>REPIC and allied programmes fund collaborative courses and mobility</li>\n <li>Deadlines are call-specific rather than annual</li>\n <li>Useful channel for students already enrolled at a UNIC member university</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Most UNIC calls target students and staff already enrolled or employed at member universities, so check your home institution's eligibility route first.</p>\n<h2>Funding and Costs</h2>\n<p>Mobility support and grants depend on the specific call; most student programmes are run through home-university funding. Confirm the exact funding package on the official page before applying.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Browse the UNIC opportunities page and follow the individual call instructions; each lists its own deadline and application route. Key deadline information: <strong>Multiple calls per year — each course, workshop and call carries its own deadline on the UNIC portal</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://4euplus.eu/4EU-984.html\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

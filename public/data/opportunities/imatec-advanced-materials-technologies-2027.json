@@ -1,0 +1,78 @@
+{
+  "title": "IMATEC – Erasmus Mundus Master in Advanced Materials and Technologies",
+  "status": "published",
+  "slug": "imatec-advanced-materials-technologies-2027",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "kUlkFxiQp61jZfCybVnh",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.imatec-mundus.eu",
+    "about": "The IMATEC consortium delivers the Erasmus Mundus Joint Master in Advanced Materials and Technologies with European universities and industrial associates.",
+    "name": "IMATEC Consortium",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=imatec-mundus.eu&sz=256",
+    "slug": "imatec-consortium",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "kUlkFxiQp61jZfCybVnh"
+  },
+  "regionId": "europe",
+  "countryCode": "PT",
+  "city": "Multi-city (consortium)",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Admissions round and closing date published on the official admissions page",
+  "degreeLevels": [
+    "masters"
+  ],
+  "disciplines": [
+    "materials_science",
+    "materials_engineering",
+    "nanotechnology",
+    "manufacturing",
+    "characterisation"
+  ],
+  "subjects": [
+    "Advanced materials",
+    "Manufacturing technologies",
+    "Characterisation",
+    "Erasmus Mundus"
+  ],
+  "fundingType": "fully_funded",
+  "fundingStatus": "fully_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipend": "Erasmus Mundus scholarships for selected students per the live call.",
+  "intro": "IMATEC is an Erasmus Mundus master in advanced materials and technologies, combining materials design, processing and characterisation across a European consortium. Its admissions page carries the current call, eligibility list and scholarship arrangements for the next cohort.",
+  "tags": [
+    "Erasmus Mundus",
+    "IMATEC",
+    "Advanced Materials",
+    "Manufacturing",
+    "Materials Characterisation",
+    "Fully Funded",
+    "Masters"
+  ],
+  "applyLink": "https://www.imatec-mundus.eu/admissions/",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "IMATEC Erasmus Mundus Master | Advanced Materials & Technologies",
+  "seoDescription": "IMATEC Erasmus Mundus master in advanced materials and technologies. Admissions round, scholarship details and deadline on the official admissions page.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "MoBWDao9F6njk2zGKyIX",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>IMATEC is an Erasmus Mundus master in advanced materials and technologies, combining materials design, processing and characterisation across a European consortium. Its admissions page carries the current call, eligibility list and scholarship arrangements for the next cohort.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Materials-to-manufacturing pipeline with industrial partners</li>\n <li>Characterisation-lab training across consortium campuses</li>\n <li>Admissions round announced annually on the official page</li>\n <li>Careers in materials R&D, manufacturing innovation and doctoral study</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Materials science, mechanical and chemical engineering graduates fit the entry profile, with laboratory experience valued.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships for selected students per the live call.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Check the IMATEC admissions page and submit the application form with the listed documents during the live round. Key deadline information: <strong>Admissions round and closing date published on the official admissions page</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.imatec-mundus.eu/admissions/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

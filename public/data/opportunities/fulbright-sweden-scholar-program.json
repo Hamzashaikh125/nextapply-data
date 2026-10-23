@@ -1,0 +1,77 @@
+{
+  "title": "Fulbright Sweden Scholar Program",
+  "status": "published",
+  "slug": "fulbright-sweden-scholar-program",
+  "isOpen": true,
+  "category": "fellowship",
+  "organizationId": "lDdV0oHo4UYXcLcDbQZa",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.fulbright.se",
+    "about": "The Fulbright Commission in Sweden administers the US-Sweden Fulbright exchange, including scholar programs that fund Swedish academics for research and lecturing in the United States.",
+    "name": "Fulbright Sweden",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=fulbright.se&sz=256",
+    "slug": "fulbright-sweden",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "lDdV0oHo4UYXcLcDbQZa"
+  },
+  "regionId": "europe",
+  "countryCode": "SE",
+  "city": "Stockholm (host institutions in the USA)",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Annual call — the closing date for the next cycle is published on the Fulbright Sweden programme page",
+  "degreeLevels": [
+    "postdoctoral",
+    "phd"
+  ],
+  "disciplines": [
+    "all_disciplines",
+    "research",
+    "social_sciences",
+    "science",
+    "humanities"
+  ],
+  "subjects": [
+    "Fulbright",
+    "Sweden to USA",
+    "Research fellowship",
+    "Scholar exchange"
+  ],
+  "fundingType": "partially_funded",
+  "fundingStatus": "partially_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": false
+  },
+  "stipend": "Fulbright grant covering living stipend, travel and insurance components; host-institution salary arrangements vary by award.",
+  "intro": "The Fulbright Sweden Scholar Program sends Swedish researchers and lecturers to US institutions for lecturing and research stays under the bilateral Fulbright agreement. Each year's call, with its closing date and discipline-specific awards, is published on the Fulbright Sweden site.",
+  "tags": [
+    "Fulbright Sweden",
+    "Scholar Program",
+    "USA Exchange",
+    "Research Fellowship",
+    "Swedish Researchers"
+  ],
+  "applyLink": "https://www.fulbright.se/scholar-program/",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "Fulbright Sweden Scholar Program | Research Stays in the USA",
+  "seoDescription": "Fulbright Sweden Scholar Program funds Swedish researchers and lecturers for US lecturing and research stays. Annual call — closing date on the official programme page.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "rab5XEoaQ7YCDSn433Ca",
+  "opportunityType": "fellowship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>The Fulbright Sweden Scholar Program sends Swedish researchers and lecturers to US institutions for lecturing and research stays under the bilateral Fulbright agreement. Each year's call, with its closing date and discipline-specific awards, is published on the Fulbright Sweden site.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Prestigious bilateral exchange for Swedish academics going to the USA</li>\n <li>Award variants across disciplines and career stages</li>\n <li>J-1 visa sponsorship under the Fulbright framework</li>\n <li>Alumni network spanning Swedish academia</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Researchers and lecturers affiliated with Swedish institutions planning US stays; specific awards set their own seniority and citizenship requirements.</p>\n<h2>Funding and Costs</h2>\n<p>Fulbright grant covering living stipend, travel and insurance components; host-institution salary arrangements vary by award. Confirm the exact funding package on the official page before applying.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Review the Scholar Program page for the current call, note the closing date, and prepare the Fulbright application materials it lists. Key deadline information: <strong>Annual call — the closing date for the next cycle is published on the Fulbright Sweden programme page</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.fulbright.se/scholar-program/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

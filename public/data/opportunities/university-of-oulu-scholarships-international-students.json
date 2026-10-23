@@ -1,0 +1,75 @@
+{
+  "title": "University of Oulu – Tuition Fees and Scholarships for International Applicants",
+  "status": "published",
+  "slug": "university-of-oulu-scholarships-international-students",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "V7ihw9zVdXrP63mLg8B2",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.oulu.fi",
+    "about": "The University of Oulu is a Finnish research university strong in technology, natural sciences and health, offering English-taught master's programmes with an automatic scholarship scheme for non-EU/EEA students.",
+    "name": "University of Oulu",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=oulu.fi&sz=256",
+    "slug": "university-of-oulu",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "V7ihw9zVdXrP63mLg8B2"
+  },
+  "regionId": "europe",
+  "countryCode": "FI",
+  "city": "Oulu",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Scholarships are awarded with admission; the international master's application window typically runs November – mid-January",
+  "degreeLevels": [
+    "masters"
+  ],
+  "disciplines": [
+    "computer_science",
+    "engineering",
+    "all_subjects",
+    "natural_sciences"
+  ],
+  "subjects": [
+    "Tuition waivers",
+    "Finland scholarships",
+    "International masters",
+    "Scholarship policy"
+  ],
+  "fundingType": "partially_funded",
+  "fundingStatus": "partially_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipend": "Oulu scholarships range from 50% to 100% tuition waivers, with a limited number of 100% waivers plus annual stipends for top-ranked applicants.",
+  "intro": "The University of Oulu awards scholarships to non-EU/EEA master's applicants automatically during admission — no separate application is needed. Waivers range from 50% to 100% of tuition, and the strongest candidates can receive a 100% waiver combined with a yearly stipend. The application window for international programmes typically runs from November to mid-January.",
+  "tags": [
+    "University of Oulu",
+    "Finland Scholarships",
+    "Tuition Waiver",
+    "Masters",
+    "Study in Finland"
+  ],
+  "applyLink": "https://www.oulu.fi/en/apply/how-apply/university-oulu-tuition-fees-and-scholarships-for-international-applicants",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "University of Oulu Scholarships 2027 | Tuition Waivers for International Students",
+  "seoDescription": "University of Oulu scholarships for international master's applicants: 50-100% tuition waivers with stipend options, awarded automatically with admission each winter.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "vzYCpnu7a37KxJdFelSC",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>The University of Oulu awards scholarships to non-EU/EEA master's applicants automatically during admission — no separate application is needed. Waivers range from 50% to 100% of tuition, and the strongest candidates can receive a 100% waiver combined with a yearly stipend. The application window for international programmes typically runs from November to mid-January.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>No separate scholarship form — assessed with the admission application</li>\n <li>50-100% tuition waivers, with stipend-linked awards for top candidates</li>\n <li>Finnish joint application window in winter for a September start</li>\n <li>Strong technology and natural-science programme portfolio</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Non-EU/EEA applicants to Oulu's international master's programmes; eligibility follows admission to an eligible programme with tuition liability.</p>\n<h2>Funding and Costs</h2>\n<p>Oulu scholarships range from 50% to 100% tuition waivers, with a limited number of 100% waivers plus annual stipends for top-ranked applicants. Confirm the exact funding package on the official page before applying.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Check the Oulu scholarships page for the current window and criteria, then submit your study application through Studyinfo during the window. Key deadline information: <strong>Scholarships are awarded with admission; the international master's application window typically runs November – mid-January</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.oulu.fi/en/apply/how-apply/university-oulu-tuition-fees-and-scholarships-for-international-applicants\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

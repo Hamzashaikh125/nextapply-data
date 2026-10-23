@@ -1,0 +1,77 @@
+{
+  "title": "Aalto University – Scholarships and Tuition Fees for International Students",
+  "status": "published",
+  "slug": "aalto-university-scholarships-tuition-fees",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "iJWx7MwnxOqXcG7V5aYA",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.aalto.fi",
+    "about": "Aalto University combines technology, business, art and design on one campus in Espoo, Finland, and funds international master's students through automatic tuition scholarships.",
+    "name": "Aalto University",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=aalto.fi&sz=256",
+    "slug": "aalto-university",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "iJWx7MwnxOqXcG7V5aYA"
+  },
+  "regionId": "europe",
+  "countryCode": "FI",
+  "city": "Espoo (Helsinki)",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Scholarship is assessed with the master's admission application; window typically December – mid-January",
+  "degreeLevels": [
+    "masters"
+  ],
+  "disciplines": [
+    "engineering",
+    "business",
+    "design",
+    "computer_science",
+    "all_subjects"
+  ],
+  "subjects": [
+    "Finland scholarships",
+    "Tuition waivers",
+    "Aalto University",
+    "Masters funding"
+  ],
+  "fundingType": "partially_funded",
+  "fundingStatus": "partially_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": false
+  },
+  "stipend": "Aalto scholarships cover 50% or 100% of tuition; the Aalto Honorary Scholarship adds a EUR 5,000 grant for top-ranked admitted students.",
+  "intro": "Aalto University awards scholarships to non-EU/EEA master's applicants automatically as part of the admission application — no separate form. Awards cover 50% or 100% of tuition, and the best-ranked admitted students receive the Aalto Honorary Scholarship worth EUR 5,000 on top of a full waiver. The master's application window typically runs from December to mid-January.",
+  "tags": [
+    "Aalto University",
+    "Finland Scholarships",
+    "Tuition Waiver",
+    "Honorary Scholarship",
+    "Masters",
+    "Study in Finland"
+  ],
+  "applyLink": "https://www.aalto.fi/en/admission-services/scholarships-and-tuition-fees",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "Aalto University Scholarships 2027 | Tuition Waivers for International Masters",
+  "seoDescription": "Aalto University scholarships for non-EU/EEA master's applicants: 50-100% tuition waivers plus the EUR 5,000 Honorary Scholarship, assessed automatically with admission.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "5UtfGMyCOKBpuplYoxTj",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>Aalto University awards scholarships to non-EU/EEA master's applicants automatically as part of the admission application — no separate form. Awards cover 50% or 100% of tuition, and the best-ranked admitted students receive the Aalto Honorary Scholarship worth EUR 5,000 on top of a full waiver. The master's application window typically runs from December to mid-January.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Automatic scholarship consideration with admission — no extra form</li>\n <li>50% or 100% tuition coverage, plus the EUR 5,000 Honorary Scholarship</li>\n <li>One of Europe's top design-, business- and tech-focused universities</li>\n <li>December-to-January application rhythm for September intake</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Non-EU/EEA applicants to Aalto's English-taught master's programmes, ranked on academic merit within each programme.</p>\n<h2>Funding and Costs</h2>\n<p>Aalto scholarships cover 50% or 100% of tuition; the Aalto Honorary Scholarship adds a EUR 5,000 grant for top-ranked admitted students. Confirm the exact funding package on the official page before applying.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Submit your study application through Studyinfo during the winter window; the scholarship decision arrives with the admission result. Key deadline information: <strong>Scholarship is assessed with the master's admission application; window typically December – mid-January</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.aalto.fi/en/admission-services/scholarships-and-tuition-fees\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

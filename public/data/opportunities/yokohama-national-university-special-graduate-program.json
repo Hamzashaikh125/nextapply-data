@@ -1,0 +1,78 @@
+{
+  "title": "Yokohama National University – Special Graduate Program (All-English, Japan)",
+  "status": "published",
+  "slug": "yokohama-national-university-special-graduate-program",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "b58hoDWYsfc2uP0CBH0V",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.urban.ynu.ac.jp",
+    "about": "Yokohama National University runs a special all-English graduate program in urban innovation and engineering through its Faculty of Urban Innovation, with scholarship-linked admissions.",
+    "name": "Yokohama National University",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=ynu.ac.jp&sz=256",
+    "slug": "yokohama-national-university",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "b58hoDWYsfc2uP0CBH0V"
+  },
+  "regionId": "asia",
+  "countryCode": "JP",
+  "city": "Yokohama",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Application guideline with the exact closing date is published annually on the programme page",
+  "degreeLevels": [
+    "masters",
+    "phd"
+  ],
+  "disciplines": [
+    "urban_engineering",
+    "civil_engineering",
+    "architecture",
+    "environmental_engineering",
+    "transport_studies"
+  ],
+  "subjects": [
+    "All-English program",
+    "Japan engineering",
+    "MEXT-linked admission",
+    "Yokohama"
+  ],
+  "fundingType": "fully_funded",
+  "fundingStatus": "fully_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipend": "MEXT-linked scholarship slots through the special programme: tuition waiver plus monthly stipend for selected candidates.",
+  "intro": "Yokohama National University's Special Graduate Program in urban innovation and related engineering fields lets international students earn master's and doctoral degrees entirely in English, with MEXT-linked scholarship slots attached to the admission round. The application guideline, including the closing date, is published annually on the programme page.",
+  "tags": [
+    "Yokohama National University",
+    "YNU",
+    "All-English Program",
+    "MEXT",
+    "Urban Innovation",
+    "Study in Japan"
+  ],
+  "applyLink": "https://www.urban.ynu.ac.jp/english/all-english-program/special-graduate-program/application-guideline.html",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "YNU Special Graduate Program | All-English Engineering Masters/PhD in Japan",
+  "seoDescription": "Yokohama National University's all-English special graduate program in urban innovation with MEXT-linked scholarship slots. Annual application guideline on the programme page.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "lRR7hmQHUVB09dJYXdyS",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>Yokohama National University's Special Graduate Program in urban innovation and related engineering fields lets international students earn master's and doctoral degrees entirely in English, with MEXT-linked scholarship slots attached to the admission round. The application guideline, including the closing date, is published annually on the programme page.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>All-English graduate education in urban innovation and engineering</li>\n <li>MEXT scholarship routes integrated with admission</li>\n <li>YNU's strength in infrastructure, disaster resilience and urban planning</li>\n <li>Annual guideline with a defined closing date</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Engineering, architecture and planning graduates targeting English-medium Japanese graduate study with funding.</p>\n<h2>Funding and Costs</h2>\n<p>MEXT-linked scholarship slots through the special programme: tuition waiver plus monthly stipend for selected candidates.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Download the current application guideline from the programme page and follow its document list and closing date precisely. Key deadline information: <strong>Application guideline with the exact closing date is published annually on the programme page</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.urban.ynu.ac.jp/english/all-english-program/special-graduate-program/application-guideline.html\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

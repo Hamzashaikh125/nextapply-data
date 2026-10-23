@@ -1,0 +1,76 @@
+{
+  "title": "Durham University – Inspiring Excellence Scholarships (International)",
+  "status": "published",
+  "slug": "durham-inspiring-excellence-scholarships",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "DGU1hxE5bLLKjC40asxS",
+  "organization": {
+    "createdAt": "2026-10-11T02:55:46.749Z",
+    "website": "https://www.durham.ac.uk",
+    "about": "Durham University is a collegiate public research university in northeast England and a member of the Russell Group. It offers undergraduate, postgraduate and doctoral education across science, business, humanities and social sciences. Its colleges and departments support study and research, connecting disciplinary scholarship with international collaboration and broader societal questions.",
+    "name": "Durham University",
+    "logoUrl": "https://admituni.ai/assets/universities/durham-university-8a42732d9f2b776ec32c9a1f1fc535ba82b2c73b0185997c38c32569bea4c537.png",
+    "slug": "durham-university",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "programCount": 1,
+    "id": "DGU1hxE5bLLKjC40asxS"
+  },
+  "regionId": "europe",
+  "countryCode": "GB",
+  "city": "Durham",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Considered with your course application — deadlines follow each programme's admission round",
+  "degreeLevels": [
+    "masters"
+  ],
+  "disciplines": [
+    "all_subjects",
+    "business",
+    "law",
+    "engineering",
+    "social_sciences"
+  ],
+  "subjects": [
+    "UK masters scholarships",
+    "Durham University",
+    "Merit awards",
+    "Postgraduate funding"
+  ],
+  "fundingType": "partially_funded",
+  "fundingStatus": "partially_funded",
+  "fundingCoverage": {
+    "stipendProvided": false,
+    "tuitionCovered": false
+  },
+  "stipend": "Partial tuition-fee awards for international taught-postgraduate applicants, values listed per programme.",
+  "intro": "Durham's Inspiring Excellence Scholarships are merit awards for international students applying to taught master's programmes. Awards are considered alongside your course application, so the practical deadline is the admission round of your chosen programme, with values and eligibility listed on Durham's scholarships page.",
+  "tags": [
+    "Durham University",
+    "UK Scholarships",
+    "Masters Funding",
+    "Merit Awards",
+    "Study in UK"
+  ],
+  "applyLink": "https://www.durham.ac.uk/study/scholarships/international/durham-inspiring-excellence-scholarships/",
+  "isFeatured": false,
+  "ieltsRequired": true,
+  "eligibility": "worldwide",
+  "seoTitle": "Durham Inspiring Excellence Scholarships | International Masters Funding",
+  "seoDescription": "Durham University Inspiring Excellence Scholarships for international taught-master's students — merit awards assessed with your course application. Details on the official page.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "xoa87MWaoyFEFedvQ9BN",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>Durham's Inspiring Excellence Scholarships are merit awards for international students applying to taught master's programmes. Awards are considered alongside your course application, so the practical deadline is the admission round of your chosen programme, with values and eligibility listed on Durham's scholarships page.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Merit-based partial fee awards across Durham's faculties</li>\n <li>No separate form in most cases — assessed with admission</li>\n <li>Programme-level deadlines rather than one central date</li>\n <li>Strengthens the UK postgraduate offer for self-funding students</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>International applicants holding offers for Durham taught master's programmes with strong academic records.</p>\n<h2>Funding and Costs</h2>\n<p>Partial tuition-fee awards for international taught-postgraduate applicants, values listed per programme. Confirm the exact funding package on the official page before applying.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Check the scholarship page for your programme's award and apply for admission in good time; any separate steps are listed there. Key deadline information: <strong>Considered with your course application — deadlines follow each programme's admission round</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.durham.ac.uk/study/scholarships/international/durham-inspiring-excellence-scholarships/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

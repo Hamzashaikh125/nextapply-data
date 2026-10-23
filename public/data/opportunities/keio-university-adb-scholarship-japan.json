@@ -1,0 +1,77 @@
+{
+  "title": "Keio University – ADB Scholarship for Graduate Programs (Japan)",
+  "status": "published",
+  "slug": "keio-university-adb-scholarship-japan",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "INFLDWJMdweH9dy65rZQ",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.keio.ac.jp",
+    "about": "Keio University is Japan's oldest private university, with graduate schools in economics, business, media and governance that participate in the ADB-Japan Scholarship Program.",
+    "name": "Keio University",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=keio.ac.jp&sz=256",
+    "slug": "keio-university",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "INFLDWJMdweH9dy65rZQ"
+  },
+  "regionId": "asia",
+  "countryCode": "JP",
+  "city": "Tokyo",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "ADB-JSP rounds at Keio close several months before the September intake — dates on the scholarship page",
+  "degreeLevels": [
+    "masters"
+  ],
+  "disciplines": [
+    "economics",
+    "business",
+    "public_policy",
+    "media_governance",
+    "development_studies"
+  ],
+  "subjects": [
+    "ADB-JSP",
+    "Japan masters",
+    "Keio University",
+    "Fully funded"
+  ],
+  "fundingType": "fully_funded",
+  "fundingStatus": "fully_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipend": "Full ADB-JSP package: tuition, monthly subsistence allowance, housing, books and medical insurance, plus air travel.",
+  "intro": "Keio University participates in the ADB-Japan Scholarship Program, offering fully funded master's study at its graduate schools in economics, business, public policy and media and governance. Candidates apply to Keio's graduate admissions with an ADB-JSP expression, and the scholarship rounds close several months before the September intake.",
+  "tags": [
+    "Keio University",
+    "ADB Scholarship",
+    "ADB-JSP",
+    "Japan Masters",
+    "Fully Funded",
+    "Tokyo"
+  ],
+  "applyLink": "https://www.keio.ac.jp/en/st/admissions-en/scholarships/adb/",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "Keio University ADB Scholarship 2027 | Fully Funded Masters in Tokyo",
+  "seoDescription": "Keio University ADB-Japan Scholarship Program: fully funded master's study in Tokyo for ADB member-country nationals. Round deadlines on the Keio scholarship page.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "nFustZlGeATVlcPGyIWV",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>Keio University participates in the ADB-Japan Scholarship Program, offering fully funded master's study at its graduate schools in economics, business, public policy and media and governance. Candidates apply to Keio's graduate admissions with an ADB-JSP expression, and the scholarship rounds close several months before the September intake.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Japan's oldest private university hosting ADB-JSP scholars</li>\n <li>Full funding: tuition, stipend, housing allowance, insurance and travel</li>\n <li>For nationals of ADB developing member countries</li>\n <li>Application windows set by the graduate schools per intake</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>ADB member-country nationals with a bachelor's degree and at least two years of relevant work experience, admitted to an eligible Keio master's programme.</p>\n<h2>Funding and Costs</h2>\n<p>Full ADB-JSP package: tuition, monthly subsistence allowance, housing, books and medical insurance, plus air travel.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Check the Keio ADB scholarship page and the relevant graduate school's admissions calendar, then prepare both admission and scholarship documents together. Key deadline information: <strong>ADB-JSP rounds at Keio close several months before the September intake — dates on the scholarship page</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.keio.ac.jp/en/st/admissions-en/scholarships/adb/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

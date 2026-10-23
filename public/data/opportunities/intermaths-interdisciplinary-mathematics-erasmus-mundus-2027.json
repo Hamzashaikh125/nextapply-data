@@ -1,0 +1,78 @@
+{
+  "title": "InterMaths – Erasmus Mundus Joint Master in Interdisciplinary Mathematics",
+  "status": "published",
+  "slug": "intermaths-interdisciplinary-mathematics-erasmus-mundus-2027",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "zFKIxzhif2msCIkNiFvT",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.intermaths.eu",
+    "about": "The InterMaths consortium, anchored at the University of L'Aquila, delivers the Erasmus Mundus Joint Master in Interdisciplinary Mathematics with European partners and double-degree options.",
+    "name": "InterMaths Consortium (University of L'Aquila)",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=intermaths.eu&sz=256",
+    "slug": "intermaths-consortium-university-of-l-aquila",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "zFKIxzhif2msCIkNiFvT"
+  },
+  "regionId": "europe",
+  "countryCode": "IT",
+  "city": "L'Aquila (multi-country mobility)",
+  "deadline": "2027-02-25T12:00:00.000Z",
+  "deadlineType": "fixed",
+  "deadlineText": "25 February 2027 (13:00 CET, scholarship round, expected — the 2026 round closed on this date and time)",
+  "deadlineTimezone": "Europe/Rome",
+  "degreeLevels": [
+    "masters"
+  ],
+  "disciplines": [
+    "mathematics",
+    "mathematical_sciences",
+    "computational_science",
+    "data_science",
+    "biomedical_engineering"
+  ],
+  "subjects": [
+    "Mathematical modelling",
+    "Simulation",
+    "Biomedical applications",
+    "Erasmus Mundus"
+  ],
+  "fundingType": "fully_funded",
+  "fundingStatus": "fully_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipend": "Erasmus Mundus scholarships for selected students: tuition coverage plus a monthly allowance.",
+  "intro": "InterMaths is an Erasmus Mundus joint master in mathematical modelling and simulation with applications in biomedical sciences and industrial engineering, coordinated from the University of L'Aquila. The 2026 scholarship round closed on 25 February at 13:00 CET, and the 2027 round is expected to use the same date, giving maths applicants a relatively late deadline.",
+  "tags": [
+    "Erasmus Mundus",
+    "InterMaths",
+    "Applied Mathematics",
+    "Mathematical Modelling",
+    "Fully Funded",
+    "Masters"
+  ],
+  "applyLink": "https://www.intermaths.eu/erasmus-mundus/apply#application-form",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "InterMaths Erasmus Mundus Master 2027 | Interdisciplinary Mathematics Scholarships",
+  "seoDescription": "InterMaths Erasmus Mundus joint master in interdisciplinary mathematics. Scholarship round expected 25 February 2027 (13:00 CET). Fully funded maths master in Europe.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "4z1rsAMtRpAY68yVZvix",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>InterMaths is an Erasmus Mundus joint master in mathematical modelling and simulation with applications in biomedical sciences and industrial engineering, coordinated from the University of L'Aquila. The 2026 scholarship round closed on 25 February at 13:00 CET, and the 2027 round is expected to use the same date, giving maths applicants a relatively late deadline.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Applied mathematics programme with biomedical and industrial modelling tracks</li>\n <li>Late-February scholarship deadline — useful for applicants still gathering documents</li>\n <li>Double-degree structure across consortium universities</li>\n <li>Foundation semester available to homogenise competencies before the main curriculum</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Mathematics and applied mathematics graduates (physics and engineering applicants with strong maths are also considered); a short teaching or research statement forms part of the file.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships for selected students: tuition coverage plus a monthly allowance.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Submit through the InterMaths online tool before the late-February cut-off and check the consortium's news page for the official 2027 announcement. Key deadline information: <strong>25 February 2027 (13:00 CET, scholarship round, expected — the 2026 round closed on this date and time)</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.intermaths.eu/erasmus-mundus/apply#application-form\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

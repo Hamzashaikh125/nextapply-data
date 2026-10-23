@@ -1,0 +1,82 @@
+{
+  "title": "SuCat – Erasmus Mundus Master in Sustainable Catalysis",
+  "status": "published",
+  "slug": "sucat-sustainable-catalysis-erasmus-mundus-2027",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "ayFTQqgURb6Ap4mSpW5a",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.master-sucat.eu",
+    "about": "The SuCat consortium delivers the Erasmus Mundus Joint Master in Sustainable Catalysis with a consortium led from Rovira i Virgili University and European partner institutions specialised in homogeneous and heterogeneous catalysis.",
+    "name": "SuCat Consortium",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=master-sucat.eu&sz=256",
+    "slug": "sucat-consortium",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "ayFTQqgURb6Ap4mSpW5a"
+  },
+  "regionId": "europe",
+  "countryCode": "ES",
+  "city": "Tarragona (multi-country mobility)",
+  "deadline": "2027-02-19T22:59:59.999Z",
+  "deadlineType": "fixed",
+  "deadlineText": "19 February 2027 (23:59 Brussels time, expected); application portal opens 23 October 2026",
+  "deadlineTimezone": "Europe/Brussels",
+  "degreeLevels": [
+    "masters"
+  ],
+  "disciplines": [
+    "catalysis",
+    "chemistry",
+    "green_chemistry",
+    "chemical_engineering",
+    "sustainable_chemistry"
+  ],
+  "subjects": [
+    "Sustainable catalysis",
+    "Green chemistry",
+    "Erasmus Mundus",
+    "Homogeneous catalysis"
+  ],
+  "fundingType": "fully_funded",
+  "fundingStatus": "fully_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipend": "Erasmus Mundus scholarships for selected students: tuition coverage plus a monthly allowance (around EUR 1,400).",
+  "stipendAmount": 1400,
+  "stipendCurrency": "EUR",
+  "stipendPeriod": "month",
+  "intro": "SuCat is the Erasmus Mundus master in sustainable catalysis delivered by a consortium including Rovira i Virgili University in Tarragona, now opening its application portal on 23 October 2026 for the 2027-2029 intake. The last round closed on 19 February (23:59 Brussels time), a date the 2027 round is expected to mirror.",
+  "tags": [
+    "Erasmus Mundus",
+    "SuCat",
+    "Sustainable Catalysis",
+    "Green Chemistry",
+    "Fully Funded",
+    "Masters",
+    "Spain"
+  ],
+  "applyLink": "https://www.master-sucat.eu/how-to-apply/",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "SuCat Erasmus Mundus Master 2027 | Sustainable Catalysis Scholarships",
+  "seoDescription": "Erasmus Mundus SuCat master in sustainable catalysis. Portal opens 23 October 2026; expected scholarship deadline 19 February 2027. Fully funded chemistry master in Europe.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "vIKp9c7M37hswFA6YxVe",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>SuCat is the Erasmus Mundus master in sustainable catalysis delivered by a consortium including Rovira i Virgili University in Tarragona, now opening its application portal on 23 October 2026 for the 2027-2029 intake. The last round closed on 19 February (23:59 Brussels time), a date the 2027 round is expected to mirror.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Specialised catalysis training with green-chemistry and industry relevance</li>\n <li>Portal for the 2027-2029 intake opens 23 October 2026</li>\n <li>Scholarship round historically closes on 19 February (23:59 Brussels time)</li>\n <li>30 places per edition with laboratory-heavy, research-driven training</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Chemistry, chemical engineering and biochemistry graduates with strong organic and physical chemistry fundamentals are the natural applicants.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships for selected students: tuition coverage plus a monthly allowance (around EUR 1,400).</p>\n<h2>Deadline and How to Apply</h2>\n<p>Create your application on the SuCat site after 23 October 2026 and target the February scholarship deadline with reference letters ready early. Key deadline information: <strong>19 February 2027 (23:59 Brussels time, expected); application portal opens 23 October 2026</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.master-sucat.eu/how-to-apply/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

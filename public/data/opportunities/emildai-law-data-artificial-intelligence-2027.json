@@ -1,0 +1,79 @@
+{
+  "title": "EMILDAI – Erasmus Mundus Master in Law, Data and Artificial Intelligence",
+  "status": "published",
+  "slug": "emildai-law-data-artificial-intelligence-2027",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "NOuI7Tio2b1T8YxVaDuS",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://emildai.eu",
+    "about": "The EMILDAI consortium is coordinated by Avignon Université and delivers the Erasmus Mundus Joint Master in Law, Data and Artificial Intelligence with six European partner universities.",
+    "name": "EMILDAI Consortium (Avignon Université)",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=emildai.eu&sz=256",
+    "slug": "emildai-consortium-avignon-universit",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "NOuI7Tio2b1T8YxVaDuS"
+  },
+  "regionId": "europe",
+  "countryCode": "FR",
+  "city": "Avignon (multi-country mobility)",
+  "deadline": "2027-01-25T22:59:59.999Z",
+  "deadlineType": "fixed",
+  "deadlineText": "25 January 2027 (expected — applications open November 2026; the 2026-2028 round closed 25 January 2026)",
+  "deadlineTimezone": "Europe/Paris",
+  "degreeLevels": [
+    "masters"
+  ],
+  "disciplines": [
+    "law",
+    "data_protection",
+    "artificial_intelligence",
+    "cybersecurity",
+    "ethics"
+  ],
+  "subjects": [
+    "AI law",
+    "Data governance",
+    "Privacy engineering",
+    "Erasmus Mundus"
+  ],
+  "fundingType": "fully_funded",
+  "fundingStatus": "fully_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipend": "Scholarships for the first round: partial fee waivers and EMJM-funded places depending on the edition.",
+  "intro": "EMILDAI sits at the crossroads of law, data protection and AI, offered by six partner universities led from Avignon. Applications for the 2027/2029 editions open in November 2026; the previous round closed on 25 January 2026, a date the new cycle is expected to mirror.",
+  "tags": [
+    "Erasmus Mundus",
+    "EMILDAI",
+    "AI Law",
+    "Data Protection",
+    "Data Governance",
+    "Fully Funded",
+    "Masters"
+  ],
+  "applyLink": "https://emildai.eu/",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "EMILDAI Erasmus Mundus Master 2027 | Law, Data & AI Scholarships",
+  "seoDescription": "EMILDAI Erasmus Mundus master in law, data and artificial intelligence. Applications open November 2026; expected deadline 25 January 2027. Fully funded places.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "GmQQFslXra3gC4Dn516o",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>EMILDAI sits at the crossroads of law, data protection and AI, offered by six partner universities led from Avignon. Applications for the 2027/2029 editions open in November 2026; the previous round closed on 25 January 2026, a date the new cycle is expected to mirror.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Six-university consortium at the law-AI-data interface</li>\n <li>November 2026 opening with a late-January closing pattern</li>\n <li>Study tracks in data governance, AI law and cybersecurity</li>\n <li>Graduates enter privacy offices, AI-regulation roles and tech policy</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Law and computing graduates are both admitted, with study tracks designed for each stream; the consortium values interdisciplinary motivation.</p>\n<h2>Funding and Costs</h2>\n<p>Scholarships for the first round: partial fee waivers and EMJM-funded places depending on the edition.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Apply on the EMILDAI site once the November window opens and target the late-January scholarship deadline. Key deadline information: <strong>25 January 2027 (expected — applications open November 2026; the 2026-2028 round closed 25 January 2026)</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://emildai.eu/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

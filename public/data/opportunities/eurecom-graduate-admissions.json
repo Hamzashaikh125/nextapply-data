@@ -1,0 +1,78 @@
+{
+  "title": "EURECOM – Graduate Admissions (Digital Science and Engineering, France)",
+  "status": "published",
+  "slug": "eurecom-graduate-admissions",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "12EAvC4r946vnGapLnlE",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://admission.eurecom.fr",
+    "about": "EURECOM is a French graduate school and research centre in digital science, part of the Sophia Antipolis ecosystem, with master's programmes and a doctoral school co-funded by industry partners.",
+    "name": "EURECOM",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=eurecom.fr&sz=256",
+    "slug": "eurecom",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "12EAvC4r946vnGapLnlE"
+  },
+  "regionId": "europe",
+  "countryCode": "FR",
+  "city": "Biot (Sophia Antipolis)",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Rolling PhD admissions; taught-programme rounds close per the admission portal for each intake",
+  "degreeLevels": [
+    "masters",
+    "phd"
+  ],
+  "disciplines": [
+    "computer_science",
+    "telecommunications",
+    "cybersecurity",
+    "data_science",
+    "artificial_intelligence"
+  ],
+  "subjects": [
+    "France engineering school",
+    "Digital science",
+    "Graduate admission",
+    "Sophia Antipolis"
+  ],
+  "fundingType": "partially_funded",
+  "fundingStatus": "partially_funded",
+  "fundingCoverage": {
+    "stipendProvided": false,
+    "tuitionCovered": true
+  },
+  "stipend": "Merit-based tuition waivers and lab-funded PhD contracts; details per programme on the admission portal.",
+  "intro": "EURECOM, based in the Sophia Antipolis technology park near Nice, runs graduate programmes in digital science — AI, cybersecurity, telecommunications and data — plus doctoral studies with its labs and industrial partners. Its admission portal manages both taught-programme rounds and rolling PhD recruitment.",
+  "tags": [
+    "EURECOM",
+    "France Masters",
+    "Digital Science",
+    "Cybersecurity",
+    "AI",
+    "Telecommunications"
+  ],
+  "applyLink": "https://admission.eurecom.fr/home",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "EURECOM Graduate Admissions | Digital Science Masters & PhD in France",
+  "seoDescription": "EURECOM (Sophia Antipolis, France) graduate admissions in AI, cybersecurity, telecommunications and data science — programme rounds and PhD recruitment on the admission portal.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "3sH2ylKr3cX4tMmOlVuI",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>EURECOM, based in the Sophia Antipolis technology park near Nice, runs graduate programmes in digital science — AI, cybersecurity, telecommunications and data — plus doctoral studies with its labs and industrial partners. Its admission portal manages both taught-programme rounds and rolling PhD recruitment.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Specialised digital-science graduate school with strong industry links</li>\n <li>PhD contracts funded through labs and partner companies</li>\n <li>Merit tuition waivers for competitive applicants</li>\n <li>French Riviera location with European tech-ecosystem access</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Engineering and computer-science graduates targeting AI, security, networking and data specialisations.</p>\n<h2>Funding and Costs</h2>\n<p>Merit-based tuition waivers and lab-funded PhD contracts; details per programme on the admission portal. Confirm the exact funding package on the official page before applying.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Create an account on the EURECOM admission portal, choose your programme, and follow the round dates and document checklist shown there. Key deadline information: <strong>Rolling PhD admissions; taught-programme rounds close per the admission portal for each intake</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://admission.eurecom.fr/home\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

@@ -1,0 +1,78 @@
+{
+  "title": "EPFL School of Life Sciences Summer Research Program (SV SRP)",
+  "status": "published",
+  "slug": "epfl-life-sciences-summer-research-program-2027",
+  "isOpen": true,
+  "category": "internship",
+  "organizationId": "Yc7oiUPdOhuKjOMBUpV8",
+  "organization": {
+    "createdAt": "2026-10-22T00:13:50.000Z",
+    "website": "https://www.epfl.ch",
+    "about": "EPFL (Ecole Polytechnique Federale de Lausanne) is one of Europe's leading technical universities on the Lake Geneva shore. Its doctoral programs - including the EDBB in biotechnology and bioengineering - employ doctoral candidates on Swiss contracts and concentrate research across engineering, life sciences and physical sciences.",
+    "name": "EPFL",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=epfl.ch&sz=256",
+    "slug": "epfl",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "Yc7oiUPdOhuKjOMBUpV8"
+  },
+  "regionId": "europe",
+  "countryCode": "CH",
+  "city": "Lausanne",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Application window for summer 2027 typically opens in November and closes in early December 2026 — confirm on the SV SRP page",
+  "degreeLevels": [
+    "undergraduate",
+    "masters"
+  ],
+  "disciplines": [
+    "life_sciences",
+    "biology",
+    "bioengineering",
+    "biotechnology",
+    "neuroscience"
+  ],
+  "subjects": [
+    "Summer internship",
+    "Life sciences research",
+    "Switzerland internship",
+    "Paid research"
+  ],
+  "fundingType": "fully_funded",
+  "fundingStatus": "fully_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipend": "Paid internship with accommodation assistance and travel support per the programme's standard package.",
+  "intro": "EPFL's School of Life Sciences Summer Research Program places bachelor's and master's students in EPFL laboratories on Lake Geneva for a paid summer of research. The application window for the 2027 edition typically opens in November and closes in early December 2026, in line with recent editions.",
+  "tags": [
+    "EPFL",
+    "Summer Research",
+    "Life Sciences Internship",
+    "Switzerland",
+    "Paid Internship",
+    "Undergraduate"
+  ],
+  "applyLink": "https://www.epfl.ch/schools/sv/education/summer-research-program/",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "EPFL SV Summer Research Program 2027 | Paid Life Sciences Internship",
+  "seoDescription": "EPFL School of Life Sciences Summer Research Program — paid internships in Swiss labs for bachelor/master students. 2027 window expected November-early December 2026.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "Kkz24uvrfLyuEACUmuDe",
+  "opportunityType": "internship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>EPFL's School of Life Sciences Summer Research Program places bachelor's and master's students in EPFL laboratories on Lake Geneva for a paid summer of research. The application window for the 2027 edition typically opens in November and closes in early December 2026, in line with recent editions.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Eight-week paid research internship in world-class EPFL labs</li>\n <li>Stipend plus accommodation and travel assistance</li>\n <li>Strong stepping stone toward EPFL doctoral admissions</li>\n <li>Applications cluster in a short November-December window</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Second- and third-year bachelor students and master's students in life sciences and related fields, with strong academic records and lab interest.</p>\n<h2>Funding and Costs</h2>\n<p>Paid internship with accommodation assistance and travel support per the programme's standard package.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Watch the EPFL SV Summer Research Program page and submit through the online form as soon as the 2027 window opens. Key deadline information: <strong>Application window for summer 2027 typically opens in November and closes in early December 2026 — confirm on the SV SRP page</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.epfl.ch/schools/sv/education/summer-research-program/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

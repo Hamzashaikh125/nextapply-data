@@ -1,0 +1,78 @@
+{
+  "title": "HBKU Admissions – Hamad Bin Khalifa University Graduate Programs (Qatar)",
+  "status": "published",
+  "slug": "hbku-graduate-admissions-qatar",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "RWX3cD2qX8ObPUegUT9K",
+  "organization": {
+    "createdAt": "2026-09-22T23:33:03.776Z",
+    "website": "https://www.hbku.edu.qa",
+    "about": "Hamad Bin Khalifa University is a Qatar Foundation member university based in Education City, Doha. HBKU offers academic programmes and research opportunities across fields including science, engineering, health, law, public policy and Islamic studies. Its interdisciplinary approach connects education with research addressing regional needs and broader scientific and societal challenges.",
+    "name": "Hamad Bin Khalifa University",
+    "programCount": 1,
+    "logoUrl": "https://images.seeklogo.com/logo-png/55/1/hamad-bin-khalifa-university-logo-png_seeklogo-554748.png",
+    "slug": "hamad-bin-khalifa-university",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "RWX3cD2qX8ObPUegUT9K"
+  },
+  "regionId": "middle_east",
+  "countryCode": "QA",
+  "city": "Doha",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Priority and final rounds per programme — dates published on the HBKU admissions portal",
+  "degreeLevels": [
+    "masters",
+    "phd"
+  ],
+  "disciplines": [
+    "computer_science",
+    "law",
+    "sustainability_transitions",
+    "health_sciences",
+    "engineering"
+  ],
+  "subjects": [
+    "Qatar graduate school",
+    "Full scholarships",
+    "HBKU",
+    "Education City"
+  ],
+  "fundingType": "fully_funded",
+  "fundingStatus": "fully_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipend": "Full scholarships for admitted students typically cover tuition, accommodation and other support components, per the admissions page.",
+  "intro": "Hamad Bin Khalifa University, part of Qatar Foundation's Education City in Doha, offers funded master's and PhD programmes across computing, law, sustainability, health and engineering colleges. Its admissions portal lists priority and final rounds for each intake, with generous scholarship packages for admitted students.",
+  "tags": [
+    "HBKU",
+    "Qatar Scholarships",
+    "Fully Funded",
+    "Graduate Admissions",
+    "Education City",
+    "Doha"
+  ],
+  "applyLink": "https://www.hbku.edu.qa/en/admissions",
+  "isFeatured": false,
+  "ieltsRequired": true,
+  "eligibility": "worldwide",
+  "seoTitle": "HBKU Admissions 2027 | Fully Funded Graduate Programs in Qatar",
+  "seoDescription": "Hamad Bin Khalifa University (Doha, Qatar) graduate admissions with full scholarship packages across computing, law, sustainability and health. Priority rounds on the admissions portal.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "vL5lytzQneIqxEMgcpGP",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>Hamad Bin Khalifa University, part of Qatar Foundation's Education City in Doha, offers funded master's and PhD programmes across computing, law, sustainability, health and engineering colleges. Its admissions portal lists priority and final rounds for each intake, with generous scholarship packages for admitted students.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Fully funded graduate scholarships at Education City, Doha</li>\n <li>Colleges spanning computing, law, public policy, sustainability and health</li>\n <li>Priority and final admission rounds per programme</li>\n <li>Research ties to Qatar Foundation institutes and industry</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Bachelor's and master's graduates targeting English-taught Gulf-region graduate study with funding; programme prerequisites vary by college.</p>\n<h2>Funding and Costs</h2>\n<p>Full scholarships for admitted students typically cover tuition, accommodation and other support components, per the admissions page.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Open the HBKU admissions page, select your programme, and submit within the priority round where possible for scholarship consideration. Key deadline information: <strong>Priority and final rounds per programme — dates published on the HBKU admissions portal</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.hbku.edu.qa/en/admissions\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

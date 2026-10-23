@@ -1,0 +1,78 @@
+{
+  "title": "UNITE CODaS – Erasmus Mundus Master in Communications Engineering and Data Science",
+  "status": "published",
+  "slug": "unite-codas-communications-engineering-data-science-2027",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "rX4P2BnolxlIn30eN2nH",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.unite-codas-master.eu",
+    "about": "The UNITE CODaS consortium delivers the Erasmus Mundus Joint Master in Communications Engineering and Data Science through a network of European technical universities.",
+    "name": "UNITE CODaS Consortium",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=unite-codas-master.eu&sz=256",
+    "slug": "unite-codas-consortium",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "rX4P2BnolxlIn30eN2nH"
+  },
+  "regionId": "europe",
+  "countryCode": "DE",
+  "city": "Munich (multi-country mobility)",
+  "deadline": "2027-01-05T13:00:00.000Z",
+  "deadlineType": "fixed",
+  "deadlineText": "5 January 2027 (15:00 GMT+2); application window 1 December 2026 – 5 January 2027",
+  "degreeLevels": [
+    "masters"
+  ],
+  "disciplines": [
+    "telecommunications",
+    "data_science",
+    "signal_processing",
+    "electrical_engineering",
+    "machine_learning"
+  ],
+  "subjects": [
+    "Communications engineering",
+    "Data science",
+    "6G technologies",
+    "Erasmus Mundus"
+  ],
+  "fundingType": "fully_funded",
+  "fundingStatus": "fully_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "stipend": "Erasmus Mundus scholarships for selected students: participation costs plus monthly allowance.",
+  "intro": "CODaS, delivered by the UNITE university network, combines communications engineering with data science for next-generation network technologies. For studies beginning in autumn 2027 the application window runs from 1 December 2026 to 5 January 2027 at 15:00 (GMT+2) — a short, well-defined window.",
+  "tags": [
+    "Erasmus Mundus",
+    "CODaS",
+    "Communications Engineering",
+    "Data Science",
+    "5G 6G",
+    "Fully Funded",
+    "Masters"
+  ],
+  "applyLink": "https://www.unite-codas-master.eu/admission.html",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "UNITE CODaS 2027 | Communications Engineering & Data Science, 5 Jan Deadline",
+  "seoDescription": "UNITE CODaS Erasmus Mundus master in communications engineering and data science. Applications 1 Dec 2026 - 5 Jan 2027 (15:00 GMT+2) for autumn 2027. Fully funded.",
+  "ogImage": "",
+  "verificationStatus": "verified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "A7VsZMFgZgw5RGG5yXXz",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>CODaS, delivered by the UNITE university network, combines communications engineering with data science for next-generation network technologies. For studies beginning in autumn 2027 the application window runs from 1 December 2026 to 5 January 2027 at 15:00 (GMT+2) — a short, well-defined window.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Communications-plus-data-science hybrid curriculum</li>\n <li>Five-week window: 1 December 2026 – 5 January 2027 (15:00 GMT+2)</li>\n <li>Bachelor's requirement of 180 ECTS or three years of full-time study</li>\n <li>Pathways into 5G/6G research, telecom R&D and data engineering</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Electrical engineering, telecommunications, computer science and applied mathematics graduates are the core applicants.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships for selected students: participation costs plus monthly allowance.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Submit through the CODaS admission page during the December window and check the schedule section for document deadlines. Key deadline information: <strong>5 January 2027 (15:00 GMT+2); application window 1 December 2026 – 5 January 2027</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.unite-codas-master.eu/admission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}

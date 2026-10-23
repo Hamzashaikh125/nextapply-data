@@ -1,0 +1,77 @@
+{
+  "title": "University of Tokyo – Scholarship Information for International Students",
+  "status": "published",
+  "slug": "university-of-tokyo-scholarship-information",
+  "isOpen": true,
+  "category": "scholarship",
+  "organizationId": "KlMcyBD2nfM91TrSfdAu",
+  "organization": {
+    "createdAt": "2026-10-23T00:07:35.000Z",
+    "website": "https://www.s.u-tokyo.ac.jp",
+    "about": "The University of Tokyo is Japan's top-ranked national university, and its graduate schools support international students through MEXT, university and private scholarship schemes.",
+    "name": "University of Tokyo",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=u-tokyo.ac.jp&sz=256",
+    "slug": "university-of-tokyo",
+    "status": "published",
+    "updatedAt": "2026-10-23T00:07:35.000Z",
+    "id": "KlMcyBD2nfM91TrSfdAu"
+  },
+  "regionId": "asia",
+  "countryCode": "JP",
+  "city": "Tokyo",
+  "deadline": null,
+  "deadlineType": "custom",
+  "deadlineText": "Deadlines vary by scholarship and graduate school — see the official scholarship page",
+  "degreeLevels": [
+    "masters",
+    "phd"
+  ],
+  "disciplines": [
+    "all_subjects",
+    "science",
+    "engineering",
+    "economics",
+    "life_sciences"
+  ],
+  "subjects": [
+    "Japan scholarships",
+    "MEXT",
+    "UTokyo funding",
+    "Graduate funding"
+  ],
+  "fundingType": "partially_funded",
+  "fundingStatus": "partially_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": false
+  },
+  "stipend": "Ranges from MEXT full scholarships (tuition plus monthly stipend) to university and private-foundation awards with partial support.",
+  "intro": "The University of Tokyo's scholarship page consolidates funding for international graduate students: the Japanese government's MEXT scholarship, university-run awards, and private-foundation grants. Because each scholarship and graduate school sets its own timeline, applicants should map funding deadlines against their admission round.",
+  "tags": [
+    "University of Tokyo",
+    "MEXT Scholarship",
+    "Japan Funding",
+    "Graduate Scholarships",
+    "Study in Japan"
+  ],
+  "applyLink": "https://www.s.u-tokyo.ac.jp/en/admission/scholarship.html",
+  "isFeatured": false,
+  "ieltsRequired": null,
+  "eligibility": "worldwide",
+  "seoTitle": "University of Tokyo Scholarships | MEXT & Graduate Funding for International Students",
+  "seoDescription": "University of Tokyo scholarship information: MEXT, university awards and private foundations for international graduate students. Deadlines vary by scholarship and school.",
+  "ogImage": "",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-23T00:07:35.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-23T00:07:35.000Z",
+  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "publishedAt": "2026-10-23T00:07:35.000Z",
+  "id": "WZ0tKM3wWEzLGOh1gPOq",
+  "opportunityType": "scholarship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<p>The University of Tokyo's scholarship page consolidates funding for international graduate students: the Japanese government's MEXT scholarship, university-run awards, and private-foundation grants. Because each scholarship and graduate school sets its own timeline, applicants should map funding deadlines against their admission round.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Central hub for MEXT, university and private scholarships</li>\n <li>MEXT embassy and university recommendations both explained</li>\n <li>Fee-reduction schemes for self-funded international students</li>\n <li>Graduate-school-specific timelines to coordinate with admission</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>International applicants to UTokyo master's and doctoral programmes; MEXT routes have nationality and age conditions.</p>\n<h2>Funding and Costs</h2>\n<p>Ranges from MEXT full scholarships (tuition plus monthly stipend) to university and private-foundation awards with partial support. Confirm the exact funding package on the official page before applying.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Study the scholarship page, shortlist the awards that match your profile, and synchronise those deadlines with your graduate-school application. Key deadline information: <strong>Deadlines vary by scholarship and graduate school — see the official scholarship page</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.s.u-tokyo.ac.jp/en/admission/scholarship.html\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+}
