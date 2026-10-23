@@ -39,7 +39,7 @@
   "sources": [
     {
       "name": "Erasmus+ — Erasmus Mundus Joint Masters (official)",
-      "url": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters-scholarships"
+      "url": "https://erasmus-plus.ec.europa.eu/opportunities-for-individuals/students/erasmus-mundus-joint-masters-scholarships"
     },
     {
       "name": "Erasmus Mundus catalogue — individual programme calls",
@@ -77,14 +77,14 @@
     "/articles/ielts-vs-toefl-vs-pte-uk-phd-2027"
   ],
   "relatedOpportunities": [
-    "/opportunities/europubhealth-european-public-health-master-2027",
-    "/opportunities/glocal-global-markets-local-creativities-2027",
-    "/opportunities/emmir-migration-intercultural-relations-2027",
-    "/opportunities/noha-international-humanitarian-action-2027",
-    "/opportunities/imfse-fire-safety-engineering-2027",
-    "/opportunities/mundus-journalism-media-globalisation-2027-2029",
-    "/opportunities/gem-geoinformation-science-earth-observation-2027",
-    "/opportunities/maisi-sports-ethics-integrity-erasmus-mundus-2027"
+    "/europubhealth-european-public-health-master-2027",
+    "/glocal-global-markets-local-creativities-2027",
+    "/emmir-migration-intercultural-relations-2027",
+    "/noha-international-humanitarian-action-2027",
+    "/imfse-fire-safety-engineering-2027",
+    "/mundus-journalism-media-globalisation-2027-2029",
+    "/gem-geoinformation-science-earth-observation-2027",
+    "/maisi-sports-ethics-integrity-erasmus-mundus-2027"
   ],
   "wordCount": 816,
   "readingTimeWordsPerMinute": 220,

@@ -108,12 +108,12 @@
     "/articles/phd-salary-stipend-comparison-by-country-2027"
   ],
   "relatedOpportunities": [
-    "/opportunities/doctoral-position-generative-ai-computational-design-eth-zurich",
-    "/opportunities/eth-ai-center-doctoral-fellowships-2026",
-    "/opportunities/phd-multi-state-programmable-robotic-matter-eth-zurich",
-    "/opportunities/doctoral-student-neuromotor-interfaces-dexterous-robot-teleoperation-eth-zurich",
-    "/opportunities/phd-position-life-like-materials-soft-robotics-empa",
-    "/opportunities/epfl-edbb-phd-open-positions-biotechnology-bioengineering"
+    "/doctoral-position-generative-ai-computational-design-eth-zurich",
+    "/eth-ai-center-doctoral-fellowships-2026",
+    "/phd-multi-state-programmable-robotic-matter-eth-zurich",
+    "/doctoral-student-neuromotor-interfaces-dexterous-robot-teleoperation-eth-zurich",
+    "/phd-position-life-like-materials-soft-robotics-empa",
+    "/epfl-edbb-phd-open-positions-biotechnology-bioengineering"
   ],
   "wordCount": 631,
   "readingTimeWordsPerMinute": 220,

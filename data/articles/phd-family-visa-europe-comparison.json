@@ -81,12 +81,12 @@
     "/articles/salaried-phd-scandinavia-sweden-denmark-norway"
   ],
   "relatedOpportunities": [
-    "/opportunities/phd-transcranial-ultrasound-stimulation-affective-neuroscience-radboud",
-    "/opportunities/phd-entrepreneurship-ai-labor-market-disruption-dtu",
-    "/opportunities/phd-ai-co-creation-ethics-creative-industries-hanken-2026",
-    "/opportunities/max-planck-school-biomedical-ai-phd-positions-germany",
-    "/opportunities/paid-phd-position-in-artificial-intelligence-for-ship-traffic-monitoring-ntnu",
-    "/opportunities/phd-biochemistry-stockholm-university-2027"
+    "/phd-transcranial-ultrasound-stimulation-affective-neuroscience-radboud",
+    "/phd-entrepreneurship-ai-labor-market-disruption-dtu",
+    "/phd-ai-co-creation-ethics-creative-industries-hanken-2026",
+    "/max-planck-school-biomedical-ai-phd-positions-germany",
+    "/paid-phd-position-in-artificial-intelligence-for-ship-traffic-monitoring-ntnu",
+    "/phd-biochemistry-stockholm-university-2027"
   ],
   "wordCount": 740,
   "readingTimeWordsPerMinute": 220,
