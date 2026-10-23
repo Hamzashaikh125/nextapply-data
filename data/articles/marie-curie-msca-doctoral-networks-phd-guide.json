@@ -145,5 +145,11 @@
   "wordCount": 1460,
   "readingTime": "7 min read",
   "readingTimeMinutes": 7,
-  "readingTimeWordsPerMinute": 220
+  "readingTimeWordsPerMinute": 220,
+  "ogImage": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1200&h=630&q=85",
+  "structuredData": {
+    "image": [
+      "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1200&h=630&q=85"
+    ]
+  }
 }

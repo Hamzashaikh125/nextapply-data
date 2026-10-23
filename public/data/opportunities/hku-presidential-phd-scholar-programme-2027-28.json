@@ -22,7 +22,7 @@
   "city": "Hong Kong",
   "deadline": "2026-12-01T15:59:59.999Z",
   "deadlineType": "fixed",
-  "deadlineText": "1 December 2026 (Main Round: 1 September - 1 December)",
+  "deadlineText": "1 December 2026",
   "deadlineTimezone": "Asia/Hong_Kong",
   "degreeLevels": [
     "phd"
@@ -48,7 +48,7 @@
     "stipendProvided": true,
     "tuitionCovered": true
   },
-  "stipend": "HK$28,700 monthly postgraduate scholarship plus HK$40,000 first-year cash award, full composition-fee waiver (HK$49,500/year), HK$14,400/year conference travel allowance and a guaranteed first-year hall place - first-year package worth up to HK$445,800.",
+  "stipend": "HK$28,700/month",
   "stipendAmount": 28700,
   "stipendCurrency": "HKD",
   "stipendPeriod": "month",
@@ -77,7 +77,7 @@
   "addedDate": "2026-10-22T00:13:50.000Z",
   "clickCount": 0,
   "createdAt": "2026-10-22T00:13:50.000Z",
-  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "updatedAt": "2026-10-23",
   "publishedAt": "2026-10-22T00:13:50.000Z",
   "id": "jX9zMQ0jM4VIXz50pLaC",
   "opportunityType": "scholarship",

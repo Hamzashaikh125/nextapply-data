@@ -18,7 +18,7 @@
   "city": "Basel",
   "deadline": "2026-12-31T23:59:00.000Z",
   "deadlineType": "fixed",
-  "deadlineText": "Before 31 December 2026 (may fill earlier)",
+  "deadlineText": "31 December 2026",
   "degreeLevels": [
     "phd"
   ],
@@ -64,7 +64,7 @@
   "addedDate": "2026-10-15T13:58:59.257Z",
   "clickCount": 0,
   "createdAt": "2026-10-15T13:58:59.425Z",
-  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "updatedAt": "2026-10-23",
   "publishedAt": "2026-10-15T13:58:59.425Z",
   "fundingStatus": "fully_funded",
   "id": "cOdJvPgz68ViyQrOJyfW"

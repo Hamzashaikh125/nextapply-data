@@ -1,1 +1,74 @@
-{"addedDate":"2026-09-09T19:33:51.522Z","city":"Umeå","fundingCoverage":{"stipendProvided":true,"tuitionCovered":true},"description":"<h2>Project Description</h2>\n<p>The Department of Diagnostics and Intervention at Umeå University invites applications for a two-year postdoctoral fellowship within the project AI-Driven Medical Imaging. The position is expected to start on 1 September 2026 or as agreed. The fellowship is funded by The Kempe Foundations.</p>\n<p>The aim is to develop and evaluate AI-based methods that reduce operator dependence in ultrasound imaging, with focus on clinically relevant applications. The research is conducted within a well-established research group led by Christer Grönlund, specialising in methodological development in medical ultrasound imaging.</p>\n<h2>Main Application Areas</h2>\n<ol><li>Atherosclerosis diagnostics: Early identification of pathophysiological phenotypes, decentralised examinations, and reduced operator dependence.</li><li>Diagnostics of skeletal muscle diseases: Non-invasive ultrasound-based methods as alternatives to needle-based diagnostic techniques. Advanced analysis of motor units, translating methods from research systems to clinical ultrasound scanners.</li></ol>\n<h2>Methods to Develop</h2>\n<ul><li>Anomaly detection</li><li>Domain adaptation</li><li>Few-shot learning</li><li>Graph-based models</li><li>Vision transformers and/or diffusion models</li><li>2D+time (video) segmentation</li></ul>\n<h2>Eligibility Criteria</h2>\n<ul><li>Doctoral degree or equivalent in biomedical engineering, computer science, electrical engineering, or related field.</li><li>Degree requirement must be fulfilled no later than fellowship decision.</li><li>Priority to applicants who obtained doctoral degree within three years prior to deadline. Exceptions for documented special circumstances (sick leave, parental leave, clinical duties, union assignments).</li><li>Documented education and practical experience in machine learning and AI methods, demonstrated through coursework and/or publications.</li><li>Excellent written and spoken English.</li><li>Strong programming skills in Matlab and/or Python.</li><li>Meritorious: Experience in medical image analysis; knowledge of generative models, anomaly detection, image and signal analysis.</li><li>Personal qualities: Motivated, curious, strong collaboration skills, able to work independently.</li></ul>\n<h2>Application</h2>\n<p>Submit via Varbi by 30 September 2026. Documents in English or Swedish, Word or PDF:</p>\n<ul><li>Cover letter</li><li>CV including publication list</li><li>Doctoral degree certificate or documentation of expected completion</li><li>Contact information for two references</li></ul>\n<h2>Official Link</h2>\n<p>https://www.umu.se/en/work-with-us/postdoctoral-scholarships/postdoctoral-scholarship-2-years-within-ai-driven-medical-imaging_921437/</p>","eligibility":"worldwide","stipend":"Scholarship stipend for 2 years (amount not specified).","applyLink":"https://www.umu.se/en/work-with-us/postdoctoral-scholarships/postdoctoral-scholarship-2-years-within-ai-driven-medical-imaging_921437/","seoTitle":"Postdoc Fellowship in AI-Driven Medical Imaging at Umeå","title":"Postdoc Fellowship in AI-Driven Medical Imaging at Umeå University","fundingStatus":"fully_funded","ieltsRequired":false,"organizationId":"S9cVtwrGVoxIt1blCgzJ","createdAt":"2026-09-09T19:33:51.522Z","fundingType":"fully_funded","countryCode":"SE","intro":"2-year postdoctoral fellowship in AI-driven medical imaging at Umeå University. Focus on reducing operator dependence in ultrasound. Starts 1 Sept 2026. Apply by 30 Sept 2026.","deadlineTimezone":"Europe/Stockholm","deadline":"2026-09-30T21:59:59.999Z","degreeLevels":["postdoctoral"],"isFeatured":false,"slug":"postdoc-fellowship-ai-driven-medical-imaging-umea-university","updatedAt":"2026-10-09T04:23:59.767Z","deadlineText":"30 September 2026","publishedAt":"2026-09-09T19:33:51.522Z","verificationStatus":"unverified","seoDescription":"2-year postdoctoral fellowship in AI-driven medical imaging at Umeå University. Focus on reducing operator dependence in ultrasound. Starts 1 Sept 2026.","isRemote":false,"ogImage":null,"tags":["Umeå University","Postdoctoral Fellowship","AI","Medical Imaging","Ultrasound","Machine Learning","Atherosclerosis","Skeletal Muscle","Sweden","Kempe Foundation","Biomedical Engineering","Computer Science"],"opportunityType":"fellowship","isOpen":false,"disciplines":["medical_science","computer_science","electrical_engineering","biomedical_engineering","artificial_intelligence","data_science","machine_learning"],"stipendCurrency":"SEK","verificationScore":null,"deadlineType":"fixed","regionId":"europe","sourceType":"official_university","organization":{"website":"https://www.umu.se/en/","about":"Umeå University is one of Sweden's largest universities with over 37,000 students and 4,700 employees. It is the institution where the CRISPR-Cas9 gene-editing discovery (Nobel Prize in Chemistry 2020) was made. The Department of Molecular Biology and MIMS provide a strong research environment in infection biology.","name":"Umeå University","logoUrl":"https://www.hpc2n.umu.se/sites/default/files/conferences-courses/umu_logo.png"},"category":"postdoctoral","status":"expired","id":"cSStFgEjepRmlbP0aUbf"}
+{
+  "addedDate": "2026-09-09T19:33:51.522Z",
+  "city": "Umeå",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Postdoc Fellowship in AI-Driven Medical Imaging at Umeå University</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Umeå University</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Umeå, Sweden</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Postdoctoral</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Scholarship stipend for 2 years (amount not specified).</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">30 September 2026</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.umu.se/en/work-with-us/postdoctoral-scholarships/postdoctoral-scholarship-2-years-within-ai-driven-medical-imaging_921437/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <h2>Project Description</h2>\n<p>The Department of Diagnostics and Intervention at Umeå University invites applications for a two-year postdoctoral fellowship within the project AI-Driven Medical Imaging. The position is expected to start on 1 September 2026 or as agreed. The fellowship is funded by The Kempe Foundations.</p>\n<p>The aim is to develop and evaluate AI-based methods that reduce operator dependence in ultrasound imaging, with focus on clinically relevant applications. The research is conducted within a well-established research group led by Christer Grönlund, specialising in methodological development in medical ultrasound imaging.</p>\n<h2>Main Application Areas</h2>\n<ol><li>Atherosclerosis diagnostics: Early identification of pathophysiological phenotypes, decentralised examinations, and reduced operator dependence.</li><li>Diagnostics of skeletal muscle diseases: Non-invasive ultrasound-based methods as alternatives to needle-based diagnostic techniques. Advanced analysis of motor units, translating methods from research systems to clinical ultrasound scanners.</li></ol>\n<h2>Methods to Develop</h2>\n<ul><li>Anomaly detection</li><li>Domain adaptation</li><li>Few-shot learning</li><li>Graph-based models</li><li>Vision transformers and/or diffusion models</li><li>2D+time (video) segmentation</li></ul>\n<h2>Eligibility Criteria</h2>\n<ul><li>Doctoral degree or equivalent in biomedical engineering, computer science, electrical engineering, or related field.</li><li>Degree requirement must be fulfilled no later than fellowship decision.</li><li>Priority to applicants who obtained doctoral degree within three years prior to deadline. Exceptions for documented special circumstances (sick leave, parental leave, clinical duties, union assignments).</li><li>Documented education and practical experience in machine learning and AI methods, demonstrated through coursework and/or publications.</li><li>Excellent written and spoken English.</li><li>Strong programming skills in Matlab and/or Python.</li><li>Meritorious: Experience in medical image analysis; knowledge of generative models, anomaly detection, image and signal analysis.</li><li>Personal qualities: Motivated, curious, strong collaboration skills, able to work independently.</li></ul>\n<h2>Application</h2>\n<p>Submit via Varbi by 30 September 2026. Documents in English or Swedish, Word or PDF:</p>\n<ul><li>Cover letter</li><li>CV including publication list</li><li>Doctoral degree certificate or documentation of expected completion</li><li>Contact information for two references</li></ul>\n<h2>Official Link</h2>\n<p>https://www.umu.se/en/work-with-us/postdoctoral-scholarships/postdoctoral-scholarship-2-years-within-ai-driven-medical-imaging_921437/</p>",
+  "eligibility": "worldwide",
+  "stipend": "Scholarship stipend for 2 years (amount not specified).",
+  "applyLink": "https://www.umu.se/en/work-with-us/postdoctoral-scholarships/postdoctoral-scholarship-2-years-within-ai-driven-medical-imaging_921437/",
+  "seoTitle": "Postdoc Fellowship in AI-Driven Medical Imaging at Umeå",
+  "title": "Postdoc Fellowship in AI-Driven Medical Imaging at Umeå University",
+  "fundingStatus": "fully_funded",
+  "ieltsRequired": false,
+  "organizationId": "S9cVtwrGVoxIt1blCgzJ",
+  "createdAt": "2026-09-09T19:33:51.522Z",
+  "fundingType": "fully_funded",
+  "countryCode": "SE",
+  "intro": "2-year postdoctoral fellowship in AI-driven medical imaging at Umeå University. Focus on reducing operator dependence in ultrasound. Starts 1 Sept 2026. Apply by 30 Sept 2026.",
+  "deadlineTimezone": "Europe/Stockholm",
+  "deadline": "2026-09-30T21:59:59.999Z",
+  "degreeLevels": [
+    "postdoctoral"
+  ],
+  "isFeatured": false,
+  "slug": "postdoc-fellowship-ai-driven-medical-imaging-umea-university",
+  "updatedAt": "2026-10-23",
+  "deadlineText": "30 September 2026",
+  "publishedAt": "2026-09-09T19:33:51.522Z",
+  "verificationStatus": "unverified",
+  "seoDescription": "2-year postdoctoral fellowship in AI-driven medical imaging at Umeå University. Focus on reducing operator dependence in ultrasound. Starts 1 Sept 2026.",
+  "isRemote": false,
+  "ogImage": null,
+  "tags": [
+    "Umeå University",
+    "Postdoctoral Fellowship",
+    "AI",
+    "Medical Imaging",
+    "Ultrasound",
+    "Machine Learning",
+    "Atherosclerosis",
+    "Skeletal Muscle",
+    "Sweden",
+    "Kempe Foundation",
+    "Biomedical Engineering",
+    "Computer Science"
+  ],
+  "opportunityType": "fellowship",
+  "isOpen": false,
+  "disciplines": [
+    "medical_science",
+    "computer_science",
+    "electrical_engineering",
+    "biomedical_engineering",
+    "artificial_intelligence",
+    "data_science",
+    "machine_learning"
+  ],
+  "stipendCurrency": "SEK",
+  "verificationScore": null,
+  "deadlineType": "fixed",
+  "regionId": "europe",
+  "sourceType": "official_university",
+  "organization": {
+    "website": "https://www.umu.se/en/",
+    "about": "Umeå University is one of Sweden's largest universities with over 37,000 students and 4,700 employees. It is the institution where the CRISPR-Cas9 gene-editing discovery (Nobel Prize in Chemistry 2020) was made. The Department of Molecular Biology and MIMS provide a strong research environment in infection biology.",
+    "name": "Umeå University",
+    "logoUrl": "https://www.hpc2n.umu.se/sites/default/files/conferences-courses/umu_logo.png"
+  },
+  "category": "postdoctoral",
+  "status": "expired",
+  "id": "cSStFgEjepRmlbP0aUbf"
+}

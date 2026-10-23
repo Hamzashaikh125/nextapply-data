@@ -22,7 +22,7 @@
   "city": "Multi-city (consortium)",
   "deadline": null,
   "deadlineType": "custom",
-  "deadlineText": "Current application dates published on the official programme page",
+  "deadlineText": "See official page for dates",
   "degreeLevels": [
     "masters"
   ],
@@ -45,7 +45,7 @@
     "stipendProvided": true,
     "tuitionCovered": true
   },
-  "stipend": "Erasmus Mundus scholarships for selected students per the live call.",
+  "stipend": "EMJM scholarship (selected students)",
   "intro": "EMINENT is an Erasmus Mundus master dedicated to embedded and cyber-physical systems, delivered by a European consortium of technical universities. The programme page carries the live application dates, scholarship information and mobility structure for the next cohort.",
   "tags": [
     "Erasmus Mundus",
@@ -58,7 +58,7 @@
   ],
   "applyLink": "https://eminent-master.eu/",
   "isFeatured": false,
-  "ieltsRequired": null,
+  "ieltsRequired": true,
   "eligibility": "worldwide",
   "seoTitle": "EMINENT Erasmus Mundus Master | Embedded Systems Scholarships",
   "seoDescription": "EMINENT Erasmus Mundus master in embedded systems — cyber-physical and real-time computing across European universities. Current application dates on the official page.",
@@ -68,11 +68,11 @@
   "addedDate": "2026-10-23T00:07:35.000Z",
   "clickCount": 0,
   "createdAt": "2026-10-23T00:07:35.000Z",
-  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "updatedAt": "2026-10-23T09:00:14.000Z",
   "publishedAt": "2026-10-23T00:07:35.000Z",
   "id": "6QFy9ZP0kyJAmwQnXlI4",
   "opportunityType": "scholarship",
   "sourceType": "official_organization",
   "isRemote": false,
-  "description": "<p>EMINENT is an Erasmus Mundus master dedicated to embedded and cyber-physical systems, delivered by a European consortium of technical universities. The programme page carries the live application dates, scholarship information and mobility structure for the next cohort.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Embedded-systems specialisation with real-time and hardware-software co-design</li>\n <li>Industry-linked projects across the consortium's technology partners</li>\n <li>Application dates announced per cohort on the official site</li>\n <li>Graduates enter automotive, aerospace, telecom and semiconductor R&D</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Electrical, computer and software engineering graduates with strong C/RTOS and systems fundamentals fit the curriculum.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships for selected students per the live call.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Follow the EMINENT website for the live call and submit through the consortium's admission form. Key deadline information: <strong>Current application dates published on the official programme page</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://eminent-master.eu/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">EMINENT – Erasmus Mundus Master in Embedded Systems</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">EMINENT Consortium</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">France</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Erasmus Mundus scholarships for selected students per the</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Current application dates published on the official programme page</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://eminent-master.eu/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>EMINENT is an Erasmus Mundus master dedicated to embedded and cyber-physical systems, delivered by a European consortium of technical universities. The programme page carries the live application dates, scholarship information and mobility structure for the next cohort.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Embedded-systems specialisation with real-time and hardware-software co-design</li>\n <li>Industry-linked projects across the consortium's technology partners</li>\n <li>Application dates announced per cohort on the official site</li>\n <li>Graduates enter automotive, aerospace, telecom and semiconductor R&D</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Electrical, computer and software engineering graduates with strong C/RTOS and systems fundamentals fit the curriculum.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships for selected students per the live call.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Follow the EMINENT website for the live call and submit through the consortium's admission form. Key deadline information: <strong>Current application dates published on the official programme page</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://eminent-master.eu/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
 }

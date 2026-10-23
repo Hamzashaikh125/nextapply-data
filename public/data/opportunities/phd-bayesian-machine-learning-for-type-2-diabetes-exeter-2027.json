@@ -18,7 +18,7 @@
   "city": "Exeter",
   "deadline": "2026-10-21T22:59:59.999Z",
   "deadlineType": "fixed",
-  "deadlineText": "21 October 2026; check the programme’s submission cutoff time before applying",
+  "deadlineText": "21 October 2026",
   "degreeLevels": [
     "phd"
   ],
@@ -61,7 +61,7 @@
   "addedDate": "2026-10-15T22:08:25.603Z",
   "clickCount": 0,
   "createdAt": "2026-10-15T22:08:25.793Z",
-  "updatedAt": "2026-10-22T06:00:00.000Z",
+  "updatedAt": "2026-10-23",
   "publishedAt": "2026-10-15T22:08:25.793Z",
   "fundingStatus": "fully_funded",
   "id": "p4Apc8RoqpI4khcjsJM9",

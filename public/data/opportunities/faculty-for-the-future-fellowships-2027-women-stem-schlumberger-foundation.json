@@ -18,7 +18,7 @@
   "city": "",
   "deadline": "2026-11-07T12:00:00.000Z",
   "deadlineType": "fixed",
-  "deadlineText": "7 November 2026, 12:00 noon UTC−6 (references due 14 November)",
+  "deadlineText": "7 November 2026",
   "degreeLevels": [
     "phd",
     "postdoctoral"
@@ -65,7 +65,7 @@
   "addedDate": "2026-10-15T13:58:51.539Z",
   "clickCount": 0,
   "createdAt": "2026-10-15T13:58:51.774Z",
-  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "updatedAt": "2026-10-23",
   "opportunityType": "fellowship",
   "publishedAt": "2026-10-15T13:58:51.774Z",
   "fundingStatus": "fully_funded",

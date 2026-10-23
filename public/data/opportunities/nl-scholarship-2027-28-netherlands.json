@@ -18,7 +18,7 @@
   "city": "Across Netherlands",
   "deadline": "2027-02-01T23:59:00.000Z",
   "deadlineType": "fixed",
-  "deadlineText": "1 February 2027 (Round 1) / 1 May 2027 (Round 2)",
+  "deadlineText": "1 February 2027",
   "degreeLevels": [
     "masters"
   ],
@@ -53,7 +53,7 @@
   "addedDate": "2026-10-22T07:30:00.000Z",
   "clickCount": 0,
   "createdAt": "2026-10-22T07:30:00.000Z",
-  "updatedAt": "2026-10-22T07:30:00.000Z",
+  "updatedAt": "2026-10-23",
   "publishedAt": "2026-10-22T07:30:00.000Z",
   "fundingStatus": "partially_funded",
   "id": "zeg9nEp7Y4jz6Bxl5Vyv",

@@ -44,7 +44,7 @@
     "stipendProvided": true,
     "tuitionCovered": true
   },
-  "stipend": "Funded doctoral cohort: annual funding package combining fellowship, teaching assistantship and research assistantship support for the duration of the funded cohort (per the program's funding commitments).",
+  "stipend": "Funded doctoral cohort: annual funding package combining",
   "stipendAmount": null,
   "stipendCurrency": "CAD",
   "stipendPeriod": "year",
@@ -74,7 +74,7 @@
   "addedDate": "2026-10-21T23:49:35.000Z",
   "clickCount": 0,
   "createdAt": "2026-10-21T23:49:35.000Z",
-  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "updatedAt": "2026-10-23",
   "publishedAt": "2026-10-21T23:49:35.000Z",
   "id": "dQcNU73GYY9fI8A1ivau",
   "opportunityType": "phd_position",

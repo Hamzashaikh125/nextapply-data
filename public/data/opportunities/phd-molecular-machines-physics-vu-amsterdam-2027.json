@@ -18,7 +18,7 @@
   "city": "Amsterdam",
   "deadline": "2026-10-31T23:59:00.000Z",
   "deadlineType": "fixed",
-  "deadlineText": "31 October 2026 (may close earlier when filled)",
+  "deadlineText": "31 October 2026",
   "degreeLevels": [
     "phd"
   ],
@@ -63,7 +63,7 @@
   "addedDate": "2026-10-15T13:58:45.672Z",
   "clickCount": 0,
   "createdAt": "2026-10-15T13:58:45.865Z",
-  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "updatedAt": "2026-10-23",
   "publishedAt": "2026-10-15T13:58:45.865Z",
   "fundingStatus": "fully_funded",
   "id": "pPUTCjZWD3VTDxvkW3nV",

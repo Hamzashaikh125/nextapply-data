@@ -16,7 +16,7 @@
     "Germany"
   ],
   "createdAt": "2026-10-12T23:25:14.549Z",
-  "featuredImage": "https://images.openai.com/static-rsc-4/rfDSfMqqdZmOUMK2T1QVf_fA2G9RC8PoyrFbByOz9jvyi40uSPzhwPe1XpyZ80pqzpXBBMZKsRlU8uq3oOlkkIaMRuOHwIvj9JbgxPAdgUmaLUqNJOwjokxznCdZOTHWSPPKq8kfMAmvF6hRsBD5cwYopZ18JhxOTMoWPZL0ocWa8l6zjNm6ESa8ZTKPblTO?purpose=fullsize",
+  "featuredImage": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f640dd5eade4.jpg",
   "excerpt": "PhD in Europe 2027: stipend, employment and scholarship models — UK £21,805, Germany €3,094, Netherlands €3,204+ — rents and a 3-filter choice method.",
   "slug": "phd-in-europe-complete-guide-choosing-best-country",
   "status": "published",
@@ -162,32 +162,6 @@
           "value": 1
         }
       ]
-    },
-    {
-      "id": "europe-paths",
-      "type": "bars",
-      "title": "Candidate A's realistic funding paths",
-      "unit": "applications (planned)",
-      "description": "A fee-status-constrained applicant's season: 6 German E13 vacancies (no fee-status barrier), 1 Dutch cao NU position, 2 UK studentships (long-shot for international slots), 1 DAAD doctoral grant as a parallel route.",
-      "source": "Illustrative application portfolio from the worked example.",
-      "data": [
-        {
-          "label": "DE vacancies",
-          "value": 6
-        },
-        {
-          "label": "NL vacancy",
-          "value": 1
-        },
-        {
-          "label": "UK studentships",
-          "value": 2
-        },
-        {
-          "label": "DAAD",
-          "value": 1
-        }
-      ]
     }
   ],
   "sources": [
@@ -215,5 +189,11 @@
   "wordCount": 1493,
   "readingTime": "7 min read",
   "readingTimeMinutes": 7,
-  "readingTimeWordsPerMinute": 220
+  "readingTimeWordsPerMinute": 220,
+  "ogImage": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f640dd5eade4.jpg",
+  "structuredData": {
+    "image": [
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f640dd5eade4.jpg"
+    ]
+  }
 }

@@ -44,7 +44,7 @@
     "stipendProvided": true,
     "tuitionCovered": true
   },
-  "stipend": "GBP 21,113 in year 1; GBP 22,500 in year 2; GBP 22,894 in year 3; GBP 23,294 in year 4 (tax-free annual stipend), with tuition fees covered.",
+  "stipend": "£21,113/year (tax-free)",
   "stipendAmount": 21113,
   "stipendCurrency": "GBP",
   "stipendPeriod": "year",
@@ -74,7 +74,7 @@
   "addedDate": "2026-10-21T23:49:35.000Z",
   "clickCount": 0,
   "createdAt": "2026-10-21T23:49:35.000Z",
-  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "updatedAt": "2026-10-23",
   "publishedAt": "2026-10-21T23:49:35.000Z",
   "id": "xF4IgCjBduzC8Bo0vrJp",
   "opportunityType": "phd_position",

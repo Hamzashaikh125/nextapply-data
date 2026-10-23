@@ -22,7 +22,7 @@
   "city": "Lausanne",
   "deadline": "2026-11-01T22:59:59.999Z",
   "deadlineType": "fixed",
-  "deadlineText": "1 November 2026 (next EDBB admission deadline; individual ads may close earlier)",
+  "deadlineText": "1 November 2026",
   "deadlineTimezone": "Europe/Zurich",
   "degreeLevels": [
     "phd"
@@ -48,7 +48,7 @@
     "stipendProvided": true,
     "tuitionCovered": true
   },
-  "stipend": "Paid EPFL doctoral employment contract; gross doctoral salary from around CHF 55,225 per year (2026 scale), with Swiss social benefits.",
+  "stipend": "CHF 55,225/year",
   "stipendAmount": 55225,
   "stipendCurrency": "CHF",
   "stipendPeriod": "year",
@@ -68,7 +68,7 @@
   ],
   "applyLink": "https://www.epfl.ch/education/phd/edbb-biotechnology-and-bioengineering/edbb-open-positions/",
   "isFeatured": false,
-  "ieltsRequired": null,
+  "ieltsRequired": true,
   "eligibility": "worldwide",
   "seoTitle": "EPFL EDBB PhD Open Positions 2026-27 | Biotechnology and Bioengineering",
   "seoDescription": "Apply for EPFL EDBB doctoral positions in biotechnology and bioengineering. 15+ labs, Swiss PhD salary from ~CHF 55,225/year. Next deadline 1 November 2026.",
@@ -78,7 +78,7 @@
   "addedDate": "2026-10-22T00:13:50.000Z",
   "clickCount": 0,
   "createdAt": "2026-10-22T00:13:50.000Z",
-  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "updatedAt": "2026-10-23T09:00:14.000Z",
   "publishedAt": "2026-10-22T00:13:50.000Z",
   "id": "l2xiOolcCtDKrJ0XwQDQ",
   "opportunityType": "phd_position",

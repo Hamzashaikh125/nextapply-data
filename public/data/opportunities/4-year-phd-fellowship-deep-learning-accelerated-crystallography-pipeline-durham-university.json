@@ -1,1 +1,69 @@
-{"addedDate":"2026-09-24T00:00:00.000Z","clickCount":0,"city":"Durham","fundingCoverage":{"stipendProvided":true,"tuitionCovered":true},"description":"<h2>PhD Fellowship Overview</h2>\n<p>This 4-year PhD fellowship is part of the Novo Nordisk Foundation-funded project 'Deep Learning-Accelerated Crystallography Pipeline', a collaboration between Durham University, the University of Copenhagen, and the MAX IV synchrotron. The project aims to transform small-molecule structure determination by developing mathematical methods and integrating machine learning into crystallographic workflows.</p>\n<h2>Benefits &amp; Coverage</h2>\n<ul><li>Stipend covering standard UK salary</li><li>Full university/institutional fees</li><li>Budget for travel, conferences, and equipment</li><li>Four-year fixed-term position</li><li>Start date: 1 January 2027 or as soon as possible thereafter</li></ul>\n<h2>Eligibility Criteria</h2>\n<ul><li>Master's degree (or equivalent) in Chemistry, Mathematics, or Computer Science by the start of the PhD</li><li>Strong background in quantum crystallography and its underlying mathematical aspects</li><li>Adequate programming skills and willingness to apply machine learning</li><li>Open to UK and International students</li><li>English language proficiency (IELTS/TOEFL) required</li></ul>\n<h2>Application Process</h2>\n<p>Submit a single PDF containing:</p>\n<ol><li>CV (max. 2 pages)</li><li>Cover letter (max. 1 page) describing motivation</li><li>Certified copy of Master's diploma and transcript (with authorised English translation if required)</li><li>Names and contact details of up to two referees</li><li>Optional: link to repository with open-source scientific software contributions</li></ol>\n<p>Send applications to: norbert.peyerimhoff@durham.ac.uk and paul.n.ruth@durham.ac.uk</p>\n<p><strong>Deadline:</strong> 7 October 2026, 23:59 BST</p>\n<h2>Supervisors</h2>\n<ul><li>Principal Supervisor: Professor Norbert Peyerimhoff, Department of Mathematical Sciences, Durham</li><li>Co-Supervisor: Dr Niklas Ruth, Advanced Research Computing (ARC), Durham</li></ul>\n<h2>Key Tasks</h2>\n<ul><li>Carry out independent research project under supervision</li><li>Complete PhD courses or equivalent training</li><li>Participate in research seminars</li><li>Disseminate results through visits, workshops, and conferences</li><li>Write a PhD thesis</li></ul>\n<h2>Research Environment</h2>\n<p>Based in the Department of Mathematical Sciences at Durham University. Close collaboration with Professor Anders Østergaard Madsen at the University of Copenhagen and Dr Lennard Krause at MAX IV in Lund. Opportunities to interact with OlexSys.</p>","eligibility":"worldwide","stipend":"Stipend covers standard UK salary and all university/institutional fees, with a budget for travel, conferences and equipment.","applyLink":"https://www.durham.ac.uk/research/institutes-and-centres/condensed-matter-physics/phd-projects/phd-opportunities/","seoTitle":"4-Year PhD Fellowship: Deep Learning-Accelerated","title":"4-Year PhD Fellowship: Deep Learning-Accelerated Crystallography Pipeline at Durham University","fundingStatus":"fully_funded","ieltsRequired":true,"organizationId":"DGU1hxE5bLLKjC40asxS","createdAt":"2026-09-24T00:57:12.798Z","stipendAmount":null,"fundingType":"fully_funded","countryCode":"GB","intro":"Fully funded 4-year PhD fellowship at Durham University as part of the Novo Nordisk Foundation-funded project 'Deep Learning-Accelerated Crystallography Pipeline'. Open to UK and international students. Deadline: 7 October 2026.","deadlineTimezone":"Europe/London","deadline":"2026-10-07T22:59:59.999Z","degreeLevels":["phd"],"isFeatured":false,"slug":"4-year-phd-fellowship-deep-learning-accelerated-crystallography-pipeline-durham-university","updatedAt":"2026-10-11T02:55:46.749Z","deadlineText":"7 October 2026","verificationStatus":"unverified","seoDescription":"Fully funded 4-year PhD fellowship at Durham University as part of the Novo Nordisk Foundation-funded project 'Deep Learning-Accelerated Crystallography.","isRemote":false,"ogImage":null,"tags":["Durham University","PhD Fellowship","Crystallography","Machine Learning","Deep Learning","Fully Funded","UK","International Students","Quantum Crystallography","Novo Nordisk Foundation"],"opportunityType":"phd_position","isOpen":false,"disciplines":["mathematics","computer_science","chemistry"],"stipendCurrency":null,"deadlineType":"fixed","regionId":"europe","sourceType":"official_university","stipendPeriod":null,"organization":{"website":"https://www.durham.ac.uk","about":"Durham University is a Russell Group collegiate university in northeast England, known for its research and historic setting.","name":"Durham University","logoUrl":null},"category":"phd_position","status":"expired","id":"XgsNNVRHy5mm3ZI0zDAt"}
+{
+  "addedDate": "2026-09-24T00:00:00.000Z",
+  "clickCount": 0,
+  "city": "Durham",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": true
+  },
+  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">4-Year PhD Fellowship: Deep Learning-Accelerated Crystallography Pipeline at Durham University</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Durham University</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Durham, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Stipend covers standard UK salary and all</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">7 October 2026</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.durham.ac.uk/research/institutes-and-centres/condensed-matter-physics/phd-projects/phd-opportunities/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p><strong>Funding detail:</strong> Stipend covers standard UK salary and all university/institutional fees, with a budget for travel, conferences and equipment.</p><h2>PhD Fellowship Overview</h2>\n<p>This 4-year PhD fellowship is part of the Novo Nordisk Foundation-funded project 'Deep Learning-Accelerated Crystallography Pipeline', a collaboration between Durham University, the University of Copenhagen, and the MAX IV synchrotron. The project aims to transform small-molecule structure determination by developing mathematical methods and integrating machine learning into crystallographic workflows.</p>\n<h2>Benefits &amp; Coverage</h2>\n<ul><li>Stipend covering standard UK salary</li><li>Full university/institutional fees</li><li>Budget for travel, conferences, and equipment</li><li>Four-year fixed-term position</li><li>Start date: 1 January 2027 or as soon as possible thereafter</li></ul>\n<h2>Eligibility Criteria</h2>\n<ul><li>Master's degree (or equivalent) in Chemistry, Mathematics, or Computer Science by the start of the PhD</li><li>Strong background in quantum crystallography and its underlying mathematical aspects</li><li>Adequate programming skills and willingness to apply machine learning</li><li>Open to UK and International students</li><li>English language proficiency (IELTS/TOEFL) required</li></ul>\n<h2>Application Process</h2>\n<p>Submit a single PDF containing:</p>\n<ol><li>CV (max. 2 pages)</li><li>Cover letter (max. 1 page) describing motivation</li><li>Certified copy of Master's diploma and transcript (with authorised English translation if required)</li><li>Names and contact details of up to two referees</li><li>Optional: link to repository with open-source scientific software contributions</li></ol>\n<p>Send applications to: norbert.peyerimhoff@durham.ac.uk and paul.n.ruth@durham.ac.uk</p>\n<p><strong>Deadline:</strong> 7 October 2026, 23:59 BST</p>\n<h2>Supervisors</h2>\n<ul><li>Principal Supervisor: Professor Norbert Peyerimhoff, Department of Mathematical Sciences, Durham</li><li>Co-Supervisor: Dr Niklas Ruth, Advanced Research Computing (ARC), Durham</li></ul>\n<h2>Key Tasks</h2>\n<ul><li>Carry out independent research project under supervision</li><li>Complete PhD courses or equivalent training</li><li>Participate in research seminars</li><li>Disseminate results through visits, workshops, and conferences</li><li>Write a PhD thesis</li></ul>\n<h2>Research Environment</h2>\n<p>Based in the Department of Mathematical Sciences at Durham University. Close collaboration with Professor Anders Østergaard Madsen at the University of Copenhagen and Dr Lennard Krause at MAX IV in Lund. Opportunities to interact with OlexSys.</p>",
+  "eligibility": "worldwide",
+  "stipend": "Stipend covers standard UK salary and all",
+  "applyLink": "https://www.durham.ac.uk/research/institutes-and-centres/condensed-matter-physics/phd-projects/phd-opportunities/",
+  "seoTitle": "4-Year PhD Fellowship: Deep Learning-Accelerated",
+  "title": "4-Year PhD Fellowship: Deep Learning-Accelerated Crystallography Pipeline at Durham University",
+  "fundingStatus": "fully_funded",
+  "ieltsRequired": true,
+  "organizationId": "DGU1hxE5bLLKjC40asxS",
+  "createdAt": "2026-09-24T00:57:12.798Z",
+  "stipendAmount": null,
+  "fundingType": "fully_funded",
+  "countryCode": "GB",
+  "intro": "Fully funded 4-year PhD fellowship at Durham University as part of the Novo Nordisk Foundation-funded project 'Deep Learning-Accelerated Crystallography Pipeline'. Open to UK and international students. Deadline: 7 October 2026.",
+  "deadlineTimezone": "Europe/London",
+  "deadline": "2026-10-07T22:59:59.999Z",
+  "degreeLevels": [
+    "phd"
+  ],
+  "isFeatured": false,
+  "slug": "4-year-phd-fellowship-deep-learning-accelerated-crystallography-pipeline-durham-university",
+  "updatedAt": "2026-10-23",
+  "deadlineText": "7 October 2026",
+  "verificationStatus": "unverified",
+  "seoDescription": "Fully funded 4-year PhD fellowship at Durham University as part of the Novo Nordisk Foundation-funded project 'Deep Learning-Accelerated Crystallography.",
+  "isRemote": false,
+  "ogImage": null,
+  "tags": [
+    "Durham University",
+    "PhD Fellowship",
+    "Crystallography",
+    "Machine Learning",
+    "Deep Learning",
+    "Fully Funded",
+    "UK",
+    "International Students",
+    "Quantum Crystallography",
+    "Novo Nordisk Foundation"
+  ],
+  "opportunityType": "phd_position",
+  "isOpen": false,
+  "disciplines": [
+    "mathematics",
+    "computer_science",
+    "chemistry"
+  ],
+  "stipendCurrency": null,
+  "deadlineType": "fixed",
+  "regionId": "europe",
+  "sourceType": "official_university",
+  "stipendPeriod": null,
+  "organization": {
+    "website": "https://www.durham.ac.uk",
+    "about": "Durham University is a Russell Group collegiate university in northeast England, known for its research and historic setting.",
+    "name": "Durham University",
+    "logoUrl": null
+  },
+  "category": "phd_position",
+  "status": "expired",
+  "id": "XgsNNVRHy5mm3ZI0zDAt"
+}

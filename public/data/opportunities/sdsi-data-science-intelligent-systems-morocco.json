@@ -22,7 +22,7 @@
   "city": "Rabat",
   "deadline": null,
   "deadlineType": "custom",
-  "deadlineText": "Annual call — the closing date for the next intake is published on the SDSI admission page",
+  "deadlineText": "Annual call - see official page",
   "degreeLevels": [
     "masters"
   ],
@@ -45,7 +45,7 @@
     "stipendProvided": false,
     "tuitionCovered": true
   },
-  "stipend": "Scholarship places and fee waivers for selected applicants are described in the annual call.",
+  "stipend": "Scholarship places and fee waivers for selected",
   "intro": "SDSI is a Moroccan master programme in data science and intelligent systems that trains AI and data engineers for the Moroccan and Francophone tech ecosystem. Its admission page publishes the annual call, eligibility list and scholarship information for international and Moroccan applicants.",
   "tags": [
     "SDSI",
@@ -57,7 +57,7 @@
   ],
   "applyLink": "https://www.sdsi.ma/admission",
   "isFeatured": false,
-  "ieltsRequired": null,
+  "ieltsRequired": true,
   "eligibility": "worldwide",
   "seoTitle": "SDSI Master Morocco | Data Science & Intelligent Systems Admission",
   "seoDescription": "SDSI master in data science and intelligent systems in Morocco. Annual call with scholarship places for international students — dates on the official admission page.",
@@ -67,11 +67,11 @@
   "addedDate": "2026-10-23T00:07:35.000Z",
   "clickCount": 0,
   "createdAt": "2026-10-23T00:07:35.000Z",
-  "updatedAt": "2026-10-23T00:45:18.000Z",
+  "updatedAt": "2026-10-23T09:00:14.000Z",
   "publishedAt": "2026-10-23T00:07:35.000Z",
   "id": "7CW42tJ4eSujKKb6WiR4",
   "opportunityType": "scholarship",
   "sourceType": "official_organization",
   "isRemote": false,
-  "description": "<p>SDSI is a Moroccan master programme in data science and intelligent systems that trains AI and data engineers for the Moroccan and Francophone tech ecosystem. Its admission page publishes the annual call, eligibility list and scholarship information for international and Moroccan applicants.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Morocco-based data science and AI master with international intake</li>\n <li>Annual admission call with scholarship places for selected students</li>\n <li>Curriculum spanning machine learning, big data and intelligent systems</li>\n <li>Gateway to North African and European tech labour markets</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Computer science, engineering, mathematics and statistics graduates are the target cohort; French and English both appear in programme materials.</p>\n<h2>Funding and Costs</h2>\n<p>Scholarship places and fee waivers for selected applicants are described in the annual call. Confirm the exact funding package on the official page before applying.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Follow the SDSI admission page for the current call and submit through the application channel it specifies. Key deadline information: <strong>Annual call — the closing date for the next intake is published on the SDSI admission page</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.sdsi.ma/admission\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
+  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">SDSI – Master in Data Science and Intelligent Systems (Morocco)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">SDSI Programme (Morocco)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Rabat, Morocco</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Partially Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Scholarship places and fee waivers for selected</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Annual call — the closing date for the next intake is published on the SDSI admission page</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.sdsi.ma/admission\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>SDSI is a Moroccan master programme in data science and intelligent systems that trains AI and data engineers for the Moroccan and Francophone tech ecosystem. Its admission page publishes the annual call, eligibility list and scholarship information for international and Moroccan applicants.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Morocco-based data science and AI master with international intake</li>\n <li>Annual admission call with scholarship places for selected students</li>\n <li>Curriculum spanning machine learning, big data and intelligent systems</li>\n <li>Gateway to North African and European tech labour markets</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Computer science, engineering, mathematics and statistics graduates are the target cohort; French and English both appear in programme materials.</p>\n<h2>Funding and Costs</h2>\n<p>Scholarship places and fee waivers for selected applicants are described in the annual call. Confirm the exact funding package on the official page before applying.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Follow the SDSI admission page for the current call and submit through the application channel it specifies. Key deadline information: <strong>Annual call — the closing date for the next intake is published on the SDSI admission page</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.sdsi.ma/admission\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul>"
 }
