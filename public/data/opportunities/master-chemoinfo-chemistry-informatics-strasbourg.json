@@ -1,77 +1,108 @@
 {
-  "title": "Master ChemoInfo – Chemistry and Informatics (University of Strasbourg)",
-  "status": "published",
-  "slug": "master-chemoinfo-chemistry-informatics-strasbourg",
-  "isOpen": true,
-  "category": "scholarship",
-  "organizationId": "nA5zAfdsDTrlDY6oqZAy",
-  "organization": {
-    "createdAt": "2026-10-23T00:07:35.000Z",
-    "website": "https://masterchemoinfo.u-strasbg.fr",
-    "about": "The University of Strasbourg is a leading French research university and a European hub for chemistry, hosting the ChemoInfo master at the chemistry-informatics interface.",
-    "name": "University of Strasbourg",
-    "programCount": 1,
-    "logoUrl": "https://www.google.com/s2/favicons?domain=u-strasbg.fr&sz=256",
-    "slug": "university-of-strasbourg",
-    "status": "published",
-    "updatedAt": "2026-10-23T00:07:35.000Z",
-    "id": "nA5zAfdsDTrlDY6oqZAy"
-  },
-  "regionId": "europe",
-  "countryCode": "FR",
-  "city": "Strasbourg",
-  "deadline": null,
-  "deadlineType": "custom",
-  "deadlineText": "Admission round for the live intake",
-  "degreeLevels": [
-    "masters"
-  ],
-  "disciplines": [
-    "chemoinformatics",
-    "chemistry",
-    "computer_science",
-    "data_science",
-    "drug_discovery"
-  ],
-  "subjects": [
-    "Chemoinformatics",
-    "Computational chemistry",
-    "AI in chemistry",
-    "Strasbourg"
-  ],
-  "fundingType": "partially_funded",
-  "fundingStatus": "partially_funded",
-  "fundingCoverage": {
-    "stipendProvided": false,
-    "tuitionCovered": false
-  },
-  "stipend": "The consortium has announced that the 2026-2028 student",
-  "intro": "Master ChemoInfo at the University of Strasbourg trains chemoinformatics specialists at the interface of chemistry and computing — a niche with strong pharma and materials demand. The current selection procedure covers the 2026-2028 intake, which the consortium has confirmed will run without Erasmus Mundus scholarships.",
-  "tags": [
-    "ChemoInfo",
-    "Chemoinformatics",
-    "Strasbourg",
-    "Computational Chemistry",
-    "AI Chemistry",
-    "Masters"
-  ],
-  "applyLink": "https://masterchemoinfo.u-strasbg.fr/en/application/selection-procedure",
-  "isFeatured": false,
-  "ieltsRequired": true,
-  "eligibility": "worldwide",
-  "seoTitle": "Master ChemoInfo Strasbourg | Chemistry & Informatics Admission",
-  "seoDescription": "Master ChemoInfo at the University of Strasbourg — chemoinformatics and computational chemistry. Selection procedure for the live intake on the official page (2026-2028 without scholarship).",
-  "ogImage": "",
-  "verificationStatus": "unverified",
-  "verificationScore": null,
-  "addedDate": "2026-10-23T00:07:35.000Z",
-  "clickCount": 0,
+ "title": "Master ChemoInfo – Chemistry and Informatics (University of Strasbourg)",
+ "status": "published",
+ "slug": "master-chemoinfo-chemistry-informatics-strasbourg",
+ "isOpen": true,
+ "category": "scholarship",
+ "organizationId": "nA5zAfdsDTrlDY6oqZAy",
+ "organization": {
   "createdAt": "2026-10-23T00:07:35.000Z",
-  "updatedAt": "2026-10-23T14:20:12.000Z",
-  "publishedAt": "2026-10-23T00:07:35.000Z",
-  "id": "GuNl4mdm84OaXr8qEQCC",
-  "opportunityType": "scholarship",
-  "sourceType": "official_organization",
-  "isRemote": false,
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master ChemoInfo – Chemistry and Informatics (University of Strasbourg)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">University of Strasbourg</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Strasbourg, France</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Partially Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">The consortium has announced that the 2026-2028 student</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Admission round for the live intake per the official selection-procedure page (the</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://masterchemoinfo.u-strasbg.fr/en/application/selection-procedure\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>Master ChemoInfo at the University of Strasbourg trains chemoinformatics specialists at the interface of chemistry and computing — a niche with strong pharma and materials demand. The current selection procedure covers the 2026-2028 intake, which the consortium has confirmed will run without Erasmus Mundus scholarships.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Strasbourg's chemoinformatics tradition with industry and EU-research links</li>\n <li>Selection-procedure page carries the live admission steps</li>\n <li>2026-2028 intake confirmed without an EMJM scholarship</li>\n <li>Graduates enter pharma informatics, computational chemistry and data roles</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Chemistry, biochemistry and computer science graduates with programming skills are the natural fit; motivation for the chemistry-data interface matters.</p>\n<h2>Funding and Costs</h2>\n<p>The consortium has announced that the 2026-2028 student intake will run without an Erasmus Mundus scholarship; other funding options are listed on the scholarships page. Confirm the exact funding package on the official page before applying.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Follow the selection-procedure page for the current round and check the scholarships page for alternative funding. Key deadline information: <strong>Admission round for the live intake per the official selection-procedure page (the 2026-2028 intake runs without a scholarship)</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://masterchemoinfo.u-strasbg.fr/en/application/selection-procedure\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About University of Strasbourg</h2><p>The University of Strasbourg is a leading French research university and a European hub for chemistry, hosting the ChemoInfo master at the chemistry-informatics interface.</p><p>Official website: <a href=\"https://masterchemoinfo.u-strasbg.fr\" target=\"_blank\" rel=\"noopener noreferrer\">https://masterchemoinfo.u-strasbg.fr</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: Admission round for the live intake - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/masters-phd-application-timeline-12-months\">A 12-Month Study Abroad Application Plan for Master's and PhD Applicants</a></li></ul>"
+  "website": "https://masterchemoinfo.u-strasbg.fr",
+  "about": "The University of Strasbourg is a leading French research university and a European hub for chemistry, hosting the ChemoInfo master at the chemistry-informatics interface.",
+  "name": "University of Strasbourg",
+  "programCount": 1,
+  "logoUrl": "https://en.unistra.fr/themes/custom/studiometa/favicon.ico",
+  "slug": "university-of-strasbourg",
+  "status": "published",
+  "updatedAt": "2026-10-23T00:07:35.000Z",
+  "id": "nA5zAfdsDTrlDY6oqZAy"
+ },
+ "regionId": "europe",
+ "countryCode": "FR",
+ "city": "Strasbourg",
+ "deadline": null,
+ "deadlineType": "custom",
+ "deadlineText": "Admission round for the live intake",
+ "degreeLevels": [
+  "masters"
+ ],
+ "disciplines": [
+  "chemoinformatics",
+  "chemistry",
+  "computer_science",
+  "data_science",
+  "drug_discovery"
+ ],
+ "subjects": [
+  "Chemoinformatics",
+  "Computational chemistry",
+  "AI in chemistry",
+  "Strasbourg"
+ ],
+ "fundingType": "partially_funded",
+ "fundingStatus": "partially_funded",
+ "fundingCoverage": {
+  "stipendProvided": false,
+  "tuitionCovered": false
+ },
+ "stipend": "The consortium has announced that the 2026-2028 student",
+ "intro": "Master ChemoInfo at the University of Strasbourg trains chemoinformatics specialists at the interface of chemistry and computing — a niche with strong pharma and materials demand. The current selection procedure covers the 2026-2028 intake, which the consortium has confirmed will run without Erasmus Mundus scholarships.",
+ "tags": [
+  "ChemoInfo",
+  "Chemoinformatics",
+  "Strasbourg",
+  "Computational Chemistry",
+  "AI Chemistry",
+  "Masters"
+ ],
+ "applyLink": "https://masterchemoinfo.u-strasbg.fr/en/application/selection-procedure",
+ "isFeatured": false,
+ "ieltsRequired": true,
+ "eligibility": "worldwide",
+ "seoTitle": "Master ChemoInfo Strasbourg | Chemistry & Informatics Admission",
+ "seoDescription": "Master ChemoInfo at the University of Strasbourg — chemoinformatics and computational chemistry. Selection procedure for the live intake on the official page (2026-2028 without scholarship).",
+ "ogImage": "https://nextapply.co.uk/master-chemoinfo-chemistry-informatics-strasbourg/opengraph-image",
+ "verificationStatus": "unverified",
+ "verificationScore": null,
+ "addedDate": "2026-10-23T00:07:35.000Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-23T00:07:35.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-23T00:07:35.000Z",
+ "id": "GuNl4mdm84OaXr8qEQCC",
+ "opportunityType": "scholarship",
+ "sourceType": "official_organization",
+ "isRemote": false,
+ "description": "<h2>About the Scholarship</h2><p>Master ChemoInfo at the University of Strasbourg trains chemoinformatics specialists at the interface of chemistry and computing — a niche with strong pharma and materials demand. The current selection procedure covers the 2026-2028 intake, which the consortium has confirmed will run without Erasmus Mundus scholarships.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master ChemoInfo – Chemistry and Informatics (University of Strasbourg)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">University of Strasbourg</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Strasbourg, France</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Partially Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">The consortium has announced that the 2026-2028 student</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Admission round for the live intake per the official selection-procedure page (the</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://masterchemoinfo.u-strasbg.fr/en/application/selection-procedure\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>Master ChemoInfo at the University of Strasbourg trains chemoinformatics specialists at the interface of chemistry and computing — a niche with strong pharma and materials demand. The current selection procedure covers the 2026-2028 intake, which the consortium has confirmed will run without Erasmus Mundus scholarships.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Strasbourg's chemoinformatics tradition with industry and EU-research links</li>\n <li>Selection-procedure page carries the live admission steps</li>\n <li>2026-2028 intake confirmed without an EMJM scholarship</li>\n <li>Graduates enter pharma informatics, computational chemistry and data roles</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Chemistry, biochemistry and computer science graduates with programming skills are the natural fit; motivation for the chemistry-data interface matters.</p>\n<h2>Funding and Costs</h2>\n<p>The consortium has announced that the 2026-2028 student intake will run without an Erasmus Mundus scholarship; other funding options are listed on the scholarships page. Confirm the exact funding package on the official page before applying.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Follow the selection-procedure page for the current round and check the scholarships page for alternative funding. Key deadline information: <strong>Admission round for the live intake per the official selection-procedure page (the 2026-2028 intake runs without a scholarship)</strong>.</p>\n<h2>Official Link</h2>\n<ul>\n <li><a href=\"https://masterchemoinfo.u-strasbg.fr/en/application/selection-procedure\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About University of Strasbourg</h2><p>The University of Strasbourg is a leading French research university and a European hub for chemistry, hosting the ChemoInfo master at the chemistry-informatics interface.</p><p>Official website: <a href=\"https://masterchemoinfo.u-strasbg.fr\" target=\"_blank\" rel=\"noopener noreferrer\">https://masterchemoinfo.u-strasbg.fr</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: Admission round for the live intake - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/masters-phd-application-timeline-12-months\">A 12-Month Study Abroad Application Plan for Master's and PhD Applicants</a></li></ul>",
+ "keywords": [
+  "Master ChemoInfo – Chemistry and Informatics (University of",
+  "University of Strasbourg scholarships",
+  "Master's France",
+  "France scholarships",
+  "IELTS requirement",
+  "ChemoInfo",
+  "Chemoinformatics",
+  "Strasbourg"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/master-chemoinfo-chemistry-informatics-strasbourg",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalProgram",
+  "@id": "https://nextapply.co.uk/master-chemoinfo-chemistry-informatics-strasbourg#opportunity",
+  "url": "https://nextapply.co.uk/master-chemoinfo-chemistry-informatics-strasbourg",
+  "name": "Master ChemoInfo – Chemistry and Informatics (University of Strasbourg)",
+  "description": "Master ChemoInfo at the University of Strasbourg trains chemoinformatics specialists at the interface of chemistry and computing — a niche with strong pharma and materials demand. The current selection procedure covers the 2026-2028 intake, which the consortium has confirmed will run without Erasmus Mundus scholarships.",
+  "educationalProgramMode": "full time",
+  "provider": {
+   "@type": "Organization",
+   "name": "University of Strasbourg",
+   "sameAs": "https://masterchemoinfo.u-strasbg.fr",
+   "logo": "https://en.unistra.fr/themes/custom/studiometa/favicon.ico"
+  },
+  "offers": {
+   "@type": "Offer",
+   "category": "Funding programme"
+  }
+ }
 }

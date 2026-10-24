@@ -1,71 +1,124 @@
 {
-  "addedDate": "2026-10-09T12:04:20.297Z",
-  "clickCount": 0,
-  "city": "Norwich",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">SENSS ESRC Studentship 2027 at the University of East Anglia</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">University of East Anglia</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Norwich, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded, stipend provided, tuition covered</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">GBP 21,805 per year (2026/27 rate)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">14 January 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.uea.ac.uk/course/phd-doctorate/senss-student-led-esrc-phd-studentships\">Official application page ↗</a></td></tr></tbody></table><h2>About the Studentship</h2>\n<p>The University of East Anglia (UEA) is a member of the South and East Network for Social Sciences (SENSS) Doctoral Training Partnership, funded by the Economic and Social Research Council (ESRC). SENSS offers fully-funded studentships for postgraduate researchers wanting to begin a PhD in October 2027.</p>\n<h2>Research Areas</h2>\n<p>SENSS funds innovative PhD projects across six interdisciplinary themes: Sustainability and Climate Change; Health, Well-being, and Social Care; Justice, Institutions, and Social Change; Digital Social Sciences; Resolving Uncertainty and Addressing Crises; and Advanced Methods for Social and Economic Research.</p>\n<h2>Funding</h2>\n<p>The studentship covers tuition fees fully and provides a tax-free stipend of £21,805 per year (2026/27 rate), plus access to additional funding for overseas fieldwork, language training, and research training. Awards last between 3.5 and 4.5 years depending on prior qualifications.</p>\n<h2>Academic Eligibility</h2>\n<p>Applicants should have a good undergraduate degree (typically a First or 2:1) in a relevant social science discipline. A master's degree is not mandatory. The studentship is open to both Home and International applicants, though the ESRC stipulates that only up to 30% of SENSS studentships can be awarded to International students.</p>\n<h2>Application Process</h2>\n<p>Applicants must first apply for a PhD place at UEA via the standard postgraduate research application portal. Funded doctoral training deadlines are in December/January. Self-funded applicants may apply throughout the year.</p>\n<h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Official Link</h2><p>Full announcement and application portal: <a href=\"https://www.uea.ac.uk/course/phd-doctorate/senss-student-led-esrc-phd-studentships\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.uea.ac.uk/course/phd-doctorate/senss-student-led-esrc-phd-studentships</a></p><p>Source: uea.ac.uk - the details in this listing were recorded from this official page.</p><h2>Important Notes</h2><ul><li>Application deadline: 14 January 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: 14 January 2027. Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://www.uea.ac.uk/course/phd-doctorate/senss-student-led-esrc-phd-studentships\">Open the official application page ↗</a></p><h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-academic-cv-phd-applications-sample\">Academic CV for PhD Applications: Structure and an Example</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
-  "eligibility": "worldwide",
-  "stipend": "GBP 21,805 per year (2026/27 rate)",
-  "applyLink": "https://www.uea.ac.uk/course/phd-doctorate/senss-student-led-esrc-phd-studentships",
-  "seoTitle": "SENSS ESRC Studentship 2027 at the University of East Anglia",
+ "addedDate": "2026-10-09T12:04:20.297Z",
+ "clickCount": 0,
+ "city": "Norwich",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">SENSS ESRC Studentship 2027 at the University of East Anglia</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">University of East Anglia</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Norwich, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded, stipend provided, tuition covered</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">GBP 21,805 per year (2026/27 rate)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">14 January 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.uea.ac.uk/course/phd-doctorate/senss-student-led-esrc-phd-studentships\">Official application page ↗</a></td></tr></tbody></table><h2>About the Studentship</h2>\n<p>The University of East Anglia (UEA) is a member of the South and East Network for Social Sciences (SENSS) Doctoral Training Partnership, funded by the Economic and Social Research Council (ESRC). SENSS offers fully-funded studentships for postgraduate researchers wanting to begin a PhD in October 2027.</p>\n<h2>Research Areas</h2>\n<p>SENSS funds innovative PhD projects across six interdisciplinary themes: Sustainability and Climate Change; Health, Well-being, and Social Care; Justice, Institutions, and Social Change; Digital Social Sciences; Resolving Uncertainty and Addressing Crises; and Advanced Methods for Social and Economic Research.</p>\n<h2>Funding</h2>\n<p>The studentship covers tuition fees fully and provides a tax-free stipend of £21,805 per year (2026/27 rate), plus access to additional funding for overseas fieldwork, language training, and research training. Awards last between 3.5 and 4.5 years depending on prior qualifications.</p>\n<h2>Academic Eligibility</h2>\n<p>Applicants should have a good undergraduate degree (typically a First or 2:1) in a relevant social science discipline. A master's degree is not mandatory. The studentship is open to both Home and International applicants, though the ESRC stipulates that only up to 30% of SENSS studentships can be awarded to International students.</p>\n<h2>Application Process</h2>\n<p>Applicants must first apply for a PhD place at UEA via the standard postgraduate research application portal. Funded doctoral training deadlines are in December/January. Self-funded applicants may apply throughout the year.</p>\n<h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Official Link</h2><p>Full announcement and application portal: <a href=\"https://www.uea.ac.uk/course/phd-doctorate/senss-student-led-esrc-phd-studentships\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.uea.ac.uk/course/phd-doctorate/senss-student-led-esrc-phd-studentships</a></p><p>Source: uea.ac.uk - the details in this listing were recorded from this official page.</p><h2>Important Notes</h2><ul><li>Application deadline: 14 January 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: 14 January 2027. Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://www.uea.ac.uk/course/phd-doctorate/senss-student-led-esrc-phd-studentships\">Open the official application page ↗</a></p><h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-academic-cv-phd-applications-sample\">Academic CV for PhD Applications: Structure and an Example</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
+ "eligibility": "worldwide",
+ "stipend": "GBP 21,805 per year (2026/27 rate)",
+ "applyLink": "https://www.uea.ac.uk/course/phd-doctorate/senss-student-led-esrc-phd-studentships",
+ "seoTitle": "SENSS ESRC Studentship 2027 at the University of East Anglia",
+ "title": "SENSS ESRC Studentship 2027 at the University of East Anglia",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": true,
+ "organizationId": "0znX5BtqHs8mClz76TEk",
+ "createdAt": "2026-10-09T12:04:21.042Z",
+ "stipendAmount": 21805,
+ "fundingType": "fully_funded",
+ "countryCode": "GB",
+ "intro": "Fully funded PhD studentship at the University of East Anglia through the South and East Network for Social Sciences (SENSS) Doctoral Training Partnership. Open to Home and International students for October 2027 start.",
+ "deadlineTimezone": "Europe/London",
+ "deadline": "2027-01-14T23:59:59.999Z",
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "senss-esrc-studentship-2027-university-of-east-anglia",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "14 January 2027",
+ "verificationStatus": "unverified",
+ "seoDescription": "Fully funded PhD studentship at the University of East Anglia through the South and East Network for Social Sciences (SENSS) Doctoral Training Partnership.",
+ "isRemote": false,
+ "ogImage": "https://nextapply.co.uk/senss-esrc-studentship-2027-university-of-east-anglia/opengraph-image",
+ "tags": [
+  "University of East Anglia",
+  "Social Sciences",
+  "Phd Position",
+  "Fully Funded",
+  "SENSS",
+  "ESRC",
+  "Norwich",
+  "UK",
+  "Doctoral Training Partnership",
+  "United Kingdom",
+  "PhD",
+  "Social_Sciences"
+ ],
+ "opportunityType": "phd_position",
+ "isOpen": true,
+ "disciplines": [
+  "social_sciences"
+ ],
+ "stipendCurrency": "GBP",
+ "deadlineType": "fixed",
+ "regionId": "europe",
+ "sourceType": "official_university",
+ "stipendPeriod": "year",
+ "organization": {
+  "website": "https://www.uea.ac.uk/",
+  "name": "University of East Anglia",
+  "id": "0znX5BtqHs8mClz76TEk",
+  "logoUrl": "https://www.andrew-cowan.com/sites/default/files/UEA%20Logo.png",
+  "slug": "university-of-east-anglia"
+ },
+ "category": "phd_position",
+ "status": "published",
+ "publishedAt": "2026-10-09T12:04:21.042Z",
+ "id": "xklX3m89KqBtKrstEfvz",
+ "keywords": [
+  "SENSS ESRC Studentship 2027",
+  "University of East Anglia positions",
+  "fully funded PhD UK",
+  "UK scholarships 2027",
+  "PhD 2027 intake",
+  "IELTS requirement",
+  "University of East Anglia",
+  "Social Sciences",
+  "Phd Position"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/senss-esrc-studentship-2027-university-of-east-anglia",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/senss-esrc-studentship-2027-university-of-east-anglia#opportunity",
+  "url": "https://nextapply.co.uk/senss-esrc-studentship-2027-university-of-east-anglia",
   "title": "SENSS ESRC Studentship 2027 at the University of East Anglia",
-  "fundingStatus": "fully_funded",
-  "ieltsRequired": true,
-  "organizationId": "0znX5BtqHs8mClz76TEk",
-  "createdAt": "2026-10-09T12:04:21.042Z",
-  "stipendAmount": 21805,
-  "fundingType": "fully_funded",
-  "countryCode": "GB",
-  "intro": "Fully funded PhD studentship at the University of East Anglia through the South and East Network for Social Sciences (SENSS) Doctoral Training Partnership. Open to Home and International students for October 2027 start.",
-  "deadlineTimezone": "Europe/London",
-  "deadline": "2027-01-14T23:59:59.999Z",
-  "degreeLevels": [
-    "phd"
-  ],
-  "isFeatured": false,
-  "slug": "senss-esrc-studentship-2027-university-of-east-anglia",
-  "updatedAt": "2026-10-23T14:21:38.000Z",
-  "deadlineText": "14 January 2027",
-  "verificationStatus": "unverified",
-  "seoDescription": "Fully funded PhD studentship at the University of East Anglia through the South and East Network for Social Sciences (SENSS) Doctoral Training Partnership.",
-  "isRemote": false,
-  "ogImage": "https://nextapply.co.uk/senss-esrc-studentship-2027-university-of-east-anglia/opengraph-image",
-  "tags": [
-    "University of East Anglia",
-    "Social Sciences",
-    "Phd Position",
-    "Fully Funded",
-    "SENSS",
-    "ESRC",
-    "Norwich",
-    "UK",
-    "Doctoral Training Partnership",
-    "United Kingdom",
-    "PhD",
-    "Social_Sciences"
-  ],
-  "opportunityType": "phd_position",
-  "isOpen": true,
-  "disciplines": [
-    "social_sciences"
-  ],
-  "stipendCurrency": "GBP",
-  "deadlineType": "fixed",
-  "regionId": "europe",
-  "sourceType": "official_university",
-  "stipendPeriod": "year",
-  "organization": {
-    "website": "https://www.uea.ac.uk/",
-    "name": "University of East Anglia",
-    "id": "0znX5BtqHs8mClz76TEk",
-    "logoUrl": "https://www.andrew-cowan.com/sites/default/files/UEA%20Logo.png",
-    "slug": "university-of-east-anglia"
+  "description": "Fully funded PhD studentship at the University of East Anglia through the South and East Network for Social Sciences (SENSS) Doctoral Training Partnership. Open to Home and International students for October 2027 start.",
+  "datePosted": "2026-10-09T12:04:21.042Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "University of East Anglia",
+   "sameAs": "https://www.uea.ac.uk/",
+   "logo": "https://www.andrew-cowan.com/sites/default/files/UEA%20Logo.png"
   },
-  "category": "phd_position",
-  "status": "published",
-  "publishedAt": "2026-10-09T12:04:21.042Z",
-  "id": "xklX3m89KqBtKrstEfvz"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "senss-esrc-studentship-2027-university-of-east-anglia"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "GB",
+    "addressLocality": "Norwich"
+   }
+  },
+  "validThrough": "2027-01-14T23:59:59.999Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "GBP",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 21805,
+    "unitText": "YEAR"
+   }
+  }
+ }
 }

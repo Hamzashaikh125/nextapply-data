@@ -1,0 +1,122 @@
+{
+ "addedDate": "2026-08-22T20:43:27.954Z",
+ "city": "Leeds",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<h2>About the Position</h2><p>Focusing on developing mixed-precision algorithms for numerical linear algebra on next-generation exascale supercomputers as part of the School of Computer Science Scholarship.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded PhD Studentship Mixed Precision Methods for Numerical Linear Algebra at Exascale</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">University of Leeds</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Leeds, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">£21,805 per year</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">30 September 2026 at 05:00 UTC+5</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://phd.leeds.ac.uk/project/2310-mixed-precision-methods-for-numerical-\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <h2>Basic Information</h2>\n<ul><li><strong>Project Title:</strong> Mixed Precision Methods for Numerical Linear Algebra at Exascale</li><li><strong>Host Institution:</strong> University of Leeds</li><li><strong>School/Faculty:</strong> School of Computer Science</li><li><strong>Disciplines:</strong> Computer Science, Mathematics</li><li><strong>Study Level:</strong> PhD</li><li><strong>Application Deadline:</strong> 30 September 2026 at 05:00 UTC+5</li><li><strong>Funding Type:</strong> Fully Funded</li><li><strong>Eligibility:</strong> Worldwide (open to international and UK applicants)</li><li><strong>Location:</strong> Leeds, United Kingdom</li><li><strong>IELTS Required:</strong> Yes</li></ul>\n<h2>Research Position Overview</h2>\n<p>This studentship is part of the School of Computer Science Scholarship 2025/26. It focuses on developing mixed-precision algorithms for numerical linear algebra on next-generation exascale supercomputers.</p>\n<h2>Research Context</h2>\n<p>Exascale computing requires exploiting multiple precision levels to balance accuracy and performance. Mixed-precision methods can dramatically speed up large-scale simulations.</p>\n<h2>What You Will Do</h2>\n<p>You will design and implement novel mixed-precision linear algebra routines, test them on state-of-the-art HPC systems, and analyse their numerical stability and efficiency.</p>\n<h2>Key Research Aims</h2>\n<ul><li>Develop efficient mixed-precision algorithms for common linear algebra operations.</li><li>Evaluate performance and accuracy trade-offs on exascale architectures.</li><li>Contribute to open-source scientific software libraries.</li></ul>\n<h2>Supervisor Profile</h2>\n<p>Supervisor not specified; check the School of Computer Science for potential advisors.</p>\n<h2>Eligibility and Requirements</h2>\n<ul><li><strong>Academic Background:</strong> First-class or 2:1 Honours degree in computer science, mathematics, or a related field.</li><li><strong>English Language:</strong> IELTS required.</li><li><strong>Nationality:</strong> Worldwide (no UK-only restriction).</li></ul>\n<h2>Funding Details</h2>\n<ul><li><strong>Funding Type:</strong> School of Computer Science Scholarship.</li><li><strong>Stipend:</strong> £21,805 per year.</li><li><strong>Duration:</strong> 3.5 years.</li><li><strong>Fees:</strong> Full academic fees covered (both UK and international fee rates).</li></ul>\n<h2>How to Apply</h2>\n<p>Apply online via the University of Leeds PhD application portal.</p><h2>Official Link</h2><p>https://phd.leeds.ac.uk/project/2310-mixed-precision-methods-for-numerical-</p><h2>Important Notes</h2><ul><li>Always confirm the full requirements and current deadline on the official website before applying.</li><li>Prepare the requested documents early — competitive awards are often decided on complete, on-time submissions.</li><li>Funding terms shown here reflect the listing at the time of publication and can be updated by the provider.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+ "eligibility": "worldwide",
+ "stipend": "£21,805 per year",
+ "applyLink": "https://phd.leeds.ac.uk/project/2310-mixed-precision-methods-for-numerical-",
+ "seoTitle": "PhD Studentship Mixed Precision Methods for Numerical",
+ "title": "Fully Funded PhD Studentship Mixed Precision Methods for Numerical Linear Algebra at Exascale",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": true,
+ "organizationId": "KglYKrTDSZOl0ZhSFpJZ",
+ "createdAt": "2026-08-22T20:43:27.954Z",
+ "stipendAmount": 21805,
+ "fundingType": "fully_funded",
+ "countryCode": "GB",
+ "intro": "Focusing on developing mixed-precision algorithms for numerical linear algebra on next-generation exascale supercomputers as part of the School of Computer Science Scholarship.",
+ "deadlineTimezone": "Europe/London",
+ "deadline": "2026-10-01T02:55:00.000Z",
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "fully-funded-phd-studentship-mixed-precision-methods-for-numerical-linear-algebra-at-exascale",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "30 September 2026 at 05:00 UTC+5",
+ "publishedAt": "2026-08-22T20:43:27.954Z",
+ "verificationStatus": "verified",
+ "seoDescription": "Focusing on developing mixed-precision algorithms for numerical linear algebra on next-generation exascale supercomputers as part of the School of Computer.",
+ "isRemote": false,
+ "ogImage": "https://images.seeklogo.com/logo-png/31/1/university-of-leeds-logo-png_seeklogo-310309.png",
+ "tags": [
+  "Numerical Linear Algebra",
+  "Exascale",
+  "Mixed Precision",
+  "High-Performance Computing",
+  "Computer Science",
+  "University of Leeds",
+  "PhD",
+  "Fully Funded",
+  "2026",
+  "2027",
+  "UKRI"
+ ],
+ "opportunityType": "phd_position",
+ "isOpen": false,
+ "disciplines": [
+  "computer_science",
+  "mathematics"
+ ],
+ "stipendCurrency": "GBP",
+ "verificationScore": 100,
+ "deadlineType": "fixed",
+ "regionId": "europe",
+ "sourceType": "official_university",
+ "stipendPeriod": "year",
+ "organization": {
+  "website": "https://www.leeds.ac.uk/",
+  "about": "The University of Leeds is a public research university in Leeds, England, and a member of the Russell Group. It offers undergraduate and postgraduate study across a broad range of disciplines.",
+  "name": "University of Leeds",
+  "logoUrl": "https://images.seeklogo.com/logo-png/31/1/university-of-leeds-logo-png_seeklogo-310309.png"
+ },
+ "category": "phd_position",
+ "status": "expired",
+ "id": "GHTlne3DAQVIjKaWk5f9",
+ "keywords": [
+  "Fully Funded PhD Studentship Mixed Precision Methods for Numerical",
+  "University of Leeds positions",
+  "fully funded PhD UK",
+  "UK scholarships",
+  "IELTS requirement",
+  "Numerical Linear Algebra",
+  "Exascale",
+  "Mixed Precision"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/fully-funded-phd-studentship-mixed-precision-methods-for-numerical-linear-algebra-at-exascale",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/fully-funded-phd-studentship-mixed-precision-methods-for-numerical-linear-algebra-at-exascale#opportunity",
+  "url": "https://nextapply.co.uk/fully-funded-phd-studentship-mixed-precision-methods-for-numerical-linear-algebra-at-exascale",
+  "title": "Fully Funded PhD Studentship Mixed Precision Methods for Numerical Linear Algebra at Exascale",
+  "description": "Focusing on developing mixed-precision algorithms for numerical linear algebra on next-generation exascale supercomputers as part of the School of Computer Science Scholarship.",
+  "datePosted": "2026-08-22T20:43:27.954Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "University of Leeds",
+   "sameAs": "https://www.leeds.ac.uk/",
+   "logo": "https://images.seeklogo.com/logo-png/31/1/university-of-leeds-logo-png_seeklogo-310309.png"
+  },
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "fully-funded-phd-studentship-mixed-precision-methods-for-numerical-linear-algebra-at-exascale"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "GB",
+    "addressLocality": "Leeds"
+   }
+  },
+  "validThrough": "2026-10-01T02:55:00.000Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "GBP",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 21805,
+    "unitText": "YEAR"
+   }
+  }
+ }
+}

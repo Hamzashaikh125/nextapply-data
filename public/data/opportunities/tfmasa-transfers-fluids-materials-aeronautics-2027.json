@@ -1,79 +1,120 @@
 {
-  "title": "TFMASA – International Master in Transfers, Fluids and Materials for Aeronautics (Erasmus Mundus)",
-  "status": "published",
-  "slug": "tfmasa-transfers-fluids-materials-aeronautics-2027",
-  "isOpen": true,
-  "category": "scholarship",
-  "organizationId": "bVCJhdlq8ksHxWu091Eu",
-  "organization": {
-    "createdAt": "2026-10-23T00:07:35.000Z",
-    "website": "https://tfmasa.com",
-    "about": "The TFMASA consortium, coordinated by the University of Bordeaux, delivers the Erasmus Mundus International Master in Transfers, Fluids and Materials for Aeronautics and Sustainable Applications with aerospace-focused European partners.",
-    "name": "TFMASA Consortium (Université de Bordeaux)",
-    "programCount": 1,
-    "logoUrl": "https://www.google.com/s2/favicons?domain=tfmasa.com&sz=256",
-    "slug": "tfmasa-consortium-universit-de-bordeaux",
-    "status": "published",
-    "updatedAt": "2026-10-23T00:07:35.000Z",
-    "id": "bVCJhdlq8ksHxWu091Eu"
-  },
-  "regionId": "europe",
-  "countryCode": "FR",
-  "city": "Bordeaux (multi-country mobility)",
-  "deadline": "2026-12-01T09:00:00.000Z",
-  "deadlineType": "fixed",
-  "deadlineText": "1 December 2026",
-  "deadlineTimezone": "Europe/Paris",
-  "degreeLevels": [
-    "masters"
-  ],
-  "disciplines": [
-    "aerospace_engineering",
-    "fluid_dynamics",
-    "materials_science",
-    "mechanical_engineering"
-  ],
-  "subjects": [
-    "Aeronautics",
-    "Fluid mechanics",
-    "Heat transfer",
-    "Erasmus Mundus"
-  ],
-  "fundingType": "fully_funded",
-  "fundingStatus": "fully_funded",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "stipend": "Erasmus Mundus scholarships for selected students:",
-  "intro": "TFMASA trains engineers in heat and mass transfer, fluid mechanics and advanced materials for sustainable aeronautics, with the consortium coordinated from the University of Bordeaux. The scholarship round for the 2027 intake closes on 1 December 2026 at 10:00 CET, which makes this one of the earliest Erasmus Mundus deadlines of the season.",
-  "tags": [
-    "Erasmus Mundus",
-    "TFMASA",
-    "Aeronautics",
-    "Fluid Mechanics",
-    "Heat Transfer",
-    "Bordeaux",
-    "Fully Funded",
-    "Masters"
-  ],
-  "applyLink": "https://tfmasa.com/tfm-asa-master-program/",
-  "isFeatured": false,
-  "ieltsRequired": true,
-  "eligibility": "worldwide",
-  "seoTitle": "TFMASA Erasmus Mundus Master 2027 | Aeronautics Scholarships, Deadline 1 Dec 2026",
-  "seoDescription": "TFMASA Erasmus Mundus master in transfers, fluids and materials for aeronautics. Scholarship round closes 1 December 2026 (10:00 CET). Fully funded study in Europe.",
-  "ogImage": "",
-  "verificationStatus": "unverified",
-  "verificationScore": null,
-  "addedDate": "2026-10-23T00:07:35.000Z",
-  "clickCount": 0,
+ "title": "TFMASA – International Master in Transfers, Fluids and Materials for Aeronautics (Erasmus Mundus)",
+ "status": "published",
+ "slug": "tfmasa-transfers-fluids-materials-aeronautics-2027",
+ "isOpen": true,
+ "category": "scholarship",
+ "organizationId": "bVCJhdlq8ksHxWu091Eu",
+ "organization": {
   "createdAt": "2026-10-23T00:07:35.000Z",
-  "updatedAt": "2026-10-23T14:20:12.000Z",
-  "publishedAt": "2026-10-23T00:07:35.000Z",
-  "id": "i4eamu67OFvrGr0QPrze",
-  "opportunityType": "scholarship",
-  "sourceType": "official_organization",
-  "isRemote": false,
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">TFMASA – International Master in Transfers, Fluids and Materials for Aeronautics (Erasmus Mundus)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">TFMASA Consortium (Université de Bordeaux)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Bordeaux (multi-country mobility), France</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Erasmus Mundus scholarships for selected students:</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">1 December 2026</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://tfmasa.com/tfm-asa-master-program/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>TFMASA trains engineers in heat and mass transfer, fluid mechanics and advanced materials for sustainable aeronautics, with the consortium coordinated from the University of Bordeaux. The scholarship round for the 2027 intake closes on 1 December 2026 at 10:00 CET, which makes this one of the earliest Erasmus Mundus deadlines of the season.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Aeronautics-focused curriculum with industry links to the Bordeaux aerospace cluster</li>\n <li>Mobility across European partner universities with an integrated internship or thesis period</li>\n <li>Erasmus Mundus scholarship deadline lands on 1 December 2026 — apply early</li>\n <li>Graduates enter aerospace R&D, propulsion, and thermal-management engineering roles</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Mechanical, aerospace, energy or materials engineering graduates with strong fluid dynamics and thermodynamics backgrounds fit the programme best. English test evidence follows the standard Erasmus Mundus requirements.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships for selected students: participation costs covered plus a monthly allowance and travel support.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Prepare documents in October and submit through the TFMASA application page well before the 1 December 2026, 10:00 CET cut-off. Key deadline information: <strong>1 December 2026 (10:00 CET) — scholarship round</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://tfmasa.com/tfm-asa-master-program/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About TFMASA Consortium (Université de Bordeaux)</h2><p>The TFMASA consortium, coordinated by the University of Bordeaux, delivers the Erasmus Mundus International Master in Transfers, Fluids and Materials for Aeronautics and Sustainable Applications with aerospace-focused European partners.</p><p>Official website: <a href=\"https://tfmasa.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://tfmasa.com</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 1 December 2026 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/masters-phd-application-timeline-12-months\">A 12-Month Study Abroad Application Plan for Master's and PhD Applicants</a></li></ul>"
+  "website": "https://tfmasa.com",
+  "about": "The TFMASA consortium, coordinated by the University of Bordeaux, delivers the Erasmus Mundus International Master in Transfers, Fluids and Materials for Aeronautics and Sustainable Applications with aerospace-focused European partners.",
+  "name": "TFMASA Consortium (Université de Bordeaux)",
+  "programCount": 1,
+  "logoUrl": "https://www.google.com/s2/favicons?domain=tfmasa.com&sz=256",
+  "slug": "tfmasa-consortium-universit-de-bordeaux",
+  "status": "published",
+  "updatedAt": "2026-10-23T00:07:35.000Z",
+  "id": "bVCJhdlq8ksHxWu091Eu"
+ },
+ "regionId": "europe",
+ "countryCode": "FR",
+ "city": "Bordeaux (multi-country mobility)",
+ "deadline": "2026-12-01T09:00:00.000Z",
+ "deadlineType": "fixed",
+ "deadlineText": "1 December 2026",
+ "deadlineTimezone": "Europe/Paris",
+ "degreeLevels": [
+  "masters"
+ ],
+ "disciplines": [
+  "aerospace_engineering",
+  "fluid_dynamics",
+  "materials_science",
+  "mechanical_engineering"
+ ],
+ "subjects": [
+  "Aeronautics",
+  "Fluid mechanics",
+  "Heat transfer",
+  "Erasmus Mundus"
+ ],
+ "fundingType": "fully_funded",
+ "fundingStatus": "fully_funded",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "stipend": "€1,400/month (EMJM scholarship rate)",
+ "intro": "TFMASA trains engineers in heat and mass transfer, fluid mechanics and advanced materials for sustainable aeronautics, with the consortium coordinated from the University of Bordeaux. The scholarship round for the 2027 intake closes on 1 December 2026 at 10:00 CET, which makes this one of the earliest Erasmus Mundus deadlines of the season.",
+ "tags": [
+  "Erasmus Mundus",
+  "TFMASA",
+  "Aeronautics",
+  "Fluid Mechanics",
+  "Heat Transfer",
+  "Bordeaux",
+  "Fully Funded",
+  "Masters"
+ ],
+ "applyLink": "https://tfmasa.com/tfm-asa-master-program/",
+ "isFeatured": false,
+ "ieltsRequired": true,
+ "eligibility": "worldwide",
+ "seoTitle": "TFMASA Erasmus Mundus Master 2027 | Aeronautics Scholarships, Deadline 1 Dec 2026",
+ "seoDescription": "TFMASA Erasmus Mundus master in transfers, fluids and materials for aeronautics. Scholarship round closes 1 December 2026 (10:00 CET). Fully funded study in Europe.",
+ "ogImage": "https://nextapply.co.uk/tfmasa-transfers-fluids-materials-aeronautics-2027/opengraph-image",
+ "verificationStatus": "unverified",
+ "verificationScore": null,
+ "addedDate": "2026-10-23T00:07:35.000Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-23T00:07:35.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-23T00:07:35.000Z",
+ "id": "i4eamu67OFvrGr0QPrze",
+ "opportunityType": "scholarship",
+ "sourceType": "official_organization",
+ "isRemote": false,
+ "description": "<h2>About the Scholarship</h2><p>TFMASA trains engineers in heat and mass transfer, fluid mechanics and advanced materials for sustainable aeronautics, with the consortium coordinated from the University of Bordeaux. The scholarship round for the 2027 intake closes on 1 December 2026 at 10:00 CET, which makes this one of the earliest Erasmus Mundus deadlines of the season.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">TFMASA – International Master in Transfers, Fluids and Materials for Aeronautics (Erasmus Mundus)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">TFMASA Consortium (Université de Bordeaux)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Bordeaux (multi-country mobility), France</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Erasmus Mundus scholarships for selected students:</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">1 December 2026</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://tfmasa.com/tfm-asa-master-program/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>TFMASA trains engineers in heat and mass transfer, fluid mechanics and advanced materials for sustainable aeronautics, with the consortium coordinated from the University of Bordeaux. The scholarship round for the 2027 intake closes on 1 December 2026 at 10:00 CET, which makes this one of the earliest Erasmus Mundus deadlines of the season.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Aeronautics-focused curriculum with industry links to the Bordeaux aerospace cluster</li>\n <li>Mobility across European partner universities with an integrated internship or thesis period</li>\n <li>Erasmus Mundus scholarship deadline lands on 1 December 2026 — apply early</li>\n <li>Graduates enter aerospace R&D, propulsion, and thermal-management engineering roles</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Mechanical, aerospace, energy or materials engineering graduates with strong fluid dynamics and thermodynamics backgrounds fit the programme best. English test evidence follows the standard Erasmus Mundus requirements.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships for selected students: participation costs covered plus a monthly allowance and travel support.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Prepare documents in October and submit through the TFMASA application page well before the 1 December 2026, 10:00 CET cut-off. Key deadline information: <strong>1 December 2026 (10:00 CET) — scholarship round</strong>.</p>\n<h2>Official Link</h2>\n<ul>\n <li><a href=\"https://tfmasa.com/tfm-asa-master-program/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About TFMASA Consortium (Université De Bordeaux)</h2><p>The TFMASA consortium, coordinated by the University of Bordeaux, delivers the Erasmus Mundus International Master in Transfers, Fluids and Materials for Aeronautics and Sustainable Applications with aerospace-focused European partners.</p><p>Official website: <a href=\"https://tfmasa.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://tfmasa.com</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 1 December 2026 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/masters-phd-application-timeline-12-months\">A 12-Month Study Abroad Application Plan for Master's and PhD Applicants</a></li></ul>",
+ "stipendAmount": 1400,
+ "stipendCurrency": "EUR",
+ "stipendPeriod": "month",
+ "keywords": [
+  "TFMASA – International Master in Transfers, Fluids and Materials for",
+  "TFMASA Consortium (Université de Bordeaux) scholarships",
+  "fully funded Master's France",
+  "France scholarships 2027",
+  "Master's 2027 intake",
+  "IELTS requirement",
+  "Erasmus Mundus",
+  "TFMASA",
+  "Aeronautics"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/tfmasa-transfers-fluids-materials-aeronautics-2027",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalProgram",
+  "@id": "https://nextapply.co.uk/tfmasa-transfers-fluids-materials-aeronautics-2027#opportunity",
+  "url": "https://nextapply.co.uk/tfmasa-transfers-fluids-materials-aeronautics-2027",
+  "name": "TFMASA – International Master in Transfers, Fluids and Materials for Aeronautics (Erasmus Mundus)",
+  "description": "TFMASA trains engineers in heat and mass transfer, fluid mechanics and advanced materials for sustainable aeronautics, with the consortium coordinated from the University of Bordeaux. The scholarship round for the 2027 intake closes on 1 December 2026 at 10:00 CET, which makes this one of the earliest Erasmus Mundus deadlines of the season.",
+  "educationalProgramMode": "full time",
+  "provider": {
+   "@type": "Organization",
+   "name": "TFMASA Consortium (Université de Bordeaux)",
+   "sameAs": "https://tfmasa.com",
+   "logo": "https://www.google.com/s2/favicons?domain=tfmasa.com&sz=256"
+  },
+  "applicationDeadline": "2026-12-01",
+  "offers": {
+   "@type": "Offer",
+   "category": "Fully Funded programme",
+   "priceSpecification": {
+    "@type": "PriceSpecification",
+    "price": 1400,
+    "priceCurrency": "EUR"
+   }
+  }
+ }
 }

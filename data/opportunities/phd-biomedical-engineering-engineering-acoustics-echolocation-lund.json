@@ -1,0 +1,130 @@
+{
+ "title": "Doctoral Student in Biomedical Engineering: Engineering Acoustics (Dolphin Echolocation and Medical Ultrasound) - Lund University, Sweden",
+ "status": "published",
+ "slug": "phd-biomedical-engineering-engineering-acoustics-echolocation-lund",
+ "isOpen": true,
+ "category": "phd_position",
+ "organizationId": "uG8z1YJ0KwTVZ1wljGjD",
+ "organization": {
+  "id": "uG8z1YJ0KwTVZ1wljGjD",
+  "slug": "lund-university",
+  "name": "Lund University",
+  "logoUrl": "https://www.google.com/s2/favicons?domain=lunduniversity.lu.se&sz=256",
+  "website": "https://www.lunduniversity.lu.se",
+  "about": "Lund University, founded in 1666, is one of Sweden's largest and most international universities and a member of the League of European Research Universities. Its faculties cover engineering, science, medicine, economics, humanities, social sciences, law and the performing arts, and the nearby Copenhagen area makes the Oresund region a strong research hub. Doctoral students are salaried employees under Swedish collective agreements, and postdoctoral fellowships are advertised through the university's Varbi recruitment portal. The university ranks among the top 100 research universities worldwide in major rankings."
+ },
+ "regionId": "europe",
+ "countryCode": "SE",
+ "city": "Lund",
+ "deadline": "2026-11-09T23:59:00.000Z",
+ "deadlineType": "fixed",
+ "deadlineText": "9 November 2026",
+ "degreeLevels": [
+  "phd"
+ ],
+ "disciplines": [
+  "biomedical_engineering",
+  "physics",
+  "mechanical_engineering",
+  "engineering"
+ ],
+ "subjects": [
+  "Engineering acoustics",
+  "Dolphin echolocation",
+  "Medical ultrasound",
+  "Computational acoustics"
+ ],
+ "fundingType": "fully_funded",
+ "stipend": "Salaried PhD position per the Swedish collective agreement",
+ "intro": "Lund University invites applications for a doctoral student in biomedical engineering specialising in engineering acoustics. The project bridges bioacoustics and medical technology, taking the echolocation abilities of dolphins as inspiration for advances in computational acoustics and medical ultrasound.",
+ "description": "<h2>About the Position</h2>\n<p>Lund University invites applications for a doctoral student in biomedical engineering specialising in engineering acoustics. The project bridges bioacoustics and medical technology, taking the echolocation abilities of dolphins as inspiration for advances in computational acoustics and medical ultrasound. The doctoral student will model acoustic signal generation and reception, analyse how biological systems solve detection and localisation problems in challenging environments, and translate these insights into improved ultrasound methods.</p>\n<p>The position is a salaried four-year doctoral employment within the Faculty of Engineering (LTH) in Lund, a technical environment with strong traditions in acoustics research and biomedical engineering. The work combines computational modelling, signal processing and experimental validation, in collaboration with colleagues across the engineering acoustics and biomedical engineering groups. The unusual interdisciplinary angle of the project makes it attractive for candidates with curiosity-driven research interests and solid quantitative foundations.</p>\n\n<h2>Candidate Profile</h2>\n<p>Applicants hold a master's degree in biomedical engineering, electrical engineering, physics or a related field, with strong skills in mathematics, programming and signal processing. Prior exposure to acoustics, ultrasound or bioacoustics is an advantage but not a requirement. Applications are submitted through Lund University's Varbi recruitment portal with a CV, transcripts, references and a personal statement describing the applicant's background and interest in the project.</p>\n<h2>Highlights</h2>\n<ul>\n<li>Salaried four-year PhD in biomedical engineering at Lund LTH</li>\n<li>Dolphin echolocation as inspiration for acoustic engineering</li>\n<li>Computational acoustics and medical ultrasound methods</li>\n<li>Modelling, signal processing and experimental validation</li>\n<li>Interdisciplinary bioacoustics-medical technology project</li>\n<li>Application via the Varbi recruitment system</li>\n</ul>\n<h2>Funding and Duration</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Award or position</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">PhD fellowship / salaried position</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Stipend / salary</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Salaried PhD position per the Swedish collective agreement</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Duration</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Four years (PhD employment)</td></tr>\n</tbody>\n</table>\n<h2>Eligibility and Requirements</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Applicant eligibility</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Worldwide</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Academic preparation</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Master's in biomedical engineering, electrical engineering, physics or a related field; acoustics interest welcome</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Language</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">English proficiency required</td></tr>\n</tbody>\n</table>\n<h2>Application dates</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Recruitment status</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Open</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Deadline</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">9 November 2026</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Location</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Lund, Sweden</td></tr>\n</tbody>\n</table>\n<h2>About Lund University</h2>\n<p>Lund University, founded in 1666, is one of Sweden's largest and most international universities and a member of the League of European Research Universities. Its faculties cover engineering, science, medicine, economics, humanities, social sciences, law and the performing arts, and the nearby Copenhagen area makes the Oresund region a strong research hub. Doctoral students are salaried employees under Swedish collective agreements, and postdoctoral fellowships are advertised through the university's Varbi recruitment portal. The university ranks among the top 100 research universities worldwide in major rankings.</p>\n\n<p><strong>Official details:</strong> <a href=\"https://lu.varbi.com/en/what:job/jobID:963476\" rel=\"noopener noreferrer\">Read the programme or project information</a></p>\n<p><strong>Application route:</strong> <a href=\"https://lu.varbi.com/en/what:job/jobID:963476\" rel=\"noopener noreferrer\">Follow the official application instructions</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 9 November 2026 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2><p>Submit your application through the official page before the deadline: 9 November 2026. Read the eligibility requirements carefully and prepare all requested documents - early applications are strongly recommended for competitive awards.</p><p><a href=\"https://lu.varbi.com/en/what:job/jobID:963476\">Open the official application page ↗</a></p><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/phd-research-proposal-europe-structure-sample-pdf\">PhD Research Proposal for Europe: Structure and a Worked Example</a></li><li><a href=\"https://nextapply.co.uk/articles/can-you-apply-phd-without-masters-degree\">Applying for a PhD Without a Master's: Check the Programme Rules</a></li></ul><h2>Official Link</h2><p>https://lu.varbi.com/en/what:job/jobID:963476</p>",
+ "tags": [
+  "phd",
+  "fully-funded",
+  "se",
+  "acoustics",
+  "ultrasound",
+  "2026",
+  "lund-university"
+ ],
+ "applyLink": "https://lu.varbi.com/en/what:job/jobID:963476",
+ "isFeatured": false,
+ "ieltsRequired": true,
+ "eligibility": "worldwide",
+ "seoTitle": "Doctoral Student in Biomedical Engineering: Engineering",
+ "seoDescription": "Lund University invites applications for a doctoral student in biomedical engineering specialising in engineering acoustics. The project bridges",
+ "ogImage": "https://www.google.com/s2/favicons?domain=lunduniversity.lu.se&sz=256",
+ "verificationStatus": "verified",
+ "verifiedAt": "2026-10-22T15:46:02.000Z",
+ "addedDate": "2026-10-22T15:46:02.000Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-22T15:46:02.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-22T15:46:02.000Z",
+ "fundingStatus": "fully_funded",
+ "id": "q3OBSmUaEXqD1S65SNIJ",
+ "opportunityType": "phd_position",
+ "isRemote": false,
+ "sourceType": "official_university",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "stipendCurrency": "SEK",
+ "stipendAmount": 31300,
+ "stipendPeriod": "month",
+ "deadlineTimezone": "Europe/Stockholm",
+ "verificationScore": 95,
+ "keywords": [
+  "Doctoral Student in Biomedical Engineering: Engineering Acoustics",
+  "Lund University positions",
+  "fully funded PhD Sweden",
+  "Sweden scholarships",
+  "IELTS requirement",
+  "phd",
+  "fully-funded",
+  "se"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/phd-biomedical-engineering-engineering-acoustics-echolocation-lund",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/phd-biomedical-engineering-engineering-acoustics-echolocation-lund#opportunity",
+  "url": "https://nextapply.co.uk/phd-biomedical-engineering-engineering-acoustics-echolocation-lund",
+  "title": "Doctoral Student in Biomedical Engineering: Engineering Acoustics (Dolphin Echolocation and Medical Ultrasound) - Lund University, Sweden",
+  "description": "Lund University invites applications for a doctoral student in biomedical engineering specialising in engineering acoustics. The project bridges bioacoustics and medical technology, taking the echolocation abilities of dolphins as inspiration for advances in computational acoustics and medical ultrasound.",
+  "datePosted": "2026-10-22T15:46:02.000Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "Lund University",
+   "sameAs": "https://www.lunduniversity.lu.se",
+   "logo": "https://www.google.com/s2/favicons?domain=lunduniversity.lu.se&sz=256"
+  },
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "phd-biomedical-engineering-engineering-acoustics-echolocation-lund"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "SE",
+    "addressLocality": "Lund"
+   }
+  },
+  "validThrough": "2026-11-09T23:59:00.000Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "SEK",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 31300,
+    "unitText": "MONTH"
+   }
+  }
+ }
+}

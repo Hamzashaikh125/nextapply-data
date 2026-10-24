@@ -1,83 +1,136 @@
 {
-  "title": "PhD Student in Limnology: Modelling Phytoplankton Succession in Lakes at Uppsala University, Sweden",
-  "status": "published",
-  "slug": "phd-limnology-phytoplankton-modelling-uppsala-university-2026",
-  "isOpen": true,
-  "category": "phd_position",
-  "organizationId": "xdUkOGn8yH35UrymKVky",
-  "organization": {
-    "createdAt": "2026-10-21T23:49:35.000Z",
-    "website": "https://www.uu.se",
-    "about": "Uppsala University is a comprehensive research university in Uppsala, Sweden, and the oldest university in the Nordic countries. Its research and education span science, medicine, technology, humanities and social sciences. Doctoral students are employed as paid researchers with monthly salaries across its departments.",
-    "name": "Uppsala University",
-    "programCount": 0,
-    "logoUrl": "https://www.google.com/s2/favicons?domain=uu.se&sz=128",
-    "slug": "uppsala-university",
-    "status": "published",
-    "updatedAt": "2026-10-21T23:49:35.000Z",
-    "id": "xdUkOGn8yH35UrymKVky"
-  },
-  "regionId": "europe",
-  "countryCode": "SE",
-  "city": "Uppsala",
-  "deadline": "2026-11-25T22:59:59.999Z",
-  "deadlineType": "fixed",
-  "deadlineText": "25 November 2026",
-  "deadlineTimezone": "Europe/Stockholm",
-  "degreeLevels": [
-    "phd"
-  ],
-  "disciplines": [
-    "biology",
-    "environmental_science",
-    "data_science"
-  ],
-  "subjects": [
-    "Limnology",
-    "Phytoplankton ecology",
-    "Process-based modelling",
-    "Biogeochemistry"
-  ],
-  "fundingType": "fully_funded",
-  "fundingStatus": "fully_funded",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "stipend": "Monthly doctoral salary according to Uppsala University's",
-  "stipendAmount": null,
-  "stipendCurrency": "SEK",
-  "stipendPeriod": "month",
-  "intro": "Employed PhD position in limnology at Uppsala University (ref UFV-PA 2026/2846): process-based modelling of phytoplankton succession in lakes. Deadline: 25 November 2026.",
-  "description": "<h2>Project Overview</h2>\n<p>The Department of Ecology and Genetics, Limnology programme, at Uppsala University advertises a PhD student position in limnology: modelling phytoplankton succession in lakes (reference UFV-PA 2026/2846). The project explores the driving processes behind phytoplankton succession and assesses how phytoplankton will respond to future environmental changes.</p>\n<p>Using process-based biogeochemical models, the doctoral student will study how environmental changes - such as climate warming, eutrophication and extreme weather - affect succession patterns in phytoplankton, and identify conditions that favour specific functional groups. The work improves forecasting of phytoplankton communities with direct applications to lake ecosystem function and drinking-water supply.</p>\n<h2>Duties and Research Focus</h2>\n<ul><li>Data management and process-based, dynamic modelling of lake ecosystems</li><li>Simulating phytoplankton succession under climate and nutrient scenarios</li><li>Teaching, coursework and collaboration within the research group</li><li>The position sits at the intersection of physics, biogeochemistry and ecology, with a strong numerical component</li></ul>\n<h2>Funding and Employment</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\"><caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Employment and financial support</caption><thead><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Component</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Details</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Position</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Paid doctoral student employment (full-time)</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Salary</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Monthly salary according to Uppsala University's established salary scale for doctoral positions.</td></tr><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Benefits</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Swedish public-sector employment benefits including paid parental leave, vacation and occupational pension.</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Regulation</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Employment as a doctoral student is regulated in the Higher Education Ordinance (Hogskoleforordningen), chapter 5.</td></tr><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Period</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">2027-04-01 to 2031-03-31 (full time, temporary employment as doctoral student)</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Placement</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Uppsala, Evolutionary Biology Centre (EBC)</td></tr></tbody></table></div>\n<h2>Eligibility and Requirements</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\"><caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Academic and research preparation</caption><thead><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Criterion</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Requirement</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">General eligibility</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Master's degree (advanced level) in limnology, aquatic ecology, environmental science, geoscience, biology, environmental technology or another relevant topic; or 240 higher-education credits including 60 advanced with an independent thesis; or equivalent knowledge. Candidates not yet graduated but expected to meet requirements by the access date may apply.</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Numerical skills</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Documented skills with advanced numerical methods (modelling, statistics or large-scale data analysis); programming experience, for example in R or Python, is required.</td></tr><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Merits</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Previous experience with lake models or other process-based models, familiarity with lake processes such as stratification and aquatic biogeochemical cycles, and a good understanding of phytoplankton ecology.</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">English</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Must be able to express themselves very well in both oral and written English.</td></tr></tbody></table></div>\n<h2>Application Dates</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\"><caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Recruitment information</caption><thead><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Component</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Details</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Status</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Open when checked on 22 October 2026</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Deadline</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">25 November 2026</td></tr><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Reference</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">UFV-PA 2026/2846</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Access</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">2027-04-01 or as agreed</td></tr></tbody></table></div>\n<h2>How to Apply</h2>\n<p>Apply through Uppsala University's recruitment system via the official link by 25 November 2026. The application should contain a personal letter (maximum 2 pages) describing your research interests and suitability, a CV, a brief description of your education, degree certificates and transcripts including your master's thesis, and contact details for at least two references. Contact: Jorrit Mesman, jorrit.mesman@ebc.uu.se.</p>\n<h2>About the Host Department</h2>\n<p>The Department of Ecology and Genetics at Uppsala University hosts the Limnology programme within the Evolutionary Biology Centre (EBC), one of Europe's leading environments for evolutionary biology and ecology research.</p>\n<h2>Official Sources</h2><ul><li><a href=\"https://uu.varbi.com/en/what:job/jobID:972566\" target=\"_blank\" rel=\"noopener noreferrer\">Official advert and application (verified link)</a></li><li><a href=\"https://uu.varbi.com/en/what:job/jobID:972566/type:job/where:4/apply:1\" target=\"_blank\" rel=\"noopener noreferrer\">Apply in Uppsala University's recruitment system (official)</a></li></ul><h2>Contact</h2><ul><li>Email: <a href=\"mailto:jorrit.mesman@ebc.uu.se\">jorrit.mesman@ebc.uu.se</a></li></ul><p>Questions about this position, eligibility or the application process should be sent to the contacts above or raised through the channel given on the official announcement page.</p><h2>Important Notes</h2><ul><li>Application deadline: 25 November 2026 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-academic-cv-phd-applications-sample\">Academic CV for PhD Applications: Structure and an Example</a></li></ul>",
-  "tags": [
-    "Uppsala University",
-    "Biology",
-    "Limnology",
-    "Phd Position",
-    "Fully Funded",
-    "Sweden",
-    "Phytoplankton",
-    "Ecological Modelling",
-    "Aquatic Ecology",
-    "Europe"
-  ],
-  "applyLink": "https://uu.varbi.com/en/what:job/jobID:972566",
-  "isFeatured": false,
-  "ieltsRequired": true,
-  "eligibility": "worldwide",
-  "seoTitle": "Limnology PhD - Phytoplankton Modelling | Uppsala University",
-  "seoDescription": "Apply for an employed, fully funded PhD in limnology at Uppsala University: modelling phytoplankton succession in lakes. Deadline 25 November 2026 (UFV-PA 2026/2846).",
-  "ogImage": "",
-  "verificationStatus": "unverified",
-  "verificationScore": null,
-  "addedDate": "2026-10-21T23:49:35.000Z",
-  "clickCount": 0,
+ "title": "PhD Student in Limnology: Modelling Phytoplankton Succession in Lakes at Uppsala University, Sweden",
+ "status": "published",
+ "slug": "phd-limnology-phytoplankton-modelling-uppsala-university-2026",
+ "isOpen": true,
+ "category": "phd_position",
+ "organizationId": "xdUkOGn8yH35UrymKVky",
+ "organization": {
   "createdAt": "2026-10-21T23:49:35.000Z",
-  "updatedAt": "2026-10-23T14:20:12.000Z",
-  "publishedAt": "2026-10-21T23:49:35.000Z",
-  "id": "sUoJyXamQOY4cLNuom80",
-  "opportunityType": "phd_position",
-  "sourceType": "job_portal",
-  "isRemote": false
+  "website": "https://www.uu.se",
+  "about": "Uppsala University is a comprehensive research university in Uppsala, Sweden, and the oldest university in the Nordic countries. Its research and education span science, medicine, technology, humanities and social sciences. Doctoral students are employed as paid researchers with monthly salaries across its departments.",
+  "name": "Uppsala University",
+  "programCount": 0,
+  "logoUrl": "https://www.google.com/s2/favicons?domain=uu.se&sz=256",
+  "slug": "uppsala-university",
+  "status": "published",
+  "updatedAt": "2026-10-21T23:49:35.000Z",
+  "id": "xdUkOGn8yH35UrymKVky"
+ },
+ "regionId": "europe",
+ "countryCode": "SE",
+ "city": "Uppsala",
+ "deadline": "2026-11-25T22:59:59.999Z",
+ "deadlineType": "fixed",
+ "deadlineText": "25 November 2026",
+ "deadlineTimezone": "Europe/Stockholm",
+ "degreeLevels": [
+  "phd"
+ ],
+ "disciplines": [
+  "biology",
+  "environmental_science",
+  "data_science"
+ ],
+ "subjects": [
+  "Limnology",
+  "Phytoplankton ecology",
+  "Process-based modelling",
+  "Biogeochemistry"
+ ],
+ "fundingType": "fully_funded",
+ "fundingStatus": "fully_funded",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "stipend": "Salary per Swedish collective agreement (typically SEK 32,000–35,000/month initial)",
+ "stipendCurrency": "SEK",
+ "stipendPeriod": "month",
+ "intro": "Employed PhD position in limnology at Uppsala University (ref UFV-PA 2026/2846): process-based modelling of phytoplankton succession in lakes. Deadline: 25 November 2026.",
+ "description": "<h2>About the Position</h2>\n<p>The Department of Ecology and Genetics, Limnology programme, at Uppsala University advertises a PhD student position in limnology: modelling phytoplankton succession in lakes (reference UFV-PA 2026/2846). The project explores the driving processes behind phytoplankton succession and assesses how phytoplankton will respond to future environmental changes.</p>\n<p>Using process-based biogeochemical models, the doctoral student will study how environmental changes - such as climate warming, eutrophication and extreme weather - affect succession patterns in phytoplankton, and identify conditions that favour specific functional groups. The work improves forecasting of phytoplankton communities with direct applications to lake ecosystem function and drinking-water supply.</p>\n<h2>Duties and Research Focus</h2>\n<ul><li>Data management and process-based, dynamic modelling of lake ecosystems</li><li>Simulating phytoplankton succession under climate and nutrient scenarios</li><li>Teaching, coursework and collaboration within the research group</li><li>The position sits at the intersection of physics, biogeochemistry and ecology, with a strong numerical component</li></ul>\n<h2>Funding and Employment</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\"><caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Employment and financial support</caption><thead><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Component</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Details</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Position</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Paid doctoral student employment (full-time)</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Salary</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Monthly salary according to Uppsala University's established salary scale for doctoral positions.</td></tr><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Benefits</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Swedish public-sector employment benefits including paid parental leave, vacation and occupational pension.</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Regulation</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Employment as a doctoral student is regulated in the Higher Education Ordinance (Hogskoleforordningen), chapter 5.</td></tr><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Period</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">2027-04-01 to 2031-03-31 (full time, temporary employment as doctoral student)</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Placement</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Uppsala, Evolutionary Biology Centre (EBC)</td></tr></tbody></table></div>\n<h2>Eligibility and Requirements</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\"><caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Academic and research preparation</caption><thead><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Criterion</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Requirement</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">General eligibility</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Master's degree (advanced level) in limnology, aquatic ecology, environmental science, geoscience, biology, environmental technology or another relevant topic; or 240 higher-education credits including 60 advanced with an independent thesis; or equivalent knowledge. Candidates not yet graduated but expected to meet requirements by the access date may apply.</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Numerical skills</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Documented skills with advanced numerical methods (modelling, statistics or large-scale data analysis); programming experience, for example in R or Python, is required.</td></tr><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Merits</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Previous experience with lake models or other process-based models, familiarity with lake processes such as stratification and aquatic biogeochemical cycles, and a good understanding of phytoplankton ecology.</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">English</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Must be able to express themselves very well in both oral and written English.</td></tr></tbody></table></div>\n<h2>Application dates</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\"><caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Recruitment information</caption><thead><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Component</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Details</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Status</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Open when checked on 22 October 2026</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Deadline</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">25 November 2026</td></tr><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Reference</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">UFV-PA 2026/2846</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Access</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">2027-04-01 or as agreed</td></tr></tbody></table></div>\n<h2>How to Apply</h2>\n<p>Apply through Uppsala University's recruitment system via the official link by 25 November 2026. The application should contain a personal letter (maximum 2 pages) describing your research interests and suitability, a CV, a brief description of your education, degree certificates and transcripts including your master's thesis, and contact details for at least two references. Contact: Jorrit Mesman, jorrit.mesman@ebc.uu.se.</p>\n<h2>About the Host Department</h2>\n<p>The Department of Ecology and Genetics at Uppsala University hosts the Limnology programme within the Evolutionary Biology Centre (EBC), one of Europe's leading environments for evolutionary biology and ecology research.</p>\n<h2>Official Link</h2><ul><li><a href=\"https://uu.varbi.com/en/what:job/jobID:972566\" target=\"_blank\" rel=\"noopener noreferrer\">Official advert and application (verified link)</a></li><li><a href=\"https://uu.varbi.com/en/what:job/jobID:972566/type:job/where:4/apply:1\" target=\"_blank\" rel=\"noopener noreferrer\">Apply in Uppsala University's recruitment system (official)</a></li></ul><h2>Contact</h2><ul><li>Email: <a href=\"mailto:jorrit.mesman@ebc.uu.se\">jorrit.mesman@ebc.uu.se</a></li></ul><p>Questions about this position, eligibility or the application process should be sent to the contacts above or raised through the channel given on the official announcement page.</p><h2>Important Notes</h2><ul><li>Application deadline: 25 November 2026 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-academic-cv-phd-applications-sample\">Academic CV for PhD Applications: Structure and an Example</a></li></ul>",
+ "tags": [
+  "Uppsala University",
+  "Biology",
+  "Limnology",
+  "Phd Position",
+  "Fully Funded",
+  "Sweden",
+  "Phytoplankton",
+  "Ecological Modelling",
+  "Aquatic Ecology",
+  "Europe"
+ ],
+ "applyLink": "https://uu.varbi.com/en/what:job/jobID:972566",
+ "isFeatured": false,
+ "ieltsRequired": true,
+ "eligibility": "worldwide",
+ "seoTitle": "Limnology PhD - Phytoplankton Modelling | Uppsala University",
+ "seoDescription": "Apply for an employed, fully funded PhD in limnology at Uppsala University: modelling phytoplankton succession in lakes. Deadline 25 November 2026 (UFV-PA 2026/2846).",
+ "ogImage": "https://nextapply.co.uk/phd-limnology-phytoplankton-modelling-uppsala-university-2026/opengraph-image",
+ "verificationStatus": "unverified",
+ "verificationScore": null,
+ "addedDate": "2026-10-21T23:49:35.000Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-21T23:49:35.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-21T23:49:35.000Z",
+ "id": "sUoJyXamQOY4cLNuom80",
+ "opportunityType": "phd_position",
+ "sourceType": "job_portal",
+ "isRemote": false,
+ "stipendAmount": 32000,
+ "keywords": [
+  "PhD Student in Limnology: Modelling Phytoplankton Succession in Lakes",
+  "Uppsala University positions",
+  "fully funded PhD Sweden",
+  "Sweden scholarships 2026",
+  "PhD 2026 intake",
+  "IELTS requirement",
+  "Uppsala University",
+  "Biology",
+  "Limnology"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/phd-limnology-phytoplankton-modelling-uppsala-university-2026",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/phd-limnology-phytoplankton-modelling-uppsala-university-2026#opportunity",
+  "url": "https://nextapply.co.uk/phd-limnology-phytoplankton-modelling-uppsala-university-2026",
+  "title": "PhD Student in Limnology: Modelling Phytoplankton Succession in Lakes at Uppsala University, Sweden",
+  "description": "Employed PhD position in limnology at Uppsala University (ref UFV-PA 2026/2846): process-based modelling of phytoplankton succession in lakes. Deadline: 25 November 2026.",
+  "datePosted": "2026-10-21T23:49:35.000Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "Uppsala University",
+   "sameAs": "https://www.uu.se",
+   "logo": "https://www.google.com/s2/favicons?domain=uu.se&sz=256"
+  },
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "phd-limnology-phytoplankton-modelling-uppsala-university-2026"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "SE",
+    "addressLocality": "Uppsala"
+   }
+  },
+  "validThrough": "2026-11-25T22:59:59.999Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "SEK",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 32000,
+    "unitText": "MONTH"
+   }
+  }
+ }
 }

@@ -1,70 +1,108 @@
 {
-  "addedDate": "2026-10-09T13:31:59.551Z",
-  "clickCount": 0,
-  "city": "Reading",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
+ "addedDate": "2026-10-09T13:31:59.551Z",
+ "clickCount": 0,
+ "city": "Reading",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<h2>About the Scholarship</h2>\n<p>Reading’s International PhD Studentships support research across its schools and Henley Business School. Applicants based at Reading can receive tuition and living support, alongside a training allowance.</p>\n<h2>Research Areas</h2>\n<ul><li>Eligible subjects across the university</li></ul>\n<h2>Funding and Duration</h2>\n<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Component</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">International tuition; GBP 1,000/year training allowance; UKRI-linked living stipend for Reading-based study.</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Maintenance</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">GBP 21,805/year (2026/27 reference; Reading-based study only)</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Duration</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Up to 4 years full-time; up to 6 part-time</td></tr></tbody></table>\n<h2>Eligibility and Requirements</h2>\n<p>International PhD applicants with a suitable supervisor and admission application. Off-campus/distance awards do not include a stipend. English evidence, approved equivalents and waivers depend on the programme; IELTS is not a universal requirement for every applicant.</p>\n<h2>Application dates</h2>\n<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Component</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Recruitment</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">2027 competition advertised</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">15 January 2027</td></tr></tbody></table>\n<h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Official Link</h2><p>Full announcement and application portal: <a href=\"https://forms.cloud.microsoft/e/GtuLx8aeZd\" target=\"_blank\" rel=\"noopener noreferrer\">https://forms.cloud.microsoft/e/GtuLx8aeZd</a></p><p>Source: forms.cloud.microsoft - the details in this listing were recorded from this official page.</p><h2>Important Notes</h2><ul><li>Application deadline: 15 January 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2>\n<p>Contact the department, apply for PhD admission and complete the International PhD Studentship form. School nominees later submit a research summary of up to 700 words.</p>\n<p>The funded living-cost route is for study based at Reading. An admission offer and a studentship award are separate decisions.</p>\n<h2>About University of Reading</h2>\n<p>The University of Reading offers doctoral research in science, life sciences, social sciences, arts and humanities, and through Henley Business School. Its Doctoral and Researcher College supports applicants with supervision guidance, research training and funding competitions.</p>\n<p><strong>Official details:</strong> <a href=\"https://www.reading.ac.uk/doctoral-researcher-college/funding/phd-studentships/international-phd-studentships\" rel=\"noopener noreferrer\" target=\"_blank\">Programme information</a></p>\n<p><strong>Application route:</strong> <a href=\"https://forms.cloud.microsoft/e/GtuLx8aeZd\" rel=\"noopener noreferrer\" target=\"_blank\">Application form or official instructions</a></p>\n<p><strong>2026/27 UKRI reference rate:</strong> the minimum UKRI doctoral stipend is £21,805 per year, tax-free (London institutions +£2,000), effective 1 October 2026.</p><h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
+ "eligibility": "worldwide",
+ "stipend": "£21,805/year",
+ "applyLink": "https://forms.cloud.microsoft/e/GtuLx8aeZd",
+ "seoTitle": "International PhD Studentships at University of Reading 2027",
+ "title": "International PhD Studentships at University of Reading 2027",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": true,
+ "organizationId": "YrFbBvC2rnVjUGqvowuv",
+ "createdAt": "2026-10-09T13:32:00.092Z",
+ "stipendAmount": 21805,
+ "fundingType": "fully_funded",
+ "countryCode": "GB",
+ "intro": "Reading’s International PhD Studentships support research across its schools and Henley Business School. Applicants based at Reading can receive tuition and living support, alongside a training allowance.",
+ "deadlineTimezone": "Europe/London",
+ "deadline": "2027-01-15T23:59:59.999Z",
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "international-phd-studentships-at-university-of-reading-2027",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "15 January 2027",
+ "verificationStatus": "unverified",
+ "seoDescription": "Fully Funded PhD in Reading at University of Reading: £21,805/yr stipend. Deadline: 15 January 2027. Apply via NextApply.",
+ "isRemote": false,
+ "ogImage": "https://nextapply.co.uk/international-phd-studentships-at-university-of-reading-2027/opengraph-image",
+ "tags": [
+  "University of Reading",
+  "All Subjects",
+  "Scholarship",
+  "Fully Funded",
+  "UK",
+  "2027",
+  "Eligible subjects across the university",
+  "Reading",
+  "United Kingdom",
+  "PhD",
+  "All_Subjects"
+ ],
+ "opportunityType": "scholarship",
+ "isOpen": true,
+ "disciplines": [
+  "all_subjects"
+ ],
+ "stipendCurrency": "GBP",
+ "deadlineType": "fixed",
+ "regionId": "europe",
+ "sourceType": "third_party",
+ "stipendPeriod": "year",
+ "organization": {
+  "website": "https://www.reading.ac.uk/",
+  "name": "University of Reading",
+  "id": "YrFbBvC2rnVjUGqvowuv",
+  "logoUrl": "https://images.seeklogo.com/logo-png/31/1/university-of-reading-logo-png_seeklogo-310310.png",
+  "slug": "university-of-reading"
+ },
+ "category": "scholarship",
+ "status": "published",
+ "publishedAt": "2026-10-09T13:32:00.092Z",
+ "id": "JKblVCkqHWRYkjJBmXjH",
+ "keywords": [
+  "International PhD Studentships",
+  "University of Reading scholarships",
+  "fully funded PhD UK",
+  "UK scholarships 2027",
+  "PhD 2027 intake",
+  "IELTS requirement",
+  "University of Reading",
+  "All Subjects",
+  "Scholarship"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/international-phd-studentships-at-university-of-reading-2027",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalProgram",
+  "@id": "https://nextapply.co.uk/international-phd-studentships-at-university-of-reading-2027#opportunity",
+  "url": "https://nextapply.co.uk/international-phd-studentships-at-university-of-reading-2027",
+  "name": "International PhD Studentships at University of Reading 2027",
+  "description": "Reading’s International PhD Studentships support research across its schools and Henley Business School. Applicants based at Reading can receive tuition and living support, alongside a training allowance.",
+  "educationalProgramMode": "full time",
+  "provider": {
+   "@type": "Organization",
+   "name": "University of Reading",
+   "sameAs": "https://www.reading.ac.uk/",
+   "logo": "https://images.seeklogo.com/logo-png/31/1/university-of-reading-logo-png_seeklogo-310310.png"
   },
-  "description": "<h2>Scholarship overview</h2>\n<p>Reading’s International PhD Studentships support research across its schools and Henley Business School. Applicants based at Reading can receive tuition and living support, alongside a training allowance.</p>\n<h2>Research Areas</h2>\n<ul><li>Eligible subjects across the university</li></ul>\n<h2>Funding and duration</h2>\n<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Component</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">International tuition; GBP 1,000/year training allowance; UKRI-linked living stipend for Reading-based study.</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Maintenance</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">GBP 21,805/year (2026/27 reference; Reading-based study only)</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Duration</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Up to 4 years full-time; up to 6 part-time</td></tr></tbody></table>\n<h2>Eligibility and Requirements</h2>\n<p>International PhD applicants with a suitable supervisor and admission application. Off-campus/distance awards do not include a stipend. English evidence, approved equivalents and waivers depend on the programme; IELTS is not a universal requirement for every applicant.</p>\n<h2>Application dates</h2>\n<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Component</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Recruitment</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">2027 competition advertised</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">15 January 2027</td></tr></tbody></table>\n<h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Official Link</h2><p>Full announcement and application portal: <a href=\"https://forms.cloud.microsoft/e/GtuLx8aeZd\" target=\"_blank\" rel=\"noopener noreferrer\">https://forms.cloud.microsoft/e/GtuLx8aeZd</a></p><p>Source: forms.cloud.microsoft - the details in this listing were recorded from this official page.</p><h2>Important Notes</h2><ul><li>Application deadline: 15 January 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2>\n<p>Contact the department, apply for PhD admission and complete the International PhD Studentship form. School nominees later submit a research summary of up to 700 words.</p>\n<p>The funded living-cost route is for study based at Reading. An admission offer and a studentship award are separate decisions.</p>\n<h2>About University of Reading</h2>\n<p>The University of Reading offers doctoral research in science, life sciences, social sciences, arts and humanities, and through Henley Business School. Its Doctoral and Researcher College supports applicants with supervision guidance, research training and funding competitions.</p>\n<p><strong>Official details:</strong> <a href=\"https://www.reading.ac.uk/doctoral-researcher-college/funding/phd-studentships/international-phd-studentships\" rel=\"noopener noreferrer\" target=\"_blank\">Programme information</a></p>\n<p><strong>Application route:</strong> <a href=\"https://forms.cloud.microsoft/e/GtuLx8aeZd\" rel=\"noopener noreferrer\" target=\"_blank\">Application form or official instructions</a></p>\n<p><strong>2026/27 UKRI reference rate:</strong> the minimum UKRI doctoral stipend is £21,805 per year, tax-free (London institutions +£2,000), effective 1 October 2026.</p><h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
-  "eligibility": "worldwide",
-  "stipend": "£21,805/year",
-  "applyLink": "https://forms.cloud.microsoft/e/GtuLx8aeZd",
-  "seoTitle": "International PhD Studentships at University of Reading 2027",
-  "title": "International PhD Studentships at University of Reading 2027",
-  "fundingStatus": "fully_funded",
-  "ieltsRequired": true,
-  "organizationId": "YrFbBvC2rnVjUGqvowuv",
-  "createdAt": "2026-10-09T13:32:00.092Z",
-  "stipendAmount": 21805,
-  "fundingType": "fully_funded",
-  "countryCode": "GB",
-  "intro": "Reading’s International PhD Studentships support research across its schools and Henley Business School. Applicants based at Reading can receive tuition and living support, alongside a training allowance.",
-  "deadlineTimezone": "Europe/London",
-  "deadline": "2027-01-15T23:59:59.999Z",
-  "degreeLevels": [
-    "phd"
-  ],
-  "isFeatured": false,
-  "slug": "international-phd-studentships-at-university-of-reading-2027",
-  "updatedAt": "2026-10-23T14:21:38.000Z",
-  "deadlineText": "15 January 2027",
-  "verificationStatus": "unverified",
-  "seoDescription": "Fully Funded PhD in Reading at University of Reading: £21,805/yr stipend. Deadline: 15 January 2027. Apply via NextApply.",
-  "isRemote": false,
-  "ogImage": "https://nextapply.co.uk/international-phd-studentships-at-university-of-reading-2027/opengraph-image",
-  "tags": [
-    "University of Reading",
-    "All Subjects",
-    "Scholarship",
-    "Fully Funded",
-    "UK",
-    "2027",
-    "Eligible subjects across the university",
-    "Reading",
-    "United Kingdom",
-    "PhD",
-    "All_Subjects"
-  ],
-  "opportunityType": "scholarship",
-  "isOpen": true,
-  "disciplines": [
-    "all_subjects"
-  ],
-  "stipendCurrency": "GBP",
-  "deadlineType": "fixed",
-  "regionId": "europe",
-  "sourceType": "third_party",
-  "stipendPeriod": "year",
-  "organization": {
-    "website": "https://www.reading.ac.uk/",
-    "name": "University of Reading",
-    "id": "YrFbBvC2rnVjUGqvowuv",
-    "logoUrl": "https://images.seeklogo.com/logo-png/31/1/university-of-reading-logo-png_seeklogo-310310.png",
-    "slug": "university-of-reading"
-  },
-  "category": "scholarship",
-  "status": "published",
-  "publishedAt": "2026-10-09T13:32:00.092Z",
-  "id": "JKblVCkqHWRYkjJBmXjH"
+  "applicationDeadline": "2027-01-15",
+  "offers": {
+   "@type": "Offer",
+   "category": "Fully Funded programme",
+   "priceSpecification": {
+    "@type": "PriceSpecification",
+    "price": 21805,
+    "priceCurrency": "GBP"
+   }
+  }
+ }
 }

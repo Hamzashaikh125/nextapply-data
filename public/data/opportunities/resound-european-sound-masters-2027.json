@@ -1,79 +1,120 @@
 {
-  "title": "ReSound – European Sound Masters (Erasmus Mundus)",
-  "status": "published",
-  "slug": "resound-european-sound-masters-2027",
-  "isOpen": true,
-  "category": "scholarship",
-  "organizationId": "mTgjZtNHXSKN63BLusx4",
-  "organization": {
-    "createdAt": "2026-10-23T00:07:35.000Z",
-    "website": "https://resound-ma.eu",
-    "about": "The ReSound consortium delivers the Erasmus Mundus Joint Master in sound design for media arts with European universities specialised in cinema, music and digital media.",
-    "name": "ReSound Consortium",
-    "programCount": 1,
-    "logoUrl": "https://www.google.com/s2/favicons?domain=resound-ma.eu&sz=256",
-    "slug": "resound-consortium",
-    "status": "published",
-    "updatedAt": "2026-10-23T00:07:35.000Z",
-    "id": "mTgjZtNHXSKN63BLusx4"
-  },
-  "regionId": "europe",
-  "countryCode": "PT",
-  "city": "Lisbon (multi-country mobility)",
-  "deadline": "2027-01-12T22:59:59.999Z",
-  "deadlineType": "fixed",
-  "deadlineText": "12 January 2027",
-  "deadlineTimezone": "Europe/Lisbon",
-  "degreeLevels": [
-    "masters"
-  ],
-  "disciplines": [
-    "sound_design",
-    "media_arts",
-    "music_technology",
-    "arts",
-    "cinema"
-  ],
-  "subjects": [
-    "Sound design",
-    "Media arts",
-    "Erasmus Mundus",
-    "Audio production"
-  ],
-  "fundingType": "fully_funded",
-  "fundingStatus": "fully_funded",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "stipend": "Erasmus Mundus scholarships for selected students:",
-  "intro": "ReSound is the Erasmus Mundus master in sound design for media arts, preparing sound artists and designers across a European consortium led from Lisbon. The application window for the September 2027 intake opened on 19 October 2026 and closes on 12 January 2027.",
-  "tags": [
-    "Erasmus Mundus",
-    "ReSound",
-    "Sound Design",
-    "Media Arts",
-    "Audio",
-    "Fully Funded",
-    "Masters"
-  ],
-  "applyLink": "https://resound-ma.eu/",
-  "isFeatured": false,
-  "ieltsRequired": true,
-  "eligibility": "worldwide",
-  "seoTitle": "ReSound Erasmus Mundus Master 2027 | Sound Design Scholarships, 12 Jan Deadline",
-  "seoDescription": "ReSound European Sound Masters — Erasmus Mundus master in sound design for media arts. Applications 19 Oct 2026 - 12 Jan 2027 for the September 2027 intake. Fully funded.",
-  "ogImage": "",
-  "verificationStatus": "unverified",
-  "verificationScore": null,
-  "addedDate": "2026-10-23T00:07:35.000Z",
-  "clickCount": 0,
+ "title": "ReSound – European Sound Masters (Erasmus Mundus)",
+ "status": "published",
+ "slug": "resound-european-sound-masters-2027",
+ "isOpen": true,
+ "category": "scholarship",
+ "organizationId": "mTgjZtNHXSKN63BLusx4",
+ "organization": {
   "createdAt": "2026-10-23T00:07:35.000Z",
-  "updatedAt": "2026-10-23T14:20:12.000Z",
-  "publishedAt": "2026-10-23T00:07:35.000Z",
-  "id": "kEDueGSXATggJixf2Rzy",
-  "opportunityType": "scholarship",
-  "sourceType": "official_organization",
-  "isRemote": false,
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">ReSound – European Sound Masters (Erasmus Mundus)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">ReSound Consortium</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Lisbon (multi-country mobility), Portugal</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Erasmus Mundus scholarships for selected students:</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">12 January 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://resound-ma.eu/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>ReSound is the Erasmus Mundus master in sound design for media arts, preparing sound artists and designers across a European consortium led from Lisbon. The application window for the September 2027 intake opened on 19 October 2026 and closes on 12 January 2027.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Dedicated sound-design master within the Erasmus Mundus portfolio</li>\n <li>January 12, 2027 deadline for the September 2027 intake</li>\n <li>Mobility across European universities with production facilities</li>\n <li>Graduates work in film, games, installation art and immersive media</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Applicants from sound design, music, film, media arts and related creative-technology backgrounds; a portfolio is typically central to the selection file.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships for selected students: participation costs plus a monthly allowance.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Apply through the ReSound website before 12 January 2027 and prepare the portfolio according to the call instructions. Key deadline information: <strong>12 January 2027; applications opened 19 October 2026 for the September 2027 intake</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://resound-ma.eu/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About ReSound Consortium</h2><p>The ReSound consortium delivers the Erasmus Mundus Joint Master in sound design for media arts with European universities specialised in cinema, music and digital media.</p><p>Official website: <a href=\"https://resound-ma.eu\" target=\"_blank\" rel=\"noopener noreferrer\">https://resound-ma.eu</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 12 January 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/masters-phd-application-timeline-12-months\">A 12-Month Study Abroad Application Plan for Master's and PhD Applicants</a></li></ul>"
+  "website": "https://resound-ma.eu",
+  "about": "The ReSound consortium delivers the Erasmus Mundus Joint Master in sound design for media arts with European universities specialised in cinema, music and digital media.",
+  "name": "ReSound Consortium",
+  "programCount": 1,
+  "logoUrl": "https://www.google.com/s2/favicons?domain=resound-ma.eu&sz=256",
+  "slug": "resound-consortium",
+  "status": "published",
+  "updatedAt": "2026-10-23T00:07:35.000Z",
+  "id": "mTgjZtNHXSKN63BLusx4"
+ },
+ "regionId": "europe",
+ "countryCode": "PT",
+ "city": "Lisbon (multi-country mobility)",
+ "deadline": "2027-01-12T22:59:59.999Z",
+ "deadlineType": "fixed",
+ "deadlineText": "12 January 2027",
+ "deadlineTimezone": "Europe/Lisbon",
+ "degreeLevels": [
+  "masters"
+ ],
+ "disciplines": [
+  "sound_design",
+  "media_arts",
+  "music_technology",
+  "arts",
+  "cinema"
+ ],
+ "subjects": [
+  "Sound design",
+  "Media arts",
+  "Erasmus Mundus",
+  "Audio production"
+ ],
+ "fundingType": "fully_funded",
+ "fundingStatus": "fully_funded",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "stipend": "€1,400/month (EMJM scholarship rate)",
+ "intro": "ReSound is the Erasmus Mundus master in sound design for media arts, preparing sound artists and designers across a European consortium led from Lisbon. The application window for the September 2027 intake opened on 19 October 2026 and closes on 12 January 2027.",
+ "tags": [
+  "Erasmus Mundus",
+  "ReSound",
+  "Sound Design",
+  "Media Arts",
+  "Audio",
+  "Fully Funded",
+  "Masters"
+ ],
+ "applyLink": "https://resound-ma.eu/",
+ "isFeatured": false,
+ "ieltsRequired": true,
+ "eligibility": "worldwide",
+ "seoTitle": "ReSound Erasmus Mundus Master 2027 | Sound Design Scholarships, 12 Jan Deadline",
+ "seoDescription": "ReSound European Sound Masters — Erasmus Mundus master in sound design for media arts. Applications 19 Oct 2026 - 12 Jan 2027 for the September 2027 intake. Fully funded.",
+ "ogImage": "https://nextapply.co.uk/resound-european-sound-masters-2027/opengraph-image",
+ "verificationStatus": "unverified",
+ "verificationScore": null,
+ "addedDate": "2026-10-23T00:07:35.000Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-23T00:07:35.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-23T00:07:35.000Z",
+ "id": "kEDueGSXATggJixf2Rzy",
+ "opportunityType": "scholarship",
+ "sourceType": "official_organization",
+ "isRemote": false,
+ "description": "<h2>About the Scholarship</h2><p>ReSound is the Erasmus Mundus master in sound design for media arts, preparing sound artists and designers across a European consortium led from Lisbon. The application window for the September 2027 intake opened on 19 October 2026 and closes on 12 January 2027.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">ReSound – European Sound Masters (Erasmus Mundus)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">ReSound Consortium</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Lisbon (multi-country mobility), Portugal</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Erasmus Mundus scholarships for selected students:</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">12 January 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://resound-ma.eu/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>ReSound is the Erasmus Mundus master in sound design for media arts, preparing sound artists and designers across a European consortium led from Lisbon. The application window for the September 2027 intake opened on 19 October 2026 and closes on 12 January 2027.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Dedicated sound-design master within the Erasmus Mundus portfolio</li>\n <li>January 12, 2027 deadline for the September 2027 intake</li>\n <li>Mobility across European universities with production facilities</li>\n <li>Graduates work in film, games, installation art and immersive media</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Applicants from sound design, music, film, media arts and related creative-technology backgrounds; a portfolio is typically central to the selection file.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships for selected students: participation costs plus a monthly allowance.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Apply through the ReSound website before 12 January 2027 and prepare the portfolio according to the call instructions. Key deadline information: <strong>12 January 2027; applications opened 19 October 2026 for the September 2027 intake</strong>.</p>\n<h2>Official Link</h2>\n<ul>\n <li><a href=\"https://resound-ma.eu/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About ReSound Consortium</h2><p>The ReSound consortium delivers the Erasmus Mundus Joint Master in sound design for media arts with European universities specialised in cinema, music and digital media.</p><p>Official website: <a href=\"https://resound-ma.eu\" target=\"_blank\" rel=\"noopener noreferrer\">https://resound-ma.eu</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 12 January 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/masters-phd-application-timeline-12-months\">A 12-Month Study Abroad Application Plan for Master's and PhD Applicants</a></li></ul>",
+ "stipendAmount": 1400,
+ "stipendCurrency": "EUR",
+ "stipendPeriod": "month",
+ "keywords": [
+  "ReSound – European Sound Masters (Erasmus Mundus)",
+  "ReSound Consortium scholarships",
+  "fully funded Master's Portugal",
+  "Portugal scholarships 2027",
+  "Master's 2027 intake",
+  "IELTS requirement",
+  "Erasmus Mundus",
+  "ReSound",
+  "Sound Design"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/resound-european-sound-masters-2027",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalProgram",
+  "@id": "https://nextapply.co.uk/resound-european-sound-masters-2027#opportunity",
+  "url": "https://nextapply.co.uk/resound-european-sound-masters-2027",
+  "name": "ReSound – European Sound Masters (Erasmus Mundus)",
+  "description": "ReSound is the Erasmus Mundus master in sound design for media arts, preparing sound artists and designers across a European consortium led from Lisbon. The application window for the September 2027 intake opened on 19 October 2026 and closes on 12 January 2027.",
+  "educationalProgramMode": "full time",
+  "provider": {
+   "@type": "Organization",
+   "name": "ReSound Consortium",
+   "sameAs": "https://resound-ma.eu",
+   "logo": "https://www.google.com/s2/favicons?domain=resound-ma.eu&sz=256"
+  },
+  "applicationDeadline": "2027-01-12",
+  "offers": {
+   "@type": "Offer",
+   "category": "Fully Funded programme",
+   "priceSpecification": {
+    "@type": "PriceSpecification",
+    "price": 1400,
+    "priceCurrency": "EUR"
+   }
+  }
+ }
 }

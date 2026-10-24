@@ -1,73 +1,126 @@
 {
-  "addedDate": "2026-10-09T13:32:04.182Z",
-  "clickCount": 0,
-  "city": "Edinburgh",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "description": "<h2>About the Project</h2>\n<p>Edinburgh’s AI for Biomedical Innovation CDT connects artificial intelligence with biomedical and health research. Applicants use the CDT’s current 2027 recruitment form.</p>\n<h2>Research Areas</h2>\n<ul><li>AI</li><li>biomedical science and health data</li></ul>\n<h2>Funding and duration</h2>\n<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Component</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Home/Overseas tuition plus research/travel support under the studentship terms.</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Maintenance</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Living stipend; confirm current rate</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Duration</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">4 years; September 2027 start</td></tr></tbody></table>\n<h2>Eligibility and Requirements</h2>\n<p>Relevant quantitative, computing, engineering or biomedical/health background; check programme academic and English requirements. English evidence, approved equivalents and waivers depend on the programme; IELTS is not a universal requirement for every applicant.</p>\n<h2>Application dates</h2>\n<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Component</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Recruitment</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">2027 recruitment open</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">20 January 2027, 13:00 UK</td></tr></tbody></table>\n<h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Official Link</h2><p>Full announcement and application portal: <a href=\"https://edinburghinformatics.eu.qualtrics.com/jfe/form/SV_6LjInQYCUKPLjL0\" target=\"_blank\" rel=\"noopener noreferrer\">https://edinburghinformatics.eu.qualtrics.com/jfe/form/SV_6LjInQYCUKPLjL0</a></p><p>Source: edinburghinformatics.eu.qualtrics.com - the details in this listing were recorded from this official page.</p><h2>Important Notes</h2><ul><li>Application deadline: 20 January 2027, 13:00 UK - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2>\n<p>Complete the CDT application form and its requested statements/documents. Successful funding candidates subsequently complete university admission.</p>\n<p>The current CDT application page confirms 2027 recruitment; older 2026 course dates should not be reused.</p>\n<h2>About The University of Edinburgh</h2>\n<p>The University of Edinburgh offers doctoral research across science, engineering, humanities, social sciences and health. Its research schools host scholarship competitions and doctoral training programmes with different admission and funding routes.</p>\n<p><strong>Official details:</strong> <a href=\"https://ai4bi-cdt.ed.ac.uk/join-our-cdt/how-to-apply\" rel=\"noopener noreferrer\" target=\"_blank\">Programme information</a></p>\n<p><strong>Application route:</strong> <a href=\"https://edinburghinformatics.eu.qualtrics.com/jfe/form/SV_6LjInQYCUKPLjL0\" rel=\"noopener noreferrer\" target=\"_blank\">Application form or official instructions</a></p>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-academic-cv-phd-applications-sample\">Academic CV for PhD Applications: Structure and an Example</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
-  "eligibility": "worldwide",
-  "stipend": "Living stipend; confirm current rate",
-  "applyLink": "https://edinburghinformatics.eu.qualtrics.com/jfe/form/SV_6LjInQYCUKPLjL0",
-  "seoTitle": "Fully Funded PhD at The University of Edinburgh 2027",
+ "addedDate": "2026-10-09T13:32:04.182Z",
+ "clickCount": 0,
+ "city": "Edinburgh",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<h2>About the Project</h2>\n<p>Edinburgh’s AI for Biomedical Innovation CDT connects artificial intelligence with biomedical and health research. Applicants use the CDT’s current 2027 recruitment form.</p>\n<h2>Research Areas</h2>\n<ul><li>AI</li><li>biomedical science and health data</li></ul>\n<h2>Funding and Duration</h2>\n<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Component</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Home/Overseas tuition plus research/travel support under the studentship terms.</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Maintenance</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Living stipend; confirm current rate</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Duration</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">4 years; September 2027 start</td></tr></tbody></table>\n<h2>Eligibility and Requirements</h2>\n<p>Relevant quantitative, computing, engineering or biomedical/health background; check programme academic and English requirements. English evidence, approved equivalents and waivers depend on the programme; IELTS is not a universal requirement for every applicant.</p>\n<h2>Application dates</h2>\n<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Component</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Recruitment</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">2027 recruitment open</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">20 January 2027, 13:00 UK</td></tr></tbody></table>\n<h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Official Link</h2><p>Full announcement and application portal: <a href=\"https://edinburghinformatics.eu.qualtrics.com/jfe/form/SV_6LjInQYCUKPLjL0\" target=\"_blank\" rel=\"noopener noreferrer\">https://edinburghinformatics.eu.qualtrics.com/jfe/form/SV_6LjInQYCUKPLjL0</a></p><p>Source: edinburghinformatics.eu.qualtrics.com - the details in this listing were recorded from this official page.</p><h2>Important Notes</h2><ul><li>Application deadline: 20 January 2027, 13:00 UK - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2>\n<p>Complete the CDT application form and its requested statements/documents. Successful funding candidates subsequently complete university admission.</p>\n<p>The current CDT application page confirms 2027 recruitment; older 2026 course dates should not be reused.</p>\n<h2>About the University of Edinburgh</h2>\n<p>The University of Edinburgh offers doctoral research across science, engineering, humanities, social sciences and health. Its research schools host scholarship competitions and doctoral training programmes with different admission and funding routes.</p>\n<p><strong>Official details:</strong> <a href=\"https://ai4bi-cdt.ed.ac.uk/join-our-cdt/how-to-apply\" rel=\"noopener noreferrer\" target=\"_blank\">Programme information</a></p>\n<p><strong>Application route:</strong> <a href=\"https://edinburghinformatics.eu.qualtrics.com/jfe/form/SV_6LjInQYCUKPLjL0\" rel=\"noopener noreferrer\" target=\"_blank\">Application form or official instructions</a></p>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-academic-cv-phd-applications-sample\">Academic CV for PhD Applications: Structure and an Example</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
+ "eligibility": "worldwide",
+ "stipend": "£21,805/year (UKRI minimum stipend 2026/27)",
+ "applyLink": "https://edinburghinformatics.eu.qualtrics.com/jfe/form/SV_6LjInQYCUKPLjL0",
+ "seoTitle": "Fully Funded PhD at The University of Edinburgh 2027",
+ "title": "AI for Biomedical Innovation CDT at University of Edinburgh 2027",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": true,
+ "organizationId": "avgdM1yJ9IyJqkzUv1nZ",
+ "createdAt": "2026-10-09T13:32:04.598Z",
+ "stipendAmount": 21805,
+ "fundingType": "fully_funded",
+ "countryCode": "GB",
+ "intro": "Edinburgh’s AI for Biomedical Innovation CDT connects artificial intelligence with biomedical and health research. Applicants use the CDT’s current 2027 recruitment form.",
+ "deadlineTimezone": "Europe/London",
+ "deadline": "2027-01-20T13:00:00.000Z",
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "ai-for-biomedical-innovation-cdt-at-university-of-edinburgh-2027",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "20 January 2027, 13:00 UK",
+ "verificationStatus": "unverified",
+ "seoDescription": "Fully Funded PhD in Edinburgh at The University of Edinburgh: Deadline: 20 January 2027, 13:00 UK. Apply via NextApply.",
+ "isRemote": false,
+ "ogImage": "https://nextapply.co.uk/ai-for-biomedical-innovation-cdt-at-university-of-edinburgh-2027/opengraph-image",
+ "tags": [
+  "The University of Edinburgh",
+  "Artificial Intelligence",
+  "Biomedical Science",
+  "Data Science",
+  "Doctoral Training Centre",
+  "Fully Funded",
+  "UK",
+  "2027",
+  "AI",
+  "biomedical science and health data",
+  "Edinburgh",
+  "United Kingdom"
+ ],
+ "opportunityType": "doctoral_training_centre",
+ "isOpen": true,
+ "disciplines": [
+  "artificial_intelligence",
+  "biomedical_science",
+  "data_science"
+ ],
+ "stipendCurrency": "GBP",
+ "deadlineType": "fixed",
+ "regionId": "europe",
+ "sourceType": "third_party",
+ "stipendPeriod": "year",
+ "organization": {
+  "website": "https://www.ed.ac.uk/",
+  "name": "The University of Edinburgh",
+  "id": "avgdM1yJ9IyJqkzUv1nZ",
+  "logoUrl": "https://images.seeklogo.com/logo-png/41/1/university-of-edinburgh-logo-png_seeklogo-411707.png",
+  "slug": "the-university-of-edinburgh"
+ },
+ "category": "doctoral_training_centre",
+ "status": "published",
+ "publishedAt": "2026-10-09T13:32:04.598Z",
+ "id": "I16VOsyT2Vvq5D0vXRBf",
+ "keywords": [
+  "AI for Biomedical Innovation CDT",
+  "The University of Edinburgh positions",
+  "fully funded PhD UK",
+  "UK scholarships 2027",
+  "PhD 2027 intake",
+  "IELTS requirement",
+  "The University of Edinburgh",
+  "Artificial Intelligence",
+  "Biomedical Science"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/ai-for-biomedical-innovation-cdt-at-university-of-edinburgh-2027",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/ai-for-biomedical-innovation-cdt-at-university-of-edinburgh-2027#opportunity",
+  "url": "https://nextapply.co.uk/ai-for-biomedical-innovation-cdt-at-university-of-edinburgh-2027",
   "title": "AI for Biomedical Innovation CDT at University of Edinburgh 2027",
-  "fundingStatus": "fully_funded",
-  "ieltsRequired": true,
-  "organizationId": "avgdM1yJ9IyJqkzUv1nZ",
-  "createdAt": "2026-10-09T13:32:04.598Z",
-  "stipendAmount": null,
-  "fundingType": "fully_funded",
-  "countryCode": "GB",
-  "intro": "Edinburgh’s AI for Biomedical Innovation CDT connects artificial intelligence with biomedical and health research. Applicants use the CDT’s current 2027 recruitment form.",
-  "deadlineTimezone": "Europe/London",
-  "deadline": "2027-01-20T13:00:00.000Z",
-  "degreeLevels": [
-    "phd"
-  ],
-  "isFeatured": false,
-  "slug": "ai-for-biomedical-innovation-cdt-at-university-of-edinburgh-2027",
-  "updatedAt": "2026-10-23T14:21:38.000Z",
-  "deadlineText": "20 January 2027, 13:00 UK",
-  "verificationStatus": "unverified",
-  "seoDescription": "Fully Funded PhD in Edinburgh at The University of Edinburgh: Deadline: 20 January 2027, 13:00 UK. Apply via NextApply.",
-  "isRemote": false,
-  "ogImage": "https://nextapply.co.uk/ai-for-biomedical-innovation-cdt-at-university-of-edinburgh-2027/opengraph-image",
-  "tags": [
-    "The University of Edinburgh",
-    "Artificial Intelligence",
-    "Biomedical Science",
-    "Data Science",
-    "Doctoral Training Centre",
-    "Fully Funded",
-    "UK",
-    "2027",
-    "AI",
-    "biomedical science and health data",
-    "Edinburgh",
-    "United Kingdom"
-  ],
-  "opportunityType": "doctoral_training_centre",
-  "isOpen": true,
-  "disciplines": [
-    "artificial_intelligence",
-    "biomedical_science",
-    "data_science"
-  ],
-  "stipendCurrency": null,
-  "deadlineType": "fixed",
-  "regionId": "europe",
-  "sourceType": "third_party",
-  "stipendPeriod": null,
-  "organization": {
-    "website": "https://www.ed.ac.uk/",
-    "name": "The University of Edinburgh",
-    "id": "avgdM1yJ9IyJqkzUv1nZ",
-    "logoUrl": "https://images.seeklogo.com/logo-png/41/1/university-of-edinburgh-logo-png_seeklogo-411707.png",
-    "slug": "the-university-of-edinburgh"
+  "description": "Edinburgh’s AI for Biomedical Innovation CDT connects artificial intelligence with biomedical and health research. Applicants use the CDT’s current 2027 recruitment form.",
+  "datePosted": "2026-10-09T13:32:04.598Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "The University of Edinburgh",
+   "sameAs": "https://www.ed.ac.uk/",
+   "logo": "https://images.seeklogo.com/logo-png/41/1/university-of-edinburgh-logo-png_seeklogo-411707.png"
   },
-  "category": "doctoral_training_centre",
-  "status": "published",
-  "publishedAt": "2026-10-09T13:32:04.598Z",
-  "id": "I16VOsyT2Vvq5D0vXRBf"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "ai-for-biomedical-innovation-cdt-at-university-of-edinburgh-2027"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "GB",
+    "addressLocality": "Edinburgh"
+   }
+  },
+  "validThrough": "2027-01-20T13:00:00.000Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "GBP",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 21805,
+    "unitText": "YEAR"
+   }
+  }
+ }
 }

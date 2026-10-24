@@ -1,73 +1,124 @@
 {
-  "addedDate": "2026-08-22T20:42:50.278Z",
-  "city": "Coventry",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded PhD Studentship: Sustainable Elastomer Technologies (Net2Zero CDT)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">University of Warwick</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Coventry, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">£21,805 per year (UKRI rate for 2026/27)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Rolling until filled</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://warwick.ac.uk/fac/sci/eng/net2zero/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <h2>Basic Information</h2>\n<ul><li><strong>Full Project Title:</strong> Sustainable Elastomer Technologies (2 Positions)</li><li><strong>Host Institution:</strong> University of Warwick</li><li><strong>Programme:</strong> Net2Zero CDT (EPSRC and BBSRC Centre for Doctoral Training in Negative Emission Technologies for Net Zero)</li><li><strong>Partner:</strong> James Walker Group</li><li><strong>Study Level:</strong> PhD</li><li><strong>Duration:</strong> 4 years</li><li><strong>Start Date:</strong> October 2026</li><li><strong>Funding Type:</strong> Fully Funded</li><li><strong>Stipend:</strong> £21,805 per year (UKRI rate for 2026/27)</li><li><strong>Eligibility:</strong> Check Net2Zero CDT page</li><li><strong>Application Deadline:</strong> Rolling until filled</li></ul>\n<h2>Project Description</h2>\n<p>This project focuses on developing sustainable elastomer materials for industrial applications such as seals and gaskets. The Net2Zero CDT is a collaboration across four leading UK universities.</p>\n<h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Official Link</h2><p>Full announcement and application portal: <a href=\"https://warwick.ac.uk/fac/sci/eng/net2zero/\" target=\"_blank\" rel=\"noopener noreferrer\">https://warwick.ac.uk/fac/sci/eng/net2zero/</a></p><p>Source: warwick.ac.uk - the details in this listing were recorded from this official page.</p><h2>Important Notes</h2><ul><li>Application deadline: Rolling until filled - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>About University of Warwick</h2><p>University of Warwick is a public research university near Coventry, England, and a Russell Group member. It offers undergraduate, master's and doctoral programmes across science, engineering, business, economics, humanities and social sciences. Its campus-based academic community connects teaching with research, professional development and collaboration with industry and international university partners.</p><p>Official website: <a href=\"https://warwick.ac.uk/\" target=\"_blank\" rel=\"noopener noreferrer\">https://warwick.ac.uk/</a></p><h2>How to Apply</h2>\n<p>Apply via the Net2Zero CDT / Warwick Engineering PhD application route.</p>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-academic-cv-phd-applications-sample\">Academic CV for PhD Applications: Structure and an Example</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
-  "eligibility": "worldwide",
-  "stipend": "£21,805 per year (UKRI rate for 2026/27)",
-  "applyLink": "https://warwick.ac.uk/fac/sci/eng/net2zero/",
-  "seoTitle": "Fully Funded PhD in Materials_Science – Warwick",
+ "addedDate": "2026-08-22T20:42:50.278Z",
+ "city": "Coventry",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<h2>About the Position</h2><p>This project focuses on developing sustainable elastomer materials for industrial applications such as seals and gaskets.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded PhD Studentship: Sustainable Elastomer Technologies (Net2Zero CDT)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">University of Warwick</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Coventry, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">£21,805 per year (UKRI rate for 2026/27)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Rolling until filled</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://warwick.ac.uk/fac/sci/eng/net2zero/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <h2>Basic Information</h2>\n<ul><li><strong>Full Project Title:</strong> Sustainable Elastomer Technologies (2 Positions)</li><li><strong>Host Institution:</strong> University of Warwick</li><li><strong>Programme:</strong> Net2Zero CDT (EPSRC and BBSRC Centre for Doctoral Training in Negative Emission Technologies for Net Zero)</li><li><strong>Partner:</strong> James Walker Group</li><li><strong>Study Level:</strong> PhD</li><li><strong>Duration:</strong> 4 years</li><li><strong>Start Date:</strong> October 2026</li><li><strong>Funding Type:</strong> Fully Funded</li><li><strong>Stipend:</strong> £21,805 per year (UKRI rate for 2026/27)</li><li><strong>Eligibility:</strong> Check Net2Zero CDT page</li><li><strong>Application Deadline:</strong> Rolling until filled</li></ul>\n<h2>Project Description</h2>\n<p>This project focuses on developing sustainable elastomer materials for industrial applications such as seals and gaskets. The Net2Zero CDT is a collaboration across four leading UK universities.</p>\n<h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Official Link</h2><p>Full announcement and application portal: <a href=\"https://warwick.ac.uk/fac/sci/eng/net2zero/\" target=\"_blank\" rel=\"noopener noreferrer\">https://warwick.ac.uk/fac/sci/eng/net2zero/</a></p><p>Source: warwick.ac.uk - the details in this listing were recorded from this official page.</p><h2>Important Notes</h2><ul><li>Application deadline: Rolling until filled - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>About University of Warwick</h2><p>University of Warwick is a public research university near Coventry, England, and a Russell Group member. It offers undergraduate, master's and doctoral programmes across science, engineering, business, economics, humanities and social sciences. Its campus-based academic community connects teaching with research, professional development and collaboration with industry and international university partners.</p><p>Official website: <a href=\"https://warwick.ac.uk/\" target=\"_blank\" rel=\"noopener noreferrer\">https://warwick.ac.uk/</a></p><h2>How to Apply</h2>\n<p>Apply via the Net2Zero CDT / Warwick Engineering PhD application route.</p>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-academic-cv-phd-applications-sample\">Academic CV for PhD Applications: Structure and an Example</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
+ "eligibility": "worldwide",
+ "stipend": "£21,805 per year (UKRI rate for 2026/27)",
+ "applyLink": "https://warwick.ac.uk/fac/sci/eng/net2zero/",
+ "seoTitle": "Fully Funded PhD in Materials_Science – Warwick",
+ "title": "Fully Funded PhD Studentship: Sustainable Elastomer Technologies (Net2Zero CDT)",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": true,
+ "organizationId": "c5hRooNCu5EoKUBwrHqH",
+ "createdAt": "2026-08-22T20:42:50.278Z",
+ "stipendAmount": 21805,
+ "fundingType": "fully_funded",
+ "countryCode": "GB",
+ "intro": "This project focuses on developing sustainable elastomer materials for industrial applications such as seals and gaskets.",
+ "deadlineTimezone": "Europe/London",
+ "deadline": null,
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "phd-sustainable-elastomers-net2zero-warwick",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "Rolling until filled",
+ "publishedAt": "2026-08-22T20:42:50.278Z",
+ "verificationStatus": "unverified",
+ "seoDescription": "This project focuses on developing sustainable elastomer materials for industrial applications such as seals and gaskets.",
+ "isRemote": false,
+ "ogImage": "https://nextapply.co.uk/phd-sustainable-elastomers-net2zero-warwick/opengraph-image",
+ "tags": [
+  "University of Warwick",
+  "Materials Science",
+  "Chemistry",
+  "Renewable Energy",
+  "Doctoral Training Centre",
+  "Fully Funded",
+  "Sustainable Elastomers",
+  "Net2Zero",
+  "CDT",
+  "James Walker",
+  "Seals",
+  "Gaskets"
+ ],
+ "opportunityType": "doctoral_training_centre",
+ "isOpen": true,
+ "disciplines": [
+  "materials_science",
+  "chemistry",
+  "renewable_energy"
+ ],
+ "stipendCurrency": "GBP",
+ "verificationScore": 85,
+ "deadlineType": "rolling",
+ "regionId": "europe",
+ "sourceType": "official_university",
+ "stipendPeriod": "year",
+ "organization": {
+  "website": "https://warwick.ac.uk/",
+  "name": "University of Warwick",
+  "id": "c5hRooNCu5EoKUBwrHqH",
+  "logoUrl": "https://wsrv.nl/?url=https%3A%2F%2Fmedia.studentcrowd.net%2Fq91%2Funi-logos%2F294.jpg%3Fq%3D1740003616&output=png",
+  "slug": "university-of-warwick"
+ },
+ "category": "doctoral_training_centre",
+ "status": "published",
+ "id": "YyFx6kJlIU9vrBTxbid8",
+ "keywords": [
+  "Fully Funded PhD Studentship: Sustainable Elastomer Technologies",
+  "University of Warwick positions",
+  "fully funded PhD UK",
+  "UK scholarships",
+  "IELTS requirement",
+  "University of Warwick",
+  "Materials Science",
+  "Chemistry"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/phd-sustainable-elastomers-net2zero-warwick",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/phd-sustainable-elastomers-net2zero-warwick#opportunity",
+  "url": "https://nextapply.co.uk/phd-sustainable-elastomers-net2zero-warwick",
   "title": "Fully Funded PhD Studentship: Sustainable Elastomer Technologies (Net2Zero CDT)",
-  "fundingStatus": "fully_funded",
-  "ieltsRequired": true,
-  "organizationId": "c5hRooNCu5EoKUBwrHqH",
-  "createdAt": "2026-08-22T20:42:50.278Z",
-  "stipendAmount": 21805,
-  "fundingType": "fully_funded",
-  "countryCode": "GB",
-  "intro": "This project focuses on developing sustainable elastomer materials for industrial applications such as seals and gaskets.",
-  "deadlineTimezone": "Europe/London",
-  "deadline": null,
-  "degreeLevels": [
-    "phd"
-  ],
-  "isFeatured": false,
-  "slug": "phd-sustainable-elastomers-net2zero-warwick",
-  "updatedAt": "2026-10-23T14:21:38.000Z",
-  "deadlineText": "Rolling until filled",
-  "publishedAt": "2026-08-22T20:42:50.278Z",
-  "verificationStatus": "unverified",
-  "seoDescription": "This project focuses on developing sustainable elastomer materials for industrial applications such as seals and gaskets.",
-  "isRemote": false,
-  "ogImage": "https://nextapply.co.uk/phd-sustainable-elastomers-net2zero-warwick/opengraph-image",
-  "tags": [
-    "University of Warwick",
-    "Materials Science",
-    "Chemistry",
-    "Renewable Energy",
-    "Doctoral Training Centre",
-    "Fully Funded",
-    "Sustainable Elastomers",
-    "Net2Zero",
-    "CDT",
-    "James Walker",
-    "Seals",
-    "Gaskets"
-  ],
-  "opportunityType": "doctoral_training_centre",
-  "isOpen": true,
-  "disciplines": [
-    "materials_science",
-    "chemistry",
-    "renewable_energy"
-  ],
-  "stipendCurrency": "GBP",
-  "verificationScore": 85,
-  "deadlineType": "rolling",
-  "regionId": "europe",
-  "sourceType": "official_university",
-  "stipendPeriod": "year",
-  "organization": {
-    "website": "https://warwick.ac.uk/",
-    "name": "University of Warwick",
-    "id": "c5hRooNCu5EoKUBwrHqH",
-    "logoUrl": "https://wsrv.nl/?url=https%3A%2F%2Fmedia.studentcrowd.net%2Fq91%2Funi-logos%2F294.jpg%3Fq%3D1740003616&output=png",
-    "slug": "university-of-warwick"
+  "description": "This project focuses on developing sustainable elastomer materials for industrial applications such as seals and gaskets.",
+  "datePosted": "2026-08-22T20:42:50.278Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "University of Warwick",
+   "sameAs": "https://warwick.ac.uk/",
+   "logo": "https://wsrv.nl/?url=https%3A%2F%2Fmedia.studentcrowd.net%2Fq91%2Funi-logos%2F294.jpg%3Fq%3D1740003616&output=png"
   },
-  "category": "doctoral_training_centre",
-  "status": "published",
-  "id": "YyFx6kJlIU9vrBTxbid8"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "phd-sustainable-elastomers-net2zero-warwick"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "GB",
+    "addressLocality": "Coventry"
+   }
+  },
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "GBP",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 21805,
+    "unitText": "YEAR"
+   }
+  }
+ }
 }

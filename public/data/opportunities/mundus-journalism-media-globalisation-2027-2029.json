@@ -1,78 +1,119 @@
 {
-  "title": "Mundus Journalism – Master in Journalism, Media and Globalisation (Erasmus Mundus)",
-  "status": "published",
-  "slug": "mundus-journalism-media-globalisation-2027-2029",
-  "isOpen": true,
-  "category": "scholarship",
-  "organizationId": "jssbzdWBl6fpu9sxVfzM",
-  "organization": {
-    "createdAt": "2026-10-23T00:07:35.000Z",
-    "website": "https://mundusjournalism.com",
-    "about": "The Mundus Journalism consortium is coordinated by Aarhus University and delivers the Erasmus Mundus master in Journalism, Media and Globalisation with European partner universities. Its alumni work in newsrooms and media research across more than 100 countries.",
-    "name": "Mundus Journalism Consortium (Aarhus University)",
-    "programCount": 1,
-    "logoUrl": "https://www.google.com/s2/favicons?domain=mundusjournalism.com&sz=256",
-    "slug": "mundus-journalism-consortium-aarhus-university",
-    "status": "published",
-    "updatedAt": "2026-10-23T00:07:35.000Z",
-    "id": "jssbzdWBl6fpu9sxVfzM"
-  },
-  "regionId": "europe",
-  "countryCode": "DK",
-  "city": "Aarhus (multi-country mobility)",
-  "deadline": "2027-01-10T13:00:00.000Z",
-  "deadlineType": "fixed",
-  "deadlineText": "10 January 2027",
-  "deadlineTimezone": "Europe/Copenhagen",
-  "degreeLevels": [
-    "masters"
-  ],
-  "disciplines": [
-    "journalism",
-    "media",
-    "political_science",
-    "communication"
-  ],
-  "subjects": [
-    "Journalism",
-    "Media and globalisation",
-    "Erasmus Mundus",
-    "War and conflict reporting"
-  ],
-  "fundingType": "fully_funded",
-  "fundingStatus": "fully_funded",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "stipend": "EMJM scholarship (selected students)",
-  "intro": "The Erasmus Mundus master in Journalism, Media and Globalisation, run from Aarhus University with partners including Amsterdam, Hamburg, Charles University and City St George's London, has opened applications for the 2027-2029 programme. The deadline is 10 January 2027 at 13:00 CET, and the consortium expects to award 10-15 Erasmus Mundus scholarships.",
-  "tags": [
-    "Erasmus Mundus",
-    "Mundus Journalism",
-    "Journalism Master",
-    "Media Studies",
-    "Aarhus University",
-    "Fully Funded",
-    "Masters"
-  ],
-  "applyLink": "https://mundusjournalism.com/admissions/application-process",
-  "isFeatured": false,
-  "ieltsRequired": true,
-  "eligibility": "worldwide",
-  "seoTitle": "Mundus Journalism 2027-2029 | Erasmus Mundus Master, Deadline 10 January 2027",
-  "seoDescription": "Erasmus Mundus Journalism, Media and Globalisation master 2027-2029. 10-15 fully funded scholarships. Apply by 10 January 2027, 13:00 CET via the official admission portal.",
-  "ogImage": "",
-  "verificationStatus": "verified",
-  "verificationScore": null,
-  "addedDate": "2026-10-23T00:07:35.000Z",
-  "clickCount": 0,
+ "title": "Mundus Journalism – Master in Journalism, Media and Globalisation (Erasmus Mundus)",
+ "status": "published",
+ "slug": "mundus-journalism-media-globalisation-2027-2029",
+ "isOpen": true,
+ "category": "scholarship",
+ "organizationId": "jssbzdWBl6fpu9sxVfzM",
+ "organization": {
   "createdAt": "2026-10-23T00:07:35.000Z",
-  "updatedAt": "2026-10-23T14:20:12.000Z",
-  "publishedAt": "2026-10-23T00:07:35.000Z",
-  "id": "wZWzHC4AQ6Qxq6OlnbId",
-  "opportunityType": "scholarship",
-  "sourceType": "official_organization",
-  "isRemote": false,
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Mundus Journalism – Master in Journalism, Media and Globalisation (Erasmus Mundus)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Mundus Journalism Consortium (Aarhus University)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Aarhus (multi-country mobility), Denmark</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Erasmus Mundus scholarships (10-15 expected for the</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">10 January 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://mundusjournalism.com/admissions/application-process\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>The Erasmus Mundus master in Journalism, Media and Globalisation, run from Aarhus University with partners including Amsterdam, Hamburg, Charles University and City St George's London, has opened applications for the 2027-2029 programme. The deadline is 10 January 2027 at 13:00 CET, and the consortium expects to award 10-15 Erasmus Mundus scholarships.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>One of the longest-running Erasmus Mundus journalism programmes with a global alumni network</li>\n <li>Specialisation tracks including war and conflict reporting and media and politics</li>\n <li>Two-year mobility across two European universities with a joint or double degree</li>\n <li>Scholarships cover both tuition and living costs, open to all nationalities</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Journalism graduates and working journalists with a bachelor's degree in a relevant subject can apply; strong English documentation and a compelling motivation file matter given the competition for roughly a dozen funded places.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships (10-15 expected for the 2027-2029 programme) cover tuition and living costs for the full two years.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Applications open from 1 November 2026 on the Mundus Journalism site and close exactly at 13:00 CET on 10 January 2027 — late submissions are not accepted. Key deadline information: <strong>10 January 2027 (13:00 CET); applications opened 1 November 2026</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://mundusjournalism.com/admissions/application-process\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About Mundus Journalism Consortium (Aarhus University)</h2><p>The Mundus Journalism consortium is coordinated by Aarhus University and delivers the Erasmus Mundus master in Journalism, Media and Globalisation with European partner universities. Its alumni work in newsrooms and media research across more than 100 countries.</p><p>Official website: <a href=\"https://mundusjournalism.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://mundusjournalism.com</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 10 January 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/masters-phd-application-timeline-12-months\">A 12-Month Study Abroad Application Plan for Master's and PhD Applicants</a></li></ul>"
+  "website": "https://mundusjournalism.com",
+  "about": "The Mundus Journalism consortium is coordinated by Aarhus University and delivers the Erasmus Mundus master in Journalism, Media and Globalisation with European partner universities. Its alumni work in newsrooms and media research across more than 100 countries.",
+  "name": "Mundus Journalism Consortium (Aarhus University)",
+  "programCount": 1,
+  "logoUrl": "https://icons.duckduckgo.com/ip3/au.dk.ico",
+  "slug": "mundus-journalism-consortium-aarhus-university",
+  "status": "published",
+  "updatedAt": "2026-10-23T00:07:35.000Z",
+  "id": "jssbzdWBl6fpu9sxVfzM"
+ },
+ "regionId": "europe",
+ "countryCode": "DK",
+ "city": "Aarhus (multi-country mobility)",
+ "deadline": "2027-01-10T13:00:00.000Z",
+ "deadlineType": "fixed",
+ "deadlineText": "10 January 2027",
+ "deadlineTimezone": "Europe/Copenhagen",
+ "degreeLevels": [
+  "masters"
+ ],
+ "disciplines": [
+  "journalism",
+  "media",
+  "political_science",
+  "communication"
+ ],
+ "subjects": [
+  "Journalism",
+  "Media and globalisation",
+  "Erasmus Mundus",
+  "War and conflict reporting"
+ ],
+ "fundingType": "fully_funded",
+ "fundingStatus": "fully_funded",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "stipend": "€1,400/month (EMJM scholarship rate)",
+ "intro": "The Erasmus Mundus master in Journalism, Media and Globalisation, run from Aarhus University with partners including Amsterdam, Hamburg, Charles University and City St George's London, has opened applications for the 2027-2029 programme. The deadline is 10 January 2027 at 13:00 CET, and the consortium expects to award 10-15 Erasmus Mundus scholarships.",
+ "tags": [
+  "Erasmus Mundus",
+  "Mundus Journalism",
+  "Journalism Master",
+  "Media Studies",
+  "Aarhus University",
+  "Fully Funded",
+  "Masters"
+ ],
+ "applyLink": "https://mundusjournalism.com/admissions/application-process",
+ "isFeatured": false,
+ "ieltsRequired": true,
+ "eligibility": "worldwide",
+ "seoTitle": "Mundus Journalism 2027-2029 | Erasmus Mundus Master, Deadline 10 January 2027",
+ "seoDescription": "Erasmus Mundus Journalism, Media and Globalisation master 2027-2029. 10-15 fully funded scholarships. Apply by 10 January 2027, 13:00 CET via the official admission portal.",
+ "ogImage": "https://nextapply.co.uk/mundus-journalism-media-globalisation-2027-2029/opengraph-image",
+ "verificationStatus": "verified",
+ "verificationScore": null,
+ "addedDate": "2026-10-23T00:07:35.000Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-23T00:07:35.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-23T00:07:35.000Z",
+ "id": "wZWzHC4AQ6Qxq6OlnbId",
+ "opportunityType": "scholarship",
+ "sourceType": "official_organization",
+ "isRemote": false,
+ "description": "<h2>About the Scholarship</h2><p>The Erasmus Mundus master in Journalism, Media and Globalisation, run from Aarhus University with partners including Amsterdam, Hamburg, Charles University and City St George's London, has opened applications for the 2027-2029 programme. The deadline is 10 January 2027 at 13:00 CET, and the consortium expects to award 10-15 Erasmus Mundus scholarships.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Mundus Journalism – Master in Journalism, Media and Globalisation (Erasmus Mundus)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Mundus Journalism Consortium (Aarhus University)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Aarhus (multi-country mobility), Denmark</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Erasmus Mundus scholarships (10-15 expected for the</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">10 January 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://mundusjournalism.com/admissions/application-process\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>The Erasmus Mundus master in Journalism, Media and Globalisation, run from Aarhus University with partners including Amsterdam, Hamburg, Charles University and City St George's London, has opened applications for the 2027-2029 programme. The deadline is 10 January 2027 at 13:00 CET, and the consortium expects to award 10-15 Erasmus Mundus scholarships.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>One of the longest-running Erasmus Mundus journalism programmes with a global alumni network</li>\n <li>Specialisation tracks including war and conflict reporting and media and politics</li>\n <li>Two-year mobility across two European universities with a joint or double degree</li>\n <li>Scholarships cover both tuition and living costs, open to all nationalities</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Journalism graduates and working journalists with a bachelor's degree in a relevant subject can apply; strong English documentation and a compelling motivation file matter given the competition for roughly a dozen funded places.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships (10-15 expected for the 2027-2029 programme) cover tuition and living costs for the full two years.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Applications open from 1 November 2026 on the Mundus Journalism site and close exactly at 13:00 CET on 10 January 2027 — late submissions are not accepted. Key deadline information: <strong>10 January 2027 (13:00 CET); applications opened 1 November 2026</strong>.</p>\n<h2>Official Link</h2>\n<ul>\n <li><a href=\"https://mundusjournalism.com/admissions/application-process\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About Mundus Journalism Consortium (Aarhus University)</h2><p>The Mundus Journalism consortium is coordinated by Aarhus University and delivers the Erasmus Mundus master in Journalism, Media and Globalisation with European partner universities. Its alumni work in newsrooms and media research across more than 100 countries.</p><p>Official website: <a href=\"https://mundusjournalism.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://mundusjournalism.com</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 10 January 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/masters-phd-application-timeline-12-months\">A 12-Month Study Abroad Application Plan for Master's and PhD Applicants</a></li></ul>",
+ "stipendAmount": 1400,
+ "stipendCurrency": "EUR",
+ "stipendPeriod": "month",
+ "keywords": [
+  "Mundus Journalism – Master in Journalism, Media and Globalisation",
+  "Mundus Journalism Consortium (Aarhus University) scholarships",
+  "fully funded Master's Denmark",
+  "Denmark scholarships 2027",
+  "Master's 2027 intake",
+  "IELTS requirement",
+  "Erasmus Mundus",
+  "Mundus Journalism",
+  "Journalism Master"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/mundus-journalism-media-globalisation-2027-2029",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalProgram",
+  "@id": "https://nextapply.co.uk/mundus-journalism-media-globalisation-2027-2029#opportunity",
+  "url": "https://nextapply.co.uk/mundus-journalism-media-globalisation-2027-2029",
+  "name": "Mundus Journalism – Master in Journalism, Media and Globalisation (Erasmus Mundus)",
+  "description": "The Erasmus Mundus master in Journalism, Media and Globalisation, run from Aarhus University with partners including Amsterdam, Hamburg, Charles University and City St George's London, has opened applications for the 2027-2029 programme. The deadline is 10 January 2027 at 13:00 CET, and the consortium expects to award 10-15 Erasmus Mundus scholarships.",
+  "educationalProgramMode": "full time",
+  "provider": {
+   "@type": "Organization",
+   "name": "Mundus Journalism Consortium (Aarhus University)",
+   "sameAs": "https://mundusjournalism.com",
+   "logo": "https://icons.duckduckgo.com/ip3/au.dk.ico"
+  },
+  "applicationDeadline": "2027-01-10",
+  "offers": {
+   "@type": "Offer",
+   "category": "Fully Funded programme",
+   "priceSpecification": {
+    "@type": "PriceSpecification",
+    "price": 1400,
+    "priceCurrency": "EUR"
+   }
+  }
+ }
 }

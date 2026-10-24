@@ -1,71 +1,125 @@
 {
-  "addedDate": "2026-09-18T00:00:00.000Z",
-  "clickCount": 0,
-  "city": "Birmingham",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "description": "<h2>Project Overview</h2>\n<p>Halide perovskites are a fascinating class of materials with a wide range of applications in (spin)optoelectronics. Their outstanding optoelectronic properties are strongly influenced by coupling between excited electronic states and the wildly vibrating atoms in these \"soft semiconductors\". This can lead to the trapping of charge carriers and excitons (bound electron-hole pairs), shifted and broadened spectral signatures, and – paradoxically – either constitute a desirable material property or limit device performance.</p>\n<p>Understanding and predicting these excited-state phenomena \"from first principles\" is essential for rational materials design, but the underlying numerical simulations are computationally expensive, limiting studies to small systems and short timescales.</p>\n<p>This project will explore how machine-learning-based methods can help overcome this bottleneck, opening the door to excited-state simulations at scales and system sizes that are currently out of reach. You will work at the interface of method development and materials physics, as part of a research group passionate about tackling complex materials challenges for materials with real-world applications.</p>\n<h2>Research Focus</h2>\n<ul><li>First-principles electronic-structure and excited-state methods (density functional theory and the GW and Bethe-Salpeter-Equation approaches)</li><li>Machine learning for atomistic simulation</li><li>High-performance computing</li></ul>\n<h2>Supervisor</h2>\n<p>Prof. Linn Leppert, School of Metallurgy and Materials, University of Birmingham</p>\n<h2>Training Provided</h2>\n<p>The project offers training in first-principles electronic-structure and excited-state methods, machine learning for atomistic simulation, and high-performance computing, within an active, collaborative research group.</p>\n<h2>Eligibility Criteria</h2>\n<ul><li>We welcome applicants from Physics, Materials Science, Chemistry, or related disciplines who have at least an Upper Second-Class Honours Degree or equivalent.</li><li>A background including courses in quantum mechanics or quantum chemistry is required.</li><li>Prior experience with electronic-structure theory or numerical simulation methods is an advantage but not essential, as full training will be provided.</li></ul>\n<h2>Funding Notes</h2>\n<p>This position is a fully funded 3.5-year PhD studentship (UK home fees only).</p>\n<h2>How to Apply</h2>\n<p>Further details about the research group can be found at www.leppertlab.com.<br/>If you are interested in this position, please contact Prof. Linn Leppert (l.leppert@bham.ac.uk) including a CV and the names and contact details of two references.<br/>Do not apply through the University of Birmingham's admission system until instructed to.</p>\n<h2>Application dates</h2>\n<table><thead><tr><th>Milestone</th><th>Date</th></tr></thead><tbody><tr><td>Closing Date</td><td>31 August 2026</td></tr><tr><td>Start Date</td><td>Flexible</td></tr></tbody></table>\n<h2>Official Link</h2>\n<p>https://nextapply.co.uk/phd-ml-perovskite-optoelectronics-birmingham</p>\n<h2>Important Notes</h2>\n<ul><li>Fully funded 3.5-year PhD studentship (UK home fees only).</li><li>Early applications are encouraged, as the position may close once a suitable candidate has been found.</li><li>Background in quantum mechanics or quantum chemistry is required.</li><li>Full training provided in electronic-structure theory and machine learning methods.</li></ul>",
-  "eligibility": "uk_only",
-  "stipend": "Fully funded 3",
-  "applyLink": "https://nextapply.co.uk/phd-ml-perovskite-optoelectronics-birmingham",
-  "seoTitle": "ML-Accelerated Excited-State Simulations of Perovskite",
+ "addedDate": "2026-09-18T00:00:00.000Z",
+ "clickCount": 0,
+ "city": "Birmingham",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<h2>About the Position</h2>\n<p>Halide perovskites are a fascinating class of materials with a wide range of applications in (spin)optoelectronics. Their outstanding optoelectronic properties are strongly influenced by coupling between excited electronic states and the wildly vibrating atoms in these \"soft semiconductors\". This can lead to the trapping of charge carriers and excitons (bound electron-hole pairs), shifted and broadened spectral signatures, and – paradoxically – either constitute a desirable material property or limit device performance.</p>\n<p>Understanding and predicting these excited-state phenomena \"from first principles\" is essential for rational materials design, but the underlying numerical simulations are computationally expensive, limiting studies to small systems and short timescales.</p>\n<p>This project will explore how machine-learning-based methods can help overcome this bottleneck, opening the door to excited-state simulations at scales and system sizes that are currently out of reach. You will work at the interface of method development and materials physics, as part of a research group passionate about tackling complex materials challenges for materials with real-world applications.</p>\n<h2>Research Focus</h2>\n<ul><li>First-principles electronic-structure and excited-state methods (density functional theory and the GW and Bethe-Salpeter-Equation approaches)</li><li>Machine learning for atomistic simulation</li><li>High-performance computing</li></ul>\n<h2>Supervisor</h2>\n<p>Prof. Linn Leppert, School of Metallurgy and Materials, University of Birmingham</p>\n<h2>Training Provided</h2>\n<p>The project offers training in first-principles electronic-structure and excited-state methods, machine learning for atomistic simulation, and high-performance computing, within an active, collaborative research group.</p>\n<h2>Eligibility and Requirements</h2>\n<ul><li>We welcome applicants from Physics, Materials Science, Chemistry, or related disciplines who have at least an Upper Second-Class Honours Degree or equivalent.</li><li>A background including courses in quantum mechanics or quantum chemistry is required.</li><li>Prior experience with electronic-structure theory or numerical simulation methods is an advantage but not essential, as full training will be provided.</li></ul>\n<h2>Funding Notes</h2>\n<p>This position is a fully funded 3.5-year PhD studentship (UK home fees only).</p>\n<h2>How to Apply</h2>\n<p>Further details about the research group can be found at www.leppertlab.com.<br/>If you are interested in this position, please contact Prof. Linn Leppert (l.leppert@bham.ac.uk) including a CV and the names and contact details of two references.<br/>Do not apply through the University of Birmingham's admission system until instructed to.</p>\n<h2>Application dates</h2>\n<table><thead><tr><th>Milestone</th><th>Date</th></tr></thead><tbody><tr><td>Closing Date</td><td>31 August 2026</td></tr><tr><td>Start Date</td><td>Flexible</td></tr></tbody></table>\n<h2>Official Link</h2>\n<p>https://nextapply.co.uk/phd-ml-perovskite-optoelectronics-birmingham</p>\n<h2>Important Notes</h2>\n<ul><li>Fully funded 3.5-year PhD studentship (UK home fees only).</li><li>Early applications are encouraged, as the position may close once a suitable candidate has been found.</li><li>Background in quantum mechanics or quantum chemistry is required.</li><li>Full training provided in electronic-structure theory and machine learning methods.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+ "eligibility": "uk_only",
+ "stipend": "£21,805/year (UKRI minimum stipend 2026/27)",
+ "applyLink": "https://nextapply.co.uk/phd-ml-perovskite-optoelectronics-birmingham",
+ "seoTitle": "ML-Accelerated Excited-State Simulations of Perovskite",
+ "title": "ML-Accelerated Excited-State Simulations of Perovskite Optoelectronics at University of Birmingham",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": true,
+ "organizationId": "2rRbjqVlNIsuvEzpCi7V",
+ "createdAt": "2026-09-18T12:43:48.745Z",
+ "fundingType": "fully_funded",
+ "countryCode": "GB",
+ "intro": "Fully funded 3.5-year PhD at University of Birmingham developing machine-learning methods for excited-state simulations of halide perovskites. UK home fees only. Deadline: 31 Aug 2026.",
+ "deadlineTimezone": "Europe/London",
+ "deadline": "2026-08-31T22:59:59.999Z",
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "phd-ml-perovskite-optoelectronics-birmingham",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "31 August 2026",
+ "verificationStatus": "unverified",
+ "seoDescription": "Fully funded 3.5-year PhD at University of Birmingham developing machine-learning methods for excited-state simulations of halide perovskites. UK home fees.",
+ "isRemote": false,
+ "ogImage": "https://nextapply.co.uk/phd-ml-perovskite-optoelectronics-birmingham/opengraph-image",
+ "tags": [
+  "University of Birmingham",
+  "PhD",
+  "Machine Learning",
+  "Perovskite",
+  "Optoelectronics",
+  "Materials Science",
+  "Physics",
+  "Chemistry",
+  "UK",
+  "Fully Funded",
+  "Computational Materials Science"
+ ],
+ "opportunityType": "phd_position",
+ "isOpen": false,
+ "disciplines": [
+  "physics",
+  "materials_science",
+  "chemistry",
+  "computer_science",
+  "machine_learning"
+ ],
+ "stipendCurrency": "GBP",
+ "verificationScore": null,
+ "deadlineType": "fixed",
+ "regionId": "europe",
+ "sourceType": "third_party",
+ "organization": {
+  "website": "https://www.birmingham.ac.uk/",
+  "about": "The University of Birmingham is a public research university in Birmingham, England, and a member of the Russell Group. Its teaching and research cover sciences, engineering, medicine, humanities and social sciences.",
+  "name": "University of Birmingham",
+  "logoUrl": "https://res.cloudinary.com/dlzyp7xg/image/upload/v1786910612/images_11.png"
+ },
+ "category": "phd_position",
+ "status": "expired",
+ "id": "3eldMvjTO4uoebt9hRQM",
+ "stipendAmount": 21805,
+ "stipendPeriod": "year",
+ "keywords": [
+  "ML-Accelerated Excited-State Simulations of Perovskite Optoelectronics",
+  "University of Birmingham positions",
+  "fully funded PhD UK",
+  "UK scholarships",
+  "IELTS requirement",
+  "University of Birmingham",
+  "PhD",
+  "Machine Learning"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/phd-ml-perovskite-optoelectronics-birmingham",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/phd-ml-perovskite-optoelectronics-birmingham#opportunity",
+  "url": "https://nextapply.co.uk/phd-ml-perovskite-optoelectronics-birmingham",
   "title": "ML-Accelerated Excited-State Simulations of Perovskite Optoelectronics at University of Birmingham",
-  "fundingStatus": "fully_funded",
-  "ieltsRequired": true,
-  "organizationId": "2rRbjqVlNIsuvEzpCi7V",
-  "createdAt": "2026-09-18T12:43:48.745Z",
-  "fundingType": "fully_funded",
-  "countryCode": "GB",
-  "intro": "Fully funded 3.5-year PhD at University of Birmingham developing machine-learning methods for excited-state simulations of halide perovskites. UK home fees only. Deadline: 31 Aug 2026.",
-  "deadlineTimezone": "Europe/London",
-  "deadline": "2026-08-31T22:59:59.999Z",
-  "degreeLevels": [
-    "phd"
-  ],
-  "isFeatured": false,
-  "slug": "phd-ml-perovskite-optoelectronics-birmingham",
-  "updatedAt": "2026-10-23",
-  "deadlineText": "31 August 2026",
-  "verificationStatus": "unverified",
-  "seoDescription": "Fully funded 3.5-year PhD at University of Birmingham developing machine-learning methods for excited-state simulations of halide perovskites. UK home fees.",
-  "isRemote": false,
-  "ogImage": null,
-  "tags": [
-    "University of Birmingham",
-    "PhD",
-    "Machine Learning",
-    "Perovskite",
-    "Optoelectronics",
-    "Materials Science",
-    "Physics",
-    "Chemistry",
-    "UK",
-    "Fully Funded",
-    "Computational Materials Science"
-  ],
-  "opportunityType": "phd_position",
-  "isOpen": false,
-  "disciplines": [
-    "physics",
-    "materials_science",
-    "chemistry",
-    "computer_science",
-    "machine_learning"
-  ],
-  "stipendCurrency": "GBP",
-  "verificationScore": null,
-  "deadlineType": "fixed",
-  "regionId": "europe",
-  "sourceType": "third_party",
-  "organization": {
-    "website": "https://www.birmingham.ac.uk/",
-    "about": "The University of Birmingham is a public research university in Birmingham, England, and a member of the Russell Group. Its teaching and research cover sciences, engineering, medicine, humanities and social sciences.",
-    "name": "University of Birmingham",
-    "logoUrl": "https://res.cloudinary.com/dlzyp7xg/image/upload/v1786910612/images_11.png"
+  "description": "Fully funded 3.5-year PhD at University of Birmingham developing machine-learning methods for excited-state simulations of halide perovskites. UK home fees only. Deadline: 31 Aug 2026.",
+  "datePosted": "2026-09-18T12:43:48.745Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "University of Birmingham",
+   "sameAs": "https://www.birmingham.ac.uk/",
+   "logo": "https://res.cloudinary.com/dlzyp7xg/image/upload/v1786910612/images_11.png"
   },
-  "category": "phd_position",
-  "status": "expired",
-  "id": "3eldMvjTO4uoebt9hRQM"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "phd-ml-perovskite-optoelectronics-birmingham"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "GB",
+    "addressLocality": "Birmingham"
+   }
+  },
+  "validThrough": "2026-08-31T22:59:59.999Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "GBP",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 21805,
+    "unitText": "YEAR"
+   }
+  }
+ }
 }

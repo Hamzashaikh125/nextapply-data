@@ -1,70 +1,122 @@
 {
-  "addedDate": "2026-08-22T20:42:56.245Z",
-  "city": "Cambridge",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded PhD Studentship: Mitochondrial Metabolism and Novel Therapeutic Strategies for MASLD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">University of Cambridge</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Cambridge, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">£21,850 per year (tax-free)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">25 September 2026, 23:59 UK time</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.cam.ac.uk/jobs/phd-studentship-mitochondrial-metabolism-and-novel-therapeutic-strategies-for-metabolic-dysfunction-pm50558\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <h2>Basic Information</h2>\n<ul><li><strong>Host Institution:</strong> University of Cambridge</li><li><strong>Department:</strong> Department of Physiology, Development and Neuroscience (PDN)</li><li><strong>Supervisors:</strong> Prof. Andrew Murray (Cambridge) &amp; Dr Ross Lindsay (Novo Nordisk)</li><li><strong>Study Level:</strong> PhD</li><li><strong>Duration:</strong> 3.5 years</li><li><strong>Start Date:</strong> 5 January 2027</li><li><strong>Funding Type:</strong> Fully Funded (Home/UK tuition fees + stipend)</li><li><strong>Stipend:</strong> £21,850 per year (tax-free)</li><li><strong>Funding Body:</strong> Novo Nordisk</li><li><strong>Eligibility:</strong> UK/Home students only</li><li><strong>Application Deadline:</strong> 25 September 2026, 23:59 UK time</li><li><strong>Contact:</strong> Prof. Andrew Murray (after 1 September)</li></ul>\n<h2>Project Overview</h2>\n<p>MASLD affects approximately one in three adults worldwide and is rapidly becoming the leading cause of chronic liver disease. This project will investigate how mitochondrial metabolism is altered during MASLD and evaluate novel mitochondrial-targeted therapeutic strategies. The student will receive training in in vivo metabolic phenotyping, ex vivo tissue metabolism analysis, mitochondrial bioenergetics, and high-resolution respirometry.</p>\n<h2>Candidate Profile</h2>\n<p>Highly motivated graduates with a strong background in physiology, biochemistry, or related disciplines.</p>\n<h2>How to Apply</h2>\n<p>Apply via Cambridge Applicant Portal for course BLPDPDPDN; select this project.</p>",
-  "eligibility": "uk_only",
-  "stipend": "£21,850 per year (tax-free)",
-  "applyLink": "https://www.cam.ac.uk/jobs/phd-studentship-mitochondrial-metabolism-and-novel-therapeutic-strategies-for-metabolic-dysfunction-pm50558",
-  "seoTitle": "PhD: Mitochondrial Metabolism and Novel Therapeutic",
+ "addedDate": "2026-08-22T20:42:56.245Z",
+ "city": "Cambridge",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<h2>About the Position</h2><p>This project will investigate how mitochondrial metabolism is altered during Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) and evaluate novel mitochondrial-targeted therapeutic strategies.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded PhD Studentship: Mitochondrial Metabolism and Novel Therapeutic Strategies for MASLD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">University of Cambridge</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Cambridge, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">£21,850 per year (tax-free)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">25 September 2026, 23:59 UK time</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.cam.ac.uk/jobs/phd-studentship-mitochondrial-metabolism-and-novel-therapeutic-strategies-for-metabolic-dysfunction-pm50558\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <h2>Basic Information</h2>\n<ul><li><strong>Host Institution:</strong> University of Cambridge</li><li><strong>Department:</strong> Department of Physiology, Development and Neuroscience (PDN)</li><li><strong>Supervisors:</strong> Prof. Andrew Murray (Cambridge) &amp; Dr Ross Lindsay (Novo Nordisk)</li><li><strong>Study Level:</strong> PhD</li><li><strong>Duration:</strong> 3.5 years</li><li><strong>Start Date:</strong> 5 January 2027</li><li><strong>Funding Type:</strong> Fully Funded (Home/UK tuition fees + stipend)</li><li><strong>Stipend:</strong> £21,850 per year (tax-free)</li><li><strong>Funding Body:</strong> Novo Nordisk</li><li><strong>Eligibility:</strong> UK/Home students only</li><li><strong>Application Deadline:</strong> 25 September 2026, 23:59 UK time</li><li><strong>Contact:</strong> Prof. Andrew Murray (after 1 September)</li></ul>\n<h2>Project Overview</h2>\n<p>MASLD affects approximately one in three adults worldwide and is rapidly becoming the leading cause of chronic liver disease. This project will investigate how mitochondrial metabolism is altered during MASLD and evaluate novel mitochondrial-targeted therapeutic strategies. The student will receive training in in vivo metabolic phenotyping, ex vivo tissue metabolism analysis, mitochondrial bioenergetics, and high-resolution respirometry.</p>\n<h2>Candidate Profile</h2>\n<p>Highly motivated graduates with a strong background in physiology, biochemistry, or related disciplines.</p>\n<h2>How to Apply</h2>\n<p>Apply via Cambridge Applicant Portal for course BLPDPDPDN; select this project.</p><h2>Official Link</h2><p>https://www.cam.ac.uk/jobs/phd-studentship-mitochondrial-metabolism-and-novel-therapeutic-strategies-for-metabolic-dysfunction-pm50558</p><h2>Important Notes</h2><ul><li>Always confirm the full requirements and current deadline on the official website before applying.</li><li>Prepare the requested documents early — competitive awards are often decided on complete, on-time submissions.</li><li>Funding terms shown here reflect the listing at the time of publication and can be updated by the provider.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+ "eligibility": "uk_only",
+ "stipend": "£21,850 per year (tax-free)",
+ "applyLink": "https://www.cam.ac.uk/jobs/phd-studentship-mitochondrial-metabolism-and-novel-therapeutic-strategies-for-metabolic-dysfunction-pm50558",
+ "seoTitle": "PhD: Mitochondrial Metabolism and Novel Therapeutic",
+ "title": "Fully Funded PhD Studentship: Mitochondrial Metabolism and Novel Therapeutic Strategies for MASLD",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": true,
+ "organizationId": "PnEG0pcrRuckMliHa12w",
+ "createdAt": "2026-08-22T20:42:56.245Z",
+ "stipendAmount": 21850,
+ "fundingType": "fully_funded",
+ "countryCode": "GB",
+ "intro": "This project will investigate how mitochondrial metabolism is altered during Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) and evaluate novel mitochondrial-targeted therapeutic strategies.",
+ "deadlineTimezone": "Europe/London",
+ "deadline": "2026-09-25T22:59:59.999Z",
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "phd-mitochondrial-metabolism-masld-cambridge",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "25 September 2026, 23:59 UK time",
+ "publishedAt": "2026-08-22T20:42:56.245Z",
+ "verificationStatus": "verified",
+ "seoDescription": "This project will investigate how mitochondrial metabolism is altered during Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) and evaluate.",
+ "isRemote": false,
+ "ogImage": "https://cdn.mofan-lab.com/uploads/objects/dd/ac/image4.ddac8ef0ef00.png",
+ "tags": [
+  "Mitochondrial Metabolism",
+  "MASLD",
+  "Liver Disease",
+  "Physiology",
+  "Biochemistry",
+  "Novo Nordisk",
+  "University of Cambridge",
+  "PhD",
+  "Fully Funded",
+  "UK",
+  "2027"
+ ],
+ "opportunityType": "phd_position",
+ "isOpen": false,
+ "disciplines": [
+  "biology",
+  "medical_science"
+ ],
+ "stipendCurrency": "GBP",
+ "verificationScore": 100,
+ "deadlineType": "fixed",
+ "regionId": "europe",
+ "sourceType": "official_university",
+ "stipendPeriod": "year",
+ "organization": {
+  "website": "https://www.cam.ac.uk/",
+  "about": "The University of Cambridge is a collegiate research university in Cambridge, England, established in 1209. It offers teaching and research across a broad range of disciplines.",
+  "name": "University of Cambridge",
+  "logoUrl": "https://cdn.mofan-lab.com/uploads/objects/dd/ac/image4.ddac8ef0ef00.png"
+ },
+ "category": "phd_position",
+ "status": "expired",
+ "id": "EvgZ6ic70q4Ea1SE3yRu",
+ "keywords": [
+  "Fully Funded PhD Studentship: Mitochondrial Metabolism and Novel",
+  "University of Cambridge positions",
+  "fully funded PhD UK",
+  "UK scholarships",
+  "IELTS requirement",
+  "Mitochondrial Metabolism",
+  "MASLD",
+  "Liver Disease"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/phd-mitochondrial-metabolism-masld-cambridge",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/phd-mitochondrial-metabolism-masld-cambridge#opportunity",
+  "url": "https://nextapply.co.uk/phd-mitochondrial-metabolism-masld-cambridge",
   "title": "Fully Funded PhD Studentship: Mitochondrial Metabolism and Novel Therapeutic Strategies for MASLD",
-  "fundingStatus": "fully_funded",
-  "ieltsRequired": true,
-  "organizationId": "PnEG0pcrRuckMliHa12w",
-  "createdAt": "2026-08-22T20:42:56.245Z",
-  "stipendAmount": 21850,
-  "fundingType": "fully_funded",
-  "countryCode": "GB",
-  "intro": "This project will investigate how mitochondrial metabolism is altered during Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) and evaluate novel mitochondrial-targeted therapeutic strategies.",
-  "deadlineTimezone": "Europe/London",
-  "deadline": "2026-09-25T22:59:59.999Z",
-  "degreeLevels": [
-    "phd"
-  ],
-  "isFeatured": false,
-  "slug": "phd-mitochondrial-metabolism-masld-cambridge",
-  "updatedAt": "2026-10-23",
-  "deadlineText": "25 September 2026, 23:59 UK time",
-  "publishedAt": "2026-08-22T20:42:56.245Z",
-  "verificationStatus": "verified",
-  "seoDescription": "This project will investigate how mitochondrial metabolism is altered during Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) and evaluate.",
-  "isRemote": false,
-  "ogImage": "https://cdn.mofan-lab.com/uploads/objects/dd/ac/image4.ddac8ef0ef00.png",
-  "tags": [
-    "Mitochondrial Metabolism",
-    "MASLD",
-    "Liver Disease",
-    "Physiology",
-    "Biochemistry",
-    "Novo Nordisk",
-    "University of Cambridge",
-    "PhD",
-    "Fully Funded",
-    "UK",
-    "2027"
-  ],
-  "opportunityType": "phd_position",
-  "isOpen": false,
-  "disciplines": [
-    "biology",
-    "medical_science"
-  ],
-  "stipendCurrency": "GBP",
-  "verificationScore": 100,
-  "deadlineType": "fixed",
-  "regionId": "europe",
-  "sourceType": "official_university",
-  "stipendPeriod": "year",
-  "organization": {
-    "website": "https://www.cam.ac.uk/",
-    "about": "The University of Cambridge is a collegiate research university in Cambridge, England, established in 1209. It offers teaching and research across a broad range of disciplines.",
-    "name": "University of Cambridge",
-    "logoUrl": "https://cdn.mofan-lab.com/uploads/objects/dd/ac/image4.ddac8ef0ef00.png"
+  "description": "This project will investigate how mitochondrial metabolism is altered during Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) and evaluate novel mitochondrial-targeted therapeutic strategies.",
+  "datePosted": "2026-08-22T20:42:56.245Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "University of Cambridge",
+   "sameAs": "https://www.cam.ac.uk/",
+   "logo": "https://cdn.mofan-lab.com/uploads/objects/dd/ac/image4.ddac8ef0ef00.png"
   },
-  "category": "phd_position",
-  "status": "expired",
-  "id": "EvgZ6ic70q4Ea1SE3yRu"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "phd-mitochondrial-metabolism-masld-cambridge"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "GB",
+    "addressLocality": "Cambridge"
+   }
+  },
+  "validThrough": "2026-09-25T22:59:59.999Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "GBP",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 21850,
+    "unitText": "YEAR"
+   }
+  }
+ }
 }

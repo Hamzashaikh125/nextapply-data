@@ -1,78 +1,129 @@
 {
-  "addedDate": "2026-09-16T14:04:07.208Z",
-  "clickCount": 0,
-  "city": "Esch-sur-Alzette",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Doctoral Researcher in Energy and Greenhouse Gas Modelling at University of Luxembourg</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">University of Luxembourg</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Esch-sur-Alzette, Luxembourg</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded, stipend provided, tuition covered</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">EUR 43,445 gross per year (full time).</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Open - Applications processed upon reception</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.uni.lu/en/jobs/doctoral-researcher-in-energy-and-green-house-gas-modelling/\">Official application page ↗</a></td></tr></tbody></table><h2>About the FSTM</h2>\n<p>The University of Luxembourg is an international research university with a distinctly multilingual and interdisciplinary character. The Faculty of Science, Technology and Medicine (FSTM) contributes multidisciplinary expertise in the fields of Mathematics, Physics, Engineering, Computer Science, Life Sciences and Medicine. Through its dual mission of teaching and research, the FSTM seeks to generate and disseminate knowledge and train new generations of responsible citizens.</p>\n<h2>Your Role</h2>\n<p>We are seeking a highly motivated Doctoral researcher to develop a generalized greenhouse gas (GHG) model across all sectors to be integrated with the versatile sector coupled energy model, UCB-SEnMod. This spatial and time resolved combined model will enable a holistic view of direct and indirect GHG emissions, whilst considering possible renewable energy integrations.</p>\n<p>Key responsibilities:</p>\n<ul><li>Establish requirements, architect, design and code a GHG module to be integrated with the UCB-SEnMod.</li><li>Extract from literature all necessary workflows to be modelled and data that is needed.</li><li>Use the combined model to design scenarios which would reduce GHG emissions.</li><li>Maintain clear documentation and version control for models and results.</li><li>Prepare the module to be used open source.</li><li>Data analysis, figure preparation, manuscript and report drafting and presentation of results at international conferences.</li><li>Engage in collaboration with internal partners — Luxembourg Centre for Socio-Environmental Systems — and external partners such as the Trier University of Applied Sciences.</li></ul>\n<h2>Your Profile</h2>\n<p>We are looking for a motivated, independent scientist or engineer to join our teams working to reduce GHG emissions. You will be supervised by Prof. Phillip Dale (University of Luxembourg) and Prof. te Heesen (Trier University of Applied Sciences) as part of a cotutelle.</p>\n<ul><li>Master's degree in physics, chemistry, engineering, environmental sciences, or related field.</li><li>Familiarity with Python or similar and use of AI tools.</li><li>Strong fundamentals in physical processes.</li><li>Excellent problem-solving and ability to show initiative.</li></ul>\n<p>Language Requirements:</p>\n<ul><li>Applicants must demonstrate at least B2-level proficiency in the language of their thesis. For details and accepted certificates, please visit the Application for admission — Doctoral Candidates.</li></ul>\n<h2>We Offer</h2>\n<ul><li>A modern, dynamic university with a personal and inclusive atmosphere. Multilingual and international character. Staff coming from more than 90 countries. Member of The Guild of European Research Intensive Universities.</li><li>An exceptional research environment, supported by skilled staff and high-quality equipment. Strong links to professional sectors and the Luxembourg labour market. A unique urban campus with excellent infrastructure.</li><li>A partner for society and industry. Cooperation with European institutions, innovative companies, the Financial Centre and a wide range of non-academic partners including ministries, local governments, associations, and NGOs.</li></ul>\n<h2>Contact</h2><ul><li>Email: <a href=\"mailto:phillip.dale@uni.lu\">phillip.dale@uni.lu</a></li></ul><p>Questions about this position, eligibility or the application process should be sent to the contacts above or raised through the channel given on the official announcement page.</p><h2>Important Notes</h2><ul><li>Application deadline: Open - Apply as soon as possible - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2>\n<p>Applications should include:</p>\n<ul><li>Curriculum Vitae</li><li>Cover letter presenting your motivation for this doctoral thesis topic, and explaining how your qualifications and aspirations align with its academic focus</li><li>Transcript of all modules and results from university-level courses taken</li><li>Portfolio or list of relevant projects</li><li>One-page proposal outlining your approach to the project</li></ul>\n<p>Early application is highly encouraged, as the applications will be processed upon reception. Please apply ONLINE formally through the HR system. Applications by Email will not be considered.</p>\n<p>All qualified individuals are encouraged to apply. In line with our values, the University of Luxembourg promotes an inclusive culture. We encourage applications from individuals of all backgrounds and are dedicated to upholding equality and respect for our employees and students.</p>\n<h2>General Information</h2>\n<ul><li>Contract Type: Fixed Term Contract 36 Month</li><li>Work Hours: Full Time 40.0 Hours per Week</li><li>Location: Belval Campus</li><li>Internal Title: Doctoral Researcher</li><li>Job Reference: UOL08216</li><li>The yearly gross salary for every Doctoral researcher at the UL is EUR 44,345 (full time).</li></ul>\n<h2>Official Link</h2>\n<p>https://www.uni.lu/en/jobs/doctoral-researcher-in-energy-and-green-house-gas-modelling/</p>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
-  "eligibility": "worldwide",
-  "stipend": "EUR 43,445 gross per year (full time).",
-  "applyLink": "https://www.uni.lu/en/jobs/doctoral-researcher-in-energy-and-green-house-gas-modelling/",
-  "seoTitle": "Doctoral Researcher in Energy and Greenhouse Gas Modelling",
+ "addedDate": "2026-09-16T14:04:07.208Z",
+ "clickCount": 0,
+ "city": "Esch-sur-Alzette",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Doctoral Researcher in Energy and Greenhouse Gas Modelling at University of Luxembourg</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">University of Luxembourg</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Esch-sur-Alzette, Luxembourg</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded, stipend provided, tuition covered</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">EUR 43,445 gross per year (full time).</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Open - Applications processed upon reception</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.uni.lu/en/jobs/doctoral-researcher-in-energy-and-green-house-gas-modelling/\">Official application page ↗</a></td></tr></tbody></table><h2>About the FSTM</h2>\n<p>The University of Luxembourg is an international research university with a distinctly multilingual and interdisciplinary character. The Faculty of Science, Technology and Medicine (FSTM) contributes multidisciplinary expertise in the fields of Mathematics, Physics, Engineering, Computer Science, Life Sciences and Medicine. Through its dual mission of teaching and research, the FSTM seeks to generate and disseminate knowledge and train new generations of responsible citizens.</p>\n<h2>Your Role</h2>\n<p>We are seeking a highly motivated Doctoral researcher to develop a generalized greenhouse gas (GHG) model across all sectors to be integrated with the versatile sector coupled energy model, UCB-SEnMod. This spatial and time resolved combined model will enable a holistic view of direct and indirect GHG emissions, whilst considering possible renewable energy integrations.</p>\n<p>Key responsibilities:</p>\n<ul><li>Establish requirements, architect, design and code a GHG module to be integrated with the UCB-SEnMod.</li><li>Extract from literature all necessary workflows to be modelled and data that is needed.</li><li>Use the combined model to design scenarios which would reduce GHG emissions.</li><li>Maintain clear documentation and version control for models and results.</li><li>Prepare the module to be used open source.</li><li>Data analysis, figure preparation, manuscript and report drafting and presentation of results at international conferences.</li><li>Engage in collaboration with internal partners — Luxembourg Centre for Socio-Environmental Systems — and external partners such as the Trier University of Applied Sciences.</li></ul>\n<h2>Your Profile</h2>\n<p>We are looking for a motivated, independent scientist or engineer to join our teams working to reduce GHG emissions. You will be supervised by Prof. Phillip Dale (University of Luxembourg) and Prof. te Heesen (Trier University of Applied Sciences) as part of a cotutelle.</p>\n<ul><li>Master's degree in physics, chemistry, engineering, environmental sciences, or related field.</li><li>Familiarity with Python or similar and use of AI tools.</li><li>Strong fundamentals in physical processes.</li><li>Excellent problem-solving and ability to show initiative.</li></ul>\n<p>Language Requirements:</p>\n<ul><li>Applicants must demonstrate at least B2-level proficiency in the language of their thesis. For details and accepted certificates, please visit the Application for admission — Doctoral Candidates.</li></ul>\n<h2>We Offer</h2>\n<ul><li>A modern, dynamic university with a personal and inclusive atmosphere. Multilingual and international character. Staff coming from more than 90 countries. Member of The Guild of European Research Intensive Universities.</li><li>An exceptional research environment, supported by skilled staff and high-quality equipment. Strong links to professional sectors and the Luxembourg labour market. A unique urban campus with excellent infrastructure.</li><li>A partner for society and industry. Cooperation with European institutions, innovative companies, the Financial Centre and a wide range of non-academic partners including ministries, local governments, associations, and NGOs.</li></ul>\n<h2>Contact</h2><ul><li>Email: <a href=\"mailto:phillip.dale@uni.lu\">phillip.dale@uni.lu</a></li></ul><p>Questions about this position, eligibility or the application process should be sent to the contacts above or raised through the channel given on the official announcement page.</p><h2>Important Notes</h2><ul><li>Application deadline: Open - Apply as soon as possible - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2>\n<p>Applications should include:</p>\n<ul><li>Curriculum Vitae</li><li>Cover letter presenting your motivation for this doctoral thesis topic, and explaining how your qualifications and aspirations align with its academic focus</li><li>Transcript of all modules and results from university-level courses taken</li><li>Portfolio or list of relevant projects</li><li>One-page proposal outlining your approach to the project</li></ul>\n<p>Early application is highly encouraged, as the applications will be processed upon reception. Please apply ONLINE formally through the HR system. Applications by Email will not be considered.</p>\n<p>All qualified individuals are encouraged to apply. In line with our values, the University of Luxembourg promotes an inclusive culture. We encourage applications from individuals of all backgrounds and are dedicated to upholding equality and respect for our employees and students.</p>\n<h2>General Information</h2>\n<ul><li>Contract Type: Fixed Term Contract 36 Month</li><li>Work Hours: Full Time 40.0 Hours per Week</li><li>Location: Belval Campus</li><li>Internal Title: Doctoral Researcher</li><li>Job Reference: UOL08216</li><li>The yearly gross salary for every Doctoral researcher at the UL is EUR 44,345 (full time).</li></ul>\n<h2>Official Link</h2>\n<p>https://www.uni.lu/en/jobs/doctoral-researcher-in-energy-and-green-house-gas-modelling/</p>\n<h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+ "eligibility": "worldwide",
+ "stipend": "EUR 43,445 gross per year (full time).",
+ "applyLink": "https://www.uni.lu/en/jobs/doctoral-researcher-in-energy-and-green-house-gas-modelling/",
+ "seoTitle": "Doctoral Researcher in Energy and Greenhouse Gas Modelling",
+ "title": "Doctoral Researcher in Energy and Greenhouse Gas Modelling at University of Luxembourg",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": true,
+ "organizationId": "LGjgG2rdlRVSevqF7zwO",
+ "createdAt": "2026-09-16T14:04:07.208Z",
+ "stipendAmount": 43445,
+ "fundingType": "fully_funded",
+ "countryCode": "LU",
+ "intro": "36-month fully funded PhD in Energy and Greenhouse Gas Modelling at University of Luxembourg. Gross salary EUR 43,445/year. Rolling review.",
+ "deadlineTimezone": "Europe/Luxembourg",
+ "deadline": null,
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "doctoral-researcher-energy-greenhouse-gas-modelling-university-of-luxembourg",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "Open - Apply as soon as possible",
+ "verificationStatus": "unverified",
+ "seoDescription": "Fully Funded PhD in Esch-sur-Alzette at University of Luxembourg: €43,445/yr stipend. Deadline: Open - Applications processed upon reception. Apply via.",
+ "isRemote": false,
+ "ogImage": "https://nextapply.co.uk/doctoral-researcher-energy-greenhouse-gas-modelling-university-of-luxembourg/opengraph-image",
+ "tags": [
+  "University of Luxembourg",
+  "Environmental Science",
+  "Environmental Engineering",
+  "Renewable Energy",
+  "Climate Change",
+  "Engineering",
+  "Physics",
+  "Chemistry",
+  "Phd Position",
+  "Fully Funded",
+  "Energy Modelling",
+  "Greenhouse Gas"
+ ],
+ "opportunityType": "phd_position",
+ "isOpen": true,
+ "disciplines": [
+  "environmental_science",
+  "environmental_engineering",
+  "renewable_energy",
+  "climate_change",
+  "engineering",
+  "physics",
+  "chemistry"
+ ],
+ "stipendCurrency": "EUR",
+ "verificationScore": null,
+ "deadlineType": "rolling",
+ "regionId": "europe",
+ "sourceType": "official_university",
+ "stipendPeriod": "year",
+ "organization": {
+  "website": "https://www.uni.lu",
+  "name": "University of Luxembourg",
+  "id": "LGjgG2rdlRVSevqF7zwO",
+  "logoUrl": "https://images.seeklogo.com/logo-png/31/1/university-of-luxembourg-logo-png_seeklogo-310599.png",
+  "slug": "university-of-luxembourg"
+ },
+ "category": "phd_position",
+ "status": "published",
+ "publishedAt": "2026-09-16T14:04:07.208Z",
+ "id": "zpVXZD70dUkj06ig0OQ2",
+ "keywords": [
+  "Doctoral Researcher in Energy and Greenhouse Gas Modelling",
+  "University of Luxembourg positions",
+  "fully funded PhD Luxembourg",
+  "Luxembourg scholarships",
+  "IELTS requirement",
+  "University of Luxembourg",
+  "Environmental Science",
+  "Environmental Engineering"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/doctoral-researcher-energy-greenhouse-gas-modelling-university-of-luxembourg",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/doctoral-researcher-energy-greenhouse-gas-modelling-university-of-luxembourg#opportunity",
+  "url": "https://nextapply.co.uk/doctoral-researcher-energy-greenhouse-gas-modelling-university-of-luxembourg",
   "title": "Doctoral Researcher in Energy and Greenhouse Gas Modelling at University of Luxembourg",
-  "fundingStatus": "fully_funded",
-  "ieltsRequired": true,
-  "organizationId": "LGjgG2rdlRVSevqF7zwO",
-  "createdAt": "2026-09-16T14:04:07.208Z",
-  "stipendAmount": 43445,
-  "fundingType": "fully_funded",
-  "countryCode": "LU",
-  "intro": "36-month fully funded PhD in Energy and Greenhouse Gas Modelling at University of Luxembourg. Gross salary EUR 43,445/year. Rolling review.",
-  "deadlineTimezone": "Europe/Luxembourg",
-  "deadline": null,
-  "degreeLevels": [
-    "phd"
-  ],
-  "isFeatured": false,
-  "slug": "doctoral-researcher-energy-greenhouse-gas-modelling-university-of-luxembourg",
-  "updatedAt": "2026-10-23T14:22:24.000Z",
-  "deadlineText": "Open - Apply as soon as possible",
-  "verificationStatus": "unverified",
-  "seoDescription": "Fully Funded PhD in Esch-sur-Alzette at University of Luxembourg: €43,445/yr stipend. Deadline: Open - Applications processed upon reception. Apply via.",
-  "isRemote": false,
-  "ogImage": "https://nextapply.co.uk/doctoral-researcher-energy-greenhouse-gas-modelling-university-of-luxembourg/opengraph-image",
-  "tags": [
-    "University of Luxembourg",
-    "Environmental Science",
-    "Environmental Engineering",
-    "Renewable Energy",
-    "Climate Change",
-    "Engineering",
-    "Physics",
-    "Chemistry",
-    "Phd Position",
-    "Fully Funded",
-    "Energy Modelling",
-    "Greenhouse Gas"
-  ],
-  "opportunityType": "phd_position",
-  "isOpen": true,
-  "disciplines": [
-    "environmental_science",
-    "environmental_engineering",
-    "renewable_energy",
-    "climate_change",
-    "engineering",
-    "physics",
-    "chemistry"
-  ],
-  "stipendCurrency": "EUR",
-  "verificationScore": null,
-  "deadlineType": "rolling",
-  "regionId": "europe",
-  "sourceType": "official_university",
-  "stipendPeriod": "year",
-  "organization": {
-    "website": "https://www.uni.lu",
-    "name": "University of Luxembourg",
-    "id": "LGjgG2rdlRVSevqF7zwO",
-    "logoUrl": "https://images.seeklogo.com/logo-png/31/1/university-of-luxembourg-logo-png_seeklogo-310599.png",
-    "slug": "university-of-luxembourg"
+  "description": "36-month fully funded PhD in Energy and Greenhouse Gas Modelling at University of Luxembourg. Gross salary EUR 43,445/year. Rolling review.",
+  "datePosted": "2026-09-16T14:04:07.208Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "University of Luxembourg",
+   "sameAs": "https://www.uni.lu",
+   "logo": "https://images.seeklogo.com/logo-png/31/1/university-of-luxembourg-logo-png_seeklogo-310599.png"
   },
-  "category": "phd_position",
-  "status": "published",
-  "publishedAt": "2026-09-16T14:04:07.208Z",
-  "id": "zpVXZD70dUkj06ig0OQ2"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "doctoral-researcher-energy-greenhouse-gas-modelling-university-of-luxembourg"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "LU",
+    "addressLocality": "Esch-sur-Alzette"
+   }
+  },
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "EUR",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 43445,
+    "unitText": "YEAR"
+   }
+  }
+ }
 }

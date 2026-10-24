@@ -1,72 +1,123 @@
 {
-  "addedDate": "2026-08-22T20:43:11.661Z",
-  "city": "London",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded PhD Studentship: Life Sciences pgSIT (Agragene Inc.)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Imperial College London</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">London, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">£23,805 per year (2026-27 rate, including London allowance)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">To be confirmed</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.imperial.ac.uk/life-sciences/postgraduate/research/phd-opportunities/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <h2>Basic Information</h2>\n<ul><li><strong>Full Title:</strong> Developing an optimized pgSIT system to control important agricultural insect pests</li><li><strong>Host Institution:</strong> Imperial College London</li><li><strong>Department:</strong> Department of Life Sciences</li><li><strong>Supervisor:</strong> Assistant Professor Angela Meccariello</li><li><strong>Study Level:</strong> PhD</li><li><strong>Duration:</strong> 3 years</li><li><strong>Start Date:</strong> Between 27 July and 7 August 2026</li><li><strong>Funding Type:</strong> Co-funded Industry PhD Studentship</li><li><strong>Stipend:</strong> £23,805 per year (2026-27 rate, including London allowance)</li><li><strong>Tuition Fees:</strong> Covered</li><li><strong>Application Deadline:</strong> To be confirmed</li></ul>\n<h2>Project Description</h2>\n<p>This project will improve pgSIT performance by refining CRISPR construct design, enhancing promoter specificity, and identifying gene targets that maximise sterility and male bias. The research will evaluate the genetic and physiological effects of pgSIT components using functional genomics, transgenesis and molecular tools.</p>\n<h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Official Link</h2><p>Full announcement and application portal: <a href=\"https://www.imperial.ac.uk/life-sciences/postgraduate/research/phd-opportunities/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.imperial.ac.uk/life-sciences/postgraduate/research/phd-opportunities/</a></p><p>Source: imperial.ac.uk - the details in this listing were recorded from this official page.</p><h2>Important Notes</h2><ul><li>Application deadline: To be confirmed - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>About Imperial College London</h2><p>Imperial College London is a public research university focused on science, engineering, medicine and business. Based in London, it offers undergraduate, postgraduate and doctoral programmes in these fields. Its academic community combines scientific research with practical applications, working with healthcare, industry and international partners on technological and societal challenges worldwide.</p><p>Official website: <a href=\"https://www.imperial.ac.uk/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.imperial.ac.uk/</a></p><h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: To be confirmed. Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://www.imperial.ac.uk/life-sciences/postgraduate/research/phd-opportunities/\">Open the official application page ↗</a></p><h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
-  "eligibility": "worldwide",
-  "stipend": "£23,805 per year (2026-27 rate, including London allowance)",
-  "applyLink": "https://www.imperial.ac.uk/life-sciences/postgraduate/research/phd-opportunities/",
-  "seoTitle": "Fully Funded PhD in Biology – Imperial College London",
+ "addedDate": "2026-08-22T20:43:11.661Z",
+ "city": "London",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<h2>About the Position</h2><p>This project aims to improve pgSIT performance to control important agricultural insect pests by refining CRISPR construct design.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded PhD Studentship: Life Sciences pgSIT (Agragene Inc.)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Imperial College London</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">London, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">£23,805 per year (2026-27 rate, including London allowance)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">To be confirmed</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.imperial.ac.uk/life-sciences/postgraduate/research/phd-opportunities/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <h2>Basic Information</h2>\n<ul><li><strong>Full Title:</strong> Developing an optimized pgSIT system to control important agricultural insect pests</li><li><strong>Host Institution:</strong> Imperial College London</li><li><strong>Department:</strong> Department of Life Sciences</li><li><strong>Supervisor:</strong> Assistant Professor Angela Meccariello</li><li><strong>Study Level:</strong> PhD</li><li><strong>Duration:</strong> 3 years</li><li><strong>Start Date:</strong> Between 27 July and 7 August 2026</li><li><strong>Funding Type:</strong> Co-funded Industry PhD Studentship</li><li><strong>Stipend:</strong> £23,805 per year (2026-27 rate, including London allowance)</li><li><strong>Tuition Fees:</strong> Covered</li><li><strong>Application Deadline:</strong> To be confirmed</li></ul>\n<h2>Project Description</h2>\n<p>This project will improve pgSIT performance by refining CRISPR construct design, enhancing promoter specificity, and identifying gene targets that maximise sterility and male bias. The research will evaluate the genetic and physiological effects of pgSIT components using functional genomics, transgenesis and molecular tools.</p>\n<h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Official Link</h2><p>Full announcement and application portal: <a href=\"https://www.imperial.ac.uk/life-sciences/postgraduate/research/phd-opportunities/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.imperial.ac.uk/life-sciences/postgraduate/research/phd-opportunities/</a></p><p>Source: imperial.ac.uk - the details in this listing were recorded from this official page.</p><h2>Important Notes</h2><ul><li>Application deadline: To be confirmed - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>About Imperial College London</h2><p>Imperial College London is a public research university focused on science, engineering, medicine and business. Based in London, it offers undergraduate, postgraduate and doctoral programmes in these fields. Its academic community combines scientific research with practical applications, working with healthcare, industry and international partners on technological and societal challenges worldwide.</p><p>Official website: <a href=\"https://www.imperial.ac.uk/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.imperial.ac.uk/</a></p><h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: To be confirmed. Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://www.imperial.ac.uk/life-sciences/postgraduate/research/phd-opportunities/\">Open the official application page ↗</a></p><h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
+ "eligibility": "worldwide",
+ "stipend": "£23,805 per year (2026-27 rate, including London allowance)",
+ "applyLink": "https://www.imperial.ac.uk/life-sciences/postgraduate/research/phd-opportunities/",
+ "seoTitle": "Fully Funded PhD in Biology – Imperial College London",
+ "title": "Fully Funded PhD Studentship: Life Sciences pgSIT (Agragene Inc.)",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": true,
+ "organizationId": "Hjv9m6PF46euuLT0knnL",
+ "createdAt": "2026-08-22T20:43:11.661Z",
+ "stipendAmount": 23805,
+ "fundingType": "fully_funded",
+ "countryCode": "GB",
+ "intro": "This project aims to improve pgSIT performance to control important agricultural insect pests by refining CRISPR construct design.",
+ "deadlineTimezone": "Europe/London",
+ "deadline": null,
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "phd-pgsit-life-sciences-imperial",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "To be confirmed",
+ "publishedAt": "2026-08-22T20:43:11.661Z",
+ "verificationStatus": "unverified",
+ "seoDescription": "This project aims to improve pgSIT performance to control important agricultural insect pests by refining CRISPR construct design.",
+ "isRemote": false,
+ "ogImage": "https://nextapply.co.uk/phd-pgsit-life-sciences-imperial/opengraph-image",
+ "tags": [
+  "Imperial College London",
+  "Biology",
+  "Biological Engineering",
+  "Phd Position",
+  "Fully Funded",
+  "pgSIT",
+  "CRISPR",
+  "Insect Pests",
+  "Functional Genomics",
+  "Transgenesis",
+  "Agragene",
+  "Life Sciences"
+ ],
+ "opportunityType": "phd_position",
+ "isOpen": true,
+ "disciplines": [
+  "biology",
+  "biological_engineering"
+ ],
+ "stipendCurrency": "GBP",
+ "verificationScore": 85,
+ "deadlineType": "rolling",
+ "regionId": "europe",
+ "sourceType": "official_university",
+ "stipendPeriod": "year",
+ "organization": {
+  "website": "https://www.imperial.ac.uk/",
+  "name": "Imperial College London",
+  "id": "Hjv9m6PF46euuLT0knnL",
+  "logoUrl": "https://www.google.com/s2/favicons?domain=imperial.ac.uk&sz=256",
+  "slug": "imperial-college-london"
+ },
+ "category": "phd_position",
+ "status": "published",
+ "id": "j0jpnl9KmYXXekEmRM13",
+ "keywords": [
+  "Fully Funded PhD Studentship: Life Sciences pgSIT (Agragene Inc.)",
+  "Imperial College London positions",
+  "fully funded PhD UK",
+  "UK scholarships",
+  "IELTS requirement",
+  "Imperial College London",
+  "Biology",
+  "Biological Engineering"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/phd-pgsit-life-sciences-imperial",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/phd-pgsit-life-sciences-imperial#opportunity",
+  "url": "https://nextapply.co.uk/phd-pgsit-life-sciences-imperial",
   "title": "Fully Funded PhD Studentship: Life Sciences pgSIT (Agragene Inc.)",
-  "fundingStatus": "fully_funded",
-  "ieltsRequired": true,
-  "organizationId": "Hjv9m6PF46euuLT0knnL",
-  "createdAt": "2026-08-22T20:43:11.661Z",
-  "stipendAmount": 23805,
-  "fundingType": "fully_funded",
-  "countryCode": "GB",
-  "intro": "This project aims to improve pgSIT performance to control important agricultural insect pests by refining CRISPR construct design.",
-  "deadlineTimezone": "Europe/London",
-  "deadline": null,
-  "degreeLevels": [
-    "phd"
-  ],
-  "isFeatured": false,
-  "slug": "phd-pgsit-life-sciences-imperial",
-  "updatedAt": "2026-10-23T14:21:38.000Z",
-  "deadlineText": "To be confirmed",
-  "publishedAt": "2026-08-22T20:43:11.661Z",
-  "verificationStatus": "unverified",
-  "seoDescription": "This project aims to improve pgSIT performance to control important agricultural insect pests by refining CRISPR construct design.",
-  "isRemote": false,
-  "ogImage": "https://nextapply.co.uk/phd-pgsit-life-sciences-imperial/opengraph-image",
-  "tags": [
-    "Imperial College London",
-    "Biology",
-    "Biological Engineering",
-    "Phd Position",
-    "Fully Funded",
-    "pgSIT",
-    "CRISPR",
-    "Insect Pests",
-    "Functional Genomics",
-    "Transgenesis",
-    "Agragene",
-    "Life Sciences"
-  ],
-  "opportunityType": "phd_position",
-  "isOpen": true,
-  "disciplines": [
-    "biology",
-    "biological_engineering"
-  ],
-  "stipendCurrency": "GBP",
-  "verificationScore": 85,
-  "deadlineType": "rolling",
-  "regionId": "europe",
-  "sourceType": "official_university",
-  "stipendPeriod": "year",
-  "organization": {
-    "website": "https://www.imperial.ac.uk/",
-    "name": "Imperial College London",
-    "id": "Hjv9m6PF46euuLT0knnL",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Imperial_College_London_new_logo.png",
-    "slug": "imperial-college-london"
+  "description": "This project aims to improve pgSIT performance to control important agricultural insect pests by refining CRISPR construct design.",
+  "datePosted": "2026-08-22T20:43:11.661Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "Imperial College London",
+   "sameAs": "https://www.imperial.ac.uk/",
+   "logo": "https://www.google.com/s2/favicons?domain=imperial.ac.uk&sz=256"
   },
-  "category": "phd_position",
-  "status": "published",
-  "id": "j0jpnl9KmYXXekEmRM13"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "phd-pgsit-life-sciences-imperial"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "GB",
+    "addressLocality": "London"
+   }
+  },
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "GBP",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 23805,
+    "unitText": "YEAR"
+   }
+  }
+ }
 }

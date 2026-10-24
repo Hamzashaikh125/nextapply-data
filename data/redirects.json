@@ -1,1683 +1,1203 @@
 [
   {
-    "id": "r_160c9a02cd10ddcf8a0e1b4824900c07924fdc75",
     "source": "/categories/phd_studentship",
     "destination": "/categories/phd_position",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_4c1af0af7df0199ecdc82fbebc27983b186d53a5",
     "source": "/organization/aarhus-university",
     "destination": "/universities/aarhus-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_83d18171db62c6224e0d693886124469b3769277",
     "source": "/organization/adelaide-university",
     "destination": "/universities/adelaide-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_bdeb058ceb114f8611ef12f222596b36f0a9d250",
     "source": "/organization/aithyra-austrian-academy-sciences",
     "destination": "/universities/aithyra-austrian-academy-sciences",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_6cc4d25333cf2e1e03fa32c48103069b342a9fb3",
     "source": "/organization/alan-turing-institute",
     "destination": "/universities/alan-turing-institute",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_a9a864fd0f18e9b51de1e30f625c707923c2e9fa",
     "source": "/organization/amsterdam-umc",
     "destination": "/universities/amsterdam-umc",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_d22c88b4d460ba5b98995380b71625f83eeb91a4",
     "source": "/organization/antarctica-new-zealand",
     "destination": "/universities/antarctica-new-zealand",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_8ad37f164c7c8c472cea38c55a692747a5fe34ba",
     "source": "/organization/arts-and-humanities-research-council-ahrc",
     "destination": "/universities/arts-and-humanities-research-council-ahrc",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_b5516938934f5e49e331ddc6c9356cf7ea9bc812",
     "source": "/organization/auckland-university-of-technology-aut",
     "destination": "/universities/auckland-university-of-technology-aut",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_e3ad38720751b39dc8c8bb05f92fda702f2ba8fe",
     "source": "/organization/australian-national-university",
     "destination": "/universities/australian-national-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_09493824a8881a91fde2ea452ae9b25d4edb8434",
     "source": "/organization/belgian-fps-foreign-affairs",
     "destination": "/universities/belgian-fps-foreign-affairs",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_f9b22fb1691a48dfe26f3fb55435c82fce9345ad",
     "source": "/organization/berlin-graduate-school-of-ancient-studies",
     "destination": "/universities/berlin-graduate-school-of-ancient-studies",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_3510edba2607b244f8931ad171097e6972a080fd",
     "source": "/organization/campus-france",
     "destination": "/universities/campus-france",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_041d99b693bf663554dc6d634f480fa571cbeed8",
     "source": "/organization/centre-for-genomic-regulation",
     "destination": "/universities/centre-for-genomic-regulation",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_6cbd3108dc2f1ec7cdbc3be9e366eaffd70f6d43",
     "source": "/organization/chalmers-university-technology",
     "destination": "/universities/chalmers-university-technology",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_c41bedba80272021afc90dc6d9062ebf08a57bd5",
     "source": "/organization/chinese-university-of-hong-kong",
     "destination": "/universities/chinese-university-of-hong-kong",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_d7680e0df273358800fe1e7ab10b511a1e02d2f1",
     "source": "/organization/clarkson-university",
     "destination": "/universities/clarkson-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_f7eaf8960f11d735297a203f12b21c09d3d39f39",
     "source": "/organization/cologne-graduate-school-of-ageing-research-cga",
     "destination": "/universities/cologne-graduate-school-of-ageing-research-cga",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_7eeef2fda5701e83f7e36deceb19378f26c4f1b8",
     "source": "/organization/commonwealth-scholarship-commission",
     "destination": "/universities/commonwealth-scholarship-commission",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_73534b6a92a07fb5d44d3c5b6f1be60255dc2133",
     "source": "/organization/cranfield-university",
     "destination": "/universities/cranfield-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_82b9c3c570d19e85a01f1fc7acc4dd8c623c8238",
     "source": "/organization/dalarna-university",
     "destination": "/universities/dalarna-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_15528bbb4453b3ba8dc6076328588d43a8db99db",
     "source": "/organization/de-montfort-university",
     "destination": "/universities/de-montfort-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_ac5960d065395c8b49c3c5cebd0f2d5d97792196",
     "source": "/organization/deakin-university",
     "destination": "/universities/deakin-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_353c39fb571c27e6a803bafc1b22ae18ed4db84a",
     "source": "/organization/doha-institute-for-graduate-studies",
     "destination": "/universities/doha-institute-for-graduate-studies",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_d5d1d18291f78810d3ee148f5dff07e355f69543",
     "source": "/organization/durham-university",
     "destination": "/universities/durham-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_51528df9f130d8de1d0208589df23293d21c620e",
     "source": "/organization/earlham-institute",
     "destination": "/universities/earlham-institute",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_99f44373cb01d21f02c5d9f284bde78f7fe6e182",
     "source": "/organization/eindhoven-university-of-technology",
     "destination": "/universities/eindhoven-university-of-technology",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_633466fd77978c38d348ce1cf142d039f132ee95",
     "source": "/organization/embo-european-molecular-biology-organization",
     "destination": "/universities/embo-european-molecular-biology-organization",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_85eb185799f79af8b1a63e0b7004112b95e8b4ec",
     "source": "/organization/empa",
     "destination": "/universities/empa",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_e0ea0a53e70ae3286ab9144004095b87d11fa928",
     "source": "/organization/engineering-and-physical-sciences-research-council-epsrc",
     "destination": "/universities/engineering-and-physical-sciences-research-council-epsrc",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_4ea7b9be3687f0b5c5bb710922fd458a2bfb6938",
     "source": "/organization/epfl",
     "destination": "/universities/epfl",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_7f2bda16b5ae1c5c43a48ac3defcd02deb6e61dd",
     "source": "/organization/erasmus-mundus-emhrpp-consortium",
     "destination": "/universities/erasmus-mundus-emhrpp-consortium",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_53c029bcd0d2ac1c36700343835a5ad4e68962c8",
     "source": "/organization/eth-ai-center",
     "destination": "/universities/eth-ai-center",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_d58d3a8912813d1364e70d116c4d49cea67b7b40",
     "source": "/organization/eth-zurich",
     "destination": "/universities/eth-zurich",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_9421d8920d770812c38cc11c48608e41b7751ed8",
     "source": "/organization/european-commission",
     "destination": "/universities/european-commission",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_4df85a290ba3733de5030345cd3e7881a1d580d6",
     "source": "/organization/european-molecular-biology-laboratory-embl",
     "destination": "/universities/european-molecular-biology-laboratory-embl",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_4b5dffd13ee8b6616b4fa024c9be2fc726d56753",
     "source": "/organization/european-university-institute",
     "destination": "/universities/european-university-institute",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_86eb2557448125ac4f0ed1d114925af27299a586",
     "source": "/organization/francis-crick-institute",
     "destination": "/universities/francis-crick-institute",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_68d056b05a165b20c9ce9f200bc9fc6e44d577b9",
     "source": "/organization/freie-universit-t-berlin-friedrich-schlegel-graduate-school-of-literary-studies",
     "destination": "/universities/freie-universit-t-berlin-friedrich-schlegel-graduate-school-of-literary-studies",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_0eae5046a27331a85e1e65cec5277b4aabb38984",
     "source": "/organization/gates-cambridge-trust",
     "destination": "/universities/gates-cambridge-trust",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_d0cfdb1518088107dd797a5f51ae7c6d5910a1e8",
     "source": "/organization/german-academic-exchange-service",
     "destination": "/universities/german-academic-exchange-service",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_b63ff51d7a04545b6fd4178f4bff5665a68ba8fd",
     "source": "/organization/government-of-japan",
     "destination": "/universities/government-of-japan",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_e37c61a41f31371786bded5897d073fb4f0ec0f7",
     "source": "/organization/graz-university-of-technology",
     "destination": "/universities/graz-university-of-technology",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_a0fff0bb189c44839d77e7ff6a4175838e543c83",
     "source": "/organization/griffith-university",
     "destination": "/universities/griffith-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_c5b436c423171ca757c3283624e7dd77c15d65b1",
     "source": "/organization/hamad-bin-khalifa-university",
     "destination": "/universities/hamad-bin-khalifa-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_f65de91d05eeabbb40c95ca0b58311860cc2333b",
     "source": "/organization/hanken-school-of-economics",
     "destination": "/universities/hanken-school-of-economics",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_eb4557b6f3a5a78fa585d0af2d771a35188b9e3a",
     "source": "/organization/harvard-university",
     "destination": "/universities/harvard-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_980147becbafea14859828924b1d424c0db8f44e",
     "source": "/organization/heriot-watt-university",
     "destination": "/universities/heriot-watt-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_329ed0f1fe7c9a4f3fed5bd5345e976a5512e61b",
     "source": "/organization/heron-robotics-center-of-excellence",
     "destination": "/universities/heron-robotics-center-of-excellence",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_fef7753a70d1d8c1d61dd2e044c2334150145657",
     "source": "/organization/herzog-august-bibliothek",
     "destination": "/universities/herzog-august-bibliothek",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_377976654fc73141a1d41367d009d041c1aff216",
     "source": "/organization/human-technopole",
     "destination": "/universities/human-technopole",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_0e6c1e073b84251500e6d8ad1163813395364c7c",
     "source": "/organization/immufellow-university-turku-abo-akademi",
     "destination": "/universities/immufellow-university-turku-abo-akademi",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_40622f323a76b1e1af0d68199f66a6243373c249",
     "source": "/organization/imperial-college-london",
     "destination": "/universities/imperial-college-london",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_957705790fcb1062365eb1a09f55923010c54461",
     "source": "/organization/imprs-cpqm",
     "destination": "/universities/imprs-cpqm",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_fcbcd02ddb4364c105ef8404aca2a755599807a4",
     "source": "/organization/imprs-for-molecular-organ-biology",
     "destination": "/universities/imprs-for-molecular-organ-biology",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_1f5bb60bf750bf8d4f39d83a489d1f53fea2ac29",
     "source": "/organization/innovate-uk",
     "destination": "/universities/innovate-uk",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_2b263f5c3654fae8c78bf2723bc5e5ec04f777c6",
     "source": "/organization/institut-de-rob-tica-i-inform-tica-industrial-csic-upc",
     "destination": "/universities/institut-de-rob-tica-i-inform-tica-industrial-csic-upc",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_870a8d10cd620c829570fb4e3b6c0b33bd8efe8a",
     "source": "/organization/institute-chemical-research-catalonia",
     "destination": "/universities/institute-chemical-research-catalonia",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_a16e360a4a6e71fde0966c2b6b8b8aa25552820d",
     "source": "/organization/institute-for-advanced-study-central-european-university-ias-ceu",
     "destination": "/universities/institute-for-advanced-study-central-european-university-ias-ceu",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_33a9134074e9d6879a60522bba7ce61190a8e139",
     "source": "/organization/institute-for-ai-policy-and-strategy",
     "destination": "/universities/institute-for-ai-policy-and-strategy",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_5aa941a2459e718d49e224937d903040f7c48a58",
     "source": "/organization/institute-for-bioengineering-of-catalonia-ibec",
     "destination": "/universities/institute-for-bioengineering-of-catalonia-ibec",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_20c8fa5b576a196dd0e2d4e16c25c04e527556d2",
     "source": "/organization/institute-molecular-clinical-ophthalmology-basel",
     "destination": "/universities/institute-molecular-clinical-ophthalmology-basel",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_7acdcc927fec20db6db7c01e78ece9bcb49aea5d",
     "source": "/organization/institute-of-science-and-technology-austria-ista",
     "destination": "/universities/institute-of-science-and-technology-austria-ista",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_627923b04e51aaa1d15fe104051f49fbc7926415",
     "source": "/organization/instituto-tecnologico-de-aeronautica",
     "destination": "/universities/instituto-tecnologico-de-aeronautica",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_141ac61328fa63ca4090a8859aa16cb2b508487e",
     "source": "/organization/international-centre-for-genetic-engineering-and-biotechnology-icgeb",
     "destination": "/universities/international-centre-for-genetic-engineering-and-biotechnology-icgeb",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_2a8a63594ab11b9ee3138e9aa5bd72ae3acb7348",
     "source": "/organization/isaac-newton-institute-for-mathematical-sciences",
     "destination": "/universities/isaac-newton-institute-for-mathematical-sciences",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_5ae846314844ade255c079bb62d5f1788eb51637",
     "source": "/organization/islamic-development-bank",
     "destination": "/universities/islamic-development-bank",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_d2d25b099a09ae3dbfb0fcbfd33f46b5c6b8c466",
     "source": "/organization/karlsruhe-institute-of-technology",
     "destination": "/universities/karlsruhe-institute-of-technology",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_004775dbf5d8c8b8b65754f4a331e424da640f52",
     "source": "/organization/karolinska-institutet",
     "destination": "/universities/karolinska-institutet",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_52b2615dc4c01f2e16a1e6f8b0774306c12f1757",
     "source": "/organization/king-abdullah-university-of-science-and-technology-kaust",
     "destination": "/universities/king-abdullah-university-of-science-and-technology-kaust",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_56ee1220a09ab29a7572096b6e0ebbcba352b4ee",
     "source": "/organization/kings-college-london",
     "destination": "/universities/kings-college-london",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_2dbd579c564c837784259884e212c0811f57ac2d",
     "source": "/organization/kth-royal-institute-of-technology",
     "destination": "/universities/kth-royal-institute-of-technology",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_c68834f41f120d878c55addafee85654a0fcb881",
     "source": "/organization/ku-leuven",
     "destination": "/universities/ku-leuven",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_3e696687bf014f17cee74cc36541116c6008fc57",
     "source": "/organization/la-trobe-university",
     "destination": "/universities/la-trobe-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_2e837a9c9429eb081aa1a5ffc178bf264ea58996",
     "source": "/organization/lancaster-university",
     "destination": "/universities/lancaster-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_cb15a14ad291ebd6539327dac5741be54be3952f",
     "source": "/organization/leiden-university",
     "destination": "/universities/leiden-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_b497f108887f508b633f19db00307e1390cb5bc1",
     "source": "/organization/leverhulme-trust",
     "destination": "/universities/leverhulme-trust",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_92a755f5f80a00a17ce2cbb70cb22bdd60d5fe00",
     "source": "/organization/life-science-zurich-graduate-school",
     "destination": "/universities/life-science-zurich-graduate-school",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_b0096701cf7927af71017d39a3c561cd46d17935",
     "source": "/organization/lund-university",
     "destination": "/universities/lund-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_723b2a05f7c854387fa14ce59f175802ee1dabd1",
     "source": "/organization/luxembourg-centre-for-contemporary-and-digital-history-c-dh",
     "destination": "/universities/luxembourg-centre-for-contemporary-and-digital-history-c-dh",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_ae9af636d5a0786405cbc1f6a21fec41b28cf4e9",
     "source": "/organization/maastricht-university",
     "destination": "/universities/maastricht-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_eea11fc4079dd87b263f5e150b00147539d7e55f",
     "source": "/organization/macquarie-university",
     "destination": "/universities/macquarie-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_ebbb70e1ef1550a15c8fd7783222da3ee846eb5f",
     "source": "/organization/marie-sk-odowska-curie-actions-msca",
     "destination": "/universities/marie-sk-odowska-curie-actions-msca",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_69d33182b97ce999229c5cf699ac454fe1c55da7",
     "source": "/organization/masaryk-university-ceitec",
     "destination": "/universities/masaryk-university-ceitec",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_9a8ad6c9920383e634cabac578d3409867596ea8",
     "source": "/organization/massachusetts-institute-of-technology-mit",
     "destination": "/universities/massachusetts-institute-of-technology-mit",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_12fbc0ff76dbfc27d0a2b1e37dc3639bc9a73925",
     "source": "/organization/massey-university",
     "destination": "/universities/massey-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_e3c61aa38c832842ff1af6798c950585e73866c9",
     "source": "/organization/max-planck-school-of-biomedical-ai-bmai",
     "destination": "/universities/max-planck-school-of-biomedical-ai-bmai",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_6cc4aba146daf93fb8697897549c296ed790a6c5",
     "source": "/organization/max-planck-society",
     "destination": "/universities/max-planck-society",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_e9a9b91d8ff10dd034ba43ed790672c54767c4c9",
     "source": "/organization/mcmaster-university-laboratory-for-multiscale-geomechanics",
     "destination": "/universities/mcmaster-university-laboratory-for-multiscale-geomechanics",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_c9ea6c43b3e60b1538425ac91418b312ec6c2d66",
     "source": "/organization/mohamed-bin-zayed-university-of-artificial-intelligence-mbzuai",
     "destination": "/universities/mohamed-bin-zayed-university-of-artificial-intelligence-mbzuai",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_b6c3645647c9423c589088e1ecdb4bd81d012363",
     "source": "/organization/monash-university-ghedini-lab",
     "destination": "/universities/monash-university-ghedini-lab",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_eb741a50da7fbdea519c86dc0f0cdf2144cf15e9",
     "source": "/organization/mqv-imprs-quantum-education-program",
     "destination": "/universities/mqv-imprs-quantum-education-program",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_275dfeff741f33ed83164bde1f7d891d51dd8af9",
     "source": "/organization/nanyang-technological-university-ntu",
     "destination": "/universities/nanyang-technological-university-ntu",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_ee75f8cdf26d02582671d7555468429f159577b6",
     "source": "/organization/national-science-foundation",
     "destination": "/universities/national-science-foundation",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_83f3e110c5aae7a74679f41395ccd1244d8f1335",
     "source": "/organization/national-university-of-singapore-nus",
     "destination": "/universities/national-university-of-singapore-nus",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_50ba5c5f509468d510107d75e790e4d37f2bb3c8",
     "source": "/organization/national-yang-ming-chiao-tung-university-nycu",
     "destination": "/universities/national-yang-ming-chiao-tung-university-nycu",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_4e7d38d924c607fbd09369aab2a650cd1ef1bede",
     "source": "/organization/natural-environment-research-council-nerc",
     "destination": "/universities/natural-environment-research-council-nerc",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_acefd70710990cfb37cb72793ffb9e1a2426285a",
     "source": "/organization/newcastle-university",
     "destination": "/universities/newcastle-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_91f972ce3997ca567a28c9d9fdd71e3109c83ece",
     "source": "/organization/niied-study-in-korea",
     "destination": "/universities/niied-study-in-korea",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_0b1325546ec8e7aa00c8ba7a23ee358e3ccdb7f9",
     "source": "/organization/north-carolina-state-university",
     "destination": "/universities/north-carolina-state-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_023153d706f3f375c54b68ba98e6af830366d2d5",
     "source": "/organization/northumbria-university",
     "destination": "/universities/northumbria-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_4e85c59e41b536ab571f0a7a753ccc93a89d2d54",
     "source": "/organization/northwestern-university",
     "destination": "/universities/northwestern-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_a19ee0fc384a6d4d806f337fda64aa5d09227c0e",
     "source": "/organization/norwegian-university-of-science-and-technology-ntnu",
     "destination": "/universities/norwegian-university-of-science-and-technology-ntnu",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_acacf697449768ff595b25493311e0927e10122b",
     "source": "/organization/okinawa-institute-of-science-and-technology-oist",
     "destination": "/universities/okinawa-institute-of-science-and-technology-oist",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_cf05c683b342f79e4d580923a201b5bdb38084a7",
     "source": "/organization/peking-university",
     "destination": "/universities/peking-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_aad04eab5ee66c8f870c90a1fe1ee7e32a9c0fd7",
     "source": "/organization/pierre-elliott-trudeau-foundation",
     "destination": "/universities/pierre-elliott-trudeau-foundation",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_2e5fc9480c3c72966a118b558c0feb47b6c8b8b0",
     "source": "/organization/portuguese-government",
     "destination": "/universities/portuguese-government",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_df75ad3ed6682a56a2fc67ea14f6a64afb8a4b71",
     "source": "/organization/queen-mary-university-of-london",
     "destination": "/universities/queen-mary-university-of-london",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_328b920b026149985ec51c85a7cd6d3cac8901f7",
     "source": "/organization/radboud-university",
     "destination": "/universities/radboud-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_91b3eea04f35933af97653e0e74610bb9f3366ff",
     "source": "/organization/rainz-cdt",
     "destination": "/universities/rainz-cdt",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_63d0016216c5a8fb5c739722453a6df84593a6d7",
     "source": "/organization/rebro-university",
     "destination": "/universities/rebro-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_53443b9bebeda0c8abd1eccf7fbbcb12b1a2d466",
     "source": "/organization/research-grants-council-of-hong-kong",
     "destination": "/universities/research-grants-council-of-hong-kong",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_b26735799919d9ad47f52f2b1e9f3ea1ea3872c4",
     "source": "/organization/research-ireland-taighde-ireann",
     "destination": "/universities/research-ireland-taighde-ireann",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_7da1aee81c4f6ed26959296a071dd38fb90f3429",
     "source": "/organization/rhodes-trust",
     "destination": "/universities/rhodes-trust",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_56dd1ac0cb8fb14e30c2cf8492b39651dd8859a8",
     "source": "/organization/rmit-university",
     "destination": "/universities/rmit-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_623542751b16af262b472072c5f21a6d5b86e13b",
     "source": "/organization/rockefeller-university",
     "destination": "/universities/rockefeller-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_4235c339d9b9d58b4613002b0922429b264c9cf3",
     "source": "/organization/rotary-yoneyama-memorial-foundation",
     "destination": "/universities/rotary-yoneyama-memorial-foundation",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_cecd3cea889ee211b4ef4ae06640b60242904a73",
     "source": "/organization/royal-academy-of-engineering",
     "destination": "/universities/royal-academy-of-engineering",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_e82b8ef9e5622052b7aae2ecb0ae8c57c4aee7f5",
     "source": "/organization/royal-college-of-art",
     "destination": "/universities/royal-college-of-art",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_8c2de9a8cb25f5747405b64c75751ffaf5fb4b5c",
     "source": "/organization/royal-society",
     "destination": "/universities/royal-society",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_8553c4d33ca33105e9ad3f9ec51429c38388ea5f",
     "source": "/organization/s-o-paulo-research-foundation-fapesp",
     "destination": "/universities/s-o-paulo-research-foundation-fapesp",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_40697a0b85271e450b7a85174f527c2025c6da0c",
     "source": "/organization/san-diego-state-university",
     "destination": "/universities/san-diego-state-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_fcefeda30c3fb4006fbf2c526ea4e30f4ed695bf",
     "source": "/organization/schlumberger-foundation",
     "destination": "/universities/schlumberger-foundation",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_18988fe3c344df722f59e23a7f7a20305f152ca7",
     "source": "/organization/sedarc",
     "destination": "/universities/sedarc",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_a6a75cc1dad34d868708dad9e06f155889184725",
     "source": "/organization/singapore-university-of-technology-and-design-sutd",
     "destination": "/universities/singapore-university-of-technology-and-design-sutd",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_f17dc1e4a16ba412f86152d8095260375f3c9e16",
     "source": "/organization/stockholm-university",
     "destination": "/universities/stockholm-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_344a9e5d758194bd6a6f1cd6a4caf9e533ab5077",
     "source": "/organization/study-in-nl",
     "destination": "/universities/study-in-nl",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_fc60c01feede08f7141f6f24f58b138e695d8c87",
     "source": "/organization/swansea-university",
     "destination": "/universities/swansea-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_06ee0a3b391d40979ce7b0d690fb37b7a9ee3a4d",
     "source": "/organization/swedish-institute",
     "destination": "/universities/swedish-institute",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_4e02fc2497f919c4ef621669d9119db674d03a58",
     "source": "/organization/swiss-state-secretariat-for-education-research-and-innovation-seri",
     "destination": "/universities/swiss-state-secretariat-for-education-research-and-innovation-seri",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_7a33fd7d16dfcea71f4bdfd57aceb99ecfdf7426",
     "source": "/organization/technical-university-of-munich",
     "destination": "/universities/technical-university-of-munich",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_286fc4c7603df1ba491715d5a4ab59b23744bb72",
     "source": "/organization/tempus-public-foundation",
     "destination": "/universities/tempus-public-foundation",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_824abc27376e23edbe9c1316b6bba9643db4d707",
     "source": "/organization/the-university-of-edinburgh",
     "destination": "/universities/the-university-of-edinburgh",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_555d258c53670d33b93ae6f95b649a0bf4cc0a46",
     "source": "/organization/tsinghua-university",
     "destination": "/universities/tsinghua-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_57be453f6a047ebf61e5feb33063e1515a691c05",
     "source": "/organization/tu-delft",
     "destination": "/universities/tu-delft",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_adff291fa0022ec0e3d9e9ddf6ecd693bcb49f8a",
     "source": "/organization/turkiye-scholarships",
     "destination": "/universities/turkiye-scholarships",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_6a416abe83248e668c43e55ebb385f7e9e27e825",
     "source": "/organization/uk-government",
     "destination": "/universities/uk-government",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_a12fdeb0afdd8db18e1dcd113c1aa8bef245861a",
     "source": "/organization/uk-research-and-innovation",
     "destination": "/universities/uk-research-and-innovation",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_f9ba30bac49541ae87834325f088b6960b9f8110",
     "source": "/organization/ukri-ai-centre-for-doctoral-training-in-dependable-and-deployable-ai-for-robotics",
     "destination": "/universities/ukri-ai-centre-for-doctoral-training-in-dependable-and-deployable-ai-for-robotics",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_bc9833b741f6625fc3fb57b212cb26c32b45158a",
     "source": "/organization/umcg",
     "destination": "/universities/umcg",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_c9e3e99d9374cdd6339ddc8afc618c550962202a",
     "source": "/organization/ume-university",
     "destination": "/universities/ume-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_8b6436beb25be447d984412f3a49c394a0c818ec",
     "source": "/organization/unesco",
     "destination": "/universities/unesco",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_a95bb344a2b3ceb415d805bfae54aaab7c683063",
     "source": "/organization/unicef",
     "destination": "/universities/unicef",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_ccfdddee7ad440c3b5bef68d3e2971830c70de25",
     "source": "/organization/united-nations-institute-for-disarmament-research-unidir",
     "destination": "/universities/united-nations-institute-for-disarmament-research-unidir",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_d3a93e3681ede6f7ea4a7390b0952b16ef0373f0",
     "source": "/organization/universit-catholique-de-louvain-uclouvain",
     "destination": "/universities/universit-catholique-de-louvain-uclouvain",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_e97bfac8c67e3e3149cd8500e10a275a955580ba",
     "source": "/organization/universit-psl",
     "destination": "/universities/universit-psl",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_8780dafd65bbcf615420262549c3f834158a5187",
     "source": "/organization/university-college-london",
     "destination": "/universities/university-college-london",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_827143e8751b4b033dc90e87c55729912920d71a",
     "source": "/organization/university-of-aberdeen",
     "destination": "/universities/university-of-aberdeen",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_d29987b6f19ef0671c6ecfd2f360368c47afa10f",
     "source": "/organization/university-of-agder",
     "destination": "/universities/university-of-agder",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_178c41ae2f3aacc51b4feea50a60525a4f10fb6e",
     "source": "/organization/university-of-amsterdam",
     "destination": "/universities/university-of-amsterdam",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_91b37bfb044c58a002eaf1d9b438191c46733e51",
     "source": "/organization/university-of-auckland",
     "destination": "/universities/university-of-auckland",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_06f7c5ed9561eef55e0dee34b218c9437cbb2c7a",
     "source": "/organization/university-of-basel",
     "destination": "/universities/university-of-basel",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_41a20fc08f23adb8029ef1bc6bb77fb29813c50c",
     "source": "/organization/university-of-birmingham",
     "destination": "/universities/university-of-birmingham",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_5513b57596a891625ee98b1e92798fb03da34cfa",
     "source": "/organization/university-of-bristol",
     "destination": "/universities/university-of-bristol",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_3572316200e72039a3cfca2a7c1c1edb8b3141fc",
     "source": "/organization/university-of-british-columbia",
     "destination": "/universities/university-of-british-columbia",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_563942a8c1e63b92334f3e6dccd63b17e797e1fa",
     "source": "/organization/university-of-cambridge",
     "destination": "/universities/university-of-cambridge",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_024619919d7f4ca2c3d8832c31da129631baaab9",
     "source": "/organization/university-of-canterbury",
     "destination": "/universities/university-of-canterbury",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_3895b5333bb1f2ac69f98bdb44880a62d63bf392",
     "source": "/organization/university-of-chicago",
     "destination": "/universities/university-of-chicago",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_a8a38eec45b10a6b85bdd1a9df29ecc542a88072",
     "source": "/organization/university-of-cincinnati",
     "destination": "/universities/university-of-cincinnati",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_beac766ec19bac67dc8c9fd3c53538d4b79810e7",
     "source": "/organization/university-of-copenhagen",
     "destination": "/universities/university-of-copenhagen",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_e09077d264f171401906cc688bd4b5cd416458c8",
     "source": "/organization/university-of-east-anglia",
     "destination": "/universities/university-of-east-anglia",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_0d41b48b9ce6740bc08980d223e6d3c4a7404fc0",
     "source": "/organization/university-of-exeter",
     "destination": "/universities/university-of-exeter",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_d102cd3df69d4a9fb1fc75b1622fe2609f61dc80",
     "source": "/organization/university-of-glasgow",
     "destination": "/universities/university-of-glasgow",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_76bde7f1470135640d54dddcca5e1b5a2ffbbe71",
     "source": "/organization/university-of-greenwich",
     "destination": "/universities/university-of-greenwich",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_1a03c36b1371649efe738bcd9164628839ad7c1b",
     "source": "/organization/university-of-hong-kong",
     "destination": "/universities/university-of-hong-kong",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_638ea5947518a3c5236676982c8ba5171f321896",
     "source": "/organization/university-of-huddersfield",
     "destination": "/universities/university-of-huddersfield",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_4cc47fa9118601e86168625c8a43c2573b4f457f",
     "source": "/organization/university-of-inland-norway",
     "destination": "/universities/university-of-inland-norway",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_424e223bf99239090cd1474899c47b71b3ac5b56",
     "source": "/organization/university-of-kent",
     "destination": "/universities/university-of-kent",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_bd5ae53a67e8027c1b68c85d113e460424e85cba",
     "source": "/organization/university-of-lausanne",
     "destination": "/universities/university-of-lausanne",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_29159a6feba41a8c35737db3f803c0c4fd00376d",
     "source": "/organization/university-of-leeds",
     "destination": "/universities/university-of-leeds",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_767553a0c52e69800f68cb12303252325d7978ca",
     "source": "/organization/university-of-liverpool",
     "destination": "/universities/university-of-liverpool",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_b5785f3e8ef373a60ce098daa19cea7523c62c33",
     "source": "/organization/university-of-luxembourg",
     "destination": "/universities/university-of-luxembourg",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_8574146df7c8486e88314ddf762117331dfacb18",
     "source": "/organization/university-of-manchester",
     "destination": "/universities/university-of-manchester",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_539078c5bcbcfd502095a7a117ab232f48f74d46",
     "source": "/organization/university-of-manitoba",
     "destination": "/universities/university-of-manitoba",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_5243f11dd39e5dbece9eb03ce5e8fe7e54e12615",
     "source": "/organization/university-of-melbourne",
     "destination": "/universities/university-of-melbourne",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_7bfb78fd500a8ca460dcd747805a0915941b66fa",
     "source": "/organization/university-of-namur",
     "destination": "/universities/university-of-namur",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_88e985ff62c2ed0ef4c3f00f6d37abbecd4840b1",
     "source": "/organization/university-of-nottingham",
     "destination": "/universities/university-of-nottingham",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_1a1ac7b8eebe1bd64599d2ccf57e703c28e87df4",
     "source": "/organization/university-of-oslo",
     "destination": "/universities/university-of-oslo",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_e3995c2721b42d47a016dbe83fd14f3510849ac3",
     "source": "/organization/university-of-otago",
     "destination": "/universities/university-of-otago",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_5c8179388abfe914183e52b0a0c4f6659fc75c01",
     "source": "/organization/university-of-oxford",
     "destination": "/universities/university-of-oxford",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_33d4b6a5cdc314d71b8deaf9940b3fb162a2376c",
     "source": "/organization/university-of-potsdam",
     "destination": "/universities/university-of-potsdam",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_23edc03deee2eb6ef247c4f9ad1b2dde1189f428",
     "source": "/organization/university-of-queensland",
     "destination": "/universities/university-of-queensland",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_668d6ff06e8733d99c6e669b656d9b5b9669cb48",
     "source": "/organization/university-of-reading",
     "destination": "/universities/university-of-reading",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_fcc29405e34f5d2b263f14e0c5a03d744c021fd8",
     "source": "/organization/university-of-salford",
     "destination": "/universities/university-of-salford",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_735253d4978a0419b27f6f1998fdfb6de766e8d7",
     "source": "/organization/university-of-sao-paulo",
     "destination": "/universities/university-of-sao-paulo",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_f6f1cc403d466ed95eb1f05ad4f1ff6c1a27c0b3",
     "source": "/organization/university-of-sheffield",
     "destination": "/universities/university-of-sheffield",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_23419c82f2deddbd35b423d959c36b1f1c4e3fe3",
     "source": "/organization/university-of-st-andrews-university-of-bonn",
     "destination": "/universities/university-of-st-andrews-university-of-bonn",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_1b948aa82d7a98a23cff086e95cd77900c8fbfbb",
     "source": "/organization/university-of-strathclyde",
     "destination": "/universities/university-of-strathclyde",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_12894fd60c153d3c891c23a07c0b82de623b3c9f",
     "source": "/organization/university-of-surrey",
     "destination": "/universities/university-of-surrey",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_e14249e7e39baef8af10ba888729e934c1c47e5d",
     "source": "/organization/university-of-sussex",
     "destination": "/universities/university-of-sussex",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_097d5560bb36a7d1c441649c3107b10ab4ce9653",
     "source": "/organization/university-of-sydney",
     "destination": "/universities/university-of-sydney",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_fa62411918a48578d3460e4d9b103f9874b009ad",
     "source": "/organization/university-of-the-west-of-england-uwe-bristol",
     "destination": "/universities/university-of-the-west-of-england-uwe-bristol",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_6ff6b2b9830e362701850e30d6eaeeccc3da8dd2",
     "source": "/organization/university-of-toronto",
     "destination": "/universities/university-of-toronto",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_d567e0e1ecedf5c979021f211b32b83a021c0fd2",
     "source": "/organization/university-of-twente",
     "destination": "/universities/university-of-twente",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_f7c0d9d6945218fb9ecf04300d66701f8c0e5385",
     "source": "/organization/university-of-warsaw",
     "destination": "/universities/university-of-warsaw",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_f2b1b24774eff9e7667ee8c62974585db4eeb859",
     "source": "/organization/university-of-warwick",
     "destination": "/universities/university-of-warwick",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_e38bd2eb2e84e9c8741be12e59c76629a17ea691",
     "source": "/organization/university-of-waterloo",
     "destination": "/universities/university-of-waterloo",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_7a99daf8725e94e97cd071c5df4b320adaff7fbc",
     "source": "/organization/university-of-york-wolfson-atmospheric-chemistry-laboratory",
     "destination": "/universities/university-of-york-wolfson-atmospheric-chemistry-laboratory",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_87523d4d7649517cc5c86eb469bc0c30f2bf508b",
     "source": "/organization/uppsala-university",
     "destination": "/universities/uppsala-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_56a4ce6b3542d8fb01dc7ac1eb2915da2a37e2ce",
     "source": "/organization/utrecht-university",
     "destination": "/universities/utrecht-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_f541c369b04e00db74967c37d3ca95cb11c8ad6c",
     "source": "/organization/vanderbilt-university",
     "destination": "/universities/vanderbilt-university",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_54997351b5fead0c9928e3e47d9d681d599607de",
     "source": "/organization/victoria-university-of-wellington",
     "destination": "/universities/victoria-university-of-wellington",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_19e3ebc3ba94e1e6d8f974cc93873643e1dbbb84",
     "source": "/organization/vrije-universiteit-amsterdam",
     "destination": "/universities/vrije-universiteit-amsterdam",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_fb8557d171d321649bca06c97b05fde584d33a83",
     "source": "/organization/wageningen-university-research",
     "destination": "/universities/wageningen-university-research",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_fe6f5de58a5144447c3d56688b11ed47a09fabae",
     "source": "/organization/water4all-partnership",
     "destination": "/universities/water4all-partnership",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_a268d1d7806129ff54f6d19f0e1b3c83ff70bc85",
     "source": "/organization/wellcome-sanger-institute",
     "destination": "/universities/wellcome-sanger-institute",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_c5be8bdcde3a3c1eb6c494ea9237761e9e569e85",
     "source": "/countries/ae",
     "destination": "/countries/united-arab-emirates",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_f8eddbc5c5cba7f2ecbbbcc0994b857c6e822c1e",
     "source": "/countries/at",
     "destination": "/countries/austria",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_04f08f06cc73b0dfabbdf09b5cf593aabab1713f",
     "source": "/countries/au",
     "destination": "/countries/australia",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_e9adf619fd964544b32266b8143c1ebf1290e0f5",
     "source": "/countries/be",
     "destination": "/countries/belgium",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_46c3b0e09371a6fa1f58bb6f93d4f63c679e4fd6",
     "source": "/countries/br",
     "destination": "/countries/brazil",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_769779f88c1e9bab2236d2905a8a8c0e6b883b1d",
     "source": "/countries/ca",
     "destination": "/countries/canada",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_cc41278b3a8379bd7e92ac05c9b7efaf1ceb02ea",
     "source": "/countries/ch",
     "destination": "/countries/switzerland",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_78d61c0a4badaab76871304b554f8ada67b5b9c0",
     "source": "/countries/cn",
     "destination": "/countries/china",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_c86308ad04a1a13142fc1bebfce97fa01230cb41",
     "source": "/countries/cz",
     "destination": "/countries/czech-republic",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_d1f5502f3008d3cdc976d67de2d5829ed6280af2",
     "source": "/countries/de",
     "destination": "/countries/germany",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_42c83dd8420598bd83c863c2cb2864e934dc1a1a",
     "source": "/countries/dk",
     "destination": "/countries/denmark",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_096bd4e892bb3a6efa80dbfaaa726bcec388a8b6",
     "source": "/countries/es",
     "destination": "/countries/spain",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_630b65eef49f3bde2ee226c16cde478a67e76830",
     "source": "/countries/fi",
     "destination": "/countries/finland",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_3c27c4802d55c1cab24f205df8fe75564bc82c42",
     "source": "/countries/fr",
     "destination": "/countries/france",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_40f369549600b54b3f07f10af60aa2d69574466a",
     "source": "/countries/gb",
     "destination": "/countries/united-kingdom",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_e8fab39ffe96720f95c16af5d491f353e98823f4",
     "source": "/countries/gr",
     "destination": "/countries/greece",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_983e15ee292cd7dd2d8d20a45a65bb41e6bf21d5",
     "source": "/countries/hk",
     "destination": "/countries/hong-kong",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_b7f8b4fa253c02e1a03c39e42a5074a3ba81d03a",
     "source": "/countries/it",
     "destination": "/countries/italy",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_f49df198acc4f96ec5cba1940f283cda3277155c",
     "source": "/countries/jp",
     "destination": "/countries/japan",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_2de359e48f3a30e69b0d69643a4d86e908ce8551",
     "source": "/countries/lu",
     "destination": "/countries/luxembourg",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_fc67684ccabc3686f24d10c36a654a782cc46d82",
     "source": "/countries/nl",
     "destination": "/countries/netherlands",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_47b8422d518f226acc1a93630aae5c9430b01195",
     "source": "/countries/no",
     "destination": "/countries/norway",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_4c3f4b37b6ce1f83931a75fe7dc0709580a93ca0",
     "source": "/countries/nz",
     "destination": "/countries/new-zealand",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_6825d2f4b62a237b5be8e14ced07c49cc540c22b",
     "source": "/countries/pl",
     "destination": "/countries/poland",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_620b05d1a9c9b6117bd181ae25c2b4d1109e3943",
     "source": "/countries/qa",
     "destination": "/countries/qatar",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_9b671e43f30dad0dbcbf6de6b536929af887e609",
     "source": "/countries/sa",
     "destination": "/countries/saudi-arabia",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_31c58c2cea3a1f5c6e456b0880bbd81a04362145",
     "source": "/countries/se",
     "destination": "/countries/sweden",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_1fce09c7b2d8d9a98f3be702657d99c9255fa492",
     "source": "/countries/sg",
     "destination": "/countries/singapore",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_2261bc882cd7a278f56539b72552a0a4e2763a6f",
     "source": "/countries/tr",
     "destination": "/countries/turkey",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_99ffdb66a7b7b28dd582c3290004f6c1da787103",
     "source": "/countries/us",
     "destination": "/countries/united-states",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_3206ae14f21888673902f92a74844b5b9593e307",
     "source": "/universities/king-s-college-london",
     "destination": "/universities/kings-college-london",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_7bbe54bfd80650378f70851a2a450387d569d2ee",
     "source": "/universities/arts-and-humanities-research-council-ahrc-",
     "destination": "/universities/arts-and-humanities-research-council-ahrc",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "yr",
     "source": "/yr",
     "destination": "/",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
-    "id": "r_1a69fdb6a0e35b1840520e08b732d85d76655ca3",
     "source": "/degrees/phd/page/25",
     "destination": "/degrees/phd",
-    "type": 301,
-    "createdAt": "2026-10-22T12:00:00.000Z"
+    "type": 301
   },
   {
     "id": "r_626f181b3c8395c3d826a5eb9137ca281a3b843d",

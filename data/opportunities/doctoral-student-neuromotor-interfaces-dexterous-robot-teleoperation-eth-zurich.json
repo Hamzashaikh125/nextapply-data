@@ -1,0 +1,129 @@
+{
+ "addedDate": "2026-09-16T13:43:19.352Z",
+ "clickCount": 0,
+ "city": "Zurich",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Doctoral Student in Neuromotor Interfaces for Dexterous Robot Teleoperation at ETH Zurich</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">ETH Zurich</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Zurich, Switzerland</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded, stipend provided, tuition covered</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully funded doctoral position at ETH Zurich. Amount not specified.</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Open until filled</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.jobs.ethz.ch/job/view/JOPG_ethz_fEsJT6dU0XVbGPtHhO\">Official application page ↗</a></td></tr></tbody></table><h2>About the Position</h2>\n<p>The Sensing, Interaction &amp; Perception Lab invites applications for a fully funded PhD position at ETH Zürich at the intersection of robotics, wearable sensing, signal processing, machine learning, and human-computer interaction.</p>\n<p>The goal is to develop neuromotor interfaces for dexterous robot teleoperation using two sensing modalities:</p>\n<ol><li>Surface electromyography (sEMG) measured at the wrist or forearm, to decode subtle hand and finger activity, continuous movement, and motor intent in real time.</li><li>Egocentric vision as a complementary input channel to provide context about the surrounding scene, manipulated objects, hand–object interactions, and task state.</li></ol>\n<p>The PhD will focus on computational and sensing methods required to make such systems robust, generalizable, and effective in real interactive settings, including multimodal learning and reasoning across neuromotor and egocentric visual signals, while exploring applications in Mixed Reality and other interactive systems.</p>\n<p>Note: This is not a position in biomedical engineering and there is no health focus.</p>\n<h2>Project Background</h2>\n<p>Wearable EMG provides a direct and unobtrusive way to sense muscle activity underlying hand and finger movements. Making such interfaces work reliably outside controlled settings remains a substantial research problem due to variability across users, electrode placement, contact conditions, and noise. This motivates research in signal processing, temporal machine learning, representation learning, adaptation, and real-time inference.</p>\n<p>A second challenge is that neuromotor signals alone provide limited information about what the user is interacting with and why a particular movement is occurring. The project will therefore combine EMG with egocentric vision to capture objects, hands, contacts, affordances, and task state. This creates a multimodal research problem: learning representations that combine neuromotor and visual information and developing methods for reasoning about human intent, hand–object interaction, and the state of an ongoing manipulation task.</p>\n<p>For robotic teleoperation, these multimodal signals can support systems that jointly reason about what action the user intends, which object or target the action refers to, and how that intent should be translated to a robot with a different embodiment. Relevant problems include dexterous manipulation, shared autonomy, multimodal intent inference, and reasoning over sequences of human and robot actions.</p>\n<h2>Job Description</h2>\n<ul><li>Develop signal-processing and machine-learning methods for multichannel EMG, including discrete and continuous decoding of hand and finger activity.</li><li>Develop egocentric computer-vision methods for understanding hands, objects, hand–object interactions, contacts, affordances, and task state.</li><li>Develop multimodal learning and reasoning methods that combine EMG with egocentric vision to infer motor intent and interaction context.</li><li>Investigate reasoning over objects, actions, interaction sequences, and task state to resolve ambiguous motor signals and anticipate intended actions.</li><li>Apply methods to dexterous robot teleoperation, including mapping human motor intent to robot manipulators and dexterous hands.</li><li>Optionally: Prototype wearable sensing systems, including electrode configurations, signal acquisition, embedded processing, and hardware/software integration (huge plus).</li><li>Develop and evaluate applications in robotics, Mixed Reality, and other interactive systems.</li><li>Disseminate findings in publications at top-tier venues and open-source research results and tools where appropriate.</li><li>Present research findings at academic conferences, workshops, and seminars.</li></ul>\n<h2>Profile</h2>\n<p>ETH requirements:</p>\n<ul><li>Written and spoken fluency in English.</li><li>An excellent master's degree (MSc., M.Eng. or equivalent) in Computer Science, Electrical Engineering, Robotics, or related field.</li></ul>\n<p>You bring:</p>\n<ul><li>A strong foundation in machine learning, including classification and regression, model evaluation, representation learning, and generalization.</li><li>A solid understanding of signals and time-series data (e.g., sampling, frequency, phase, noise, spectral representations, and filtering).</li><li>Strong programming skills and experience implementing and quantitatively evaluating computational methods.</li><li>An interest in building real-time sensing and interactive systems, including experimentation with physical sensors.</li></ul>\n<p>A strong background in one or more of the following areas is particularly beneficial:</p>\n<ul><li>Electrical engineering and signal processing: EMG or other electrophysiological signals, sensor systems, embedded systems, electronics, or wearable sensing.</li><li>Robotics: manipulation, dexterous manipulation, teleoperation, robot learning, shared autonomy, or human-robot interaction.</li><li>Computer Vision: egocentric vision, hand and object pose estimation, hand–object interaction, contact and affordance estimation, video understanding, or action recognition.</li><li>Machine learning: temporal modeling, representation learning, multimodal learning, multimodal reasoning, domain adaptation, or learning from noisy sensor data.</li><li>Interactive systems: HCI, Mixed Reality, wearable computing, or real-time input systems.</li></ul>\n<p>We do not expect applicants to already be experts across all of these areas.</p>\n<h2>We Offer</h2>\n<ul><li>An exciting research environment and team to study in and work with.</li><li>Opportunity to develop complete research systems spanning wearable sensing, egocentric perception, machine learning, and robotic interaction.</li><li>Collaboration with internationally recognized research groups in robotics, machine learning, computer vision, interactive systems, and Mixed Reality.</li><li>Opportunity to contribute to and collaborate with the ETH AI Center and engage in ETHAR, ETH's Research Hub for Augmented Reality in collaboration with Google XR.</li><li>Access to infrastructure for wearable and embedded prototyping, egocentric sensing, interactive systems, and robotic manipulation.</li><li>Support for publication and presentation at leading international conferences and journals.</li><li>Encouragement of intellectual independence and technically ambitious research.</li></ul>\n<h2>Application Requirements</h2>\n<p>Submit through the online application portal:</p>\n<ul><li>Motivation letter (no more than 1 page) explaining how your previous projects relate to processing EMG or other biosignals, robotics, egocentric vision, embedded sensing, or Mixed Reality.</li><li>Curriculum vitae (PDF).</li><li>University transcript of records (Bachelor's and Master's).</li><li>Contact details of 1–2 academic references (someone with PhD degree).</li><li>Optional: Link to your GitHub profile and/or portfolio/website.</li></ul>\n<p>The position is open until filled. Reviews and interviews happen on a rolling basis. Earliest start: Fall 2026.</p>\n<p>For questions not answered above, contact siplab-recruiting@inf.ethz.ch. Applications sent to this email address will be ignored.</p>\n<h2>Official Link</h2>\n<p>https://www.jobs.ethz.ch/job/view/JOPG_ethz_fEsJT6dU0XVbGPtHhO</p>\n<h2>Contact</h2><ul><li>Email: <a href=\"mailto:siplab-recruiting@inf.ethz.ch\">siplab-recruiting@inf.ethz.ch</a></li></ul><p>Questions about this position, eligibility or the application process should be sent to the contacts above or raised through the channel given on the official announcement page.</p><h2>Important Notes</h2><ul><li>Application deadline: Open until filled - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>About ETH Zurich</h2><p>ETH Zurich is Switzerland's federal institute of technology in Zurich. It offers undergraduate, master's and doctoral education across engineering, natural sciences, mathematics, architecture and related disciplines. Its research connects fundamental scientific questions with technological applications, supporting international collaboration and training for students interested in advanced study, innovation and scientific discovery.</p><p>Official website: <a href=\"https://ethz.ch\" target=\"_blank\" rel=\"noopener noreferrer\">https://ethz.ch</a></p><h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: Open until filled. Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://www.jobs.ethz.ch/job/view/JOPG_ethz_fEsJT6dU0XVbGPtHhO\">Open the official application page ↗</a></p><h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+ "eligibility": "worldwide",
+ "stipend": "CHF 53,500–73,100/year gross depending on rate (ETH Zurich scale, 2026)",
+ "applyLink": "https://www.jobs.ethz.ch/job/view/JOPG_ethz_fEsJT6dU0XVbGPtHhO",
+ "seoTitle": "Fully Funded PhD in Robotics – ETH Zurich",
+ "title": "Doctoral Student in Neuromotor Interfaces for Dexterous Robot Teleoperation at ETH Zurich",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": true,
+ "organizationId": "VDK5HvkfDwPkO0qnSBdN",
+ "createdAt": "2026-09-16T13:43:19.352Z",
+ "fundingType": "fully_funded",
+ "countryCode": "CH",
+ "intro": "Fully funded PhD at ETH Zurich developing neuromotor interfaces for dexterous robot teleoperation using EMG and egocentric vision. Open until filled.",
+ "deadlineTimezone": "Europe/Zurich",
+ "lastVerifiedAt": null,
+ "deadline": null,
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "doctoral-student-neuromotor-interfaces-dexterous-robot-teleoperation-eth-zurich",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "Open until filled",
+ "verificationStatus": "unverified",
+ "seoDescription": "Fully funded PhD at ETH Zurich developing neuromotor interfaces for dexterous robot teleoperation using EMG and egocentric vision.",
+ "isRemote": false,
+ "ogImage": "https://nextapply.co.uk/doctoral-student-neuromotor-interfaces-dexterous-robot-teleoperation-eth-zurich/opengraph-image",
+ "tags": [
+  "ETH Zurich",
+  "Robotics",
+  "Machine Learning",
+  "Artificial Intelligence",
+  "Computer Science",
+  "Electrical Engineering",
+  "Biomedical Engineering",
+  "Phd Position",
+  "Fully Funded",
+  "Teleoperation",
+  "EMG",
+  "Egocentric Vision"
+ ],
+ "opportunityType": "phd_position",
+ "isOpen": true,
+ "disciplines": [
+  "robotics",
+  "machine_learning",
+  "artificial_intelligence",
+  "computer_science",
+  "electrical_engineering",
+  "biomedical_engineering"
+ ],
+ "stipendCurrency": "CHF",
+ "verificationScore": null,
+ "deadlineType": "rolling",
+ "regionId": "europe",
+ "sourceType": "job_portal",
+ "stipendPeriod": "year",
+ "organization": {
+  "website": "https://ethz.ch",
+  "name": "ETH Zurich",
+  "id": "VDK5HvkfDwPkO0qnSBdN",
+  "logoUrl": "https://www.google.com/s2/favicons?domain=ethz.ch&sz=256",
+  "slug": "eth-zurich"
+ },
+ "category": "phd_position",
+ "status": "published",
+ "publishedAt": "2026-09-16T13:43:19.352Z",
+ "id": "tIQNwlmUDUZK1mXG9c8l",
+ "stipendAmount": 53500,
+ "keywords": [
+  "Doctoral Student in Neuromotor Interfaces for Dexterous Robot",
+  "ETH Zurich positions",
+  "fully funded PhD Switzerland",
+  "Switzerland scholarships",
+  "IELTS requirement",
+  "ETH Zurich",
+  "Robotics",
+  "Machine Learning"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/doctoral-student-neuromotor-interfaces-dexterous-robot-teleoperation-eth-zurich",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/doctoral-student-neuromotor-interfaces-dexterous-robot-teleoperation-eth-zurich#opportunity",
+  "url": "https://nextapply.co.uk/doctoral-student-neuromotor-interfaces-dexterous-robot-teleoperation-eth-zurich",
+  "title": "Doctoral Student in Neuromotor Interfaces for Dexterous Robot Teleoperation at ETH Zurich",
+  "description": "Fully funded PhD at ETH Zurich developing neuromotor interfaces for dexterous robot teleoperation using EMG and egocentric vision. Open until filled.",
+  "datePosted": "2026-09-16T13:43:19.352Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "ETH Zurich",
+   "sameAs": "https://ethz.ch",
+   "logo": "https://www.google.com/s2/favicons?domain=ethz.ch&sz=256"
+  },
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "doctoral-student-neuromotor-interfaces-dexterous-robot-teleoperation-eth-zurich"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "CH",
+    "addressLocality": "Zurich"
+   }
+  },
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "CHF",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 53500,
+    "unitText": "YEAR"
+   }
+  }
+ }
+}

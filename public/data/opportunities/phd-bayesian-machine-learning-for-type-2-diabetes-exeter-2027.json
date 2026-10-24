@@ -1,71 +1,124 @@
 {
+ "title": "PhD in Bayesian ML for Type 2 Diabetes at University of Exeter, UK",
+ "status": "expired",
+ "slug": "phd-bayesian-machine-learning-for-type-2-diabetes-exeter-2027",
+ "isOpen": false,
+ "category": "phd_position",
+ "organizationId": "ilDn70f8hVWU0pd8ztGA",
+ "organization": {
+  "id": "ilDn70f8hVWU0pd8ztGA",
+  "slug": "university-of-exeter",
+  "name": "University of Exeter",
+  "logoUrl": "https://images.seeklogo.com/logo-png/48/1/university-of-exeter-logo-png_seeklogo-480264.png",
+  "website": "https://www.exeter.ac.uk/",
+  "about": "University of Exeter is a public research university in Devon and Cornwall, England, and a member of the Russell Group. It offers undergraduate, postgraduate and doctoral study across science, health, business, humanities and social sciences. Its research includes climate and environmental questions, connecting academic expertise with regional and international partnerships."
+ },
+ "regionId": "europe",
+ "countryCode": "GB",
+ "city": "Exeter",
+ "deadline": "2026-10-21T22:59:59.999Z",
+ "deadlineType": "fixed",
+ "deadlineText": "21 October 2026",
+ "degreeLevels": [
+  "phd"
+ ],
+ "disciplines": [
+  "machine_learning",
+  "mathematics"
+ ],
+ "subjects": [
+  "Bayesian machine learning",
+  "Precision medicine",
+  "Type 2 diabetes",
+  "Electronic health records"
+ ],
+ "fundingType": "fully_funded",
+ "stipend": "£21,805/year",
+ "intro": "This University of Exeter project develops Bayesian machine-learning approaches to precision treatment of type 2 diabetes. It is a dry-lab project within the GW4 BioMed MRC doctoral funding competition.",
+ "description": "<h2>About the Position</h2>\n<p>This University of Exeter project develops Bayesian machine-learning approaches to precision treatment of type 2 diabetes.</p><p>It is a dry-lab project within the GW4 BioMed MRC doctoral funding competition.</p>\n\n<h2>Official Project Title</h2>\n<p>Advancing Bayesian machine learning methods for precision medicine applications in Type 2 diabetes</p>\n\n<h2>Research Focus and Methods</h2>\n<p>Use large observational electronic health-record datasets to model variation in treatment response. Develop statistical methods that use individual characteristics to support treatment selection.</p>\n\n<h2>Research Training and Development</h2>\n<p>The four-year programme combines project research, core training and a Broadening Horizons placement.</p>\n\n<h2>Funding and Duration</h2>\n<div class=\"table-wrapper\"><table class=\"info-table\" style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\">\n<caption>Studentship funding and award conditions</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Component</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Award</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">PhD studentship; selection is competitive</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Programme</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">MRC GW4 BioMed</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Duration</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Four years</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Stipend</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">UKRI-rate living stipend. The programme quotes £21,805 per year for 2026/27; the 2027/28 rate is not yet published on the checked funding page.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Tuition and research support</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Four-year competitive studentship covering tuition, stipend and programme research/training support.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Award conditions</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Funding and project allocation are competitive. Visa, health-surcharge and relocation costs are not covered.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Stipend amount status</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">£21,805 is the published 2026/27 reference rate. Subsequent academic-year rates and the amount in an individual funding offer should be checked separately.</td></tr></tbody></table></div>\n\n<h2>Eligibility and English Language</h2>\n<div class=\"table-wrapper\"><table class=\"info-table\" style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\">\n<caption>Applicant qualifications and funding eligibility</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Component</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Applicant eligibility</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">UK and international applicants; no international-fee gap for awarded places. International recruitment is capped at 30% of the cohort.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Academic preparation</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Normally a first or upper-second-class relevant degree or international equivalent; lower-second routes require additional master’s or strong professional evidence.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Project interests and skills</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Quantitative, computing, mathematical and physical-science backgrounds are welcomed alongside medical sciences; project code PHS27Ex McKinley.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">English language</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Meet the host university’s English-language admission rules. An approved alternative or exemption may apply; IELTS is not universally mandatory.</td></tr>\n</tbody></table></div>\n\n<h2>Application Dates and Location</h2>\n<div class=\"table-wrapper\"><table class=\"info-table\" style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><caption>Deadline, start date and research location</caption><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Item</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody><tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Application deadline</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">21 October 2026; check the programme’s submission cutoff time before applying</td></tr><tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Start date</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">2027 entry; exact start date not specified</td></tr><tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Research location</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Exeter, United Kingdom</td></tr></tbody></table></div>\n\n<h2>How to Apply</h2>\n<ol><li>Apply to GW4 BioMed first using its online application route and project code PHS27Ex McKinley.</li><li>Read the application checklist and prepare answers using its template; one application may name up to two projects.</li><li>Apply formally to Exeter after accepting a funding offer, as instructed by the programme.</li></ol><p>The exact start date and application cutoff time should be confirmed with the programme. A single programme application may identify up to two projects.</p>\n\n<h2>Supervisors and Contact</h2>\n<div class=\"table-wrapper\"><table class=\"info-table\" style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><caption>Supervisory team and contact details</caption><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Supervisor</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Role</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Email</th></tr></thead><tbody><tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Dr Trevelyan McKinley</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Primary Supervisor</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\"><a href=\"mailto:t.mckinley@exeter.ac.uk\">t.mckinley@exeter.ac.uk</a></td></tr></tbody></table></div>\n\n\n\n<h2>Application Preparation</h2>\n<p>For application preparation, see <a href=\"/articles/how-to-identify-funded-phd-accepts-international-students\">Is a PhD Funded for International Students? How to Check the Advert</a>, <a href=\"/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a> and <a href=\"/articles/phd-interview-questions-answers-research-interview\">PhD Interview Preparation: Research Questions and Clear Answers</a>.</p>\n\n<h2>Official Link</h2>\n<ul><li><a href=\"https://gw4biomed.ac.uk/advancing-bayesian-machine-learning-methods-for-precision-medicine-applications-in-type-2-diabetes/\" target=\"_blank\" rel=\"noopener noreferrer\">Official project summary</a></li><li><a href=\"https://gw4biomed.ac.uk/how-to-apply/student-applications/how-to-apply/\" target=\"_blank\" rel=\"noopener noreferrer\">GW4 BioMed application guidance</a></li><li><a href=\"https://gw4biomed.ac.uk/how-to-apply/student-applications/eligibility/\" target=\"_blank\" rel=\"noopener noreferrer\">Academic and international eligibility</a></li><li><a href=\"https://gw4biomed.ac.uk/how-to-apply/student-applications/what-we-offer/\" target=\"_blank\" rel=\"noopener noreferrer\">Programme funding and training</a></li><li><a href=\"https://www.exeter.ac.uk/study/funding/award/?id=5952\" target=\"_blank\" rel=\"noopener noreferrer\">Exeter award reference</a></li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul><h2>Important Notes</h2><ul><li>Always confirm the full requirements and current deadline on the official website before applying.</li><li>Prepare the requested documents early — competitive awards are often decided on complete, on-time submissions.</li><li>Funding terms shown here reflect the listing at the time of publication and can be updated by the provider.</li></ul>",
+ "tags": [
+  "phd",
+  "fully-funded",
+  "united-kingdom",
+  "university-of-exeter",
+  "2027",
+  "bayesian-machine-learning",
+  "precision-medicine",
+  "type-2-diabetes",
+  "electronic-health-records",
+  "University of Exeter",
+  "Exeter",
+  "United Kingdom"
+ ],
+ "applyLink": "https://gw4biomed.ac.uk/how-to-apply/student-applications/how-to-apply/",
+ "isFeatured": false,
+ "ieltsRequired": false,
+ "eligibility": "worldwide",
+ "seoTitle": "Fully Funded PhD in Bayesian Diabetes ML – Exeter, UK 2027",
+ "seoDescription": "Fully Funded PhD in Exeter at University of Exeter: £21,805/yr stipend. Deadline: 21 October 2026; check the programme’s submission cutoff time before.",
+ "ogImage": "https://gw4biomed.ac.uk/wp-content/uploads/2023/06/Exeter-Logo-e1774877083975-1024x349.png",
+ "verificationStatus": "unverified",
+ "addedDate": "2026-10-15T22:08:25.603Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-15T22:08:25.793Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-15T22:08:25.793Z",
+ "fundingStatus": "fully_funded",
+ "id": "p4Apc8RoqpI4khcjsJM9",
+ "stipendAmount": 21805,
+ "stipendCurrency": "GBP",
+ "stipendPeriod": "year",
+ "opportunityType": "phd_position",
+ "keywords": [
+  "PhD in Bayesian ML for Type 2 Diabetes",
+  "University of Exeter positions",
+  "fully funded PhD UK",
+  "UK scholarships 2027",
+  "PhD 2027 intake",
+  "phd",
+  "fully-funded",
+  "united-kingdom"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/phd-bayesian-machine-learning-for-type-2-diabetes-exeter-2027",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/phd-bayesian-machine-learning-for-type-2-diabetes-exeter-2027#opportunity",
+  "url": "https://nextapply.co.uk/phd-bayesian-machine-learning-for-type-2-diabetes-exeter-2027",
   "title": "PhD in Bayesian ML for Type 2 Diabetes at University of Exeter, UK",
-  "status": "expired",
-  "slug": "phd-bayesian-machine-learning-for-type-2-diabetes-exeter-2027",
-  "isOpen": false,
-  "category": "phd_position",
-  "organizationId": "ilDn70f8hVWU0pd8ztGA",
-  "organization": {
-    "id": "ilDn70f8hVWU0pd8ztGA",
-    "slug": "university-of-exeter",
-    "name": "University of Exeter",
-    "logoUrl": "https://images.seeklogo.com/logo-png/48/1/university-of-exeter-logo-png_seeklogo-480264.png",
-    "website": "https://www.exeter.ac.uk/",
-    "about": "University of Exeter is a public research university in Devon and Cornwall, England, and a member of the Russell Group. It offers undergraduate, postgraduate and doctoral study across science, health, business, humanities and social sciences. Its research includes climate and environmental questions, connecting academic expertise with regional and international partnerships."
+  "description": "This University of Exeter project develops Bayesian machine-learning approaches to precision treatment of type 2 diabetes. It is a dry-lab project within the GW4 BioMed MRC doctoral funding competition.",
+  "datePosted": "2026-10-15T22:08:25.793Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "University of Exeter",
+   "sameAs": "https://www.exeter.ac.uk/",
+   "logo": "https://images.seeklogo.com/logo-png/48/1/university-of-exeter-logo-png_seeklogo-480264.png"
   },
-  "regionId": "europe",
-  "countryCode": "GB",
-  "city": "Exeter",
-  "deadline": "2026-10-21T22:59:59.999Z",
-  "deadlineType": "fixed",
-  "deadlineText": "21 October 2026",
-  "degreeLevels": [
-    "phd"
-  ],
-  "disciplines": [
-    "machine_learning",
-    "mathematics"
-  ],
-  "subjects": [
-    "Bayesian machine learning",
-    "Precision medicine",
-    "Type 2 diabetes",
-    "Electronic health records"
-  ],
-  "fundingType": "fully_funded",
-  "stipend": "£21,805/year",
-  "intro": "This University of Exeter project develops Bayesian machine-learning approaches to precision treatment of type 2 diabetes. It is a dry-lab project within the GW4 BioMed MRC doctoral funding competition.",
-  "description": "<h2>Research Summary</h2>\n<p>This University of Exeter project develops Bayesian machine-learning approaches to precision treatment of type 2 diabetes.</p><p>It is a dry-lab project within the GW4 BioMed MRC doctoral funding competition.</p>\n\n<h2>Official Project Title</h2>\n<p>Advancing Bayesian machine learning methods for precision medicine applications in Type 2 diabetes</p>\n\n<h2>Research Focus and Methods</h2>\n<p>Use large observational electronic health-record datasets to model variation in treatment response. Develop statistical methods that use individual characteristics to support treatment selection.</p>\n\n<h2>Research Training and Development</h2>\n<p>The four-year programme combines project research, core training and a Broadening Horizons placement.</p>\n\n<h2>Funding and Duration</h2>\n<div class=\"table-wrapper\"><table class=\"info-table\" style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\">\n<caption>Studentship funding and award conditions</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Component</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Award</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">PhD studentship; selection is competitive</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Programme</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">MRC GW4 BioMed</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Duration</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Four years</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Stipend</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">UKRI-rate living stipend. The programme quotes £21,805 per year for 2026/27; the 2027/28 rate is not yet published on the checked funding page.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Tuition and research support</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Four-year competitive studentship covering tuition, stipend and programme research/training support.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Award conditions</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Funding and project allocation are competitive. Visa, health-surcharge and relocation costs are not covered.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Stipend amount status</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">£21,805 is the published 2026/27 reference rate. Subsequent academic-year rates and the amount in an individual funding offer should be checked separately.</td></tr></tbody></table></div>\n\n<h2>Eligibility and English Language</h2>\n<div class=\"table-wrapper\"><table class=\"info-table\" style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\">\n<caption>Applicant qualifications and funding eligibility</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Component</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Applicant eligibility</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">UK and international applicants; no international-fee gap for awarded places. International recruitment is capped at 30% of the cohort.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Academic preparation</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Normally a first or upper-second-class relevant degree or international equivalent; lower-second routes require additional master’s or strong professional evidence.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Project interests and skills</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Quantitative, computing, mathematical and physical-science backgrounds are welcomed alongside medical sciences; project code PHS27Ex McKinley.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">English language</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Meet the host university’s English-language admission rules. An approved alternative or exemption may apply; IELTS is not universally mandatory.</td></tr>\n</tbody></table></div>\n\n<h2>Application Dates and Location</h2>\n<div class=\"table-wrapper\"><table class=\"info-table\" style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><caption>Deadline, start date and research location</caption><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Item</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody><tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Application deadline</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">21 October 2026; check the programme’s submission cutoff time before applying</td></tr><tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Start date</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">2027 entry; exact start date not specified</td></tr><tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Research location</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Exeter, United Kingdom</td></tr></tbody></table></div>\n\n<h2>How to Apply</h2>\n<ol><li>Apply to GW4 BioMed first using its online application route and project code PHS27Ex McKinley.</li><li>Read the application checklist and prepare answers using its template; one application may name up to two projects.</li><li>Apply formally to Exeter after accepting a funding offer, as instructed by the programme.</li></ol><p>The exact start date and application cutoff time should be confirmed with the programme. A single programme application may identify up to two projects.</p>\n\n<h2>Supervisors and Contact</h2>\n<div class=\"table-wrapper\"><table class=\"info-table\" style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><caption>Supervisory team and contact details</caption><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Supervisor</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Role</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Email</th></tr></thead><tbody><tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Dr Trevelyan McKinley</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Primary Supervisor</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\"><a href=\"mailto:t.mckinley@exeter.ac.uk\">t.mckinley@exeter.ac.uk</a></td></tr></tbody></table></div>\n\n\n\n<h2>Application Preparation</h2>\n<p>For application preparation, see <a href=\"/articles/how-to-identify-funded-phd-accepts-international-students\">Is a PhD Funded for International Students? How to Check the Advert</a>, <a href=\"/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a> and <a href=\"/articles/phd-interview-questions-answers-research-interview\">PhD Interview Preparation: Research Questions and Clear Answers</a>.</p>\n\n<h2>Official Sources</h2>\n<ul><li><a href=\"https://gw4biomed.ac.uk/advancing-bayesian-machine-learning-methods-for-precision-medicine-applications-in-type-2-diabetes/\" target=\"_blank\" rel=\"noopener noreferrer\">Official project summary</a></li><li><a href=\"https://gw4biomed.ac.uk/how-to-apply/student-applications/how-to-apply/\" target=\"_blank\" rel=\"noopener noreferrer\">GW4 BioMed application guidance</a></li><li><a href=\"https://gw4biomed.ac.uk/how-to-apply/student-applications/eligibility/\" target=\"_blank\" rel=\"noopener noreferrer\">Academic and international eligibility</a></li><li><a href=\"https://gw4biomed.ac.uk/how-to-apply/student-applications/what-we-offer/\" target=\"_blank\" rel=\"noopener noreferrer\">Programme funding and training</a></li><li><a href=\"https://www.exeter.ac.uk/study/funding/award/?id=5952\" target=\"_blank\" rel=\"noopener noreferrer\">Exeter award reference</a></li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
-  "tags": [
-    "phd",
-    "fully-funded",
-    "united-kingdom",
-    "university-of-exeter",
-    "2027",
-    "bayesian-machine-learning",
-    "precision-medicine",
-    "type-2-diabetes",
-    "electronic-health-records",
-    "University of Exeter",
-    "Exeter",
-    "United Kingdom"
-  ],
-  "applyLink": "https://gw4biomed.ac.uk/how-to-apply/student-applications/how-to-apply/",
-  "isFeatured": false,
-  "ieltsRequired": false,
-  "eligibility": "worldwide",
-  "seoTitle": "Fully Funded PhD in Bayesian Diabetes ML – Exeter, UK 2027",
-  "seoDescription": "Fully Funded PhD in Exeter at University of Exeter: £21,805/yr stipend. Deadline: 21 October 2026; check the programme’s submission cutoff time before.",
-  "ogImage": "https://gw4biomed.ac.uk/wp-content/uploads/2023/06/Exeter-Logo-e1774877083975-1024x349.png",
-  "verificationStatus": "unverified",
-  "addedDate": "2026-10-15T22:08:25.603Z",
-  "clickCount": 0,
-  "createdAt": "2026-10-15T22:08:25.793Z",
-  "updatedAt": "2026-10-23",
-  "publishedAt": "2026-10-15T22:08:25.793Z",
-  "fundingStatus": "fully_funded",
-  "id": "p4Apc8RoqpI4khcjsJM9",
-  "stipendAmount": 21805,
-  "stipendCurrency": "GBP",
-  "stipendPeriod": "year"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "phd-bayesian-machine-learning-for-type-2-diabetes-exeter-2027"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "GB",
+    "addressLocality": "Exeter"
+   }
+  },
+  "validThrough": "2026-10-21T22:59:59.999Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "GBP",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 21805,
+    "unitText": "YEAR"
+   }
+  }
+ }
 }

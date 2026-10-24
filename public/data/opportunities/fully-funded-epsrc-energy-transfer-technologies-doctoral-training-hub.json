@@ -1,72 +1,124 @@
 {
-  "addedDate": "2026-08-22T20:42:46.047Z",
-  "city": "Liverpool",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded EPSRC Energy Transfer Technologies Doctoral Training Hub</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">University of Liverpool</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Liverpool, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">£25,805/year + £7</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Open for October 2026 intake</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.liverpool.ac.uk/doctoral-training/energy-transfer-technologies/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p><strong>Funding detail:</strong> At least £25,805 per year + £7,000 per year for travel, conferences, and research equipment</p><h2>Basic Information</h2>\n<ul><li><strong>Full Programme Name:</strong> EPSRC Energy Transfer Technologies Doctoral Training Hub</li><li><strong>Host Institution:</strong> University of Liverpool</li><li><strong>Funding Body:</strong> EPSRC (Engineering and Physical Sciences Research Council)</li><li><strong>Study Level:</strong> PhD</li><li><strong>Duration:</strong> 4 years</li><li><strong>Start Date:</strong> October 2026</li><li><strong>Funding Type:</strong> Fully Funded</li><li><strong>Stipend:</strong> At least £25,805 per year (enhanced rate)</li><li><strong>Additional Funding:</strong> £7,000 per year for travel, conferences, and research equipment</li><li><strong>Disciplines:</strong> Physics, Electrical Engineering, Data Science, Chemistry</li><li><strong>Eligibility:</strong> Open to UK and international students</li><li><strong>Application Deadline:</strong> Open for October 2026 intake</li></ul>\n<h2>About the Programme</h2>\n<p>The Doctoral Training Hub specialises in developing research and training the next generation of leaders in energy transfer technologies for defence and related sectors. The programme offers the opportunity to collaborate with academic and industry experts across multiple disciplines. Students receive enhanced financial support and access to a strong academic and industrial network, structured training, and professional development opportunities.</p>\n<h2>Research Focus</h2>\n<ul><li>Energy transfer technologies for defence and related sectors</li><li>High Power Laser Development</li><li>Atmospheric Plasma Polymer Coatings and Sensor Integration for Harsh Energy &amp; Defence Environments</li></ul>\n<h2>Why This Programme?</h2>\n<ul><li>Enhanced stipend (£4,000 above standard UKRI rate)</li><li>Additional £7,000 annual research budget</li><li>Industry-focused research</li><li>Multi-disciplinary collaboration</li></ul>\n<h2>Eligibility Requirements</h2>\n<ul><li>First Class or 2:1 Honours degree in physics, engineering, chemistry, or related discipline</li><li>Relevant Master's degree preferred</li><li>International students welcome</li><li>IELTS 6.5 (minimum) for non-native English speakers</li></ul>\n<h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Official Link</h2><p>Full announcement and application portal: <a href=\"https://www.liverpool.ac.uk/doctoral-training/energy-transfer-technologies/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.liverpool.ac.uk/doctoral-training/energy-transfer-technologies/</a></p><p>Source: liverpool.ac.uk - the details in this listing were recorded from this official page.</p><h2>Important Notes</h2><ul><li>Application deadline: Open for October 2026 intake - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2>\n<p>Apply via the University of Liverpool's postgraduate research portal. Select Energy Transfer Technologies Hub.</p><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
-  "eligibility": "worldwide",
-  "stipend": "£25,805/year + £7",
-  "applyLink": "https://www.liverpool.ac.uk/doctoral-training/energy-transfer-technologies/",
-  "seoTitle": "EPSRC Energy Transfer Technologies Doctoral Training Hub",
+ "addedDate": "2026-08-22T20:42:46.047Z",
+ "city": "Liverpool",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<h2>About the Position</h2><p>A 4-year fully funded PhD programme training the next generation of leaders in energy transfer technologies for defence and related sectors, offering enhanced financial support.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded EPSRC Energy Transfer Technologies Doctoral Training Hub</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">University of Liverpool</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Liverpool, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">£25,805/year + £7</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Open for October 2026 intake</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.liverpool.ac.uk/doctoral-training/energy-transfer-technologies/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p><strong>Funding detail:</strong> At least £25,805 per year + £7,000 per year for travel, conferences, and research equipment</p><h2>Basic Information</h2>\n<ul><li><strong>Full Programme Name:</strong> EPSRC Energy Transfer Technologies Doctoral Training Hub</li><li><strong>Host Institution:</strong> University of Liverpool</li><li><strong>Funding Body:</strong> EPSRC (Engineering and Physical Sciences Research Council)</li><li><strong>Study Level:</strong> PhD</li><li><strong>Duration:</strong> 4 years</li><li><strong>Start Date:</strong> October 2026</li><li><strong>Funding Type:</strong> Fully Funded</li><li><strong>Stipend:</strong> At least £25,805 per year (enhanced rate)</li><li><strong>Additional Funding:</strong> £7,000 per year for travel, conferences, and research equipment</li><li><strong>Disciplines:</strong> Physics, Electrical Engineering, Data Science, Chemistry</li><li><strong>Eligibility:</strong> Open to UK and international students</li><li><strong>Application Deadline:</strong> Open for October 2026 intake</li></ul>\n<h2>About the Programme</h2>\n<p>The Doctoral Training Hub specialises in developing research and training the next generation of leaders in energy transfer technologies for defence and related sectors. The programme offers the opportunity to collaborate with academic and industry experts across multiple disciplines. Students receive enhanced financial support and access to a strong academic and industrial network, structured training, and professional development opportunities.</p>\n<h2>Research Focus</h2>\n<ul><li>Energy transfer technologies for defence and related sectors</li><li>High Power Laser Development</li><li>Atmospheric Plasma Polymer Coatings and Sensor Integration for Harsh Energy &amp; Defence Environments</li></ul>\n<h2>Why This Programme?</h2>\n<ul><li>Enhanced stipend (£4,000 above standard UKRI rate)</li><li>Additional £7,000 annual research budget</li><li>Industry-focused research</li><li>Multi-disciplinary collaboration</li></ul>\n<h2>Eligibility and Requirements</h2>\n<ul><li>First Class or 2:1 Honours degree in physics, engineering, chemistry, or related discipline</li><li>Relevant Master's degree preferred</li><li>International students welcome</li><li>IELTS 6.5 (minimum) for non-native English speakers</li></ul>\n<h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Official Link</h2><p>Full announcement and application portal: <a href=\"https://www.liverpool.ac.uk/doctoral-training/energy-transfer-technologies/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.liverpool.ac.uk/doctoral-training/energy-transfer-technologies/</a></p><p>Source: liverpool.ac.uk - the details in this listing were recorded from this official page.</p><h2>Important Notes</h2><ul><li>Application deadline: Open for October 2026 intake - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2>\n<p>Apply via the University of Liverpool's postgraduate research portal. Select Energy Transfer Technologies Hub.</p><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
+ "eligibility": "worldwide",
+ "stipend": "£25,805/year + £7",
+ "applyLink": "https://www.liverpool.ac.uk/doctoral-training/energy-transfer-technologies/",
+ "seoTitle": "EPSRC Energy Transfer Technologies Doctoral Training Hub",
+ "title": "Fully Funded EPSRC Energy Transfer Technologies Doctoral Training Hub",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": true,
+ "organizationId": "OobqZHjQk6PJYqQTw9AI",
+ "createdAt": "2026-08-22T20:42:46.047Z",
+ "stipendAmount": 25805,
+ "fundingType": "fully_funded",
+ "countryCode": "GB",
+ "intro": "A 4-year fully funded PhD programme training the next generation of leaders in energy transfer technologies for defence and related sectors, offering enhanced financial support.",
+ "deadlineTimezone": "Europe/London",
+ "deadline": null,
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "fully-funded-epsrc-energy-transfer-technologies-doctoral-training-hub",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "Open for October 2026 intake",
+ "publishedAt": "2026-08-22T20:42:46.047Z",
+ "verificationStatus": "unverified",
+ "seoDescription": "Fully Funded EPSRC Energy Transfer Technologies Doctoral Training Hub at University of Liverpool. Rolling applications. Check eligibility.",
+ "isRemote": false,
+ "tags": [
+  "Energy Transfer",
+  "Defence",
+  "Physics",
+  "High Power Lasers",
+  "EPSRC",
+  "Plasma Coatings",
+  "Sensor Integration",
+  "Fully Funded",
+  "University of Liverpool",
+  "Liverpool",
+  "United Kingdom",
+  "PhD"
+ ],
+ "opportunityType": "phd_position",
+ "disciplines": [
+  "physics",
+  "electrical_engineering",
+  "data_science",
+  "chemistry"
+ ],
+ "stipendCurrency": "GBP",
+ "verificationScore": 85,
+ "deadlineType": "rolling",
+ "regionId": "europe",
+ "sourceType": "official_university",
+ "stipendPeriod": "year",
+ "organization": {
+  "website": "https://www.liverpool.ac.uk/",
+  "about": "The University of Liverpool is a public research university in Liverpool, England, and a member of the Russell Group. It teaches and conducts research across multiple disciplines.",
+  "name": "University of Liverpool",
+  "logoUrl": "https://res.cloudinary.com/dlzyp7xg/image/upload/v1787007763/Liverpool_Logo.svg"
+ },
+ "category": "doctoral_training_centre",
+ "status": "published",
+ "isOpen": true,
+ "id": "qIrd7cXuSsqPXG1Qv1gG",
+ "keywords": [
+  "Fully Funded EPSRC Energy Transfer Technologies Doctoral Training Hub",
+  "University of Liverpool positions",
+  "fully funded PhD UK",
+  "UK scholarships",
+  "IELTS requirement",
+  "Energy Transfer",
+  "Defence",
+  "Physics"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/fully-funded-epsrc-energy-transfer-technologies-doctoral-training-hub",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/fully-funded-epsrc-energy-transfer-technologies-doctoral-training-hub#opportunity",
+  "url": "https://nextapply.co.uk/fully-funded-epsrc-energy-transfer-technologies-doctoral-training-hub",
   "title": "Fully Funded EPSRC Energy Transfer Technologies Doctoral Training Hub",
-  "fundingStatus": "fully_funded",
-  "ieltsRequired": true,
-  "organizationId": "OobqZHjQk6PJYqQTw9AI",
-  "createdAt": "2026-08-22T20:42:46.047Z",
-  "stipendAmount": 25805,
-  "fundingType": "fully_funded",
-  "countryCode": "GB",
-  "intro": "A 4-year fully funded PhD programme training the next generation of leaders in energy transfer technologies for defence and related sectors, offering enhanced financial support.",
-  "deadlineTimezone": "Europe/London",
-  "deadline": null,
-  "degreeLevels": [
-    "phd"
-  ],
-  "isFeatured": false,
-  "slug": "fully-funded-epsrc-energy-transfer-technologies-doctoral-training-hub",
-  "updatedAt": "2026-10-23T14:21:38.000Z",
-  "deadlineText": "Open for October 2026 intake",
-  "publishedAt": "2026-08-22T20:42:46.047Z",
-  "verificationStatus": "unverified",
-  "seoDescription": "Fully Funded EPSRC Energy Transfer Technologies Doctoral Training Hub at University of Liverpool. Rolling applications. Check eligibility.",
-  "isRemote": false,
-  "tags": [
-    "Energy Transfer",
-    "Defence",
-    "Physics",
-    "High Power Lasers",
-    "EPSRC",
-    "Plasma Coatings",
-    "Sensor Integration",
-    "Fully Funded",
-    "University of Liverpool",
-    "Liverpool",
-    "United Kingdom",
-    "PhD"
-  ],
-  "opportunityType": "phd_position",
-  "disciplines": [
-    "physics",
-    "electrical_engineering",
-    "data_science",
-    "chemistry"
-  ],
-  "stipendCurrency": "GBP",
-  "verificationScore": 85,
-  "deadlineType": "rolling",
-  "regionId": "europe",
-  "sourceType": "official_university",
-  "stipendPeriod": "year",
-  "organization": {
-    "website": "https://www.liverpool.ac.uk/",
-    "about": "The University of Liverpool is a public research university in Liverpool, England, and a member of the Russell Group. It teaches and conducts research across multiple disciplines.",
-    "name": "University of Liverpool",
-    "logoUrl": "https://res.cloudinary.com/dlzyp7xg/image/upload/v1787007763/Liverpool_Logo.svg"
+  "description": "A 4-year fully funded PhD programme training the next generation of leaders in energy transfer technologies for defence and related sectors, offering enhanced financial support.",
+  "datePosted": "2026-08-22T20:42:46.047Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "University of Liverpool",
+   "sameAs": "https://www.liverpool.ac.uk/",
+   "logo": "https://res.cloudinary.com/dlzyp7xg/image/upload/v1787007763/Liverpool_Logo.svg"
   },
-  "category": "doctoral_training_centre",
-  "status": "published",
-  "isOpen": true,
-  "id": "qIrd7cXuSsqPXG1Qv1gG"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "fully-funded-epsrc-energy-transfer-technologies-doctoral-training-hub"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "GB",
+    "addressLocality": "Liverpool"
+   }
+  },
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "GBP",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 25805,
+    "unitText": "YEAR"
+   }
+  }
+ },
+ "ogImage": "https://nextapply.co.uk/fully-funded-epsrc-energy-transfer-technologies-doctoral-training-hub/opengraph-image"
 }

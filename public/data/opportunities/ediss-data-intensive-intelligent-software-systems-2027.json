@@ -1,79 +1,120 @@
 {
-  "title": "EDISS – Erasmus Mundus Master in Engineering of Data-Intensive Intelligent Software Systems",
-  "status": "published",
-  "slug": "ediss-data-intensive-intelligent-software-systems-2027",
-  "isOpen": true,
-  "category": "scholarship",
-  "organizationId": "KF6l4QKKhDVZJJFTpcL6",
-  "organization": {
-    "createdAt": "2026-10-23T00:07:35.000Z",
-    "website": "https://www.master-ediss.eu",
-    "about": "The EDISS consortium is coordinated by Åbo Akademi University and delivers the Erasmus Mundus Joint Master in the Engineering of Data-Intensive Intelligent Software Systems with partner universities in Spain, Italy and Sweden.",
-    "name": "EDISS Consortium (Åbo Akademi University)",
-    "programCount": 1,
-    "logoUrl": "https://www.google.com/s2/favicons?domain=master-ediss.eu&sz=256",
-    "slug": "ediss-consortium-bo-akademi-university",
-    "status": "published",
-    "updatedAt": "2026-10-23T00:07:35.000Z",
-    "id": "KF6l4QKKhDVZJJFTpcL6"
-  },
-  "regionId": "europe",
-  "countryCode": "FI",
-  "city": "Turku (multi-country mobility)",
-  "deadline": "2027-01-08T13:00:00.000Z",
-  "deadlineType": "fixed",
-  "deadlineText": "8 January 2027",
-  "deadlineTimezone": "Europe/Helsinki",
-  "degreeLevels": [
-    "masters"
-  ],
-  "disciplines": [
-    "software_engineering",
-    "data_science",
-    "machine_learning",
-    "computer_science",
-    "distributed_systems"
-  ],
-  "subjects": [
-    "Data-intensive software",
-    "Machine learning engineering",
-    "Erasmus Mundus",
-    "Cloud systems"
-  ],
-  "fundingType": "fully_funded",
-  "fundingStatus": "fully_funded",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "stipend": "€35,000",
-  "intro": "EDISS trains software engineers to build reliable, data-intensive intelligent systems, coordinated by Åbo Akademi University with partners in Spain, Italy and Sweden. The last intake accepted applications from 3 November 2025 to 8 January 2026 (15:00 Helsinki time), and the 2027 scholarship round is expected to follow the same pattern.",
-  "tags": [
-    "Erasmus Mundus",
-    "EDISS",
-    "Software Engineering",
-    "Data Science",
-    "Machine Learning",
-    "Fully Funded",
-    "Masters"
-  ],
-  "applyLink": "https://www.master-ediss.eu/application-process/",
-  "isFeatured": false,
-  "ieltsRequired": true,
-  "eligibility": "worldwide",
-  "seoTitle": "EDISS Erasmus Mundus Master 2027 | Data-Intelligent Software Engineering Scholarships",
-  "seoDescription": "EDISS Erasmus Mundus master in data-intensive intelligent software systems. Scholarships up to EUR 49,000. Expected deadline 8 January 2027 (15:00 Helsinki).",
-  "ogImage": "",
-  "verificationStatus": "unverified",
-  "verificationScore": null,
-  "addedDate": "2026-10-23T00:07:35.000Z",
-  "clickCount": 0,
+ "title": "EDISS – Erasmus Mundus Master in Engineering of Data-Intensive Intelligent Software Systems",
+ "status": "published",
+ "slug": "ediss-data-intensive-intelligent-software-systems-2027",
+ "isOpen": true,
+ "category": "scholarship",
+ "organizationId": "KF6l4QKKhDVZJJFTpcL6",
+ "organization": {
   "createdAt": "2026-10-23T00:07:35.000Z",
-  "updatedAt": "2026-10-23T14:20:12.000Z",
-  "publishedAt": "2026-10-23T00:07:35.000Z",
-  "id": "nsBoeMyNlech8m33cJa9",
-  "opportunityType": "scholarship",
-  "sourceType": "official_organization",
-  "isRemote": false,
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">EDISS – Erasmus Mundus Master in Engineering of Data-Intensive Intelligent Software Systems</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">EDISS Consortium (Åbo Akademi University)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Turku (multi-country mobility), Finland</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">€35,000</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">8 January 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.master-ediss.eu/application-process/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>EDISS trains software engineers to build reliable, data-intensive intelligent systems, coordinated by Åbo Akademi University with partners in Spain, Italy and Sweden. The last intake accepted applications from 3 November 2025 to 8 January 2026 (15:00 Helsinki time), and the 2027 scholarship round is expected to follow the same pattern.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>First-year core in data science, then specialisations in industrial ML, computer vision or model-driven ML</li>\n <li>Scholarship packages from EUR 35,000 to 49,000 over two years</li>\n <li>Dedicated scholarship places for Western Balkans applicants</li>\n <li>Strong employability in cloud, ML-platform and data-engineering roles</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Computer science and software engineering graduates (or close equivalents) with programming and algorithms fundamentals. English proficiency evidence per the consortium's requirements.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships worth EUR 35,000-49,000 per student across the two years, with reserved places for Western Balkans applicants.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Applications run through the EDISS portal; watch for the November 2026 opening and plan to submit before the early-January cut-off. Key deadline information: <strong>8 January 2027 (15:00 Helsinki time, expected — mirrors the 2026 round; scholarship applications open in November 2026)</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.master-ediss.eu/application-process/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About EDISS Consortium (Åbo Akademi University)</h2><p>The EDISS consortium is coordinated by Åbo Akademi University and delivers the Erasmus Mundus Joint Master in the Engineering of Data-Intensive Intelligent Software Systems with partner universities in Spain, Italy and Sweden.</p><p>Official website: <a href=\"https://www.master-ediss.eu\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.master-ediss.eu</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 8 January 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/masters-phd-application-timeline-12-months\">A 12-Month Study Abroad Application Plan for Master's and PhD Applicants</a></li></ul>"
+  "website": "https://www.master-ediss.eu",
+  "about": "The EDISS consortium is coordinated by Åbo Akademi University and delivers the Erasmus Mundus Joint Master in the Engineering of Data-Intensive Intelligent Software Systems with partner universities in Spain, Italy and Sweden.",
+  "name": "EDISS Consortium (Åbo Akademi University)",
+  "programCount": 1,
+  "logoUrl": "https://www.google.com/s2/favicons?domain=master-ediss.eu&sz=256",
+  "slug": "ediss-consortium-bo-akademi-university",
+  "status": "published",
+  "updatedAt": "2026-10-23T00:07:35.000Z",
+  "id": "KF6l4QKKhDVZJJFTpcL6"
+ },
+ "regionId": "europe",
+ "countryCode": "FI",
+ "city": "Turku (multi-country mobility)",
+ "deadline": "2027-01-08T13:00:00.000Z",
+ "deadlineType": "fixed",
+ "deadlineText": "8 January 2027",
+ "deadlineTimezone": "Europe/Helsinki",
+ "degreeLevels": [
+  "masters"
+ ],
+ "disciplines": [
+  "software_engineering",
+  "data_science",
+  "machine_learning",
+  "computer_science",
+  "distributed_systems"
+ ],
+ "subjects": [
+  "Data-intensive software",
+  "Machine learning engineering",
+  "Erasmus Mundus",
+  "Cloud systems"
+ ],
+ "fundingType": "fully_funded",
+ "fundingStatus": "fully_funded",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "stipend": "€1,400/month (EMJM scholarship rate)",
+ "intro": "EDISS trains software engineers to build reliable, data-intensive intelligent systems, coordinated by Åbo Akademi University with partners in Spain, Italy and Sweden. The last intake accepted applications from 3 November 2025 to 8 January 2026 (15:00 Helsinki time), and the 2027 scholarship round is expected to follow the same pattern.",
+ "tags": [
+  "Erasmus Mundus",
+  "EDISS",
+  "Software Engineering",
+  "Data Science",
+  "Machine Learning",
+  "Fully Funded",
+  "Masters"
+ ],
+ "applyLink": "https://www.master-ediss.eu/application-process/",
+ "isFeatured": false,
+ "ieltsRequired": true,
+ "eligibility": "worldwide",
+ "seoTitle": "EDISS Erasmus Mundus Master 2027 | Data-Intelligent Software Engineering Scholarships",
+ "seoDescription": "EDISS Erasmus Mundus master in data-intensive intelligent software systems. Scholarships up to EUR 49,000. Expected deadline 8 January 2027 (15:00 Helsinki).",
+ "ogImage": "https://nextapply.co.uk/ediss-data-intensive-intelligent-software-systems-2027/opengraph-image",
+ "verificationStatus": "unverified",
+ "verificationScore": null,
+ "addedDate": "2026-10-23T00:07:35.000Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-23T00:07:35.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-23T00:07:35.000Z",
+ "id": "nsBoeMyNlech8m33cJa9",
+ "opportunityType": "scholarship",
+ "sourceType": "official_organization",
+ "isRemote": false,
+ "description": "<h2>About the Scholarship</h2><p>EDISS trains software engineers to build reliable, data-intensive intelligent systems, coordinated by Åbo Akademi University with partners in Spain, Italy and Sweden. The last intake accepted applications from 3 November 2025 to 8 January 2026 (15:00 Helsinki time), and the 2027 scholarship round is expected to follow the same pattern.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">EDISS – Erasmus Mundus Master in Engineering of Data-Intensive Intelligent Software Systems</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">EDISS Consortium (Åbo Akademi University)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Turku (multi-country mobility), Finland</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">€35,000</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">8 January 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.master-ediss.eu/application-process/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>EDISS trains software engineers to build reliable, data-intensive intelligent systems, coordinated by Åbo Akademi University with partners in Spain, Italy and Sweden. The last intake accepted applications from 3 November 2025 to 8 January 2026 (15:00 Helsinki time), and the 2027 scholarship round is expected to follow the same pattern.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>First-year core in data science, then specialisations in industrial ML, computer vision or model-driven ML</li>\n <li>Scholarship packages from EUR 35,000 to 49,000 over two years</li>\n <li>Dedicated scholarship places for Western Balkans applicants</li>\n <li>Strong employability in cloud, ML-platform and data-engineering roles</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Computer science and software engineering graduates (or close equivalents) with programming and algorithms fundamentals. English proficiency evidence per the consortium's requirements.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships worth EUR 35,000-49,000 per student across the two years, with reserved places for Western Balkans applicants.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Applications run through the EDISS portal; watch for the November 2026 opening and plan to submit before the early-January cut-off. Key deadline information: <strong>8 January 2027 (15:00 Helsinki time, expected — mirrors the 2026 round; scholarship applications open in November 2026)</strong>.</p>\n<h2>Official Link</h2>\n<ul>\n <li><a href=\"https://www.master-ediss.eu/application-process/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About EDISS Consortium (Åbo Akademi University)</h2><p>The EDISS consortium is coordinated by Åbo Akademi University and delivers the Erasmus Mundus Joint Master in the Engineering of Data-Intensive Intelligent Software Systems with partner universities in Spain, Italy and Sweden.</p><p>Official website: <a href=\"https://www.master-ediss.eu\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.master-ediss.eu</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 8 January 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/masters-phd-application-timeline-12-months\">A 12-Month Study Abroad Application Plan for Master's and PhD Applicants</a></li></ul>",
+ "stipendAmount": 1400,
+ "stipendCurrency": "EUR",
+ "stipendPeriod": "month",
+ "keywords": [
+  "EDISS – Erasmus Mundus Master in Engineering of Data-Intensive",
+  "EDISS Consortium (Åbo Akademi University) scholarships",
+  "fully funded Master's Finland",
+  "Finland scholarships 2027",
+  "Master's 2027 intake",
+  "IELTS requirement",
+  "Erasmus Mundus",
+  "EDISS",
+  "Software Engineering"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/ediss-data-intensive-intelligent-software-systems-2027",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalProgram",
+  "@id": "https://nextapply.co.uk/ediss-data-intensive-intelligent-software-systems-2027#opportunity",
+  "url": "https://nextapply.co.uk/ediss-data-intensive-intelligent-software-systems-2027",
+  "name": "EDISS – Erasmus Mundus Master in Engineering of Data-Intensive Intelligent Software Systems",
+  "description": "EDISS trains software engineers to build reliable, data-intensive intelligent systems, coordinated by Åbo Akademi University with partners in Spain, Italy and Sweden. The last intake accepted applications from 3 November 2025 to 8 January 2026 (15:00 Helsinki time), and the 2027 scholarship round is expected to follow the same pattern.",
+  "educationalProgramMode": "full time",
+  "provider": {
+   "@type": "Organization",
+   "name": "EDISS Consortium (Åbo Akademi University)",
+   "sameAs": "https://www.master-ediss.eu",
+   "logo": "https://www.google.com/s2/favicons?domain=master-ediss.eu&sz=256"
+  },
+  "applicationDeadline": "2027-01-08",
+  "offers": {
+   "@type": "Offer",
+   "category": "Fully Funded programme",
+   "priceSpecification": {
+    "@type": "PriceSpecification",
+    "price": 1400,
+    "priceCurrency": "EUR"
+   }
+  }
+ }
 }

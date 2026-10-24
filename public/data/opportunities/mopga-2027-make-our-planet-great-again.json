@@ -1,78 +1,118 @@
 {
-  "title": "MOPGA 2027 – Make Our Planet Great Again (Campus France)",
+ "title": "MOPGA 2027 – Make Our Planet Great Again (Campus France)",
+ "status": "published",
+ "slug": "mopga-2027-make-our-planet-great-again",
+ "isOpen": true,
+ "category": "scholarship",
+ "organizationId": "gH5nbIRQBxQCCG8CjP13",
+ "organization": {
+  "createdAt": "2026-10-22T00:13:50.000Z",
+  "website": "https://www.campusfrance.org",
+  "about": "Campus France is the French national agency for international higher education and mobility, operating under the Ministry for Europe and Foreign Affairs. It administers France's major international scholarship programmes, including the France Excellence Eiffel scholarship, and guides international students through admission to French universities and grandes ecoles.",
+  "name": "Campus France",
+  "programCount": 1,
+  "logoUrl": "https://www.google.com/s2/favicons?domain=campusfrance.org&sz=256",
+  "slug": "campus-france",
   "status": "published",
-  "slug": "mopga-2027-make-our-planet-great-again",
-  "isOpen": true,
-  "category": "scholarship",
-  "organizationId": "gH5nbIRQBxQCCG8CjP13",
-  "organization": {
-    "createdAt": "2026-10-22T00:13:50.000Z",
-    "website": "https://www.campusfrance.org",
-    "about": "Campus France is the French national agency for international higher education and mobility, operating under the Ministry for Europe and Foreign Affairs. It administers France's major international scholarship programmes, including the France Excellence Eiffel scholarship, and guides international students through admission to French universities and grandes ecoles.",
-    "name": "Campus France",
-    "programCount": 1,
-    "logoUrl": "https://www.google.com/s2/favicons?domain=campusfrance.org&sz=256",
-    "slug": "campus-france",
-    "status": "published",
-    "updatedAt": "2026-10-23T00:07:35.000Z",
-    "id": "gH5nbIRQBxQCCG8CjP13"
+  "updatedAt": "2026-10-23T00:07:35.000Z",
+  "id": "gH5nbIRQBxQCCG8CjP13"
+ },
+ "regionId": "europe",
+ "countryCode": "FR",
+ "city": "Multiple French institutions",
+ "deadline": null,
+ "deadlineType": "custom",
+ "deadlineText": "Annual call - see official page",
+ "degreeLevels": [
+  "phd",
+  "postdoctoral"
+ ],
+ "disciplines": [
+  "climate_change",
+  "environmental_science",
+  "earth_sciences",
+  "energy_transition",
+  "sustainability_transitions"
+ ],
+ "subjects": [
+  "Climate research",
+  "France scholarships",
+  "Postdoc France",
+  "Doctoral funding"
+ ],
+ "fundingType": "fully_funded",
+ "fundingStatus": "fully_funded",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "stipend": "€2,500/month + €500 settling-in allowance",
+ "intro": "MOPGA (Make Our Planet Great Again) is France's research programme attracting international scientists to work on climate, earth sciences and the energy transition through doctoral and postdoctoral funding hosted at French institutions. Campus France publishes each year's call — including the application window and eligibility — on the MOPGA page.",
+ "tags": [
+  "MOPGA",
+  "Campus France",
+  "Climate Research",
+  "Postdoc France",
+  "PhD France",
+  "Fully Funded"
+ ],
+ "applyLink": "https://www.campusfrance.org/en/mopga-2027",
+ "isFeatured": false,
+ "ieltsRequired": true,
+ "eligibility": "worldwide",
+ "seoTitle": "MOPGA 2027 | Make Our Planet Great Again Research Scholarships, France",
+ "seoDescription": "MOPGA 2027 (Campus France): fully funded doctoral and postdoctoral positions in climate and energy-transition research at French institutions. Call dates on the official page.",
+ "ogImage": "https://nextapply.co.uk/mopga-2027-make-our-planet-great-again/opengraph-image",
+ "verificationStatus": "unverified",
+ "verificationScore": null,
+ "addedDate": "2026-10-23T00:07:35.000Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-23T00:07:35.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-23T00:07:35.000Z",
+ "id": "vFNElgaHEFcU8xbKCAmf",
+ "opportunityType": "scholarship",
+ "sourceType": "official_organization",
+ "isRemote": false,
+ "description": "<h2>About the Scholarship</h2><p>MOPGA (Make Our Planet Great Again) is France's research programme attracting international scientists to work on climate, earth sciences and the energy transition through doctoral and postdoctoral funding hosted at French institutions. Campus France publishes each year's call — including the application window and eligibility — on the MOPGA page.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">MOPGA 2027 – Make Our Planet Great Again (Campus France)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Campus France</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Multiple French institutions, France</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD, Postdoctoral</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">MOPGA doctoral contracts and postdoc positions with</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Annual call for the 2027 intake — dates announced by Campus France on the MOPGA page</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.campusfrance.org/en/mopga-2027\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>MOPGA (Make Our Planet Great Again) is France's research programme attracting international scientists to work on climate, earth sciences and the energy transition through doctoral and postdoctoral funding hosted at French institutions. Campus France publishes each year's call — including the application window and eligibility — on the MOPGA page.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Flagship French programme for climate and energy-transition researchers</li>\n <li>Doctoral and postdoctoral tracks hosted at leading French institutions</li>\n <li>Call-specific deadlines announced annually by Campus France</li>\n <li>Strong integration into French research networks (CNRS, universities, national agencies)</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Researchers worldwide with projects aligned to climate science, earth system research and energy transition themes at the doctoral or postdoctoral level.</p>\n<h2>Funding and Costs</h2>\n<p>MOPGA doctoral contracts and postdoc positions with competitive salaries, per the call conditions each year.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Watch the Campus France MOPGA page for the 2027 call announcement and follow the two-step application described there. Key deadline information: <strong>Annual call for the 2027 intake — dates announced by Campus France on the MOPGA page</strong>.</p>\n<h2>Official Link</h2>\n<ul>\n <li><a href=\"https://www.campusfrance.org/en/mopga-2027\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About Campus France</h2><p>Campus France is the French national agency for international higher education and mobility, operating under the Ministry for Europe and Foreign Affairs. It administers France's major international scholarship programmes, including the France Excellence Eiffel scholarship, and guides international students through admission to French universities and grandes ecoles.</p><p>Official website: <a href=\"https://www.campusfrance.org\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.campusfrance.org</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: Annual call - see official page - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/masters-phd-application-timeline-12-months\">A 12-Month Study Abroad Application Plan for Master's and PhD Applicants</a></li></ul>",
+ "stipendAmount": 2500,
+ "stipendCurrency": "EUR",
+ "stipendPeriod": "month",
+ "keywords": [
+  "MOPGA 2027 – Make Our Planet Great Again (Campus France)",
+  "Campus France scholarships",
+  "fully funded PhD France",
+  "France scholarships 2027",
+  "PhD 2027 intake",
+  "IELTS requirement",
+  "MOPGA",
+  "Campus France",
+  "Climate Research"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/mopga-2027-make-our-planet-great-again",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalProgram",
+  "@id": "https://nextapply.co.uk/mopga-2027-make-our-planet-great-again#opportunity",
+  "url": "https://nextapply.co.uk/mopga-2027-make-our-planet-great-again",
+  "name": "MOPGA 2027 – Make Our Planet Great Again (Campus France)",
+  "description": "MOPGA (Make Our Planet Great Again) is France's research programme attracting international scientists to work on climate, earth sciences and the energy transition through doctoral and postdoctoral funding hosted at French institutions. Campus France publishes each year's call — including the application window and eligibility — on the MOPGA page.",
+  "educationalProgramMode": "full time",
+  "provider": {
+   "@type": "Organization",
+   "name": "Campus France",
+   "sameAs": "https://www.campusfrance.org",
+   "logo": "https://www.google.com/s2/favicons?domain=campusfrance.org&sz=256"
   },
-  "regionId": "europe",
-  "countryCode": "FR",
-  "city": "Multiple French institutions",
-  "deadline": null,
-  "deadlineType": "custom",
-  "deadlineText": "Annual call - see official page",
-  "degreeLevels": [
-    "phd",
-    "postdoctoral"
-  ],
-  "disciplines": [
-    "climate_change",
-    "environmental_science",
-    "earth_sciences",
-    "energy_transition",
-    "sustainability_transitions"
-  ],
-  "subjects": [
-    "Climate research",
-    "France scholarships",
-    "Postdoc France",
-    "Doctoral funding"
-  ],
-  "fundingType": "fully_funded",
-  "fundingStatus": "fully_funded",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "stipend": "MOPGA doctoral contracts and postdoc positions",
-  "intro": "MOPGA (Make Our Planet Great Again) is France's research programme attracting international scientists to work on climate, earth sciences and the energy transition through doctoral and postdoctoral funding hosted at French institutions. Campus France publishes each year's call — including the application window and eligibility — on the MOPGA page.",
-  "tags": [
-    "MOPGA",
-    "Campus France",
-    "Climate Research",
-    "Postdoc France",
-    "PhD France",
-    "Fully Funded"
-  ],
-  "applyLink": "https://www.campusfrance.org/en/mopga-2027",
-  "isFeatured": false,
-  "ieltsRequired": true,
-  "eligibility": "worldwide",
-  "seoTitle": "MOPGA 2027 | Make Our Planet Great Again Research Scholarships, France",
-  "seoDescription": "MOPGA 2027 (Campus France): fully funded doctoral and postdoctoral positions in climate and energy-transition research at French institutions. Call dates on the official page.",
-  "ogImage": "",
-  "verificationStatus": "unverified",
-  "verificationScore": null,
-  "addedDate": "2026-10-23T00:07:35.000Z",
-  "clickCount": 0,
-  "createdAt": "2026-10-23T00:07:35.000Z",
-  "updatedAt": "2026-10-23T14:20:12.000Z",
-  "publishedAt": "2026-10-23T00:07:35.000Z",
-  "id": "vFNElgaHEFcU8xbKCAmf",
-  "opportunityType": "scholarship",
-  "sourceType": "official_organization",
-  "isRemote": false,
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">MOPGA 2027 – Make Our Planet Great Again (Campus France)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Campus France</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Multiple French institutions, France</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD, Postdoctoral</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">MOPGA doctoral contracts and postdoc positions with</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Annual call for the 2027 intake — dates announced by Campus France on the MOPGA page</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.campusfrance.org/en/mopga-2027\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>MOPGA (Make Our Planet Great Again) is France's research programme attracting international scientists to work on climate, earth sciences and the energy transition through doctoral and postdoctoral funding hosted at French institutions. Campus France publishes each year's call — including the application window and eligibility — on the MOPGA page.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Flagship French programme for climate and energy-transition researchers</li>\n <li>Doctoral and postdoctoral tracks hosted at leading French institutions</li>\n <li>Call-specific deadlines announced annually by Campus France</li>\n <li>Strong integration into French research networks (CNRS, universities, national agencies)</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Researchers worldwide with projects aligned to climate science, earth system research and energy transition themes at the doctoral or postdoctoral level.</p>\n<h2>Funding and Costs</h2>\n<p>MOPGA doctoral contracts and postdoc positions with competitive salaries, per the call conditions each year.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Watch the Campus France MOPGA page for the 2027 call announcement and follow the two-step application described there. Key deadline information: <strong>Annual call for the 2027 intake — dates announced by Campus France on the MOPGA page</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.campusfrance.org/en/mopga-2027\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About Campus France</h2><p>Campus France is the French national agency for international higher education and mobility, operating under the Ministry for Europe and Foreign Affairs. It administers France's major international scholarship programmes, including the France Excellence Eiffel scholarship, and guides international students through admission to French universities and grandes ecoles.</p><p>Official website: <a href=\"https://www.campusfrance.org\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.campusfrance.org</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: Annual call - see official page - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/masters-phd-application-timeline-12-months\">A 12-Month Study Abroad Application Plan for Master's and PhD Applicants</a></li></ul>"
+  "offers": {
+   "@type": "Offer",
+   "category": "Fully Funded programme",
+   "priceSpecification": {
+    "@type": "PriceSpecification",
+    "price": 2500,
+    "priceCurrency": "EUR"
+   }
+  }
+ }
 }

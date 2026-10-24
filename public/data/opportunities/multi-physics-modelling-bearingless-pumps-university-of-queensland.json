@@ -1,72 +1,124 @@
 {
-  "addedDate": "2026-09-17T00:22:55.873Z",
-  "clickCount": 0,
-  "city": "Brisbane",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "description": "<h2>Project Summary</h2>\n<p>The transition towards electrified and energy-efficient industrial systems demands new technologies capable of operating at high speed with improved efficiency, reliability, and reduced maintenance.</p>\n<p>Bearingless pumps represent a promising technology because they eliminate conventional mechanical bearings and shaft seals, thereby reducing frictional losses, wear, and maintenance requirements while enabling fully electrified actuation and control.</p>\n<p>Research has demonstrated the feasibility of bearingless pumping systems but needs better understanding of their multiphysics interaction.</p>\n<p>This PhD project will develop advanced physics-based modelling approaches for bearingless pumps, focusing on the strongly coupled interactions between internal fluid flow, electromagnetic suspension forces, and rotor dynamics.</p>\n<p>The project will investigate stability limits, force generation mechanisms, efficiency losses and thermal interactions to establish improved design methodologies for future industrial applications.</p>\n<h2>Research Environment</h2>\n<p>You will join a multidisciplinary research environment at The University of Queensland with expertise in:</p>\n<ul><li>Fluid-structure interaction</li><li>Nonlinear dynamics and stability</li><li>Rotating machinery</li><li>Multi-physics modelling</li><li>Computational fluid dynamics</li><li>Energy-efficient industrial systems</li></ul>\n<p>The project is embedded within an international collaboration with the Technical University of Denmark (DTU) and industrial partner Danfoss, ensuring opportunities for international research engagement, access to industrial data, and participation in collaborative research activities.</p>\n<p>A parallel PhD position is also being advertised at DTU, and the two PhD candidates will collaborate closely under a joint DTU-UQ supervision framework, with opportunities for research exchange and interaction between the two.</p>\n<h2>Scholarship</h2>\n<p>This project is supported by the Research project scholarship. This scholarship includes:</p>\n<ul><li>Living stipend of $39,220 per annum tax free (2026 rate), indexed annually</li><li>Tuition fees covered</li><li>Single Overseas Student Health Cover (OSHC)</li></ul>\n<h2>Supervisors</h2>\n<ul><li>Principal supervisor: Professor Paul Meehan, School of Mechanical and Mining Engineering</li><li>Associate supervisor: Professor Fredrik Haglind, External organisation (DTU)</li></ul>\n<h2>Preferred Educational Background</h2>\n<p>Your application will be assessed on a competitive basis. We take into account your:</p>\n<ul><li>Previous academic record</li><li>Publication record</li><li>Honours and awards</li><li>Employment history</li></ul>\n<p>A working knowledge of dynamics, fluid mechanics, and computational modelling would be of benefit to someone working on this project.</p>\n<p>You will demonstrate academic achievement in the fields of engineering, applied physics, mathematics, or related disciplines and the potential for scholastic success.</p>\n<p>A background or knowledge of dynamical systems, numerical methods, scientific computing, CFD, or multi-physics simulation is highly desirable.</p>\n<h2>How to Apply</h2>\n<p>You must submit an expression of interest (EOI) by 12 October 2026.</p>\n<p>Before you apply:</p>\n<ul><li>Check your eligibility for the Doctor of Philosophy (PhD).</li><li>Prepare your documentation.</li><li>If you have any questions about whether the project is suitable for your research interests, contact Professor Paul Meehan (meehan@uq.edu.au).</li></ul>\n<p>When you apply:</p>\n<ul><li>Submit an expression of interest (EOI) for the program. You don't need to apply separately for the project or scholarship.</li><li>In your EOI, complete the 'Scholarship/Sponsorship' section with the following details:</li><li>Are you applying for an advertised project: 'Yes'</li><li>Project: 'Research project scholarship'</li><li>Scholarship Code Listed in the Advertisement: DTU-MEEHAN</li><li>Link to Scholarship Advertisement: https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate/projects/multi-physics-modelling-bearingless-pumps</li></ul>\n<h2>Application dates</h2>\n<table><thead><tr><th>Milestone</th><th>Date</th></tr></thead><tbody><tr><td>Expression of Interest Deadline</td><td>12 October 2026</td></tr></tbody></table>\n<h2>Official Link</h2>\n<p>https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate/projects/multi-physics-modelling-bearingless-pumps</p>\n<h2>Important Notes</h2>\n<ul><li>Funded PhD Project (Students Worldwide).</li><li>$39,220 per annum tax-free living stipend (2026 rate), indexed annually.</li><li>Tuition fees covered and Single Overseas Student Health Cover (OSHC) included.</li><li>International collaboration with Technical University of Denmark (DTU) and industrial partner Danfoss.</li><li>Scholarship Code: DTU-MEEHAN.</li></ul>",
-  "eligibility": "worldwide",
-  "stipend": "$39,220/year (tax-free)",
-  "applyLink": "https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate/projects/multi-physics-modelling-bearingless-pumps",
-  "seoTitle": "Queensland PhD – Mechanical Engineering",
+ "addedDate": "2026-09-17T00:22:55.873Z",
+ "clickCount": 0,
+ "city": "Brisbane",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<h2>About the Position</h2>\n<p>The transition towards electrified and energy-efficient industrial systems demands new technologies capable of operating at high speed with improved efficiency, reliability, and reduced maintenance.</p>\n<p>Bearingless pumps represent a promising technology because they eliminate conventional mechanical bearings and shaft seals, thereby reducing frictional losses, wear, and maintenance requirements while enabling fully electrified actuation and control.</p>\n<p>Research has demonstrated the feasibility of bearingless pumping systems but needs better understanding of their multiphysics interaction.</p>\n<p>This PhD project will develop advanced physics-based modelling approaches for bearingless pumps, focusing on the strongly coupled interactions between internal fluid flow, electromagnetic suspension forces, and rotor dynamics.</p>\n<p>The project will investigate stability limits, force generation mechanisms, efficiency losses and thermal interactions to establish improved design methodologies for future industrial applications.</p>\n<h2>Research Environment</h2>\n<p>You will join a multidisciplinary research environment at The University of Queensland with expertise in:</p>\n<ul><li>Fluid-structure interaction</li><li>Nonlinear dynamics and stability</li><li>Rotating machinery</li><li>Multi-physics modelling</li><li>Computational fluid dynamics</li><li>Energy-efficient industrial systems</li></ul>\n<p>The project is embedded within an international collaboration with the Technical University of Denmark (DTU) and industrial partner Danfoss, ensuring opportunities for international research engagement, access to industrial data, and participation in collaborative research activities.</p>\n<p>A parallel PhD position is also being advertised at DTU, and the two PhD candidates will collaborate closely under a joint DTU-UQ supervision framework, with opportunities for research exchange and interaction between the two.</p>\n<h2>Scholarship</h2>\n<p>This project is supported by the Research project scholarship. This scholarship includes:</p>\n<ul><li>Living stipend of $39,220 per annum tax free (2026 rate), indexed annually</li><li>Tuition fees covered</li><li>Single Overseas Student Health Cover (OSHC)</li></ul>\n<h2>Supervisors</h2>\n<ul><li>Principal supervisor: Professor Paul Meehan, School of Mechanical and Mining Engineering</li><li>Associate supervisor: Professor Fredrik Haglind, External organisation (DTU)</li></ul>\n<h2>Preferred Educational Background</h2>\n<p>Your application will be assessed on a competitive basis. We take into account your:</p>\n<ul><li>Previous academic record</li><li>Publication record</li><li>Honours and awards</li><li>Employment history</li></ul>\n<p>A working knowledge of dynamics, fluid mechanics, and computational modelling would be of benefit to someone working on this project.</p>\n<p>You will demonstrate academic achievement in the fields of engineering, applied physics, mathematics, or related disciplines and the potential for scholastic success.</p>\n<p>A background or knowledge of dynamical systems, numerical methods, scientific computing, CFD, or multi-physics simulation is highly desirable.</p>\n<h2>How to Apply</h2>\n<p>You must submit an expression of interest (EOI) by 12 October 2026.</p>\n<p>Before you apply:</p>\n<ul><li>Check your eligibility for the Doctor of Philosophy (PhD).</li><li>Prepare your documentation.</li><li>If you have any questions about whether the project is suitable for your research interests, contact Professor Paul Meehan (meehan@uq.edu.au).</li></ul>\n<p>When you apply:</p>\n<ul><li>Submit an expression of interest (EOI) for the program. You don't need to apply separately for the project or scholarship.</li><li>In your EOI, complete the 'Scholarship/Sponsorship' section with the following details:</li><li>Are you applying for an advertised project: 'Yes'</li><li>Project: 'Research project scholarship'</li><li>Scholarship Code Listed in the Advertisement: DTU-MEEHAN</li><li>Link to Scholarship Advertisement: https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate/projects/multi-physics-modelling-bearingless-pumps</li></ul>\n<h2>Application dates</h2>\n<table><thead><tr><th>Milestone</th><th>Date</th></tr></thead><tbody><tr><td>Expression of Interest Deadline</td><td>12 October 2026</td></tr></tbody></table>\n<h2>Official Link</h2>\n<p>https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate/projects/multi-physics-modelling-bearingless-pumps</p>\n<h2>Important Notes</h2>\n<ul><li>Funded PhD Project (Students Worldwide).</li><li>$39,220 per annum tax-free living stipend (2026 rate), indexed annually.</li><li>Tuition fees covered and Single Overseas Student Health Cover (OSHC) included.</li><li>International collaboration with Technical University of Denmark (DTU) and industrial partner Danfoss.</li><li>Scholarship Code: DTU-MEEHAN.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+ "eligibility": "worldwide",
+ "stipend": "$39,220/year (tax-free)",
+ "applyLink": "https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate/projects/multi-physics-modelling-bearingless-pumps",
+ "seoTitle": "Queensland PhD – Mechanical Engineering",
+ "title": "Multi-Physics Modelling of Bearingless Pumps at University of Queensland",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": true,
+ "organizationId": "EIZ85Q5Ht0z76QBRrpXJ",
+ "createdAt": "2026-09-17T00:22:55.873Z",
+ "stipendAmount": 39220,
+ "fundingType": "fully_funded",
+ "countryCode": "AU",
+ "intro": "Fully funded PhD at University of Queensland developing advanced physics-based modelling of bearingless pumps. $39,220/year tax-free stipend, tuition covered, OSHC. Open to students worldwide. EOI deadline: 12 Oct 2026.",
+ "deadlineTimezone": "Australia/Sydney",
+ "deadline": "2026-10-12T12:59:59.999Z",
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "multi-physics-modelling-bearingless-pumps-university-of-queensland",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "12 October 2026 (Expression of Interest)",
+ "verificationStatus": "verified",
+ "seoDescription": "Fully funded PhD at University of Queensland developing advanced physics-based modelling of bearingless pumps. $39,220/year tax-free stipend, tuition covered.",
+ "isRemote": false,
+ "tags": [
+  "University of Queensland",
+  "UQ",
+  "PhD",
+  "Bearingless Pumps",
+  "Multi-Physics Modelling",
+  "Mechanical Engineering",
+  "Fluid Mechanics",
+  "Computational Fluid Dynamics",
+  "Australia",
+  "Brisbane",
+  "Fully Funded",
+  "DTU"
+ ],
+ "opportunityType": "phd_position",
+ "isOpen": false,
+ "disciplines": [
+  "mechanical_engineering",
+  "physics",
+  "engineering",
+  "mathematics"
+ ],
+ "stipendCurrency": "AUD",
+ "verificationScore": 100,
+ "deadlineType": "fixed",
+ "regionId": "oceania",
+ "sourceType": "official_university",
+ "stipendPeriod": "year",
+ "organization": {
+  "website": "https://www.uq.edu.au",
+  "name": "University of Queensland",
+  "logoUrl": "https://images.seeklogo.com/logo-png/47/1/the-university-of-queensland-logo-png_seeklogo-479574.png"
+ },
+ "category": "phd_position",
+ "status": "expired",
+ "id": "54oCYf5N1GQZ796OQrw5",
+ "ogImage": "https://images.seeklogo.com/logo-png/47/1/the-university-of-queensland-logo-png_seeklogo-479574.png",
+ "keywords": [
+  "Multi-Physics Modelling of Bearingless Pumps",
+  "University of Queensland positions",
+  "fully funded PhD Australia",
+  "Australia scholarships",
+  "IELTS requirement",
+  "University of Queensland",
+  "UQ",
+  "PhD"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/multi-physics-modelling-bearingless-pumps-university-of-queensland",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/multi-physics-modelling-bearingless-pumps-university-of-queensland#opportunity",
+  "url": "https://nextapply.co.uk/multi-physics-modelling-bearingless-pumps-university-of-queensland",
   "title": "Multi-Physics Modelling of Bearingless Pumps at University of Queensland",
-  "fundingStatus": "fully_funded",
-  "ieltsRequired": true,
-  "organizationId": "EIZ85Q5Ht0z76QBRrpXJ",
-  "createdAt": "2026-09-17T00:22:55.873Z",
-  "stipendAmount": 39220,
-  "fundingType": "fully_funded",
-  "countryCode": "AU",
-  "intro": "Fully funded PhD at University of Queensland developing advanced physics-based modelling of bearingless pumps. $39,220/year tax-free stipend, tuition covered, OSHC. Open to students worldwide. EOI deadline: 12 Oct 2026.",
-  "deadlineTimezone": "Australia/Sydney",
-  "deadline": "2026-10-12T12:59:59.999Z",
-  "degreeLevels": [
-    "phd"
-  ],
-  "isFeatured": false,
-  "slug": "multi-physics-modelling-bearingless-pumps-university-of-queensland",
-  "updatedAt": "2026-10-23",
-  "deadlineText": "12 October 2026 (Expression of Interest)",
-  "verificationStatus": "verified",
-  "seoDescription": "Fully funded PhD at University of Queensland developing advanced physics-based modelling of bearingless pumps. $39,220/year tax-free stipend, tuition covered.",
-  "isRemote": false,
-  "tags": [
-    "University of Queensland",
-    "UQ",
-    "PhD",
-    "Bearingless Pumps",
-    "Multi-Physics Modelling",
-    "Mechanical Engineering",
-    "Fluid Mechanics",
-    "Computational Fluid Dynamics",
-    "Australia",
-    "Brisbane",
-    "Fully Funded",
-    "DTU"
-  ],
-  "opportunityType": "phd_position",
-  "isOpen": false,
-  "disciplines": [
-    "mechanical_engineering",
-    "physics",
-    "engineering",
-    "mathematics"
-  ],
-  "stipendCurrency": "AUD",
-  "verificationScore": 100,
-  "deadlineType": "fixed",
-  "regionId": "oceania",
-  "sourceType": "official_university",
-  "stipendPeriod": "year",
-  "organization": {
-    "website": "https://www.uq.edu.au",
-    "name": "University of Queensland",
-    "logoUrl": "https://images.seeklogo.com/logo-png/47/1/the-university-of-queensland-logo-png_seeklogo-479574.png"
+  "description": "Fully funded PhD at University of Queensland developing advanced physics-based modelling of bearingless pumps. $39,220/year tax-free stipend, tuition covered, OSHC. Open to students worldwide. EOI deadline: 12 Oct 2026.",
+  "datePosted": "2026-09-17T00:22:55.873Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "University of Queensland",
+   "sameAs": "https://www.uq.edu.au",
+   "logo": "https://images.seeklogo.com/logo-png/47/1/the-university-of-queensland-logo-png_seeklogo-479574.png"
   },
-  "category": "phd_position",
-  "status": "expired",
-  "id": "54oCYf5N1GQZ796OQrw5",
-  "ogImage": "https://images.seeklogo.com/logo-png/47/1/the-university-of-queensland-logo-png_seeklogo-479574.png"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "multi-physics-modelling-bearingless-pumps-university-of-queensland"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "AU",
+    "addressLocality": "Brisbane"
+   }
+  },
+  "validThrough": "2026-10-12T12:59:59.999Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "AUD",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 39220,
+    "unitText": "YEAR"
+   }
+  }
+ }
 }

@@ -1,0 +1,104 @@
+{
+ "addedDate": "2026-09-18T12:51:59.069Z",
+ "clickCount": 0,
+ "city": "Dublin",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<h2>About the Scholarship</h2>\n<p>The Government of Ireland Postgraduate Scholarship Programme is an established national initiative, funded by the Department of Further and Higher Education, Research, Innovation and Science, and managed by Research Ireland (Taighde Éireann). It is unique in the Irish research landscape and complements other channels for funded postgraduate education.</p>\n<h2>Key Features</h2>\n<ul><li>Individual, prestigious awards for excellent research in the name of the applicant.</li><li>An objective selection process using international, independent expert peer review.</li><li>Funding across all disciplines, from archaeology to zoology.</li><li>Awards for bottom-up, non-directed research, with the exception of those funded by strategic funding partners.</li><li>Pioneering proposals addressing new and emerging fields of research are welcomed.</li><li>Interdisciplinary proposals are encouraged.</li><li>Highly competitive, with an average success rate of 18% over the past five years.</li></ul>\n<h2>What We Offer</h2>\n<p>The value of the scholarship will be up to a maximum of €34,000 per annum in any approved year and will consist of:</p>\n<ul><li>A stipend of €25,000 per annum.</li><li>A contribution to fees, including non-EU fees, up to a maximum of €5,750 per annum. Non-EU nationals may request an additional €4,000 per annum over-and-above the standard fee contribution.</li><li>Eligible direct research expenses of €3,250 per annum.</li></ul>\n<h2>Duration</h2>\n<p>1 to 4 years depending on the type of degree being pursued.</p>\n<h2>Eligibility and Requirements</h2>\n<ul><li>Open to new entrants to a Master's or PhD programme or to registered students in the first year of the degree for which they are seeking funding.</li><li>Academic Supervisors may act as Primary Supervisor for no more than one applicant.</li><li>Applicants must read the call documentation carefully to ascertain eligibility.</li></ul>\n<h2>How to Apply</h2>\n<ul><li>All participants must create and submit their forms via the online system.</li><li>Potential applicants should read the call documentation carefully.</li></ul>\n<h2>Key Dates (2026 Call - for Reference)</h2>\n<table><thead><tr><th>Milestone</th><th>Date</th></tr></thead><tbody><tr><td>Call Open</td><td>11 September 2025</td></tr><tr><td>FAQ Deadline</td><td>16 October 2025</td></tr><tr><td>Applicant Deadline</td><td>23 October 2025</td></tr><tr><td>Supervisor Deadline</td><td>6 November 2025</td></tr><tr><td>Research Office Endorsement</td><td>13 November 2025</td></tr><tr><td>Call Outcome</td><td>End of April 2026</td></tr><tr><td>Award Start Date</td><td>1 September 2026</td></tr></tbody></table>\n<h2>Important Notice</h2>\n<p>The Government of Ireland Postgraduate Scholarship Programme will not open for the 2027 call.</p>\n<h2>Official Link</h2>\n<p>https://www.researchireland.ie/funding/government-ireland-postgraduate/</p>\n<h2>Contact</h2>\n<ul><li>Email: postgrad@researchireland.ie</li><li>Phone: +353 (0)1 607 3200</li><li>Address: 3 Park Place, Hatch Street, Dublin 2 D02 FX65</li></ul>\n<h2>Strategic Funding Partners (2025)</h2>\n<ul><li>Environmental Protection Agency</li><li>Department of Children, Equality, Disability, Integration and Youth</li><li>Department of Foreign Affairs</li><li>Met Éireann</li></ul><h2>Important Notes</h2><ul><li>Always confirm the full requirements and current deadline on the official website before applying.</li><li>Prepare the requested documents early — competitive awards are often decided on complete, on-time submissions.</li><li>Funding terms shown here reflect the listing at the time of publication and can be updated by the provider.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+ "eligibility": "worldwide",
+ "stipend": "€25,000/year",
+ "applyLink": "https://www.researchireland.ie/funding/government-ireland-postgraduate/",
+ "seoTitle": "Government of Ireland Postgraduate Scholarship Programme",
+ "title": "Government of Ireland Postgraduate Scholarship Programme",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": false,
+ "organizationId": "KtkfXIAmkGwUCXlAIUag",
+ "createdAt": "2026-09-18T12:52:01.370Z",
+ "stipendAmount": 25000,
+ "fundingType": "fully_funded",
+ "countryCode": "IE",
+ "intro": "The Government of Ireland Postgraduate Scholarship Programme is a national initiative funding excellent research across all disciplines. Stipend €25,000 per annum plus fees and research expenses. Note: The 2027 call will not open.",
+ "deadlineTimezone": "Europe/Dublin",
+ "deadline": "2025-10-23T22:59:59.999Z",
+ "degreeLevels": [
+  "masters",
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "phd-irish-studies-funding",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "23 October 2025",
+ "verificationStatus": "unverified",
+ "seoDescription": "The Government of Ireland Postgraduate Scholarship Programme is a national initiative funding excellent research across all disciplines. Stipend €25,000 per.",
+ "isRemote": false,
+ "tags": [
+  "Research Ireland",
+  "Government of Ireland",
+  "Postgraduate Scholarship",
+  "PhD",
+  "Master's",
+  "Fully Funded",
+  "Ireland",
+  "All Disciplines",
+  "Stipend",
+  "Research Expenses"
+ ],
+ "opportunityType": "scholarship",
+ "isOpen": false,
+ "disciplines": [
+  "all_subjects"
+ ],
+ "stipendCurrency": "EUR",
+ "verificationScore": null,
+ "deadlineType": "fixed",
+ "regionId": "europe",
+ "sourceType": "official_organization",
+ "stipendPeriod": "year",
+ "organization": {
+  "website": "https://www.researchireland.ie",
+  "name": "Research Ireland (Taighde Éireann)",
+  "logoUrl": "https://www.researchireland.ie/_next/static/media/logo.e13154fc.svg"
+ },
+ "category": "scholarship",
+ "status": "expired",
+ "id": "ssf5pBs69MdwHTf0Yn5z",
+ "keywords": [
+  "Government of Ireland Postgraduate Scholarship Programme",
+  "Research Ireland (Taighde Éireann) scholarships",
+  "fully funded Master's Ireland",
+  "Ireland scholarships",
+  "Research Ireland",
+  "Government of Ireland",
+  "Postgraduate Scholarship"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/phd-irish-studies-funding",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalProgram",
+  "@id": "https://nextapply.co.uk/phd-irish-studies-funding#opportunity",
+  "url": "https://nextapply.co.uk/phd-irish-studies-funding",
+  "name": "Government of Ireland Postgraduate Scholarship Programme",
+  "description": "The Government of Ireland Postgraduate Scholarship Programme is a national initiative funding excellent research across all disciplines. Stipend €25,000 per annum plus fees and research expenses. Note: The 2027 call will not open.",
+  "educationalProgramMode": "full time",
+  "provider": {
+   "@type": "Organization",
+   "name": "Research Ireland (Taighde Éireann)",
+   "sameAs": "https://www.researchireland.ie",
+   "logo": "https://www.researchireland.ie/_next/static/media/logo.e13154fc.svg"
+  },
+  "applicationDeadline": "2025-10-23",
+  "offers": {
+   "@type": "Offer",
+   "category": "Fully Funded programme",
+   "priceSpecification": {
+    "@type": "PriceSpecification",
+    "price": 25000,
+    "priceCurrency": "EUR"
+   }
+  }
+ },
+ "ogImage": "https://nextapply.co.uk/phd-irish-studies-funding/opengraph-image"
+}

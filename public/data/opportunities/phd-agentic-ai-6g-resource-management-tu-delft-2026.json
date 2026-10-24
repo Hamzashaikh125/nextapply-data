@@ -1,71 +1,124 @@
 {
+ "title": "PhD in Agentic AI for Resource Management and Resilient Operations in 6G at TU Delft, Netherlands",
+ "status": "published",
+ "slug": "phd-agentic-ai-6g-resource-management-tu-delft-2026",
+ "isOpen": true,
+ "category": "phd_position",
+ "organizationId": "fWDwnuGf3LBFaQhGO7iT",
+ "organization": {
+  "id": "fWDwnuGf3LBFaQhGO7iT",
+  "slug": "tu-delft",
+  "name": "TU Delft",
+  "logoUrl": "https://www.google.com/s2/favicons?domain=tudelft.nl&sz=256",
+  "website": "https://www.tudelft.nl",
+  "about": "TU Delft is a public technical university in Delft, the Netherlands. It offers undergraduate, master's and doctoral education across engineering, architecture, design and applied sciences. Its research connects technical knowledge with practical challenges, including energy, mobility, infrastructure and sustainability, through collaboration with industry, public organisations and international academic institutions worldwide."
+ },
+ "regionId": "europe",
+ "countryCode": "NL",
+ "city": "Delft",
+ "deadline": "2026-11-01T23:59:59.999Z",
+ "deadlineType": "fixed",
+ "deadlineText": "1 November 2026",
+ "degreeLevels": [
+  "phd"
+ ],
+ "disciplines": [
+  "artificial_intelligence",
+  "machine_learning",
+  "computer_science"
+ ],
+ "subjects": [
+  "Agentic AI",
+  "6G resource management",
+  "Online learning"
+ ],
+ "fundingType": "fully_funded",
+ "stipend": "€3,204–€4,051 gross per month, depending on doctoral year.",
+ "intro": "TU Delft is recruiting a doctoral researcher to coordinate AI agents managing radio, transport, computing and service resources in future 6G networks. The position belongs to the Future Network Services programme. Applicants can apply without IELTS - selection is based on documents and an English interview, not a test certificate.",
+ "description": "<h2>About the Position</h2>\n<p>TU Delft is recruiting a doctoral researcher to coordinate AI agents managing radio, transport, computing and service resources in future 6G networks. The position belongs to the Future Network Services programme.</p>\n\n<h2>Research Position Overview</h2>\n<p>Develop online-learning and distributed decision-making methods under incomplete information. Study multi-domain resource allocation, fault diagnosis, root-cause analysis and autonomous remediation, and evaluate proposed methods with programme partners and experimental infrastructure.</p>\n\n<h2>Research Areas</h2>\n<ul>\n<li>Agentic AI</li>\n<li>6G resource management</li>\n<li>Online learning</li>\n</ul>\n\n<h2>Funding and Duration</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"border-collapse:collapse;width:100%;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\">\n<caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Employment and financial support</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;background:#eaf1f7;\">Component</th><th scope=\"col\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;background:#eaf1f7;\">Details</th></tr></thead><tbody>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Position</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">PhD researcher</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Salary</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">€3,204–€4,051 gross per month, depending on doctoral year.</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Duration</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Four years: an initial 18-month contract, followed by 30 months subject to a positive assessment.</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Programme / host support</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Future Network Services programme; salaried doctoral employment.</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Benefits</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">8% holiday allowance, 8.3% year-end bonus and pension arrangements.</td></tr>\n</tbody></table></div>\n\n<h2>Eligibility and Requirements</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"border-collapse:collapse;width:100%;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\">\n<caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Academic preparation and appointment conditions</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;background:#eaf1f7;\">Component</th><th scope=\"col\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;background:#eaf1f7;\">Details</th></tr></thead><tbody>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Applicant eligibility</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Worldwide applicants may be considered subject to academic eligibility, recruitment checks and the stated appointment conditions.</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Academic preparation</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Completed or nearly completed MSc in computer science, electrical engineering, applied mathematics or a related field.</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Research skills</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Interest in constrained learning, distributed optimisation, game theory and reliable network operation.</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Language</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">English proficiency meeting TU Delft doctoral admission requirements.</td></tr>\n</tbody></table></div>\n\n<h2>Application dates</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"border-collapse:collapse;width:100%;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\">\n<caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Recruitment dates and location</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;background:#eaf1f7;\">Component</th><th scope=\"col\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;background:#eaf1f7;\">Details</th></tr></thead><tbody>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Recruitment status</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Open when verified against the official source</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Deadline</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">1 November 2026</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Start date</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Not specified in the vacancy.</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Location</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Delft, Netherlands</td></tr>\n</tbody></table></div>\n\n<h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 1 November 2026 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2>\n<ul>\n<li>CV showing universities attended and study durations.</li>\n<li>Motivation letter of no more than half a page.</li>\n<li>BSc and MSc degree certificates and complete transcripts.</li>\n</ul><p>Submit through the application system linked from the official vacancy. Follow its current document and translation instructions.</p>\n\n<h2>Selection and Contact</h2>\n<p>Apply only once to the best-fitting of the four related Future Network Services vacancies; the team can assess fit with other research lines.</p><p>Research contact: Dr Georgios Iosifidis.</p>\n\n<h2>About TU Delft</h2>\n<p>TU Delft is a technical university in Delft, Netherlands. This appointment combines supervised research with doctoral training through the university’s Graduate School.</p>\n\n<h2>Official Link</h2>\n<p>Official vacancy reviewed on 15 October 2026. The employer’s current notice governs application requirements and employment terms.</p><p><a href=\"https://careers.tudelft.nl/job/Delft-PhD-position-Agentic-AI-for-Resource-Management-and-Resilient-Operations-in-6G-2628-CD/1374071557/\" target=\"_blank\" rel=\"noopener noreferrer\">Read the official vacancy and application instructions</a></p><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul><h3>English language requirements</h3><p>No IELTS or TOEFL certificate is requested for this employed Dutch position; English is assessed through the application documents and an interview in English.</p>",
+ "tags": [
+  "phd",
+  "tu-delft",
+  "netherlands",
+  "agentic-ai",
+  "6g-resource-management",
+  "online-learning",
+  "research-opportunity",
+  "2026",
+  "TU Delft",
+  "Delft",
+  "Fully Funded",
+  "Artificial_Intelligence"
+ ],
+ "applyLink": "https://careers.tudelft.nl/job/Delft-PhD-position-Agentic-AI-for-Resource-Management-and-Resilient-Operations-in-6G-2628-CD/1374071557/",
+ "isFeatured": false,
+ "ieltsRequired": false,
+ "eligibility": "worldwide",
+ "seoTitle": "Agentic AI and 6G PhD | TU Delft",
+ "seoDescription": "Agentic AI and 6G PhD. Explore research, eligibility, salary and official application details. Apply by 2026-11-01.",
+ "ogImage": "https://nextapply.co.uk/phd-agentic-ai-6g-resource-management-tu-delft-2026/opengraph-image",
+ "verificationStatus": "unverified",
+ "addedDate": "2026-10-15T14:48:02.973Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-15T14:48:03.146Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-15T14:48:03.146Z",
+ "fundingStatus": "fully_funded",
+ "id": "7ntmFPb12aUO5vHnNDfQ",
+ "stipendAmount": 3204,
+ "stipendCurrency": "EUR",
+ "stipendPeriod": "month",
+ "opportunityType": "phd_position",
+ "keywords": [
+  "PhD in Agentic AI for Resource Management and Resilient Operations in",
+  "TU Delft positions",
+  "fully funded PhD Netherlands",
+  "Netherlands scholarships 2026",
+  "PhD 2026 intake",
+  "phd",
+  "tu-delft",
+  "netherlands"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/phd-agentic-ai-6g-resource-management-tu-delft-2026",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/phd-agentic-ai-6g-resource-management-tu-delft-2026#opportunity",
+  "url": "https://nextapply.co.uk/phd-agentic-ai-6g-resource-management-tu-delft-2026",
   "title": "PhD in Agentic AI for Resource Management and Resilient Operations in 6G at TU Delft, Netherlands",
-  "status": "published",
-  "slug": "phd-agentic-ai-6g-resource-management-tu-delft-2026",
-  "isOpen": true,
-  "category": "phd_position",
-  "organizationId": "fWDwnuGf3LBFaQhGO7iT",
-  "organization": {
-    "id": "fWDwnuGf3LBFaQhGO7iT",
-    "slug": "tu-delft",
-    "name": "TU Delft",
-    "logoUrl": "https://diamhomes.ewi.tudelft.nl/~kaardal/PNG_2400dpi/TU_d_stack_P1_color.png",
-    "website": "https://www.tudelft.nl",
-    "about": "TU Delft is a public technical university in Delft, the Netherlands. It offers undergraduate, master's and doctoral education across engineering, architecture, design and applied sciences. Its research connects technical knowledge with practical challenges, including energy, mobility, infrastructure and sustainability, through collaboration with industry, public organisations and international academic institutions worldwide."
+  "description": "TU Delft is recruiting a doctoral researcher to coordinate AI agents managing radio, transport, computing and service resources in future 6G networks. The position belongs to the Future Network Services programme. Applicants can apply without IELTS - selection is based on documents and an English interview, not a test certificate.",
+  "datePosted": "2026-10-15T14:48:03.146Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "TU Delft",
+   "sameAs": "https://www.tudelft.nl",
+   "logo": "https://www.google.com/s2/favicons?domain=tudelft.nl&sz=256"
   },
-  "regionId": "europe",
-  "countryCode": "NL",
-  "city": "Delft",
-  "deadline": "2026-11-01T23:59:59.999Z",
-  "deadlineType": "fixed",
-  "deadlineText": "1 November 2026",
-  "degreeLevels": [
-    "phd"
-  ],
-  "disciplines": [
-    "artificial_intelligence",
-    "machine_learning",
-    "computer_science"
-  ],
-  "subjects": [
-    "Agentic AI",
-    "6G resource management",
-    "Online learning"
-  ],
-  "fundingType": "fully_funded",
-  "stipend": "€3,204–€4,051 gross per month, depending on doctoral year.",
-  "intro": "TU Delft is recruiting a doctoral researcher to coordinate AI agents managing radio, transport, computing and service resources in future 6G networks. The position belongs to the Future Network Services programme. Applicants can apply without IELTS - selection is based on documents and an English interview, not a test certificate.",
-  "description": "<h2>Project Overview</h2>\n<p>TU Delft is recruiting a doctoral researcher to coordinate AI agents managing radio, transport, computing and service resources in future 6G networks. The position belongs to the Future Network Services programme.</p>\n\n<h2>Research Position Overview</h2>\n<p>Develop online-learning and distributed decision-making methods under incomplete information. Study multi-domain resource allocation, fault diagnosis, root-cause analysis and autonomous remediation, and evaluate proposed methods with programme partners and experimental infrastructure.</p>\n\n<h2>Research Areas</h2>\n<ul>\n<li>Agentic AI</li>\n<li>6G resource management</li>\n<li>Online learning</li>\n</ul>\n\n<h2>Funding and Duration</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"border-collapse:collapse;width:100%;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\">\n<caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Employment and financial support</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;background:#eaf1f7;\">Component</th><th scope=\"col\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;background:#eaf1f7;\">Details</th></tr></thead><tbody>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Position</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">PhD researcher</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Salary</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">€3,204–€4,051 gross per month, depending on doctoral year.</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Duration</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Four years: an initial 18-month contract, followed by 30 months subject to a positive assessment.</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Programme / host support</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Future Network Services programme; salaried doctoral employment.</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Benefits</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">8% holiday allowance, 8.3% year-end bonus and pension arrangements.</td></tr>\n</tbody></table></div>\n\n<h2>Eligibility and Requirements</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"border-collapse:collapse;width:100%;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\">\n<caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Academic preparation and appointment conditions</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;background:#eaf1f7;\">Component</th><th scope=\"col\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;background:#eaf1f7;\">Details</th></tr></thead><tbody>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Applicant eligibility</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Worldwide applicants may be considered subject to academic eligibility, recruitment checks and the stated appointment conditions.</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Academic preparation</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Completed or nearly completed MSc in computer science, electrical engineering, applied mathematics or a related field.</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Research skills</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Interest in constrained learning, distributed optimisation, game theory and reliable network operation.</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Language</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">English proficiency meeting TU Delft doctoral admission requirements.</td></tr>\n</tbody></table></div>\n\n<h2>Application Dates</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"border-collapse:collapse;width:100%;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\">\n<caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Recruitment dates and location</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;background:#eaf1f7;\">Component</th><th scope=\"col\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;background:#eaf1f7;\">Details</th></tr></thead><tbody>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Recruitment status</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Open when verified against the official source</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Deadline</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">1 November 2026</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Start date</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Not specified in the vacancy.</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;width:29%;\">Location</th><td style=\"padding:11px 14px;border:1px solid #d5dde5;text-align:left;vertical-align:top;overflow-wrap:anywhere;\">Delft, Netherlands</td></tr>\n</tbody></table></div>\n\n<h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 1 November 2026 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2>\n<ul>\n<li>CV showing universities attended and study durations.</li>\n<li>Motivation letter of no more than half a page.</li>\n<li>BSc and MSc degree certificates and complete transcripts.</li>\n</ul><p>Submit through the application system linked from the official vacancy. Follow its current document and translation instructions.</p>\n\n<h2>Selection and Contact</h2>\n<p>Apply only once to the best-fitting of the four related Future Network Services vacancies; the team can assess fit with other research lines.</p><p>Research contact: Dr Georgios Iosifidis.</p>\n\n<h2>About TU Delft</h2>\n<p>TU Delft is a technical university in Delft, Netherlands. This appointment combines supervised research with doctoral training through the university’s Graduate School.</p>\n\n<h2>Official Source</h2>\n<p>Official vacancy reviewed on 15 October 2026. The employer’s current notice governs application requirements and employment terms.</p><p><a href=\"https://careers.tudelft.nl/job/Delft-PhD-position-Agentic-AI-for-Resource-Management-and-Resilient-Operations-in-6G-2628-CD/1374071557/\" target=\"_blank\" rel=\"noopener noreferrer\">Read the official vacancy and application instructions</a></p><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul><h3>English language requirements</h3><p>No IELTS or TOEFL certificate is requested for this employed Dutch position; English is assessed through the application documents and an interview in English.</p>",
-  "tags": [
-    "phd",
-    "tu-delft",
-    "netherlands",
-    "agentic-ai",
-    "6g-resource-management",
-    "online-learning",
-    "research-opportunity",
-    "2026",
-    "TU Delft",
-    "Delft",
-    "Fully Funded",
-    "Artificial_Intelligence"
-  ],
-  "applyLink": "https://careers.tudelft.nl/job/Delft-PhD-position-Agentic-AI-for-Resource-Management-and-Resilient-Operations-in-6G-2628-CD/1374071557/",
-  "isFeatured": false,
-  "ieltsRequired": false,
-  "eligibility": "worldwide",
-  "seoTitle": "Agentic AI and 6G PhD | TU Delft",
-  "seoDescription": "Agentic AI and 6G PhD. Explore research, eligibility, salary and official application details. Apply by 2026-11-01.",
-  "ogImage": "",
-  "verificationStatus": "unverified",
-  "addedDate": "2026-10-15T14:48:02.973Z",
-  "clickCount": 0,
-  "createdAt": "2026-10-15T14:48:03.146Z",
-  "updatedAt": "2026-10-23T14:21:38.000Z",
-  "publishedAt": "2026-10-15T14:48:03.146Z",
-  "fundingStatus": "fully_funded",
-  "id": "7ntmFPb12aUO5vHnNDfQ",
-  "stipendAmount": 3204,
-  "stipendCurrency": "EUR",
-  "stipendPeriod": "month"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "phd-agentic-ai-6g-resource-management-tu-delft-2026"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "NL",
+    "addressLocality": "Delft"
+   }
+  },
+  "validThrough": "2026-11-01T23:59:59.999Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "EUR",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 3204,
+    "unitText": "MONTH"
+   }
+  }
+ }
 }

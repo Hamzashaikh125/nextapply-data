@@ -1,0 +1,124 @@
+{
+ "addedDate": "2026-09-25T00:00:00.000Z",
+ "clickCount": 0,
+ "city": "Manchester",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Mechanical and Aerospace Engineering PGR Teaching Associate PhD Scholarship at the University of Manchester</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">University of Manchester</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Manchester, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">£28,832/year</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">24 July 2026 (closed)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.eps.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/mechanical-aerospace-engineering-pgrta/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p><strong>Funding detail:</strong> GBP 28,832 per year (combined teaching salary and PhD stipend)</p><h2>About the Scholarship</h2>\n<p>The University of Manchester offers an unusual doctoral route through its Postgraduate Research Teaching Associate, or PGRTA, scheme. Successful candidates combine doctoral research with university teaching. Instead of completing a conventional full-time PhD, students spend approximately 60% of their appointment on research and 40% on teaching. The full programme lasts approximately 5 years and 10 months. Successful candidates receive a combined teaching salary and doctoral stipend of £28,832 per year, while their tuition fees are covered. The programme is intended particularly for candidates interested in developing both academic research and higher-education teaching experience.</p>\n<h2>Available Research Areas</h2>\n<p>The department is interested in projects connected with areas including: space engineering and design; digital manufacturing; sustainable manufacturing; laser engineering; robotics; materials physics; structures and dynamics; biomechanics; welding and structural performance; nuclear fission and fusion; nuclear fuels and graphite; nuclear policy; nuclear thermal hydraulics; solar energy; zero-carbon systems; energy storage; and biomedical engineering. Applicants do not simply select a fixed project. They are encouraged to work with a member of academic staff to develop a suitable PhD proposal within one of the department's priority research areas.</p>\n<h2>Eligibility and Requirements</h2>\n<p>Applicants normally need: at least a UK 2:1 honours degree or international equivalent; an academic background relevant to their proposed engineering research; eligibility for admission to a relevant University of Manchester PhD programme; and an offer for a PhD place before being considered for the PGRTA scholarship. Candidates already registered for an appropriate PhD may also meet the scheme's conditions.</p>\n<h2>How to Apply</h2>\n<p>Applicants are expected to: identify a suitable academic supervisor; discuss and develop a research project with that supervisor; submit an application for an appropriate PhD programme; state in the funding section that they wish to be considered for the PGR Teaching Associate Scholarship; and include a written statement explaining their interest in combining PhD research with teaching. The scheme operates through supervisor nomination. Candidates selected after nomination may then be invited to interview.</p>\n<h2>Important Deadline Note</h2>\n<p>The University of Manchester's official scholarship page states that applications for this round had to be submitted by 24 July 2026. Therefore, this opportunity should currently be marked as Closed rather than Open.</p><h2>Official Link</h2><p>https://www.eps.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/mechanical-aerospace-engineering-pgrta/</p><h2>Important Notes</h2><ul><li>Always confirm the full requirements and current deadline on the official website before applying.</li><li>Prepare the requested documents early — competitive awards are often decided on complete, on-time submissions.</li><li>Funding terms shown here reflect the listing at the time of publication and can be updated by the provider.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+ "eligibility": "uk_only",
+ "stipend": "£28,832/year",
+ "applyLink": "https://www.eps.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/mechanical-aerospace-engineering-pgrta/",
+ "seoTitle": "Mechanical and Aerospace Engineering PGR Teaching Associate",
+ "title": "Mechanical and Aerospace Engineering PGR Teaching Associate PhD Scholarship at the University of Manchester",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": false,
+ "organizationId": "0OJsTOxyT9g3NXo9WtwQ",
+ "createdAt": "2026-09-25T01:06:05.367Z",
+ "stipendAmount": 28832,
+ "fundingType": "fully_funded",
+ "countryCode": "GB",
+ "intro": "The University of Manchester offers a PGR Teaching Associate (PGRTA) PhD scholarship combining doctoral research (60%) with university teaching (40%) for 5 years and 10 months. Combined teaching salary and PhD stipend of £28,832 per year, with tuition fees covered. Intended for candidates interested in both academic research and higher-education teaching experience.",
+ "deadlineTimezone": "Europe/London",
+ "deadline": "2026-07-24T22:59:59.999Z",
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "mechanical-aerospace-engineering-pgr-teaching-associate-phd-scholarship-manchester",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "24 July 2026 (closed)",
+ "verificationStatus": "unverified",
+ "seoDescription": "The University of Manchester offers a PGR Teaching Associate (PGRTA) PhD scholarship combining doctoral research (60%) with university teaching (40%) for 5.",
+ "isRemote": false,
+ "ogImage": "https://nextapply.co.uk/mechanical-aerospace-engineering-pgr-teaching-associate-phd-scholarship-manchester/opengraph-image",
+ "tags": [
+  "University of Manchester",
+  "PhD Scholarship",
+  "PGR Teaching Associate",
+  "PGRTA",
+  "Mechanical Engineering",
+  "Aerospace Engineering",
+  "Teaching and Research",
+  "Fully Funded",
+  "Manchester",
+  "UK"
+ ],
+ "opportunityType": "phd_position",
+ "isOpen": false,
+ "disciplines": [
+  "mechanical_engineering",
+  "aerospace_engineering",
+  "materials_science",
+  "robotics",
+  "biomedical_engineering",
+  "nuclear_engineering",
+  "energy_systems"
+ ],
+ "stipendCurrency": "GBP",
+ "deadlineType": "fixed",
+ "regionId": "europe",
+ "sourceType": "official_university",
+ "stipendPeriod": "year",
+ "organization": {
+  "website": "https://www.manchester.ac.uk/",
+  "about": "The University of Manchester is a public research university in Manchester, England, and a member of the Russell Group. It offers teaching and research across a wide range of disciplines.",
+  "name": "University of Manchester",
+  "logoUrl": "https://res.cloudinary.com/dlzyp7xg/image/upload/v1786909805/avogbblaj.webp"
+ },
+ "category": "phd_position",
+ "status": "expired",
+ "id": "jXnD3W1xhc9F0R5CDY0w",
+ "keywords": [
+  "Mechanical and Aerospace Engineering PGR Teaching Associate PhD",
+  "University of Manchester positions",
+  "fully funded PhD UK",
+  "UK scholarships",
+  "University of Manchester",
+  "PhD Scholarship",
+  "PGR Teaching Associate"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/mechanical-aerospace-engineering-pgr-teaching-associate-phd-scholarship-manchester",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/mechanical-aerospace-engineering-pgr-teaching-associate-phd-scholarship-manchester#opportunity",
+  "url": "https://nextapply.co.uk/mechanical-aerospace-engineering-pgr-teaching-associate-phd-scholarship-manchester",
+  "title": "Mechanical and Aerospace Engineering PGR Teaching Associate PhD Scholarship at the University of Manchester",
+  "description": "The University of Manchester offers a PGR Teaching Associate (PGRTA) PhD scholarship combining doctoral research (60%) with university teaching (40%) for 5 years and 10 months. Combined teaching salary and PhD stipend of £28,832 per year, with tuition fees covered. Intended for candidates interested in both academic research and higher-education teaching experience.",
+  "datePosted": "2026-09-25T01:06:05.367Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "University of Manchester",
+   "sameAs": "https://www.manchester.ac.uk/",
+   "logo": "https://res.cloudinary.com/dlzyp7xg/image/upload/v1786909805/avogbblaj.webp"
+  },
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "mechanical-aerospace-engineering-pgr-teaching-associate-phd-scholarship-manchester"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "GB",
+    "addressLocality": "Manchester"
+   }
+  },
+  "validThrough": "2026-07-24T22:59:59.999Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "GBP",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 28832,
+    "unitText": "YEAR"
+   }
+  }
+ }
+}

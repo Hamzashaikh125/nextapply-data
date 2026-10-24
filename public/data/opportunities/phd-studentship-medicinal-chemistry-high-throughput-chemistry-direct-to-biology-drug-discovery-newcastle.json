@@ -1,73 +1,124 @@
 {
-  "addedDate": "2026-09-25T00:00:00.000Z",
-  "clickCount": 0,
-  "city": "Newcastle",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD Studentship in Medicinal Chemistry: High-throughput chemistry and direct-to-biology testing to accelerate drug discovery</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Newcastle University</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Newcastle, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">£21,805/year (tax-free)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Monday 5th October 2026</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://applyto.newcastle.ac.uk/SignIn?returnUrl=/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p><strong>Funding detail:</strong> 100% fees covered (home fees only) and a minimum tax-free annual living allowance of £21,805 (2026/27 UKRI rate). Additional project costs will also be provided.</p><h2>PhD Studentship Overview</h2>\n<p>Discovering a new medicine usually means making and testing candidate drug molecules one at a time, with each cycle of design, synthesis and testing taking months. This project will pioneer a faster way to do this: new chemistry methods that let around 100 candidate compounds be made, purified and tested for biological activity together, in a single operation taking as little as a week. You will apply this new approach to real drug targets in cancer, working at the interface of synthetic chemistry and biology to help speed up the discovery of new medicines.</p>\n<p>You will join an established, successful, integrated drug discovery group in a project led by Professor Mike Waring and Dr Hannah Stewart. The group has a strong recent record of PhD completions with 100% subsequent employment, and a supportive, collegial culture. You will gain hands-on training in medicinal and synthetic organic chemistry, automation, high-throughput synthesis and biological testing – skills in high demand across the pharmaceutical industry.</p>\n<p>The project is a collaboration with Eli Lilly Pharmaceuticals (Boulder, Colorado, USA) and will involve frequent interaction with their scientists, who will co-supervise the project.</p>\n<h2>Award Summary</h2>\n<ul><li>100% fees covered (home fees only)</li><li>Minimum tax-free annual living allowance of £21,805 (2026/27 UKRI rate)</li><li>Additional project costs will also be provided</li></ul>\n<h2>Number of Awards</h2>\n<p>1</p>\n<h2>Start Date</h2>\n<p>January 2027</p>\n<h2>Award Duration</h2>\n<p>4 years</p>\n<h2>Application Closing Date</h2>\n<p>Monday 5th October 2026</p>\n<h2>Sponsor</h2>\n<p>EPSRC and Eli Lilly Pharmaceuticals</p>\n<h2>Name of Supervisor</h2>\n<p>Prof. Mike Waring and Dr. Hannah Stewart</p>\n<h2>Eligibility Criteria</h2>\n<p>We are adopting a contextual admissions process. This means we will consider other key competencies and experience alongside your academic qualifications.</p>\n<p>A minimum 2:1 Honours degree or international equivalent in a subject relevant to the proposed PhD project is our standard entry, however we place value on prior experience, enthusiasm for research, and the ability to think and work independently.</p>\n<p>Excellent analytical skills and strong verbal and written communication skills are also essential requirements.</p>\n<p>A Masters qualification may not be required if you have a minimum 2:1 degree or can evidence alternative experience in a work or research-based project. If you have alternative qualifications or experience, please contact us to discuss flexibilities and request an exemption.</p>\n<p>This studentship is open to Home (UK residency) candidates only.</p>\n<h2>How to Apply</h2>\n<p>Please read and complete the document as your Personal statement, and upload this with your application. Applications which do not include this document will not be considered.</p>\n<p>You must apply through the University's Apply to Newcastle Portal.</p>\n<p>Once registered select 'Create a Postgraduate Application'.</p>\n<p>Use 'Course Search' to identify your programme of study:</p>\n<ul><li>search for the 'Course Title' using the programme code: 8100F</li><li>select 'PhD Chemistry (full time) - Chemistry' as the programme of study</li></ul>\n<p>You will then need to provide the following information in the 'Further Details' section:</p>\n<ul><li>a 'Personal Statement' (this is a mandatory field) – Use this template</li><li>the studentship code DLA2629a in the 'Studentship/Partnership Reference' field</li><li>when prompted for how you are providing your research proposal - select 'Write Proposal'. You should then type in the title of the research project from this advert. You do not need to upload a research proposal.</li></ul>\n<p>You must submit one application per studentship; you cannot apply for multiple studentships on one application.</p>\n<h2>Contact Details</h2>\n<p>For further details, contact mike.waring@ncl.ac.uk. You can also contact: doctoral.awards@ncl.ac.uk for independent advice on your application.</p>",
-  "eligibility": "uk_only",
-  "stipend": "£21,805/year (tax-free)",
-  "applyLink": "https://applyto.newcastle.ac.uk/SignIn?returnUrl=/",
-  "seoTitle": "PhD Studentship in Medicinal Chemistry: High-throughput",
+ "addedDate": "2026-09-25T00:00:00.000Z",
+ "clickCount": 0,
+ "city": "Newcastle",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD Studentship in Medicinal Chemistry: High-throughput chemistry and direct-to-biology testing to accelerate drug discovery</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Newcastle University</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Newcastle, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">£21,805/year (tax-free)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Monday 5th October 2026</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://applyto.newcastle.ac.uk/SignIn?returnUrl=/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p><strong>Funding detail:</strong> 100% fees covered (home fees only) and a minimum tax-free annual living allowance of £21,805 (2026/27 UKRI rate). Additional project costs will also be provided.</p><h2>About the Position</h2>\n<p>Discovering a new medicine usually means making and testing candidate drug molecules one at a time, with each cycle of design, synthesis and testing taking months. This project will pioneer a faster way to do this: new chemistry methods that let around 100 candidate compounds be made, purified and tested for biological activity together, in a single operation taking as little as a week. You will apply this new approach to real drug targets in cancer, working at the interface of synthetic chemistry and biology to help speed up the discovery of new medicines.</p>\n<p>You will join an established, successful, integrated drug discovery group in a project led by Professor Mike Waring and Dr Hannah Stewart. The group has a strong recent record of PhD completions with 100% subsequent employment, and a supportive, collegial culture. You will gain hands-on training in medicinal and synthetic organic chemistry, automation, high-throughput synthesis and biological testing – skills in high demand across the pharmaceutical industry.</p>\n<p>The project is a collaboration with Eli Lilly Pharmaceuticals (Boulder, Colorado, USA) and will involve frequent interaction with their scientists, who will co-supervise the project.</p>\n<h2>Award Summary</h2>\n<ul><li>100% fees covered (home fees only)</li><li>Minimum tax-free annual living allowance of £21,805 (2026/27 UKRI rate)</li><li>Additional project costs will also be provided</li></ul>\n<h2>Number of Awards</h2>\n<p>1</p>\n<h2>Start Date</h2>\n<p>January 2027</p>\n<h2>Award Duration</h2>\n<p>4 years</p>\n<h2>Application Closing Date</h2>\n<p>Monday 5th October 2026</p>\n<h2>Sponsor</h2>\n<p>EPSRC and Eli Lilly Pharmaceuticals</p>\n<h2>Name of Supervisor</h2>\n<p>Prof. Mike Waring and Dr. Hannah Stewart</p>\n<h2>Eligibility and Requirements</h2>\n<p>We are adopting a contextual admissions process. This means we will consider other key competencies and experience alongside your academic qualifications.</p>\n<p>A minimum 2:1 Honours degree or international equivalent in a subject relevant to the proposed PhD project is our standard entry, however we place value on prior experience, enthusiasm for research, and the ability to think and work independently.</p>\n<p>Excellent analytical skills and strong verbal and written communication skills are also essential requirements.</p>\n<p>A Masters qualification may not be required if you have a minimum 2:1 degree or can evidence alternative experience in a work or research-based project. If you have alternative qualifications or experience, please contact us to discuss flexibilities and request an exemption.</p>\n<p>This studentship is open to Home (UK residency) candidates only.</p>\n<h2>How to Apply</h2>\n<p>Please read and complete the document as your Personal statement, and upload this with your application. Applications which do not include this document will not be considered.</p>\n<p>You must apply through the University's Apply to Newcastle Portal.</p>\n<p>Once registered select 'Create a Postgraduate Application'.</p>\n<p>Use 'Course Search' to identify your programme of study:</p>\n<ul><li>search for the 'Course Title' using the programme code: 8100F</li><li>select 'PhD Chemistry (full time) - Chemistry' as the programme of study</li></ul>\n<p>You will then need to provide the following information in the 'Further Details' section:</p>\n<ul><li>a 'Personal Statement' (this is a mandatory field) – Use this template</li><li>the studentship code DLA2629a in the 'Studentship/Partnership Reference' field</li><li>when prompted for how you are providing your research proposal - select 'Write Proposal'. You should then type in the title of the research project from this advert. You do not need to upload a research proposal.</li></ul>\n<p>You must submit one application per studentship; you cannot apply for multiple studentships on one application.</p>\n<h2>Contact Details</h2>\n<p>For further details, contact mike.waring@ncl.ac.uk. You can also contact: doctoral.awards@ncl.ac.uk for independent advice on your application.</p><h2>Official Link</h2><p>https://applyto.newcastle.ac.uk/SignIn?returnUrl=/</p><h2>Important Notes</h2><ul><li>Always confirm the full requirements and current deadline on the official website before applying.</li><li>Prepare the requested documents early — competitive awards are often decided on complete, on-time submissions.</li><li>Funding terms shown here reflect the listing at the time of publication and can be updated by the provider.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+ "eligibility": "uk_only",
+ "stipend": "£21,805/year (tax-free)",
+ "applyLink": "https://applyto.newcastle.ac.uk/SignIn?returnUrl=/",
+ "seoTitle": "PhD Studentship in Medicinal Chemistry: High-throughput",
+ "title": "PhD Studentship in Medicinal Chemistry: High-throughput chemistry and direct-to-biology testing to accelerate drug discovery",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": false,
+ "organizationId": "e8FfQUiMQbmm061VDbWs",
+ "createdAt": "2026-09-25T00:42:15.531Z",
+ "stipendAmount": 21805,
+ "fundingType": "fully_funded",
+ "countryCode": "GB",
+ "intro": "PhD studentship at Newcastle University to pioneer faster drug discovery using high-throughput chemistry and direct-to-biology testing. Funded by EPSRC and Eli Lilly Pharmaceuticals. 100% home fees covered and a minimum tax-free annual living allowance of £21,805 (2026/27 UKRI rate). Deadline: 5 October 2026.",
+ "deadlineTimezone": "Europe/London",
+ "deadline": "2026-10-05T22:59:59.999Z",
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "phd-studentship-medicinal-chemistry-high-throughput-chemistry-direct-to-biology-drug-discovery-newcastle",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "Monday 5th October 2026",
+ "verificationStatus": "unverified",
+ "seoDescription": "Newcastle University offers an EPSRC-supported PhD in high-throughput chemistry and direct-to-biology drug discovery. Check funding terms.",
+ "isRemote": false,
+ "ogImage": "https://nextapply.co.uk/phd-studentship-medicinal-chemistry-high-throughput-chemistry-direct-to-biology-drug-discovery-newcastle/opengraph-image",
+ "tags": [
+  "Newcastle University",
+  "PhD Position",
+  "Medicinal Chemistry",
+  "Drug Discovery",
+  "High-Throughput Chemistry",
+  "Direct-to-Biology",
+  "Eli Lilly",
+  "EPSRC",
+  "Organic Chemistry",
+  "Synthetic Chemistry",
+  "UK Students Only",
+  "Cancer Research"
+ ],
+ "opportunityType": "phd_position",
+ "isOpen": false,
+ "disciplines": [
+  "medicinal_chemistry",
+  "organic_chemistry",
+  "physical_chemistry",
+  "synthetic_chemistry",
+  "chemical_biology",
+  "drug_discovery"
+ ],
+ "stipendCurrency": "GBP",
+ "deadlineType": "fixed",
+ "regionId": "europe",
+ "sourceType": "third_party",
+ "organization": {
+  "website": "https://www.ncl.ac.uk/",
+  "about": "Newcastle University is a prestigious Russell Group university in the UK, recognized globally for its impact in science, engineering, and societal innovation.",
+  "name": "Newcastle University",
+  "logoUrl": "https://res.cloudinary.com/dlzyp7xg/image/upload/v1786910612/images_10.png"
+ },
+ "category": "phd_position",
+ "status": "expired",
+ "id": "IWKLc3KAi4ooUIquuDE8",
+ "keywords": [
+  "PhD Studentship in Medicinal Chemistry: High-throughput chemistry and",
+  "Newcastle University positions",
+  "fully funded PhD UK",
+  "UK scholarships",
+  "Newcastle University",
+  "PhD Position",
+  "Medicinal Chemistry"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/phd-studentship-medicinal-chemistry-high-throughput-chemistry-direct-to-biology-drug-discovery-newcastle",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/phd-studentship-medicinal-chemistry-high-throughput-chemistry-direct-to-biology-drug-discovery-newcastle#opportunity",
+  "url": "https://nextapply.co.uk/phd-studentship-medicinal-chemistry-high-throughput-chemistry-direct-to-biology-drug-discovery-newcastle",
   "title": "PhD Studentship in Medicinal Chemistry: High-throughput chemistry and direct-to-biology testing to accelerate drug discovery",
-  "fundingStatus": "fully_funded",
-  "ieltsRequired": false,
-  "organizationId": "e8FfQUiMQbmm061VDbWs",
-  "createdAt": "2026-09-25T00:42:15.531Z",
-  "stipendAmount": 21805,
-  "fundingType": "fully_funded",
-  "countryCode": "GB",
-  "intro": "PhD studentship at Newcastle University to pioneer faster drug discovery using high-throughput chemistry and direct-to-biology testing. Funded by EPSRC and Eli Lilly Pharmaceuticals. 100% home fees covered and a minimum tax-free annual living allowance of £21,805 (2026/27 UKRI rate). Deadline: 5 October 2026.",
-  "deadlineTimezone": "Europe/London",
-  "deadline": "2026-10-05T22:59:59.999Z",
-  "degreeLevels": [
-    "phd"
-  ],
-  "isFeatured": false,
-  "slug": "phd-studentship-medicinal-chemistry-high-throughput-chemistry-direct-to-biology-drug-discovery-newcastle",
-  "updatedAt": "2026-10-23",
-  "deadlineText": "Monday 5th October 2026",
-  "verificationStatus": "unverified",
-  "seoDescription": "Newcastle University offers an EPSRC-supported PhD in high-throughput chemistry and direct-to-biology drug discovery. Check funding terms.",
-  "isRemote": false,
-  "ogImage": null,
-  "tags": [
-    "Newcastle University",
-    "PhD Position",
-    "Medicinal Chemistry",
-    "Drug Discovery",
-    "High-Throughput Chemistry",
-    "Direct-to-Biology",
-    "Eli Lilly",
-    "EPSRC",
-    "Organic Chemistry",
-    "Synthetic Chemistry",
-    "UK Students Only",
-    "Cancer Research"
-  ],
-  "opportunityType": "phd_position",
-  "isOpen": false,
-  "disciplines": [
-    "medicinal_chemistry",
-    "organic_chemistry",
-    "physical_chemistry",
-    "synthetic_chemistry",
-    "chemical_biology",
-    "drug_discovery"
-  ],
-  "stipendCurrency": "GBP",
-  "deadlineType": "fixed",
-  "regionId": "europe",
-  "sourceType": "third_party",
-  "organization": {
-    "website": "https://www.ncl.ac.uk/",
-    "about": "Newcastle University is a prestigious Russell Group university in the UK, recognized globally for its impact in science, engineering, and societal innovation.",
-    "name": "Newcastle University",
-    "logoUrl": "https://res.cloudinary.com/dlzyp7xg/image/upload/v1786910612/images_10.png"
+  "description": "PhD studentship at Newcastle University to pioneer faster drug discovery using high-throughput chemistry and direct-to-biology testing. Funded by EPSRC and Eli Lilly Pharmaceuticals. 100% home fees covered and a minimum tax-free annual living allowance of £21,805 (2026/27 UKRI rate). Deadline: 5 October 2026.",
+  "datePosted": "2026-09-25T00:42:15.531Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "Newcastle University",
+   "sameAs": "https://www.ncl.ac.uk/",
+   "logo": "https://res.cloudinary.com/dlzyp7xg/image/upload/v1786910612/images_10.png"
   },
-  "category": "phd_position",
-  "status": "expired",
-  "id": "IWKLc3KAi4ooUIquuDE8"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "phd-studentship-medicinal-chemistry-high-throughput-chemistry-direct-to-biology-drug-discovery-newcastle"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "GB",
+    "addressLocality": "Newcastle"
+   }
+  },
+  "validThrough": "2026-10-05T22:59:59.999Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "GBP",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 21805,
+    "unitText": "MONTH"
+   }
+  }
+ }
 }

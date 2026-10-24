@@ -1,0 +1,122 @@
+{
+ "addedDate": "2026-09-17T21:31:33.585Z",
+ "clickCount": 0,
+ "city": "Brisbane",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<h2>About the Position</h2>\n<p>Griffith University (Australia) is offering a fully funded PhD position for highly motivated students interested in the intersection of conservation genomics, molecular ecology, population genetics, and biodiversity conservation.</p>\n<p>The project is led by Dr. Natalie Jones (Ecology) and Dr. Dan Bock (Molecular Ecology) within the School of Environment and Science / Australian Rivers Institute.</p>\n<h2>Research Focus</h2>\n<p>Work with cutting-edge technologies including high-quality reference genome assembly, whole-genome resequencing, population genomics, bioinformatics pipelines, and conservation genetic analyses to study the Southern Pink Underwing Moth (Phyllodes imperialis smithersi), one of Australia's most endangered insects, and inform targeted recovery efforts.</p>\n<p>The research will generate the first genomics dataset for the Southern Pink Underwing Moth, an endangered insect restricted to fragmented subtropical rainforests in northern NSW and southern Queensland. The work combines genetics, ecology, and molecular ecology to assess genetic diversity, inbreeding, long-term effective population size, and conservation priorities across the species' range.</p>\n<p>This PhD is collaborative, involving Bioplatforms Australia, Invertebrates Australia, and the NSW Department of Climate Change, Energy, the Environment and Water (DCCEEW). The project aims to inform habitat protection, rainforest regeneration, and possible genetic rescue or translocation decisions for this priority endangered invertebrate.</p>\n<h2>Eligible Backgrounds</h2>\n<ul><li>Conservation Genomics</li><li>Molecular Ecology</li><li>Population Genetics</li><li>Bioinformatics</li><li>Evolutionary Biology</li><li>Related Fields</li></ul>\n<h2>Required Skills</h2>\n<ul><li>Strong interest in conservation genomics and biodiversity</li><li>Background in molecular biology and/or bioinformatics</li><li>Experience with genomic data analysis (asset)</li><li>Programming skills in R or Python (asset)</li><li>Strong analytical and communication skills</li></ul>\n<h2>Eligibility Highlights</h2>\n<p>Applicants should have a background in genetics and/or ecology and have achieved a first-class honours degree or a master's degree.</p>\n<h2>Funding</h2>\n<p>Full funding including tuition fees and living expenses is available for this position. The scholarship covers all educational costs and provides a monthly stipend.</p>\n<p>The successful candidate will need to apply for a Griffith University Postgraduate Research Scholarship to support their stipend for three years of full-time study. The GUPRS provides a living allowance of AUD $35,656 (2026 rate, indexed annually) per annum, paid as a fortnightly stipend.</p>\n<h2>Application Process</h2>\n<p>Interested candidates should contact the supervisors for more information:</p>\n<ul><li>Dan Bock (dan.bock@griffith.edu.au)</li><li>Natalie Jones (natalie.jones@griffith.edu.au)</li></ul>\n<p>Required documents will be specified upon inquiry.</p>\n<h2>Application dates</h2>\n<table><thead><tr><th>Milestone</th><th>Date</th></tr></thead><tbody><tr><td>Application Deadline</td><td>1 September 2026</td></tr><tr><td>Griffith Scholarship Round</td><td>Application closing dates: 1 September 2026 (for 1 January 2027 commencement); 5 February 2027 (for 1 April 2027 commencement)</td></tr></tbody></table>\n<h2>Official Link</h2>\n<p>https://www.griffith.edu.au/research-study/scholarships</p>\n<h2>Important Notes</h2>\n<ul><li>Contact supervisors directly for application details.</li><li>Expressions of interest for Griffith University scholarship rounds close in April and September annually.</li><li>The project is collaborative with Bioplatforms Australia, Invertebrates Australia, and NSW DCCEEW.</li></ul><h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: 1 September 2026. Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://www.griffith.edu.au/research-study/scholarships\">Open the official application page ↗</a></p><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+ "eligibility": "worldwide",
+ "stipend": "A$35,656/year",
+ "applyLink": "https://www.griffith.edu.au/research-study/scholarships",
+ "seoTitle": "Griffith University PhD – Bioinformatics",
+ "title": "Fully Funded PhD in Conservation Genomics at Griffith University",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": true,
+ "organizationId": "dE8ve6H81X3q14SDiJvs",
+ "createdAt": "2026-09-17T21:31:33.585Z",
+ "stipendAmount": 35656,
+ "fundingType": "fully_funded",
+ "countryCode": "AU",
+ "intro": "Fully funded PhD at Griffith University in conservation genomics, focusing on the Southern Pink Underwing Moth. Involves genome assembly, population genomics, and bioinformatics. Deadline: 1 September 2026.",
+ "deadlineTimezone": "Australia/Sydney",
+ "deadline": "2026-09-01T13:59:59.999Z",
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "arc-funded-phd-conservation-genomics-uq",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "1 September 2026",
+ "verificationStatus": "verified",
+ "seoDescription": "Fully funded PhD at Griffith University in conservation genomics, focusing on the Southern Pink Underwing Moth. Involves genome assembly, population genomics.",
+ "isRemote": false,
+ "ogImage": "https://images.seeklogo.com/logo-png/61/1/griffith-university-logo-png_seeklogo-619033.png",
+ "tags": [
+  "Griffith University",
+  "PhD",
+  "Conservation Genomics",
+  "Molecular Ecology",
+  "Population Genetics",
+  "Bioinformatics",
+  "Endangered Species",
+  "Southern Pink Underwing Moth",
+  "Australia",
+  "Fully Funded"
+ ],
+ "opportunityType": "phd_position",
+ "isOpen": false,
+ "disciplines": [
+  "bioinformatics",
+  "biology",
+  "environmental_science"
+ ],
+ "stipendCurrency": "AUD",
+ "verificationScore": 100,
+ "deadlineType": "fixed",
+ "regionId": "oceania",
+ "sourceType": "official_university",
+ "stipendPeriod": "year",
+ "organization": {
+  "website": "https://www.griffith.edu.au/",
+  "about": "Griffith University is an Australian public university in Queensland, with campuses in Brisbane and the Gold Coast.",
+  "name": "Griffith University",
+  "logoUrl": "https://images.seeklogo.com/logo-png/61/1/griffith-university-logo-png_seeklogo-619033.png"
+ },
+ "category": "phd_position",
+ "status": "expired",
+ "id": "nX9mhDYRnZ0RNY7ECNLd",
+ "keywords": [
+  "Fully Funded PhD in Conservation Genomics",
+  "Griffith University positions",
+  "fully funded PhD Australia",
+  "Australia scholarships",
+  "IELTS requirement",
+  "Griffith University",
+  "PhD",
+  "Conservation Genomics"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/arc-funded-phd-conservation-genomics-uq",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/arc-funded-phd-conservation-genomics-uq#opportunity",
+  "url": "https://nextapply.co.uk/arc-funded-phd-conservation-genomics-uq",
+  "title": "Fully Funded PhD in Conservation Genomics at Griffith University",
+  "description": "Fully funded PhD at Griffith University in conservation genomics, focusing on the Southern Pink Underwing Moth. Involves genome assembly, population genomics, and bioinformatics. Deadline: 1 September 2026.",
+  "datePosted": "2026-09-17T21:31:33.585Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "Griffith University",
+   "sameAs": "https://www.griffith.edu.au/",
+   "logo": "https://images.seeklogo.com/logo-png/61/1/griffith-university-logo-png_seeklogo-619033.png"
+  },
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "arc-funded-phd-conservation-genomics-uq"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "AU",
+    "addressLocality": "Brisbane"
+   }
+  },
+  "validThrough": "2026-09-01T13:59:59.999Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "AUD",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 35656,
+    "unitText": "YEAR"
+   }
+  }
+ }
+}

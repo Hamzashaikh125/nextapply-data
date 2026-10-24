@@ -1,77 +1,128 @@
 {
-  "addedDate": "2026-08-15T00:00:00.000Z",
-  "clickCount": 0,
-  "city": "Munich",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Research Associate / Doctoral Candidate – AI-based Surgical Understanding (m/f/d)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Technical University of Munich</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Munich, Germany</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">TV-L E13 salary (€5,711+/month gross)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">30 September 2026</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://portal.mytum.de/jobs/wissenschaftler/NewsArticle_20260814_140631\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <h2>Position Overview</h2>\n<p>The Research Group MITI at TUM University Hospital is seeking a Research Associate / Doctoral Candidate (m/f/d) to support our research on AI-based understanding and representation of surgical procedures in the operating room. Our goal is to further develop our operating room into one of the most highly digitized and data-driven surgical environments in Europe. We are building a multimodal data infrastructure that captures data during real-world surgical procedures using multiple cameras, microphones, sensors, and other data sources. For this position, we are particularly interested in developing structured and real-time representations of ongoing surgical procedures, for example using scene graphs, geometric representations, and multimodal learning approaches.</p>\n<h2>Tasks and Responsibilities</h2>\n<ul><li>Participate in innovative research projects at the intersection of medicine, computer science, and artificial intelligence, working closely with experienced clinicians, engineers, and scientists.</li><li>Design and implement novel approaches for operating room and surgical procedure understanding, including scene graphs, graph-based models, and other structured representations.</li><li>Develop machine learning prototypes that integrate multiple data modalities, including 2D/3D vision, language, audio, and sensor data.</li><li>Contribute to the development and expansion of our multimodal operating room infrastructure, with a focus on supporting surgical AI applications and downstream tasks.</li><li>Publish your research in collaboration with colleagues and international research partners.</li><li>Pursue a doctoral degree at TUM as part of your research activities.</li></ul>\n<h2>Qualifications and Experience</h2>\n<ul><li>Successfully completed university degree (Master's or equivalent) in Computer Science, Mathematics, Robotics, Electrical Engineering, or another relevant technical discipline.</li><li>Strong background in computer vision, machine learning, and deep learning. Experience with geometric deep learning or graph neural networks is highly desirable.</li><li>Strong programming skills, particularly in Python, and experience with relevant frameworks and libraries such as PyTorch, PyTorch Geometric, and OpenCV.</li><li>Practical experience implementing machine learning, computer vision, robotics, or related projects, preferably with time-series data, unstructured data, graph-structured data, 2D images/video, or 3D data.</li><li>Ability and willingness to work in an interdisciplinary clinical research environment, including regular work in the operating room.</li><li>Fluent written and spoken English; good German skills are required for working in the clinical environment.</li></ul>\n<h2>Our Offer</h2>\n<ul><li>Highly interdisciplinary research environment at the interface of AI, computer vision, medical technology, and surgery.</li><li>Close collaboration with clinicians, computer scientists, engineers, and international research partners.</li><li>High degree of scientific freedom and responsibility to develop and pursue own research ideas.</li><li>Opportunity to publish work at leading international conferences and journals.</li><li>Opportunity to pursue a doctoral degree at TUM.</li><li>Employment and remuneration according to TV-L, based on the applicable requirements and qualifications.</li></ul>\n<h2>Application</h2>\n<p>Please send your application, including CV, academic transcript of records, and motivation letter to lars.wagner@tum.de.</p>\n<h2>Contact</h2>\n<p>Lars Wagner, TUM University Hospital, Department of Surgery – Research Group MITI, Trogerstr. 10, 81675 München.</p>\n<p>The position is suitable for disabled persons. Disabled applicants will be given preference in case of generally equivalent suitability, aptitude and professional performance.</p>",
-  "eligibility": "worldwide",
-  "stipend": "TV-L E13 salary (€5,711+/month gross)",
-  "applyLink": "https://portal.mytum.de/jobs/wissenschaftler/NewsArticle_20260814_140631",
-  "seoTitle": "Research Associate / Doctoral Candidate – AI-based Surgical",
+ "addedDate": "2026-08-15T00:00:00.000Z",
+ "clickCount": 0,
+ "city": "Munich",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Research Associate / Doctoral Candidate – AI-based Surgical Understanding (m/f/d)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Technical University of Munich</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Munich, Germany</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">TV-L E13 salary (€5,711+/month gross)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">30 September 2026</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://portal.mytum.de/jobs/wissenschaftler/NewsArticle_20260814_140631\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <h2>About the Position</h2>\n<p>The Research Group MITI at TUM University Hospital is seeking a Research Associate / Doctoral Candidate (m/f/d) to support our research on AI-based understanding and representation of surgical procedures in the operating room. Our goal is to further develop our operating room into one of the most highly digitized and data-driven surgical environments in Europe. We are building a multimodal data infrastructure that captures data during real-world surgical procedures using multiple cameras, microphones, sensors, and other data sources. For this position, we are particularly interested in developing structured and real-time representations of ongoing surgical procedures, for example using scene graphs, geometric representations, and multimodal learning approaches.</p>\n<h2>Tasks and Responsibilities</h2>\n<ul><li>Participate in innovative research projects at the intersection of medicine, computer science, and artificial intelligence, working closely with experienced clinicians, engineers, and scientists.</li><li>Design and implement novel approaches for operating room and surgical procedure understanding, including scene graphs, graph-based models, and other structured representations.</li><li>Develop machine learning prototypes that integrate multiple data modalities, including 2D/3D vision, language, audio, and sensor data.</li><li>Contribute to the development and expansion of our multimodal operating room infrastructure, with a focus on supporting surgical AI applications and downstream tasks.</li><li>Publish your research in collaboration with colleagues and international research partners.</li><li>Pursue a doctoral degree at TUM as part of your research activities.</li></ul>\n<h2>Qualifications and Experience</h2>\n<ul><li>Successfully completed university degree (Master's or equivalent) in Computer Science, Mathematics, Robotics, Electrical Engineering, or another relevant technical discipline.</li><li>Strong background in computer vision, machine learning, and deep learning. Experience with geometric deep learning or graph neural networks is highly desirable.</li><li>Strong programming skills, particularly in Python, and experience with relevant frameworks and libraries such as PyTorch, PyTorch Geometric, and OpenCV.</li><li>Practical experience implementing machine learning, computer vision, robotics, or related projects, preferably with time-series data, unstructured data, graph-structured data, 2D images/video, or 3D data.</li><li>Ability and willingness to work in an interdisciplinary clinical research environment, including regular work in the operating room.</li><li>Fluent written and spoken English; good German skills are required for working in the clinical environment.</li></ul>\n<h2>Our Offer</h2>\n<ul><li>Highly interdisciplinary research environment at the interface of AI, computer vision, medical technology, and surgery.</li><li>Close collaboration with clinicians, computer scientists, engineers, and international research partners.</li><li>High degree of scientific freedom and responsibility to develop and pursue own research ideas.</li><li>Opportunity to publish work at leading international conferences and journals.</li><li>Opportunity to pursue a doctoral degree at TUM.</li><li>Employment and remuneration according to TV-L, based on the applicable requirements and qualifications.</li></ul>\n<h2>Application</h2>\n<p>Please send your application, including CV, academic transcript of records, and motivation letter to lars.wagner@tum.de.</p>\n<h2>Contact</h2>\n<p>Lars Wagner, TUM University Hospital, Department of Surgery – Research Group MITI, Trogerstr. 10, 81675 München.</p>\n<p>The position is suitable for disabled persons. Disabled applicants will be given preference in case of generally equivalent suitability, aptitude and professional performance.</p><h2>Official Link</h2><p>https://portal.mytum.de/jobs/wissenschaftler/NewsArticle_20260814_140631</p><h2>Important Notes</h2><ul><li>Always confirm the full requirements and current deadline on the official website before applying.</li><li>Prepare the requested documents early — competitive awards are often decided on complete, on-time submissions.</li><li>Funding terms shown here reflect the listing at the time of publication and can be updated by the provider.</li></ul><h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: 30 September 2026. Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://portal.mytum.de/jobs/wissenschaftler/NewsArticle_20260814_140631\">Open the official application page ↗</a></p><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+ "eligibility": "worldwide",
+ "stipend": "Approx. €3,010/month gross (TV-L E13, 65% — typical doctoral level)",
+ "applyLink": "https://portal.mytum.de/jobs/wissenschaftler/NewsArticle_20260814_140631",
+ "seoTitle": "Research Associate / Doctoral Candidate – AI-based Surgical",
+ "title": "Research Associate / Doctoral Candidate – AI-based Surgical Understanding (m/f/d)",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": true,
+ "organizationId": "DJI3gxLo7kjCyGOlnJN4",
+ "createdAt": "2026-09-13T11:27:23.828Z",
+ "fundingType": "fully_funded",
+ "countryCode": "DE",
+ "intro": "The Research Group MITI at TUM University Hospital is seeking a Research Associate / Doctoral Candidate (m/f/d) to support research on AI-based understanding of surgical procedures in the operating room. TV-L salary plus doctoral degree at TUM. Fluent English and good German required.",
+ "deadlineTimezone": "Europe/Berlin",
+ "deadline": "2026-09-30T21:59:59.999Z",
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "tum-miti-research-associate-ai-surgical-understanding",
+ "deadlineText": "30 September 2026",
+ "verificationStatus": "unverified",
+ "seoDescription": "The Research Group MITI at TUM University Hospital is seeking a Research Associate / Doctoral Candidate (m/f/d) to support research on AI-based understanding.",
+ "isRemote": false,
+ "ogImage": "https://nextapply.co.uk/tum-miti-research-associate-ai-surgical-understanding/opengraph-image",
+ "tags": [
+  "TUM",
+  "Munich",
+  "Germany",
+  "Research Associate",
+  "Doctoral Candidate",
+  "PhD",
+  "Surgical AI",
+  "Computer Vision",
+  "Scene Graphs",
+  "Graph Neural Networks",
+  "Multimodal Learning",
+  "MITI"
+ ],
+ "opportunityType": "phd_position",
+ "isOpen": false,
+ "disciplines": [
+  "artificial_intelligence",
+  "computer_science",
+  "robotics",
+  "machine_learning",
+  "computer_vision",
+  "electrical_engineering"
+ ],
+ "stipendCurrency": "EUR",
+ "verificationScore": null,
+ "deadlineType": "fixed",
+ "regionId": "europe",
+ "sourceType": "third_party",
+ "stipendPeriod": "month",
+ "organization": {
+  "website": "https://www.tum.de",
+  "about": "The Technical University of Munich is a leading German technical university and a member of the German Universities Excellence Initiative.",
+  "name": "Technical University of Munich",
+  "logoUrl": null
+ },
+ "category": "phd_position",
+ "publishedAt": "2026-09-13T11:27:23.828Z",
+ "expiredAt": "2026-10-16T00:33:31.017Z",
+ "status": "expired",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "id": "0efDfxtxn65y0ixOtdHG",
+ "stipendAmount": 3010,
+ "keywords": [
+  "Research Associate / Doctoral Candidate – AI-based Surgical",
+  "Technical University of Munich positions",
+  "fully funded PhD Germany",
+  "Germany scholarships",
+  "IELTS requirement",
+  "TUM",
+  "Munich",
+  "Germany"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/tum-miti-research-associate-ai-surgical-understanding",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/tum-miti-research-associate-ai-surgical-understanding#opportunity",
+  "url": "https://nextapply.co.uk/tum-miti-research-associate-ai-surgical-understanding",
   "title": "Research Associate / Doctoral Candidate – AI-based Surgical Understanding (m/f/d)",
-  "fundingStatus": "fully_funded",
-  "ieltsRequired": true,
-  "organizationId": "DJI3gxLo7kjCyGOlnJN4",
-  "createdAt": "2026-09-13T11:27:23.828Z",
-  "stipendAmount": null,
-  "fundingType": "fully_funded",
-  "countryCode": "DE",
-  "intro": "The Research Group MITI at TUM University Hospital is seeking a Research Associate / Doctoral Candidate (m/f/d) to support research on AI-based understanding of surgical procedures in the operating room. TV-L salary plus doctoral degree at TUM. Fluent English and good German required.",
-  "deadlineTimezone": "Europe/Berlin",
-  "deadline": "2026-09-30T21:59:59.999Z",
-  "degreeLevels": [
-    "phd"
-  ],
-  "isFeatured": false,
-  "slug": "tum-miti-research-associate-ai-surgical-understanding",
-  "deadlineText": "30 September 2026",
-  "verificationStatus": "unverified",
-  "seoDescription": "The Research Group MITI at TUM University Hospital is seeking a Research Associate / Doctoral Candidate (m/f/d) to support research on AI-based understanding.",
-  "isRemote": false,
-  "ogImage": null,
-  "tags": [
-    "TUM",
-    "Munich",
-    "Germany",
-    "Research Associate",
-    "Doctoral Candidate",
-    "PhD",
-    "Surgical AI",
-    "Computer Vision",
-    "Scene Graphs",
-    "Graph Neural Networks",
-    "Multimodal Learning",
-    "MITI"
-  ],
-  "opportunityType": "phd_position",
-  "isOpen": false,
-  "disciplines": [
-    "artificial_intelligence",
-    "computer_science",
-    "robotics",
-    "machine_learning",
-    "computer_vision",
-    "electrical_engineering"
-  ],
-  "stipendCurrency": null,
-  "verificationScore": null,
-  "deadlineType": "fixed",
-  "regionId": "europe",
-  "sourceType": "third_party",
-  "stipendPeriod": null,
-  "organization": {
-    "website": "https://www.tum.de",
-    "about": "The Technical University of Munich is a leading German technical university and a member of the German Universities Excellence Initiative.",
-    "name": "Technical University of Munich",
-    "logoUrl": null
+  "description": "The Research Group MITI at TUM University Hospital is seeking a Research Associate / Doctoral Candidate (m/f/d) to support research on AI-based understanding of surgical procedures in the operating room. TV-L salary plus doctoral degree at TUM. Fluent English and good German required.",
+  "datePosted": "2026-09-13T11:27:23.828Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "Technical University of Munich",
+   "sameAs": "https://www.tum.de"
   },
-  "category": "phd_position",
-  "publishedAt": "2026-09-13T11:27:23.828Z",
-  "expiredAt": "2026-10-16T00:33:31.017Z",
-  "status": "expired",
-  "updatedAt": "2026-10-23",
-  "id": "0efDfxtxn65y0ixOtdHG"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "tum-miti-research-associate-ai-surgical-understanding"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "DE",
+    "addressLocality": "Munich"
+   }
+  },
+  "validThrough": "2026-09-30T21:59:59.999Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "EUR",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 3010,
+    "unitText": "MONTH"
+   }
+  }
+ }
 }

@@ -1,69 +1,121 @@
 {
-  "addedDate": "2026-08-22T20:42:45.108Z",
-  "city": "Coventry",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded PhD Studentship: Electromagnetic Sensing for High-Temperature Microstructural Evolution (WMG)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">University of Warwick</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Coventry, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">UKRI rate</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">25 September 2026</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://warwick.ac.uk/fac/arts/modernlanguages/applying/postgraduate/fellowships/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <h2>Basic Information</h2>\n<ul><li><strong>Full Project Title:</strong> Electromagnetic Sensing for High-Temperature Microstructural Evolution</li><li><strong>Host Institution:</strong> University of Warwick</li><li><strong>Department:</strong> WMG - Advanced Steel Research Centre (ASRC)</li><li><strong>Study Level:</strong> PhD</li><li><strong>Start Date:</strong> 2026/27</li><li><strong>Funding Type:</strong> Fully Funded (UK students)</li><li><strong>Stipend:</strong> UKRI rate</li><li><strong>Eligibility:</strong> UK Students only</li><li><strong>Application Deadline:</strong> 25 September 2026</li></ul>\n<h2>Project Description</h2>\n<p>This PhD redefines electromagnetic sensing by moving beyond magnetic permeability-dominated approaches to establish a conductivity-driven eddy-current framework for tracking microstructural evolution at high temperature. The project addresses a fundamental challenge in electromagnetic sensing: how to quantitatively link electrical conductivity-dominated eddy current responses to microstructural evolution during high-temperature processing. The project includes design and optimisation of kHz–MHz eddy current sensors suitable for high-temperature environments.</p>\n<h2>How to Apply</h2>\n<p>Apply via the relevant Engineering/Materials PhD course.</p>",
-  "eligibility": "uk_only",
-  "stipend": "UKRI rate",
-  "applyLink": "https://warwick.ac.uk/fac/arts/modernlanguages/applying/postgraduate/fellowships/",
-  "seoTitle": "PhD: Electromagnetic Sensing for High-Temperature",
+ "addedDate": "2026-08-22T20:42:45.108Z",
+ "city": "Coventry",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<h2>About the Position</h2><p>This PhD redefines electromagnetic sensing by establishing a conductivity-driven eddy-current framework for tracking microstructural evolution at high temperature.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded PhD Studentship: Electromagnetic Sensing for High-Temperature Microstructural Evolution (WMG)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">University of Warwick</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Coventry, United Kingdom</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">UKRI rate</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">25 September 2026</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://warwick.ac.uk/fac/arts/modernlanguages/applying/postgraduate/fellowships/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <h2>Basic Information</h2>\n<ul><li><strong>Full Project Title:</strong> Electromagnetic Sensing for High-Temperature Microstructural Evolution</li><li><strong>Host Institution:</strong> University of Warwick</li><li><strong>Department:</strong> WMG - Advanced Steel Research Centre (ASRC)</li><li><strong>Study Level:</strong> PhD</li><li><strong>Start Date:</strong> 2026/27</li><li><strong>Funding Type:</strong> Fully Funded (UK students)</li><li><strong>Stipend:</strong> UKRI rate</li><li><strong>Eligibility:</strong> UK Students only</li><li><strong>Application Deadline:</strong> 25 September 2026</li></ul>\n<h2>Project Description</h2>\n<p>This PhD redefines electromagnetic sensing by moving beyond magnetic permeability-dominated approaches to establish a conductivity-driven eddy-current framework for tracking microstructural evolution at high temperature. The project addresses a fundamental challenge in electromagnetic sensing: how to quantitatively link electrical conductivity-dominated eddy current responses to microstructural evolution during high-temperature processing. The project includes design and optimisation of kHz–MHz eddy current sensors suitable for high-temperature environments.</p>\n<h2>How to Apply</h2>\n<p>Apply via the relevant Engineering/Materials PhD course.</p><h2>Official Link</h2><p>https://warwick.ac.uk/fac/arts/modernlanguages/applying/postgraduate/fellowships/</p><h2>Important Notes</h2><ul><li>Always confirm the full requirements and current deadline on the official website before applying.</li><li>Prepare the requested documents early — competitive awards are often decided on complete, on-time submissions.</li><li>Funding terms shown here reflect the listing at the time of publication and can be updated by the provider.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+ "eligibility": "uk_only",
+ "stipend": "£21,805/year (UKRI minimum stipend 2026/27)",
+ "applyLink": "https://warwick.ac.uk/fac/arts/modernlanguages/applying/postgraduate/fellowships/",
+ "seoTitle": "PhD: Electromagnetic Sensing for High-Temperature",
+ "title": "Fully Funded PhD Studentship: Electromagnetic Sensing for High-Temperature Microstructural Evolution (WMG)",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": true,
+ "organizationId": "c5hRooNCu5EoKUBwrHqH",
+ "createdAt": "2026-08-22T20:42:45.108Z",
+ "stipendAmount": 21805,
+ "fundingType": "fully_funded",
+ "countryCode": "GB",
+ "intro": "This PhD redefines electromagnetic sensing by establishing a conductivity-driven eddy-current framework for tracking microstructural evolution at high temperature.",
+ "deadlineTimezone": "Europe/London",
+ "deadline": "2026-09-25T22:59:59.999Z",
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "phd-electromagnetic-sensing-microstructural-wmg-warwick",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "25 September 2026",
+ "publishedAt": "2026-08-22T20:42:45.108Z",
+ "verificationStatus": "verified",
+ "seoDescription": "This PhD redefines electromagnetic sensing by establishing a conductivity-driven eddy-current framework for tracking microstructural evolution at high.",
+ "isRemote": false,
+ "ogImage": "https://wsrv.nl/?url=https%3A%2F%2Fmedia.studentcrowd.net%2Fq91%2Funi-logos%2F294.jpg%3Fq%3D1740003616&output=png",
+ "tags": [
+  "Electromagnetic Sensing",
+  "Eddy Current",
+  "Microstructural Evolution",
+  "ASRC",
+  "WMG",
+  "University of Warwick",
+  "PhD",
+  "Fully Funded",
+  "UK"
+ ],
+ "opportunityType": "phd_position",
+ "isOpen": false,
+ "disciplines": [
+  "electronic_engineering",
+  "materials_science",
+  "engineering"
+ ],
+ "stipendCurrency": "GBP",
+ "verificationScore": 100,
+ "deadlineType": "fixed",
+ "regionId": "europe",
+ "sourceType": "official_university",
+ "stipendPeriod": "year",
+ "organization": {
+  "website": "https://warwick.ac.uk/",
+  "about": "The University of Warwick is one of those places that quietly gets everything right. It’s a Russell Group university with a beautiful, green campus, strong research, and a big reputation in business, economics, maths, and the arts. Fun fact — it’s actually closer to Coventry than Warwick, which adds a bit of character. Students here are ambitious but friendly, and there’s a real focus on employability and real-world skills. It feels modern, forward-thinking, and welcoming",
+  "name": "University of Warwick",
+  "logoUrl": "https://wsrv.nl/?url=https%3A%2F%2Fmedia.studentcrowd.net%2Fq91%2Funi-logos%2F294.jpg%3Fq%3D1740003616&output=png"
+ },
+ "category": "phd_position",
+ "status": "expired",
+ "id": "oo4CZwshdt4PD4K0Icod",
+ "keywords": [
+  "Fully Funded PhD Studentship: Electromagnetic Sensing for",
+  "University of Warwick positions",
+  "fully funded PhD UK",
+  "UK scholarships",
+  "IELTS requirement",
+  "Electromagnetic Sensing",
+  "Eddy Current",
+  "Microstructural Evolution"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/phd-electromagnetic-sensing-microstructural-wmg-warwick",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/phd-electromagnetic-sensing-microstructural-wmg-warwick#opportunity",
+  "url": "https://nextapply.co.uk/phd-electromagnetic-sensing-microstructural-wmg-warwick",
   "title": "Fully Funded PhD Studentship: Electromagnetic Sensing for High-Temperature Microstructural Evolution (WMG)",
-  "fundingStatus": "fully_funded",
-  "ieltsRequired": true,
-  "organizationId": "c5hRooNCu5EoKUBwrHqH",
-  "createdAt": "2026-08-22T20:42:45.108Z",
-  "stipendAmount": null,
-  "fundingType": "fully_funded",
-  "countryCode": "GB",
-  "intro": "This PhD redefines electromagnetic sensing by establishing a conductivity-driven eddy-current framework for tracking microstructural evolution at high temperature.",
-  "deadlineTimezone": "Europe/London",
-  "deadline": "2026-09-25T22:59:59.999Z",
-  "degreeLevels": [
-    "phd"
-  ],
-  "isFeatured": false,
-  "slug": "phd-electromagnetic-sensing-microstructural-wmg-warwick",
-  "updatedAt": "2026-10-23",
-  "deadlineText": "25 September 2026",
-  "publishedAt": "2026-08-22T20:42:45.108Z",
-  "verificationStatus": "verified",
-  "seoDescription": "This PhD redefines electromagnetic sensing by establishing a conductivity-driven eddy-current framework for tracking microstructural evolution at high.",
-  "isRemote": false,
-  "ogImage": "https://wsrv.nl/?url=https%3A%2F%2Fmedia.studentcrowd.net%2Fq91%2Funi-logos%2F294.jpg%3Fq%3D1740003616&output=png",
-  "tags": [
-    "Electromagnetic Sensing",
-    "Eddy Current",
-    "Microstructural Evolution",
-    "ASRC",
-    "WMG",
-    "University of Warwick",
-    "PhD",
-    "Fully Funded",
-    "UK"
-  ],
-  "opportunityType": "phd_position",
-  "isOpen": false,
-  "disciplines": [
-    "electronic_engineering",
-    "materials_science",
-    "engineering"
-  ],
-  "stipendCurrency": null,
-  "verificationScore": 100,
-  "deadlineType": "fixed",
-  "regionId": "europe",
-  "sourceType": "official_university",
-  "stipendPeriod": null,
-  "organization": {
-    "website": "https://warwick.ac.uk/",
-    "about": "The University of Warwick is one of those places that quietly gets everything right. It’s a Russell Group university with a beautiful, green campus, strong research, and a big reputation in business, economics, maths, and the arts. Fun fact — it’s actually closer to Coventry than Warwick, which adds a bit of character. Students here are ambitious but friendly, and there’s a real focus on employability and real-world skills. It feels modern, forward-thinking, and welcoming",
-    "name": "University of Warwick",
-    "logoUrl": "https://wsrv.nl/?url=https%3A%2F%2Fmedia.studentcrowd.net%2Fq91%2Funi-logos%2F294.jpg%3Fq%3D1740003616&output=png"
+  "description": "This PhD redefines electromagnetic sensing by establishing a conductivity-driven eddy-current framework for tracking microstructural evolution at high temperature.",
+  "datePosted": "2026-08-22T20:42:45.108Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "University of Warwick",
+   "sameAs": "https://warwick.ac.uk/",
+   "logo": "https://wsrv.nl/?url=https%3A%2F%2Fmedia.studentcrowd.net%2Fq91%2Funi-logos%2F294.jpg%3Fq%3D1740003616&output=png"
   },
-  "category": "phd_position",
-  "status": "expired",
-  "id": "oo4CZwshdt4PD4K0Icod"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "phd-electromagnetic-sensing-microstructural-wmg-warwick"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "GB",
+    "addressLocality": "Coventry"
+   }
+  },
+  "validThrough": "2026-09-25T22:59:59.999Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "GBP",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 21805,
+    "unitText": "YEAR"
+   }
+  }
+ }
 }

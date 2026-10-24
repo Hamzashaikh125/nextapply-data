@@ -1,74 +1,128 @@
 {
+ "title": "PhD in AI for Biomedicine 2027 — AITHYRA Vienna, Austria",
+ "status": "published",
+ "slug": "phd-ai-biomedicine-aithyra-vienna-2027",
+ "isOpen": true,
+ "category": "phd_position",
+ "organizationId": "UhokoNoGm4Z8jmewW2e6",
+ "organization": {
+  "id": "UhokoNoGm4Z8jmewW2e6",
+  "slug": "aithyra-austrian-academy-sciences",
+  "name": "AITHYRA — Austrian Academy of Sciences",
+  "logoUrl": "https://www.oeaw.ac.at/fileadmin/Institute/BAI/img/Season_Greetings_2024/2025/AITHYRA_Corporate_Identity/OEAW_AITHYRA_Logo_Schwarz_auf_Weiss.jpg",
+  "website": "https://www.aithyra.at/",
+  "about": "AITHYRA is the Research Institute for Biomedical Artificial Intelligence of the Austrian Academy of Sciences in Vienna."
+ },
+ "regionId": "europe",
+ "countryCode": "AT",
+ "city": "Vienna",
+ "deadline": "2026-11-01T23:59:00.000Z",
+ "deadlineType": "fixed",
+ "deadlineText": "1 November 2026",
+ "degreeLevels": [
+  "phd"
+ ],
+ "disciplines": [
+  "artificial_intelligence",
+  "machine_learning",
+  "biology",
+  "chemistry",
+  "medical_science"
+ ],
+ "subjects": [
+  "AI for Biomedicine",
+  "Machine Learning",
+  "Experimental Biology",
+  "Laboratory Automation"
+ ],
+ "fundingType": "fully_funded",
+ "stipend": "Minimum €2,832.10 gross/month, paid 14 times/year",
+ "intro": "Fully funded PhD in AI for Biomedicine at AITHYRA Vienna, at the intersection of machine learning, experimental biology, chemistry and medicine.",
+ "description": "<h2>About the Position</h2>\n<p>AITHYRA, the Research Institute for Biomedical Artificial Intelligence of the Austrian Academy of Sciences in Vienna, invites applications for its International PhD Programme in AI for Biomedicine. The next PhD Programme, together with partners TU Wien, Uni Wien, and Meduni Wien, will start in September 2027.</p>\n<p>The programme offers fully funded four-year employment positions at the intersection of machine learning, experimental biology, chemistry, medicine, and laboratory automation.</p>\n\n<h2>Research Position Overview</h2>\n<p>PhD students at AITHYRA work on transformative research questions in biomedical AI, with access to state-of-the-art facilities and interdisciplinary supervision. The programme welcomes applicants from all nationalities and backgrounds.</p>\n\n<h2>Research Areas</h2>\n<ul>\n<li>Machine learning for biomedical data</li>\n<li>Experimental biology and chemistry</li>\n<li>Laboratory automation</li>\n<li>Systems medicine and precision health</li>\n<li>AI-driven drug discovery</li>\n</ul>\n\n<h2>Funding and Duration</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Award or position</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Fully funded PhD employment</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Stipend / salary</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Minimum €2,832.10 gross/month (paid 14 times/year)</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Duration</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Four years</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Start date</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">September 2027</td></tr>\n</tbody>\n</table>\n\n<h2>Eligibility and Requirements</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Criterion</th><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Requirement</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Applicant eligibility</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">All nationalities welcome</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Academic preparation</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">MSc or equivalent in life sciences, computer science, or related field</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Language</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">English proficiency required</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Further conditions</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Strong interest in AI and biomedicine</td></tr>\n</tbody>\n</table>\n\n<h2>Application dates</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Recruitment status</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Open</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Deadline</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">1 November 2026</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Hearing dates</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">27–29 January 2027</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Location</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Vienna, Austria</td></tr>\n</tbody>\n</table>\n\n<h2>About AITHYRA</h2>\n<p>AITHYRA is the Research Institute for Biomedical Artificial Intelligence of the Austrian Academy of Sciences in Vienna. It brings together machine learning, experimental biology, chemistry, and medicine to transform human health research.</p>\n\n<p><strong>Official details:</strong> <a href=\"https://aithyra.at/about/phd-program\" rel=\"noopener noreferrer\">Read the programme or project information</a></p>\n<p><strong>Application route:</strong> <a href=\"https://aithyra.at/about/phd-program\" rel=\"noopener noreferrer\">Follow the official application instructions</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Official Link</h2><p>Full announcement and application portal: <a href=\"https://aithyra.at/about/phd-program\" target=\"_blank\" rel=\"noopener noreferrer\">https://aithyra.at/about/phd-program</a></p><p>Source: aithyra.at - the details in this listing were recorded from this official page.</p><h2>Important Notes</h2><ul><li>Application deadline: 1 November 2026 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: 1 November 2026. Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://aithyra.at/about/phd-program\">Open the official application page ↗</a></p><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+ "tags": [
+  "phd",
+  "artificial-intelligence",
+  "biomedicine",
+  "austria",
+  "fully-funded",
+  "2027",
+  "AITHYRA — Austrian Academy of Sciences",
+  "Vienna",
+  "Fully Funded",
+  "Artificial_Intelligence",
+  "Machine_Learning",
+  "Biology"
+ ],
+ "applyLink": "https://aithyra.at/about/phd-program",
+ "isFeatured": false,
+ "ieltsRequired": true,
+ "eligibility": "worldwide",
+ "seoTitle": "PhD in AI for Biomedicine 2027 at AITHYRA Vienna",
+ "seoDescription": "Fully funded PhD in AI for Biomedicine at AITHYRA Vienna. €2,832+ gross/month, 4-year employment. All nationalities. Apply by 1 Nov 2026.",
+ "ogImage": "https://www.oeaw.ac.at/fileadmin/Institute/BAI/img/Season_Greetings_2024/2025/AITHYRA_Corporate_Identity/OEAW_AITHYRA_Logo_Schwarz_auf_Weiss.jpg",
+ "verificationStatus": "unverified",
+ "addedDate": "2026-10-15T13:58:50.369Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-15T13:58:50.537Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-15T13:58:50.537Z",
+ "fundingStatus": "fully_funded",
+ "id": "G0zM8rFwgOtAg3oz6wCF",
+ "stipendAmount": 2832.1,
+ "stipendCurrency": "EUR",
+ "stipendPeriod": "year",
+ "opportunityType": "phd_position",
+ "keywords": [
+  "PhD in AI for Biomedicine 2027 — AITHYRA Vienna, Austria",
+  "AITHYRA — Austrian Academy of Sciences positions",
+  "fully funded PhD Austria",
+  "Austria scholarships 2027",
+  "PhD 2027 intake",
+  "IELTS requirement",
+  "phd",
+  "artificial-intelligence",
+  "biomedicine"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/phd-ai-biomedicine-aithyra-vienna-2027",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/phd-ai-biomedicine-aithyra-vienna-2027#opportunity",
+  "url": "https://nextapply.co.uk/phd-ai-biomedicine-aithyra-vienna-2027",
   "title": "PhD in AI for Biomedicine 2027 — AITHYRA Vienna, Austria",
-  "status": "published",
-  "slug": "phd-ai-biomedicine-aithyra-vienna-2027",
-  "isOpen": true,
-  "category": "phd_position",
-  "organizationId": "UhokoNoGm4Z8jmewW2e6",
-  "organization": {
-    "id": "UhokoNoGm4Z8jmewW2e6",
-    "slug": "aithyra-austrian-academy-sciences",
-    "name": "AITHYRA — Austrian Academy of Sciences",
-    "logoUrl": "https://www.oeaw.ac.at/fileadmin/Institute/BAI/img/Season_Greetings_2024/2025/AITHYRA_Corporate_Identity/OEAW_AITHYRA_Logo_Schwarz_auf_Weiss.jpg",
-    "website": "https://www.aithyra.at/",
-    "about": "AITHYRA is the Research Institute for Biomedical Artificial Intelligence of the Austrian Academy of Sciences in Vienna."
+  "description": "Fully funded PhD in AI for Biomedicine at AITHYRA Vienna, at the intersection of machine learning, experimental biology, chemistry and medicine.",
+  "datePosted": "2026-10-15T13:58:50.537Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "AITHYRA — Austrian Academy of Sciences",
+   "sameAs": "https://www.aithyra.at/",
+   "logo": "https://www.oeaw.ac.at/fileadmin/Institute/BAI/img/Season_Greetings_2024/2025/AITHYRA_Corporate_Identity/OEAW_AITHYRA_Logo_Schwarz_auf_Weiss.jpg"
   },
-  "regionId": "europe",
-  "countryCode": "AT",
-  "city": "Vienna",
-  "deadline": "2026-11-01T23:59:00.000Z",
-  "deadlineType": "fixed",
-  "deadlineText": "1 November 2026",
-  "degreeLevels": [
-    "phd"
-  ],
-  "disciplines": [
-    "artificial_intelligence",
-    "machine_learning",
-    "biology",
-    "chemistry",
-    "medical_science"
-  ],
-  "subjects": [
-    "AI for Biomedicine",
-    "Machine Learning",
-    "Experimental Biology",
-    "Laboratory Automation"
-  ],
-  "fundingType": "fully_funded",
-  "stipend": "Minimum €2,832.10 gross/month, paid 14 times/year",
-  "intro": "Fully funded PhD in AI for Biomedicine at AITHYRA Vienna, at the intersection of machine learning, experimental biology, chemistry and medicine.",
-  "description": "<h2>Project Overview</h2>\n<p>AITHYRA, the Research Institute for Biomedical Artificial Intelligence of the Austrian Academy of Sciences in Vienna, invites applications for its International PhD Programme in AI for Biomedicine. The next PhD Programme, together with partners TU Wien, Uni Wien, and Meduni Wien, will start in September 2027.</p>\n<p>The programme offers fully funded four-year employment positions at the intersection of machine learning, experimental biology, chemistry, medicine, and laboratory automation.</p>\n\n<h2>Research position overview</h2>\n<p>PhD students at AITHYRA work on transformative research questions in biomedical AI, with access to state-of-the-art facilities and interdisciplinary supervision. The programme welcomes applicants from all nationalities and backgrounds.</p>\n\n<h2>Research Areas</h2>\n<ul>\n<li>Machine learning for biomedical data</li>\n<li>Experimental biology and chemistry</li>\n<li>Laboratory automation</li>\n<li>Systems medicine and precision health</li>\n<li>AI-driven drug discovery</li>\n</ul>\n\n<h2>Funding and duration</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Award or position</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Fully funded PhD employment</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Stipend / salary</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Minimum €2,832.10 gross/month (paid 14 times/year)</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Duration</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Four years</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Start date</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">September 2027</td></tr>\n</tbody>\n</table>\n\n<h2>Eligibility and Requirements</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Criterion</th><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Requirement</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Applicant eligibility</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">All nationalities welcome</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Academic preparation</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">MSc or equivalent in life sciences, computer science, or related field</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Language</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">English proficiency required</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Further conditions</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Strong interest in AI and biomedicine</td></tr>\n</tbody>\n</table>\n\n<h2>Application dates</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Recruitment status</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Open</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Deadline</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">1 November 2026</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Hearing dates</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">27–29 January 2027</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Location</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Vienna, Austria</td></tr>\n</tbody>\n</table>\n\n<h2>About AITHYRA</h2>\n<p>AITHYRA is the Research Institute for Biomedical Artificial Intelligence of the Austrian Academy of Sciences in Vienna. It brings together machine learning, experimental biology, chemistry, and medicine to transform human health research.</p>\n\n<p><strong>Official details:</strong> <a href=\"https://aithyra.at/about/phd-program\" rel=\"noopener noreferrer\">Read the programme or project information</a></p>\n<p><strong>Application route:</strong> <a href=\"https://aithyra.at/about/phd-program\" rel=\"noopener noreferrer\">Follow the official application instructions</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Official Link</h2><p>Full announcement and application portal: <a href=\"https://aithyra.at/about/phd-program\" target=\"_blank\" rel=\"noopener noreferrer\">https://aithyra.at/about/phd-program</a></p><p>Source: aithyra.at - the details in this listing were recorded from this official page.</p><h2>Important Notes</h2><ul><li>Application deadline: 1 November 2026 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: 1 November 2026. Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://aithyra.at/about/phd-program\">Open the official application page ↗</a></p><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
-  "tags": [
-    "phd",
-    "artificial-intelligence",
-    "biomedicine",
-    "austria",
-    "fully-funded",
-    "2027",
-    "AITHYRA — Austrian Academy of Sciences",
-    "Vienna",
-    "Fully Funded",
-    "Artificial_Intelligence",
-    "Machine_Learning",
-    "Biology"
-  ],
-  "applyLink": "https://aithyra.at/about/phd-program",
-  "isFeatured": false,
-  "ieltsRequired": true,
-  "eligibility": "worldwide",
-  "seoTitle": "PhD in AI for Biomedicine 2027 at AITHYRA Vienna",
-  "seoDescription": "Fully funded PhD in AI for Biomedicine at AITHYRA Vienna. €2,832+ gross/month, 4-year employment. All nationalities. Apply by 1 Nov 2026.",
-  "ogImage": "https://www.oeaw.ac.at/fileadmin/Institute/BAI/img/Season_Greetings_2024/2025/AITHYRA_Corporate_Identity/OEAW_AITHYRA_Logo_Schwarz_auf_Weiss.jpg",
-  "verificationStatus": "unverified",
-  "addedDate": "2026-10-15T13:58:50.369Z",
-  "clickCount": 0,
-  "createdAt": "2026-10-15T13:58:50.537Z",
-  "updatedAt": "2026-10-23T14:21:38.000Z",
-  "publishedAt": "2026-10-15T13:58:50.537Z",
-  "fundingStatus": "fully_funded",
-  "id": "G0zM8rFwgOtAg3oz6wCF",
-  "stipendAmount": 2832.1,
-  "stipendCurrency": "EUR",
-  "stipendPeriod": "year"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "phd-ai-biomedicine-aithyra-vienna-2027"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "AT",
+    "addressLocality": "Vienna"
+   }
+  },
+  "validThrough": "2026-11-01T23:59:00.000Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "EUR",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 2832.1,
+    "unitText": "YEAR"
+   }
+  }
+ }
 }

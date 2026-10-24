@@ -1,74 +1,125 @@
 {
-  "addedDate": "2026-09-23T12:05:59.294Z",
-  "clickCount": 0,
-  "city": "Hamilton",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "description": "<h2>Programme Overview</h2>\n<p>Two fully funded PhD positions are available in the Laboratory for Multiscale Geomechanics in the Department of Civil Engineering at McMaster University. Preferred start dates: January 2027 or September 2027. Some flexibility may be possible. The positions are particularly suitable for candidates interested in mechanics-based modelling, numerical implementation, and the fundamental behaviour of soils, rocks, granular materials, or other geomaterials.</p>\n<h2>Research Focus</h2>\n<p>Our group develops advanced computational and theoretical methods for understanding the behaviour of geomaterials across multiple spatial scales and under coupled physical processes. Our research lies at the intersection of:</p>\n<ul><li>Continuum and solid mechanics</li><li>Computational mechanics and numerical methods</li><li>Constitutive modelling</li><li>Multiscale mechanics</li><li>Geomechanics</li></ul>\n<p>Potential research topics include large-deformation modeling of geostructures, thermo-hydro-mechanical modeling of geomaterials, and small-scale simulations of porous multiphase materials.</p>\n<h2>Funding and Benefits</h2>\n<ul><li>$21,000 CAD/year studentship.</li><li>Competitive scholarships will be additional.</li><li>Fully funded PhD positions.</li><li>Access to state-of-the-art research facilities at McMaster University.</li><li>Opportunity to contribute to a growing research program in computational geomechanics.</li></ul>\n<h2>Eligibility Criteria</h2>\n<ul><li>A degree in civil engineering, mechanical engineering, materials engineering, or a closely related field.</li><li>Strong preparation in continuum mechanics, solid mechanics, computational mechanics, numerical methods, or a related area.</li><li>Evidence of research potential through a thesis, research project, publication, technical report, software development, or comparable experience.</li><li>An interest in applying mechanics and computational methods to geomechanics.</li><li>Previous research experience in geomechanics is an asset but is not required.</li><li>Experience implementing numerical methods such as FEM, DEM, MPM, SPH, or molecular dynamics (MD) is beneficial but not required.</li></ul>\n<h2>Application Process</h2>\n<p>Please email the following materials to eghbalm@mcmaster.ca:</p>\n<ol><li>A curriculum vitae.</li><li>Unofficial academic transcripts.</li><li>A statement of no more than 500 words describing your research interests, relevant preparation, the types of problems you would like to investigate, and how this opportunity aligns with your academic goals.</li><li>The names of two potential academic referees; reference letters will be requested only from candidates who proceed to a later stage.</li></ol>\n<p>Please use the following email subject: PhD Geomechanics – Your Name – January/September 2027</p>\n<h2>About McMaster University - Laboratory for Multiscale Geomechanics</h2><p>The Laboratory for Multiscale Geomechanics is associated with civil engineering research at McMaster University in Canada. Its research context includes understanding geomaterials and their behaviour through computational and multiscale approaches. Prospective researchers should consult McMaster's official laboratory and faculty information for current projects, supervision arrangements and available postgraduate research opportunities.</p><p>Official website: <a href=\"https://www.mcmaster.ca\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.mcmaster.ca</a></p><h2>Application dates</h2>\n<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Milestone</th><th style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Date</th></tr></thead><tbody><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Open until filled</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Preferred Start Dates</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">January 2027 or September 2027</td></tr></tbody></table>\n<h2>Official Link</h2>\n<p>https://www.egu.eu/jobs/8406/fully-funded-phd-opportunities-in-geomechanics/</p>\n<h2>Contact</h2><ul><li>Email: <a href=\"mailto:eghbalm@mcmaster.ca\">eghbalm@mcmaster.ca</a></li></ul><p>Questions about this position, eligibility or the application process should be sent to the contacts above or raised through the channel given on the official announcement page.</p><h2>Important Notes</h2>\n<ul><li>Rolling review until filled. Apply as soon as possible.</li><li>Competitive scholarships will be additional to the base studentship.</li><li>Open to all nationalities.</li><li>Applications from students with strong backgrounds in continuum mechanics, computational mechanics, or related areas are encouraged.</li></ul>\n<h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: Open until filled - Apply as soon as possible. Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://www.egu.eu/jobs/8406/fully-funded-phd-opportunities-in-geomechanics/\">Open the official application page ↗</a></p><h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
-  "eligibility": "worldwide",
-  "stipend": "$21,000/year",
-  "applyLink": "https://www.egu.eu/jobs/8406/fully-funded-phd-opportunities-in-geomechanics/",
-  "seoTitle": "Fully Funded PhD Opportunities in Geomechanics at McMaster",
+ "addedDate": "2026-09-23T12:05:59.294Z",
+ "clickCount": 0,
+ "city": "Hamilton",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<h2>About the Position</h2>\n<p>Two fully funded PhD positions are available in the Laboratory for Multiscale Geomechanics in the Department of Civil Engineering at McMaster University. Preferred start dates: January 2027 or September 2027. Some flexibility may be possible. The positions are particularly suitable for candidates interested in mechanics-based modelling, numerical implementation, and the fundamental behaviour of soils, rocks, granular materials, or other geomaterials.</p>\n<h2>Research Focus</h2>\n<p>Our group develops advanced computational and theoretical methods for understanding the behaviour of geomaterials across multiple spatial scales and under coupled physical processes. Our research lies at the intersection of:</p>\n<ul><li>Continuum and solid mechanics</li><li>Computational mechanics and numerical methods</li><li>Constitutive modelling</li><li>Multiscale mechanics</li><li>Geomechanics</li></ul>\n<p>Potential research topics include large-deformation modeling of geostructures, thermo-hydro-mechanical modeling of geomaterials, and small-scale simulations of porous multiphase materials.</p>\n<h2>Funding and Benefits</h2>\n<ul><li>$21,000 CAD/year studentship.</li><li>Competitive scholarships will be additional.</li><li>Fully funded PhD positions.</li><li>Access to state-of-the-art research facilities at McMaster University.</li><li>Opportunity to contribute to a growing research program in computational geomechanics.</li></ul>\n<h2>Eligibility and Requirements</h2>\n<ul><li>A degree in civil engineering, mechanical engineering, materials engineering, or a closely related field.</li><li>Strong preparation in continuum mechanics, solid mechanics, computational mechanics, numerical methods, or a related area.</li><li>Evidence of research potential through a thesis, research project, publication, technical report, software development, or comparable experience.</li><li>An interest in applying mechanics and computational methods to geomechanics.</li><li>Previous research experience in geomechanics is an asset but is not required.</li><li>Experience implementing numerical methods such as FEM, DEM, MPM, SPH, or molecular dynamics (MD) is beneficial but not required.</li></ul>\n<h2>Application Process</h2>\n<p>Please email the following materials to eghbalm@mcmaster.ca:</p>\n<ol><li>A curriculum vitae.</li><li>Unofficial academic transcripts.</li><li>A statement of no more than 500 words describing your research interests, relevant preparation, the types of problems you would like to investigate, and how this opportunity aligns with your academic goals.</li><li>The names of two potential academic referees; reference letters will be requested only from candidates who proceed to a later stage.</li></ol>\n<p>Please use the following email subject: PhD Geomechanics – Your Name – January/September 2027</p>\n<h2>About McMaster University - Laboratory for Multiscale Geomechanics</h2><p>The Laboratory for Multiscale Geomechanics is associated with civil engineering research at McMaster University in Canada. Its research context includes understanding geomaterials and their behaviour through computational and multiscale approaches. Prospective researchers should consult McMaster's official laboratory and faculty information for current projects, supervision arrangements and available postgraduate research opportunities.</p><p>Official website: <a href=\"https://www.mcmaster.ca\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.mcmaster.ca</a></p><h2>Application dates</h2>\n<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Milestone</th><th style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Date</th></tr></thead><tbody><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Open until filled</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Preferred Start Dates</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">January 2027 or September 2027</td></tr></tbody></table>\n<h2>Official Link</h2>\n<p>https://www.egu.eu/jobs/8406/fully-funded-phd-opportunities-in-geomechanics/</p>\n<h2>Contact</h2><ul><li>Email: <a href=\"mailto:eghbalm@mcmaster.ca\">eghbalm@mcmaster.ca</a></li></ul><p>Questions about this position, eligibility or the application process should be sent to the contacts above or raised through the channel given on the official announcement page.</p><h2>Important Notes</h2>\n<ul><li>Rolling review until filled. Apply as soon as possible.</li><li>Competitive scholarships will be additional to the base studentship.</li><li>Open to all nationalities.</li><li>Applications from students with strong backgrounds in continuum mechanics, computational mechanics, or related areas are encouraged.</li></ul>\n<h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: Open until filled - Apply as soon as possible. Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://www.egu.eu/jobs/8406/fully-funded-phd-opportunities-in-geomechanics/\">Open the official application page ↗</a></p><h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+ "eligibility": "worldwide",
+ "stipend": "$21,000/year",
+ "applyLink": "https://www.egu.eu/jobs/8406/fully-funded-phd-opportunities-in-geomechanics/",
+ "seoTitle": "Fully Funded PhD Opportunities in Geomechanics at McMaster",
+ "title": "Fully Funded PhD Opportunities in Geomechanics at McMaster University",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": true,
+ "organizationId": "iCcuUEHJUqBUzKfZWc8f",
+ "createdAt": "2026-09-23T12:05:59.852Z",
+ "stipendAmount": 21000,
+ "fundingType": "fully_funded",
+ "countryCode": "CA",
+ "intro": "Two fully funded PhD positions are available in the Laboratory for Multiscale Geomechanics at McMaster University. Research at the intersection of continuum mechanics, computational mechanics, constitutive modelling, and geomechanics. Rolling review until filled.",
+ "deadlineTimezone": "America/Toronto",
+ "deadline": null,
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "fully-funded-phd-opportunities-geomechanics-mcmaster-university",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "Open - Apply as soon as possible",
+ "verificationStatus": "unverified",
+ "seoDescription": "Fully Funded PhD in Hamilton at McMaster University - Laboratory for Multiscale Geomechanics: C$21,000/yr stipend. Deadline: Open until filled - Apply as.",
+ "isRemote": false,
+ "ogImage": "https://nextapply.co.uk/fully-funded-phd-opportunities-geomechanics-mcmaster-university/opengraph-image",
+ "tags": [
+  "McMaster University - Laboratory for Multiscale Geomechanics",
+  "Civil Engineering",
+  "Mechanical Engineering",
+  "Engineering",
+  "Materials Science",
+  "Phd Position",
+  "Fully Funded",
+  "McMaster University",
+  "Geomechanics",
+  "Computational Mechanics",
+  "Continuum Mechanics",
+  "Canada"
+ ],
+ "opportunityType": "phd_position",
+ "isOpen": true,
+ "disciplines": [
+  "civil_engineering",
+  "mechanical_engineering",
+  "engineering",
+  "materials_science"
+ ],
+ "stipendCurrency": "CAD",
+ "deadlineType": "rolling",
+ "regionId": "north_america",
+ "sourceType": "third_party",
+ "stipendPeriod": "year",
+ "organization": {
+  "website": "https://www.mcmaster.ca",
+  "name": "McMaster University - Laboratory for Multiscale Geomechanics",
+  "id": "iCcuUEHJUqBUzKfZWc8f",
+  "logoUrl": "https://images.seeklogo.com/logo-png/9/1/mcmaster-university-logo-png_seeklogo-90018.png",
+  "slug": "mcmaster-university-laboratory-for-multiscale-geomechanics"
+ },
+ "category": "phd_position",
+ "status": "published",
+ "publishedAt": "2026-09-23T12:05:59.852Z",
+ "id": "jXYV69pw9qsnuFcuekBt",
+ "keywords": [
+  "Fully Funded PhD Opportunities in Geomechanics",
+  "McMaster University - Laboratory for Multiscale Geomechanics positions",
+  "fully funded PhD Canada",
+  "Canada scholarships",
+  "IELTS requirement",
+  "McMaster University - Laboratory for Multiscale Geomechanics",
+  "Civil Engineering",
+  "Mechanical Engineering"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/fully-funded-phd-opportunities-geomechanics-mcmaster-university",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/fully-funded-phd-opportunities-geomechanics-mcmaster-university#opportunity",
+  "url": "https://nextapply.co.uk/fully-funded-phd-opportunities-geomechanics-mcmaster-university",
   "title": "Fully Funded PhD Opportunities in Geomechanics at McMaster University",
-  "fundingStatus": "fully_funded",
-  "ieltsRequired": true,
-  "organizationId": "iCcuUEHJUqBUzKfZWc8f",
-  "createdAt": "2026-09-23T12:05:59.852Z",
-  "stipendAmount": 21000,
-  "fundingType": "fully_funded",
-  "countryCode": "CA",
-  "intro": "Two fully funded PhD positions are available in the Laboratory for Multiscale Geomechanics at McMaster University. Research at the intersection of continuum mechanics, computational mechanics, constitutive modelling, and geomechanics. Rolling review until filled.",
-  "deadlineTimezone": "America/Toronto",
-  "deadline": null,
-  "degreeLevels": [
-    "phd"
-  ],
-  "isFeatured": false,
-  "slug": "fully-funded-phd-opportunities-geomechanics-mcmaster-university",
-  "updatedAt": "2026-10-23T14:22:24.000Z",
-  "deadlineText": "Open - Apply as soon as possible",
-  "verificationStatus": "unverified",
-  "seoDescription": "Fully Funded PhD in Hamilton at McMaster University - Laboratory for Multiscale Geomechanics: C$21,000/yr stipend. Deadline: Open until filled - Apply as.",
-  "isRemote": false,
-  "ogImage": "https://nextapply.co.uk/fully-funded-phd-opportunities-geomechanics-mcmaster-university/opengraph-image",
-  "tags": [
-    "McMaster University - Laboratory for Multiscale Geomechanics",
-    "Civil Engineering",
-    "Mechanical Engineering",
-    "Engineering",
-    "Materials Science",
-    "Phd Position",
-    "Fully Funded",
-    "McMaster University",
-    "Geomechanics",
-    "Computational Mechanics",
-    "Continuum Mechanics",
-    "Canada"
-  ],
-  "opportunityType": "phd_position",
-  "isOpen": true,
-  "disciplines": [
-    "civil_engineering",
-    "mechanical_engineering",
-    "engineering",
-    "materials_science"
-  ],
-  "stipendCurrency": "CAD",
-  "deadlineType": "rolling",
-  "regionId": "north_america",
-  "sourceType": "third_party",
-  "stipendPeriod": "year",
-  "organization": {
-    "website": "https://www.mcmaster.ca",
-    "name": "McMaster University - Laboratory for Multiscale Geomechanics",
-    "id": "iCcuUEHJUqBUzKfZWc8f",
-    "logoUrl": "https://images.seeklogo.com/logo-png/9/1/mcmaster-university-logo-png_seeklogo-90018.png",
-    "slug": "mcmaster-university-laboratory-for-multiscale-geomechanics"
+  "description": "Two fully funded PhD positions are available in the Laboratory for Multiscale Geomechanics at McMaster University. Research at the intersection of continuum mechanics, computational mechanics, constitutive modelling, and geomechanics. Rolling review until filled.",
+  "datePosted": "2026-09-23T12:05:59.852Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "McMaster University - Laboratory for Multiscale Geomechanics",
+   "sameAs": "https://www.mcmaster.ca",
+   "logo": "https://images.seeklogo.com/logo-png/9/1/mcmaster-university-logo-png_seeklogo-90018.png"
   },
-  "category": "phd_position",
-  "status": "published",
-  "publishedAt": "2026-09-23T12:05:59.852Z",
-  "id": "jXYV69pw9qsnuFcuekBt"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "fully-funded-phd-opportunities-geomechanics-mcmaster-university"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "CA",
+    "addressLocality": "Hamilton"
+   }
+  },
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "CAD",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 21000,
+    "unitText": "YEAR"
+   }
+  }
+ }
 }

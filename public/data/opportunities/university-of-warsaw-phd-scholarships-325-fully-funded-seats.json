@@ -1,71 +1,123 @@
 {
-  "addedDate": "2026-09-09T20:05:51.925Z",
-  "city": "Warsaw",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "description": "<h2>Programme Overview</h2>\n<p>The University of Warsaw (UW) offers 325 fully funded PhD places across 26 academic disciplines for the 2026/27 session. These are not a separate scholarship scheme but statutory doctoral scholarships: tuition-free education plus a guaranteed monthly stipend for 48 months.</p>\n<h2>Four Doctoral Schools</h2>\n<ol><li>Interdisciplinary Doctoral School</li><li>Doctoral School of Humanities</li><li>Doctoral School of Social Sciences</li><li>Doctoral School of Exact and Natural Sciences</li></ol>\n<p>Currently 1,700+ doctoral candidates enrolled across these schools.</p>\n<h2>Financial Coverage</h2>\n<ul><li>Doctoral scholarship guaranteed for 48 months: PLN 4,346 gross/month (before mid-term assessment) increasing to PLN 5,500.50 gross/month (after assessment).</li><li>Disability certificate holders receive additional PLN 1,071.15/month.</li><li>Tuition-free: PhD studies at Polish public universities are free.</li><li>Scholarship to Start: Top 20% of admitted candidates per discipline receive additional award for 12 months.</li><li>IDUB mobility scholarships: Extra funding for conferences, research visits, and training.</li></ul>\n<h2>Eligibility Criteria</h2>\n<ul><li>Master's degree or equivalent required.</li><li>Supervisor nomination required at recruitment stage.</li><li>International (non-EU) candidates fully eligible.</li><li>Research proposal and academic achievements assessed, followed by interview (and exam for Exact/Natural Sciences school).</li></ul>\n<h2>About University of Warsaw</h2><p>The University of Warsaw is a public research university in Poland's capital. It offers undergraduate, master's and doctoral education across the humanities, social sciences and natural sciences. Its doctoral schools and research groups support academic work in many disciplines, while international partnerships provide opportunities for scholarly exchange and collaborative research.</p><p>Official website: <a href=\"https://en.uw.edu.pl\" target=\"_blank\" rel=\"noopener noreferrer\">https://en.uw.edu.pl</a></p><h2>Application dates</h2>\n<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Milestone</th><th style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Date</th></tr></thead><tbody><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Applications open (expected)</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">~14 April 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Application deadline (expected)</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">~21 May 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Results</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">July 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Enrolment and stipend start</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">1 October 2027</td></tr></tbody></table>\n<h2>Application Process</h2>\n<ol><li>Create account on IRK portal when admissions open (expected April 2027).</li><li>Select discipline and doctoral school; attach supervisor name and consent.</li><li>Upload documents: Master's diploma, research proposal, publications/achievements list, CV, language proof, ID/passport.</li><li>Pay admission fee (school-wise amount on IRK).</li><li>Assessment, exam/interview (May-June).</li><li>Results July; enrolment October; stipend starts automatically.</li></ol>\n<h2>Official Links</h2>\n<ul><li>UW Doctoral Schools admissions: https://en.uw.edu.pl</li><li>Supervisor search: https://promotorzy.szkolydoktorskie.uw.edu.pl</li><li>Scholarships portal: https://welcome.uw.edu.pl</li></ul>\n<h2>Important Notes</h2>\n<ul><li>The 325 scholarships are PhD seats, not a separate scholarship form. Funding is automatic upon admission.</li><li>2026/27 round is closed. Next window opens April 2027.</li><li>Stipend figures are gross; doctoral stipends are tax-exempt in Poland.</li></ul>\n<h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: 21 May 2027 (Expected). Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://en.uw.edu.pl\">Open the official application page ↗</a></p><h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
-  "eligibility": "worldwide",
-  "stipend": "PLN 4,346-5,500.50/month for 48 months (tuition-free).",
-  "applyLink": "https://en.uw.edu.pl",
-  "seoTitle": "University of Warsaw PhD Scholarships - 325 Fully Funded Seats",
+ "addedDate": "2026-09-09T20:05:51.925Z",
+ "city": "Warsaw",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<h2>About the Position</h2>\n<p>The University of Warsaw (UW) offers 325 fully funded PhD places across 26 academic disciplines for the 2026/27 session. These are not a separate scholarship scheme but statutory doctoral scholarships: tuition-free education plus a guaranteed monthly stipend for 48 months.</p>\n<h2>Four Doctoral Schools</h2>\n<ol><li>Interdisciplinary Doctoral School</li><li>Doctoral School of Humanities</li><li>Doctoral School of Social Sciences</li><li>Doctoral School of Exact and Natural Sciences</li></ol>\n<p>Currently 1,700+ doctoral candidates enrolled across these schools.</p>\n<h2>Financial Coverage</h2>\n<ul><li>Doctoral scholarship guaranteed for 48 months: PLN 4,346 gross/month (before mid-term assessment) increasing to PLN 5,500.50 gross/month (after assessment).</li><li>Disability certificate holders receive additional PLN 1,071.15/month.</li><li>Tuition-free: PhD studies at Polish public universities are free.</li><li>Scholarship to Start: Top 20% of admitted candidates per discipline receive additional award for 12 months.</li><li>IDUB mobility scholarships: Extra funding for conferences, research visits, and training.</li></ul>\n<h2>Eligibility and Requirements</h2>\n<ul><li>Master's degree or equivalent required.</li><li>Supervisor nomination required at recruitment stage.</li><li>International (non-EU) candidates fully eligible.</li><li>Research proposal and academic achievements assessed, followed by interview (and exam for Exact/Natural Sciences school).</li></ul>\n<h2>About University of Warsaw</h2><p>The University of Warsaw is a public research university in Poland's capital. It offers undergraduate, master's and doctoral education across the humanities, social sciences and natural sciences. Its doctoral schools and research groups support academic work in many disciplines, while international partnerships provide opportunities for scholarly exchange and collaborative research.</p><p>Official website: <a href=\"https://en.uw.edu.pl\" target=\"_blank\" rel=\"noopener noreferrer\">https://en.uw.edu.pl</a></p><h2>Application dates</h2>\n<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Milestone</th><th style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Date</th></tr></thead><tbody><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Applications open (expected)</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">~14 April 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Application deadline (expected)</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">~21 May 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Results</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">July 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Enrolment and stipend start</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">1 October 2027</td></tr></tbody></table>\n<h2>Application Process</h2>\n<ol><li>Create account on IRK portal when admissions open (expected April 2027).</li><li>Select discipline and doctoral school; attach supervisor name and consent.</li><li>Upload documents: Master's diploma, research proposal, publications/achievements list, CV, language proof, ID/passport.</li><li>Pay admission fee (school-wise amount on IRK).</li><li>Assessment, exam/interview (May-June).</li><li>Results July; enrolment October; stipend starts automatically.</li></ol>\n<h2>Official Link</h2>\n<ul><li>UW Doctoral Schools admissions: https://en.uw.edu.pl</li><li>Supervisor search: https://promotorzy.szkolydoktorskie.uw.edu.pl</li><li>Scholarships portal: https://welcome.uw.edu.pl</li></ul>\n<h2>Important Notes</h2>\n<ul><li>The 325 scholarships are PhD seats, not a separate scholarship form. Funding is automatic upon admission.</li><li>2026/27 round is closed. Next window opens April 2027.</li><li>Stipend figures are gross; doctoral stipends are tax-exempt in Poland.</li></ul>\n<h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: 21 May 2027 (Expected). Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://en.uw.edu.pl\">Open the official application page ↗</a></p><h2>Application guides</h2>\n<ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+ "eligibility": "worldwide",
+ "stipend": "PLN 4,346-5,500.50/month for 48 months (tuition-free).",
+ "applyLink": "https://en.uw.edu.pl",
+ "seoTitle": "University of Warsaw PhD Scholarships - 325 Fully Funded Seats",
+ "title": "University of Warsaw PhD Scholarships - 325 Fully Funded Seats",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": true,
+ "organizationId": "5ZhgrSeY2rmdizfviAZt",
+ "createdAt": "2026-09-09T20:05:51.925Z",
+ "stipendAmount": 4346,
+ "fundingType": "fully_funded",
+ "countryCode": "PL",
+ "intro": "325 fully funded PhD seats across 26 disciplines at University of Warsaw. Tuition-free with monthly stipend PLN 4,346-5,500.50. Next application window opens April 2027.",
+ "deadlineTimezone": "Europe/Warsaw",
+ "deadline": "2027-05-21T21:59:59.999Z",
+ "degreeLevels": [
+  "phd"
+ ],
+ "isFeatured": false,
+ "slug": "university-of-warsaw-phd-scholarships-325-fully-funded-seats",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "21 May 2027 (Expected)",
+ "publishedAt": "2026-09-09T20:05:51.925Z",
+ "verificationStatus": "verified",
+ "seoDescription": "Fully Funded PhD in Warsaw at University of Warsaw: PLN 4,346/mo stipend. Deadline: 21 May 2027 (Expected). Apply via NextApply.",
+ "isRemote": false,
+ "ogImage": "https://nextapply.co.uk/university-of-warsaw-phd-scholarships-325-fully-funded-seats/opengraph-image",
+ "tags": [
+  "University of Warsaw",
+  "All Subjects",
+  "Phd Position",
+  "Fully Funded",
+  "Poland",
+  "Doctoral Schools",
+  "Monthly Stipend",
+  "Tuition-Free",
+  "Interdisciplinary",
+  "Humanities",
+  "Social Sciences",
+  "Exact Sciences"
+ ],
+ "opportunityType": "phd_position",
+ "isOpen": true,
+ "disciplines": [
+  "all_subjects"
+ ],
+ "stipendCurrency": "PLN",
+ "verificationScore": 100,
+ "deadlineType": "fixed",
+ "regionId": "europe",
+ "sourceType": "official_university",
+ "stipendPeriod": "month",
+ "organization": {
+  "website": "https://en.uw.edu.pl",
+  "name": "University of Warsaw",
+  "id": "5ZhgrSeY2rmdizfviAZt",
+  "logoUrl": "https://i.studyinpoland.pl/universities/logo/university-of-warsaw.png",
+  "slug": "university-of-warsaw"
+ },
+ "category": "phd_position",
+ "status": "published",
+ "id": "p9ALNwFds9sqNYK6Cglj",
+ "keywords": [
+  "University of Warsaw PhD Scholarships - 325 Fully Funded Seats",
+  "University of Warsaw positions",
+  "fully funded PhD Poland",
+  "Poland scholarships",
+  "IELTS requirement",
+  "University of Warsaw",
+  "All Subjects",
+  "Phd Position"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/university-of-warsaw-phd-scholarships-325-fully-funded-seats",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/university-of-warsaw-phd-scholarships-325-fully-funded-seats#opportunity",
+  "url": "https://nextapply.co.uk/university-of-warsaw-phd-scholarships-325-fully-funded-seats",
   "title": "University of Warsaw PhD Scholarships - 325 Fully Funded Seats",
-  "fundingStatus": "fully_funded",
-  "ieltsRequired": true,
-  "organizationId": "5ZhgrSeY2rmdizfviAZt",
-  "createdAt": "2026-09-09T20:05:51.925Z",
-  "stipendAmount": 4346,
-  "fundingType": "fully_funded",
-  "countryCode": "PL",
-  "intro": "325 fully funded PhD seats across 26 disciplines at University of Warsaw. Tuition-free with monthly stipend PLN 4,346-5,500.50. Next application window opens April 2027.",
-  "deadlineTimezone": "Europe/Warsaw",
-  "deadline": "2027-05-21T21:59:59.999Z",
-  "degreeLevels": [
-    "phd"
-  ],
-  "isFeatured": false,
-  "slug": "university-of-warsaw-phd-scholarships-325-fully-funded-seats",
-  "updatedAt": "2026-10-23T14:21:38.000Z",
-  "deadlineText": "21 May 2027 (Expected)",
-  "publishedAt": "2026-09-09T20:05:51.925Z",
-  "verificationStatus": "verified",
-  "seoDescription": "Fully Funded PhD in Warsaw at University of Warsaw: PLN 4,346/mo stipend. Deadline: 21 May 2027 (Expected). Apply via NextApply.",
-  "isRemote": false,
-  "ogImage": "https://nextapply.co.uk/university-of-warsaw-phd-scholarships-325-fully-funded-seats/opengraph-image",
-  "tags": [
-    "University of Warsaw",
-    "All Subjects",
-    "Phd Position",
-    "Fully Funded",
-    "Poland",
-    "Doctoral Schools",
-    "Monthly Stipend",
-    "Tuition-Free",
-    "Interdisciplinary",
-    "Humanities",
-    "Social Sciences",
-    "Exact Sciences"
-  ],
-  "opportunityType": "phd_position",
-  "isOpen": true,
-  "disciplines": [
-    "all_subjects"
-  ],
-  "stipendCurrency": "PLN",
-  "verificationScore": 100,
-  "deadlineType": "fixed",
-  "regionId": "europe",
-  "sourceType": "official_university",
-  "stipendPeriod": "month",
-  "organization": {
-    "website": "https://en.uw.edu.pl",
-    "name": "University of Warsaw",
-    "id": "5ZhgrSeY2rmdizfviAZt",
-    "logoUrl": "https://i.studyinpoland.pl/universities/logo/university-of-warsaw.png",
-    "slug": "university-of-warsaw"
+  "description": "325 fully funded PhD seats across 26 disciplines at University of Warsaw. Tuition-free with monthly stipend PLN 4,346-5,500.50. Next application window opens April 2027.",
+  "datePosted": "2026-09-09T20:05:51.925Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "University of Warsaw",
+   "sameAs": "https://en.uw.edu.pl",
+   "logo": "https://i.studyinpoland.pl/universities/logo/university-of-warsaw.png"
   },
-  "category": "phd_position",
-  "status": "published",
-  "id": "p9ALNwFds9sqNYK6Cglj"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "university-of-warsaw-phd-scholarships-325-fully-funded-seats"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "PL",
+    "addressLocality": "Warsaw"
+   }
+  },
+  "validThrough": "2027-05-21T21:59:59.999Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "PLN",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 4346,
+    "unitText": "MONTH"
+   }
+  }
+ }
 }

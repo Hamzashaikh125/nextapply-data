@@ -1,79 +1,120 @@
 {
-  "title": "IMIM – International Master in Innovative Medicine (Erasmus Mundus)",
-  "status": "published",
-  "slug": "imim-innovative-medicine-erasmus-mundus-2027",
-  "isOpen": true,
-  "category": "scholarship",
-  "organizationId": "dFxuXI8F1LIZfyv6jqyg",
-  "organization": {
-    "createdAt": "2026-10-23T00:07:35.000Z",
-    "website": "https://www.innovativemedicine.eu",
-    "about": "The IMIM consortium is anchored at the University of Groningen with Heidelberg, Tartu and Uppsala universities, delivering the Erasmus Mundus master in Innovative Medicine focused on translational research.",
-    "name": "IMIM Consortium (University of Groningen)",
-    "programCount": 1,
-    "logoUrl": "https://www.google.com/s2/favicons?domain=innovativemedicine.eu&sz=256",
-    "slug": "imim-consortium-university-of-groningen",
-    "status": "published",
-    "updatedAt": "2026-10-23T00:07:35.000Z",
-    "id": "dFxuXI8F1LIZfyv6jqyg"
-  },
-  "regionId": "europe",
-  "countryCode": "NL",
-  "city": "Groningen (multi-country mobility)",
-  "deadline": "2027-01-04T22:59:59.999Z",
-  "deadlineType": "fixed",
-  "deadlineText": "4 January 2027",
-  "deadlineTimezone": "Europe/Amsterdam",
-  "degreeLevels": [
-    "masters"
-  ],
-  "disciplines": [
-    "biomedical_science",
-    "molecular_biology",
-    "biochemistry",
-    "medicine",
-    "pharmacology"
-  ],
-  "subjects": [
-    "Translational medicine",
-    "Biomedical innovation",
-    "Erasmus Mundus",
-    "Drug development"
-  ],
-  "fundingType": "fully_funded",
-  "fundingStatus": "fully_funded",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "stipend": "EMJM scholarships for roughly 20-25 students per round",
-  "intro": "IMIM is the Erasmus Mundus master in translational biomedical research run by Groningen, Heidelberg, Tartu and Uppsala. The Call '27 opens in November 2026 and the deadline is 4 January 2027, with EMJM scholarships awarded on a competitive ranking.",
-  "tags": [
-    "Erasmus Mundus",
-    "IMIM",
-    "Translational Medicine",
-    "Biomedical Sciences",
-    "University of Groningen",
-    "Fully Funded",
-    "Masters"
-  ],
-  "applyLink": "https://www.innovativemedicine.eu/home",
-  "isFeatured": false,
-  "ieltsRequired": true,
-  "eligibility": "worldwide",
-  "seoTitle": "IMIM Erasmus Mundus Master 2027 | Innovative Medicine, Deadline 4 January 2027",
-  "seoDescription": "IMIM Erasmus Mundus master in innovative medicine (Groningen, Heidelberg, Tartu, Uppsala). Call opens November 2026; deadline 4 January 2027. EMJM scholarships.",
-  "ogImage": "",
-  "verificationStatus": "verified",
-  "verificationScore": null,
-  "addedDate": "2026-10-23T00:07:35.000Z",
-  "clickCount": 0,
+ "title": "IMIM – International Master in Innovative Medicine (Erasmus Mundus)",
+ "status": "published",
+ "slug": "imim-innovative-medicine-erasmus-mundus-2027",
+ "isOpen": true,
+ "category": "scholarship",
+ "organizationId": "dFxuXI8F1LIZfyv6jqyg",
+ "organization": {
   "createdAt": "2026-10-23T00:07:35.000Z",
-  "updatedAt": "2026-10-23T14:20:12.000Z",
-  "publishedAt": "2026-10-23T00:07:35.000Z",
-  "id": "3zrivPPxkwCRT9oqjuFL",
-  "opportunityType": "scholarship",
-  "sourceType": "official_organization",
-  "isRemote": false,
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">IMIM – International Master in Innovative Medicine (Erasmus Mundus)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">IMIM Consortium (University of Groningen)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Groningen (multi-country mobility), Netherlands</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">EMJM scholarships for roughly 20-25 students per round</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">4 January 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.innovativemedicine.eu/home\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>IMIM is the Erasmus Mundus master in translational biomedical research run by Groningen, Heidelberg, Tartu and Uppsala. The Call '27 opens in November 2026 and the deadline is 4 January 2027, with EMJM scholarships awarded on a competitive ranking.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Four top research universities with a double-degree structure</li>\n <li>Bench-to-Bedside-and-Beyond innovation projects across all semesters</li>\n <li>November 2026 opening and 4 January 2027 deadline</li>\n <li>Industry placements in the final semester alongside Latin-America research options</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Bachelor's degrees in biochemistry, biomedical sciences, pharmacy, medicine, molecular biology, biotechnology or similar, with an excellent record and research motivation; two reference forms in the IMIM format are mandatory.</p>\n<h2>Funding and Costs</h2>\n<p>EMJM scholarships for roughly 20-25 students per round from a pool of several hundred applicants: tuition plus allowances.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Apply through the IMIM site once the call opens in November 2026 and submit by 4 January 2027. Key deadline information: <strong>4 January 2027; applications open in November 2026 for the 2027-2028 academic year</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.innovativemedicine.eu/home\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About IMIM Consortium (University of Groningen)</h2><p>The IMIM consortium is anchored at the University of Groningen with Heidelberg, Tartu and Uppsala universities, delivering the Erasmus Mundus master in Innovative Medicine focused on translational research.</p><p>Official website: <a href=\"https://www.innovativemedicine.eu\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.innovativemedicine.eu</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 4 January 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/phd-in-netherlands-employee-salary-contract\">PhD Employment in the Netherlands: Salary, Contract and Funding Routes</a></li><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li></ul>"
+  "website": "https://www.innovativemedicine.eu",
+  "about": "The IMIM consortium is anchored at the University of Groningen with Heidelberg, Tartu and Uppsala universities, delivering the Erasmus Mundus master in Innovative Medicine focused on translational research.",
+  "name": "IMIM Consortium (University of Groningen)",
+  "programCount": 1,
+  "logoUrl": "https://www.google.com/s2/favicons?domain=innovativemedicine.eu&sz=256",
+  "slug": "imim-consortium-university-of-groningen",
+  "status": "published",
+  "updatedAt": "2026-10-23T00:07:35.000Z",
+  "id": "dFxuXI8F1LIZfyv6jqyg"
+ },
+ "regionId": "europe",
+ "countryCode": "NL",
+ "city": "Groningen (multi-country mobility)",
+ "deadline": "2027-01-04T22:59:59.999Z",
+ "deadlineType": "fixed",
+ "deadlineText": "4 January 2027",
+ "deadlineTimezone": "Europe/Amsterdam",
+ "degreeLevels": [
+  "masters"
+ ],
+ "disciplines": [
+  "biomedical_science",
+  "molecular_biology",
+  "biochemistry",
+  "medicine",
+  "pharmacology"
+ ],
+ "subjects": [
+  "Translational medicine",
+  "Biomedical innovation",
+  "Erasmus Mundus",
+  "Drug development"
+ ],
+ "fundingType": "fully_funded",
+ "fundingStatus": "fully_funded",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "stipend": "€1,400/month (EMJM scholarship rate)",
+ "intro": "IMIM is the Erasmus Mundus master in translational biomedical research run by Groningen, Heidelberg, Tartu and Uppsala. The Call '27 opens in November 2026 and the deadline is 4 January 2027, with EMJM scholarships awarded on a competitive ranking.",
+ "tags": [
+  "Erasmus Mundus",
+  "IMIM",
+  "Translational Medicine",
+  "Biomedical Sciences",
+  "University of Groningen",
+  "Fully Funded",
+  "Masters"
+ ],
+ "applyLink": "https://www.innovativemedicine.eu/home",
+ "isFeatured": false,
+ "ieltsRequired": true,
+ "eligibility": "worldwide",
+ "seoTitle": "IMIM Erasmus Mundus Master 2027 | Innovative Medicine, Deadline 4 January 2027",
+ "seoDescription": "IMIM Erasmus Mundus master in innovative medicine (Groningen, Heidelberg, Tartu, Uppsala). Call opens November 2026; deadline 4 January 2027. EMJM scholarships.",
+ "ogImage": "https://nextapply.co.uk/imim-innovative-medicine-erasmus-mundus-2027/opengraph-image",
+ "verificationStatus": "verified",
+ "verificationScore": null,
+ "addedDate": "2026-10-23T00:07:35.000Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-23T00:07:35.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-23T00:07:35.000Z",
+ "id": "3zrivPPxkwCRT9oqjuFL",
+ "opportunityType": "scholarship",
+ "sourceType": "official_organization",
+ "isRemote": false,
+ "description": "<h2>About the Scholarship</h2><p>IMIM is the Erasmus Mundus master in translational biomedical research run by Groningen, Heidelberg, Tartu and Uppsala. The Call '27 opens in November 2026 and the deadline is 4 January 2027, with EMJM scholarships awarded on a competitive ranking.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">IMIM – International Master in Innovative Medicine (Erasmus Mundus)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">IMIM Consortium (University of Groningen)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Groningen (multi-country mobility), Netherlands</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">EMJM scholarships for roughly 20-25 students per round</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">4 January 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.innovativemedicine.eu/home\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>IMIM is the Erasmus Mundus master in translational biomedical research run by Groningen, Heidelberg, Tartu and Uppsala. The Call '27 opens in November 2026 and the deadline is 4 January 2027, with EMJM scholarships awarded on a competitive ranking.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Four top research universities with a double-degree structure</li>\n <li>Bench-to-Bedside-and-Beyond innovation projects across all semesters</li>\n <li>November 2026 opening and 4 January 2027 deadline</li>\n <li>Industry placements in the final semester alongside Latin-America research options</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Bachelor's degrees in biochemistry, biomedical sciences, pharmacy, medicine, molecular biology, biotechnology or similar, with an excellent record and research motivation; two reference forms in the IMIM format are mandatory.</p>\n<h2>Funding and Costs</h2>\n<p>EMJM scholarships for roughly 20-25 students per round from a pool of several hundred applicants: tuition plus allowances.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Apply through the IMIM site once the call opens in November 2026 and submit by 4 January 2027. Key deadline information: <strong>4 January 2027; applications open in November 2026 for the 2027-2028 academic year</strong>.</p>\n<h2>Official Link</h2>\n<ul>\n <li><a href=\"https://www.innovativemedicine.eu/home\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About IMIM Consortium (University of Groningen)</h2><p>The IMIM consortium is anchored at the University of Groningen with Heidelberg, Tartu and Uppsala universities, delivering the Erasmus Mundus master in Innovative Medicine focused on translational research.</p><p>Official website: <a href=\"https://www.innovativemedicine.eu\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.innovativemedicine.eu</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 4 January 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/phd-in-netherlands-employee-salary-contract\">PhD Employment in the Netherlands: Salary, Contract and Funding Routes</a></li><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li></ul>",
+ "stipendAmount": 1400,
+ "stipendCurrency": "EUR",
+ "stipendPeriod": "month",
+ "keywords": [
+  "IMIM – International Master in Innovative Medicine (Erasmus Mundus)",
+  "IMIM Consortium (University of Groningen) scholarships",
+  "fully funded Master's Netherlands",
+  "Netherlands scholarships 2027",
+  "Master's 2027 intake",
+  "IELTS requirement",
+  "Erasmus Mundus",
+  "IMIM",
+  "Translational Medicine"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/imim-innovative-medicine-erasmus-mundus-2027",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalProgram",
+  "@id": "https://nextapply.co.uk/imim-innovative-medicine-erasmus-mundus-2027#opportunity",
+  "url": "https://nextapply.co.uk/imim-innovative-medicine-erasmus-mundus-2027",
+  "name": "IMIM – International Master in Innovative Medicine (Erasmus Mundus)",
+  "description": "IMIM is the Erasmus Mundus master in translational biomedical research run by Groningen, Heidelberg, Tartu and Uppsala. The Call '27 opens in November 2026 and the deadline is 4 January 2027, with EMJM scholarships awarded on a competitive ranking.",
+  "educationalProgramMode": "full time",
+  "provider": {
+   "@type": "Organization",
+   "name": "IMIM Consortium (University of Groningen)",
+   "sameAs": "https://www.innovativemedicine.eu",
+   "logo": "https://www.google.com/s2/favicons?domain=innovativemedicine.eu&sz=256"
+  },
+  "applicationDeadline": "2027-01-04",
+  "offers": {
+   "@type": "Offer",
+   "category": "Fully Funded programme",
+   "priceSpecification": {
+    "@type": "PriceSpecification",
+    "price": 1400,
+    "priceCurrency": "EUR"
+   }
+  }
+ }
 }

@@ -1,78 +1,110 @@
 {
-  "title": "UIII – Graduate Admissions with Full Scholarships (Universitas Islam Internasional Indonesia)",
-  "status": "published",
-  "slug": "uiii-graduate-admissions-scholarships-2027",
-  "isOpen": true,
-  "category": "scholarship",
-  "organizationId": "VrwbaTiokBIB0ke72s3G",
-  "organization": {
-    "createdAt": "2026-10-23T00:07:35.000Z",
-    "website": "https://uiii.ac.id",
-    "about": "UIII is Indonesia's international Islamic university, a graduate-only institution near Jakarta offering fully funded MA and PhD programmes with a global student body.",
-    "name": "Universitas Islam Internasional Indonesia (UIII)",
-    "programCount": 1,
-    "logoUrl": "https://www.google.com/s2/favicons?domain=uiii.ac.id&sz=256",
-    "slug": "universitas-islam-internasional-indonesia-uiii",
-    "status": "published",
-    "updatedAt": "2026-10-23T00:07:35.000Z",
-    "id": "VrwbaTiokBIB0ke72s3G"
-  },
-  "regionId": "asia",
-  "countryCode": "ID",
-  "city": "Depok (Greater Jakarta)",
-  "deadline": null,
-  "deadlineType": "custom",
-  "deadlineText": "Rolling admission rounds",
-  "degreeLevels": [
-    "masters",
-    "phd"
-  ],
-  "disciplines": [
-    "islamic_studies",
-    "political_science",
-    "economics",
-    "international_relations",
-    "sociology"
-  ],
-  "subjects": [
-    "Indonesia graduate school",
-    "Full scholarships",
-    "Islamic studies",
-    "MA and PhD"
-  ],
-  "fundingType": "fully_funded",
-  "fundingStatus": "fully_funded",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "stipend": "Full scholarship package: tuition waiver, monthly living",
-  "intro": "UIII (Universitas Islam Internasional Indonesia) is a graduate-only university near Jakarta offering MA and PhD programmes across four faculties, with full scholarships for admitted international students. Its admissions portal runs early-bird and regular rounds for the 2027-2028 academic year.",
-  "tags": [
-    "UIII",
-    "Indonesia Scholarships",
-    "Islamic Studies",
-    "Full Scholarship",
-    "MA PhD",
-    "Southeast Asia"
-  ],
-  "applyLink": "https://admissions.uiii.ac.id/home/en",
-  "isFeatured": false,
-  "ieltsRequired": true,
-  "eligibility": "worldwide",
-  "seoTitle": "UIII Admissions 2027-2028 | Fully Funded MA & PhD Scholarships in Indonesia",
-  "seoDescription": "Universitas Islam Internasional Indonesia (UIII) offers fully funded MA and PhD places with living allowance, accommodation and airfare. Rolling rounds on the admissions portal.",
-  "ogImage": "",
-  "verificationStatus": "unverified",
-  "verificationScore": null,
-  "addedDate": "2026-10-23T00:07:35.000Z",
-  "clickCount": 0,
+ "title": "UIII – Graduate Admissions with Full Scholarships (Universitas Islam Internasional Indonesia)",
+ "status": "published",
+ "slug": "uiii-graduate-admissions-scholarships-2027",
+ "isOpen": true,
+ "category": "scholarship",
+ "organizationId": "VrwbaTiokBIB0ke72s3G",
+ "organization": {
   "createdAt": "2026-10-23T00:07:35.000Z",
-  "updatedAt": "2026-10-23T14:20:12.000Z",
-  "publishedAt": "2026-10-23T00:07:35.000Z",
-  "id": "gZl7JVKjxJNkojHz5D5v",
-  "opportunityType": "scholarship",
-  "sourceType": "official_organization",
-  "isRemote": false,
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">UIII – Graduate Admissions with Full Scholarships (Universitas Islam Internasional Indonesia)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Universitas Islam Internasional Indonesia (UIII)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Depok (Greater Jakarta), Indonesia</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's, PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Full scholarship package: tuition waiver, monthly living</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Rolling admission rounds for 2027-2028 with early-bird and regular deadlines announced on</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://admissions.uiii.ac.id/home/en\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>UIII (Universitas Islam Internasional Indonesia) is a graduate-only university near Jakarta offering MA and PhD programmes across four faculties, with full scholarships for admitted international students. Its admissions portal runs early-bird and regular rounds for the 2027-2028 academic year.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Fully funded MA and PhD places including accommodation and airfare</li>\n <li>Four faculties: Islamic studies, economics, social sciences and political science</li>\n <li>English-medium graduate education with international faculty</li>\n <li>Rolling rounds with early-bird advantages</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Bachelor's (for MA) or master's (for PhD) graduates in the humanities and social sciences with interest in Islamic-world studies contexts; English documentation required.</p>\n<h2>Funding and Costs</h2>\n<p>Full scholarship package: tuition waiver, monthly living allowance, on-campus accommodation and return airfare for selected students.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Create an account on the UIII admissions portal and submit in an early round to maximise scholarship consideration. Key deadline information: <strong>Rolling admission rounds for 2027-2028 with early-bird and regular deadlines announced on the admissions portal</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://admissions.uiii.ac.id/home/en\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About Universitas Islam Internasional Indonesia (UIII)</h2><p>UIII is Indonesia's international Islamic university, a graduate-only institution near Jakarta offering fully funded MA and PhD programmes with a global student body.</p><p>Official website: <a href=\"https://uiii.ac.id\" target=\"_blank\" rel=\"noopener noreferrer\">https://uiii.ac.id</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: Rolling admission rounds - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/masters-phd-application-timeline-12-months\">A 12-Month Study Abroad Application Plan for Master's and PhD Applicants</a></li></ul>"
+  "website": "https://uiii.ac.id",
+  "about": "UIII is Indonesia's international Islamic university, a graduate-only institution near Jakarta offering fully funded MA and PhD programmes with a global student body.",
+  "name": "Universitas Islam Internasional Indonesia (UIII)",
+  "programCount": 1,
+  "logoUrl": "https://www.google.com/s2/favicons?domain=uiii.ac.id&sz=256",
+  "slug": "universitas-islam-internasional-indonesia-uiii",
+  "status": "published",
+  "updatedAt": "2026-10-23T00:07:35.000Z",
+  "id": "VrwbaTiokBIB0ke72s3G"
+ },
+ "regionId": "asia",
+ "countryCode": "ID",
+ "city": "Depok (Greater Jakarta)",
+ "deadline": null,
+ "deadlineType": "custom",
+ "deadlineText": "Rolling admission rounds",
+ "degreeLevels": [
+  "masters",
+  "phd"
+ ],
+ "disciplines": [
+  "islamic_studies",
+  "political_science",
+  "economics",
+  "international_relations",
+  "sociology"
+ ],
+ "subjects": [
+  "Indonesia graduate school",
+  "Full scholarships",
+  "Islamic studies",
+  "MA and PhD"
+ ],
+ "fundingType": "fully_funded",
+ "fundingStatus": "fully_funded",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "stipend": "Stipend/salary rate set by the funder — see the official listing",
+ "intro": "UIII (Universitas Islam Internasional Indonesia) is a graduate-only university near Jakarta offering MA and PhD programmes across four faculties, with full scholarships for admitted international students. Its admissions portal runs early-bird and regular rounds for the 2027-2028 academic year.",
+ "tags": [
+  "UIII",
+  "Indonesia Scholarships",
+  "Islamic Studies",
+  "Full Scholarship",
+  "MA PhD",
+  "Southeast Asia"
+ ],
+ "applyLink": "https://admissions.uiii.ac.id/home/en",
+ "isFeatured": false,
+ "ieltsRequired": true,
+ "eligibility": "worldwide",
+ "seoTitle": "UIII Admissions 2027-2028 | Fully Funded MA & PhD Scholarships in Indonesia",
+ "seoDescription": "Universitas Islam Internasional Indonesia (UIII) offers fully funded MA and PhD places with living allowance, accommodation and airfare. Rolling rounds on the admissions portal.",
+ "ogImage": "https://nextapply.co.uk/uiii-graduate-admissions-scholarships-2027/opengraph-image",
+ "verificationStatus": "unverified",
+ "verificationScore": null,
+ "addedDate": "2026-10-23T00:07:35.000Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-23T00:07:35.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-23T00:07:35.000Z",
+ "id": "gZl7JVKjxJNkojHz5D5v",
+ "opportunityType": "scholarship",
+ "sourceType": "official_organization",
+ "isRemote": false,
+ "description": "<h2>About the Scholarship</h2><p>UIII (Universitas Islam Internasional Indonesia) is a graduate-only university near Jakarta offering MA and PhD programmes across four faculties, with full scholarships for admitted international students. Its admissions portal runs early-bird and regular rounds for the 2027-2028 academic year.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">UIII – Graduate Admissions with Full Scholarships (Universitas Islam Internasional Indonesia)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Universitas Islam Internasional Indonesia (UIII)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Depok (Greater Jakarta), Indonesia</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's, PhD</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Full scholarship package: tuition waiver, monthly living</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Rolling admission rounds for 2027-2028 with early-bird and regular deadlines announced on</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://admissions.uiii.ac.id/home/en\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>UIII (Universitas Islam Internasional Indonesia) is a graduate-only university near Jakarta offering MA and PhD programmes across four faculties, with full scholarships for admitted international students. Its admissions portal runs early-bird and regular rounds for the 2027-2028 academic year.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Fully funded MA and PhD places including accommodation and airfare</li>\n <li>Four faculties: Islamic studies, economics, social sciences and political science</li>\n <li>English-medium graduate education with international faculty</li>\n <li>Rolling rounds with early-bird advantages</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Bachelor's (for MA) or master's (for PhD) graduates in the humanities and social sciences with interest in Islamic-world studies contexts; English documentation required.</p>\n<h2>Funding and Costs</h2>\n<p>Full scholarship package: tuition waiver, monthly living allowance, on-campus accommodation and return airfare for selected students.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Create an account on the UIII admissions portal and submit in an early round to maximise scholarship consideration. Key deadline information: <strong>Rolling admission rounds for 2027-2028 with early-bird and regular deadlines announced on the admissions portal</strong>.</p>\n<h2>Official Link</h2>\n<ul>\n <li><a href=\"https://admissions.uiii.ac.id/home/en\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About Universitas Islam Internasional Indonesia (UIII)</h2><p>UIII is Indonesia's international Islamic university, a graduate-only institution near Jakarta offering fully funded MA and PhD programmes with a global student body.</p><p>Official website: <a href=\"https://uiii.ac.id\" target=\"_blank\" rel=\"noopener noreferrer\">https://uiii.ac.id</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: Rolling admission rounds - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/masters-phd-application-timeline-12-months\">A 12-Month Study Abroad Application Plan for Master's and PhD Applicants</a></li></ul>",
+ "keywords": [
+  "UIII – Graduate Admissions with Full Scholarships (Universitas Islam",
+  "Universitas Islam Internasional Indonesia (UIII) scholarships",
+  "fully funded Master's Indonesia",
+  "Indonesia scholarships 2027",
+  "Master's 2027 intake",
+  "IELTS requirement",
+  "UIII",
+  "Indonesia Scholarships",
+  "Islamic Studies"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/uiii-graduate-admissions-scholarships-2027",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalProgram",
+  "@id": "https://nextapply.co.uk/uiii-graduate-admissions-scholarships-2027#opportunity",
+  "url": "https://nextapply.co.uk/uiii-graduate-admissions-scholarships-2027",
+  "name": "UIII – Graduate Admissions with Full Scholarships (Universitas Islam Internasional Indonesia)",
+  "description": "UIII (Universitas Islam Internasional Indonesia) is a graduate-only university near Jakarta offering MA and PhD programmes across four faculties, with full scholarships for admitted international students. Its admissions portal runs early-bird and regular rounds for the 2027-2028 academic year.",
+  "educationalProgramMode": "full time",
+  "provider": {
+   "@type": "Organization",
+   "name": "Universitas Islam Internasional Indonesia (UIII)",
+   "sameAs": "https://uiii.ac.id",
+   "logo": "https://www.google.com/s2/favicons?domain=uiii.ac.id&sz=256"
+  },
+  "offers": {
+   "@type": "Offer",
+   "category": "Fully Funded programme"
+  }
+ }
 }

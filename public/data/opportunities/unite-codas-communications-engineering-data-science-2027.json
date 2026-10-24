@@ -1,78 +1,119 @@
 {
-  "title": "UNITE CODaS – Erasmus Mundus Master in Communications Engineering and Data Science",
-  "status": "published",
-  "slug": "unite-codas-communications-engineering-data-science-2027",
-  "isOpen": true,
-  "category": "scholarship",
-  "organizationId": "rX4P2BnolxlIn30eN2nH",
-  "organization": {
-    "createdAt": "2026-10-23T00:07:35.000Z",
-    "website": "https://www.unite-codas-master.eu",
-    "about": "The UNITE CODaS consortium delivers the Erasmus Mundus Joint Master in Communications Engineering and Data Science through a network of European technical universities.",
-    "name": "UNITE CODaS Consortium",
-    "programCount": 1,
-    "logoUrl": "https://www.google.com/s2/favicons?domain=unite-codas-master.eu&sz=256",
-    "slug": "unite-codas-consortium",
-    "status": "published",
-    "updatedAt": "2026-10-23T00:07:35.000Z",
-    "id": "rX4P2BnolxlIn30eN2nH"
-  },
-  "regionId": "europe",
-  "countryCode": "DE",
-  "city": "Munich (multi-country mobility)",
-  "deadline": "2027-01-05T13:00:00.000Z",
-  "deadlineType": "fixed",
-  "deadlineText": "5 January 2027",
-  "degreeLevels": [
-    "masters"
-  ],
-  "disciplines": [
-    "telecommunications",
-    "data_science",
-    "signal_processing",
-    "electrical_engineering",
-    "machine_learning"
-  ],
-  "subjects": [
-    "Communications engineering",
-    "Data science",
-    "6G technologies",
-    "Erasmus Mundus"
-  ],
-  "fundingType": "fully_funded",
-  "fundingStatus": "fully_funded",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "stipend": "Erasmus Mundus scholarships for selected students:",
-  "intro": "CODaS, delivered by the UNITE university network, combines communications engineering with data science for next-generation network technologies. For studies beginning in autumn 2027 the application window runs from 1 December 2026 to 5 January 2027 at 15:00 (GMT+2) — a short, well-defined window.",
-  "tags": [
-    "Erasmus Mundus",
-    "CODaS",
-    "Communications Engineering",
-    "Data Science",
-    "5G 6G",
-    "Fully Funded",
-    "Masters"
-  ],
-  "applyLink": "https://www.unite-codas-master.eu/admission.html",
-  "isFeatured": false,
-  "ieltsRequired": true,
-  "eligibility": "worldwide",
-  "seoTitle": "UNITE CODaS 2027 | Communications Engineering & Data Science, 5 Jan Deadline",
-  "seoDescription": "UNITE CODaS Erasmus Mundus master in communications engineering and data science. Applications 1 Dec 2026 - 5 Jan 2027 (15:00 GMT+2) for autumn 2027. Fully funded.",
-  "ogImage": "",
-  "verificationStatus": "verified",
-  "verificationScore": null,
-  "addedDate": "2026-10-23T00:07:35.000Z",
-  "clickCount": 0,
+ "title": "UNITE CODaS – Erasmus Mundus Master in Communications Engineering and Data Science",
+ "status": "published",
+ "slug": "unite-codas-communications-engineering-data-science-2027",
+ "isOpen": true,
+ "category": "scholarship",
+ "organizationId": "rX4P2BnolxlIn30eN2nH",
+ "organization": {
   "createdAt": "2026-10-23T00:07:35.000Z",
-  "updatedAt": "2026-10-23T14:20:12.000Z",
-  "publishedAt": "2026-10-23T00:07:35.000Z",
-  "id": "A7VsZMFgZgw5RGG5yXXz",
-  "opportunityType": "scholarship",
-  "sourceType": "official_organization",
-  "isRemote": false,
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">UNITE CODaS – Erasmus Mundus Master in Communications Engineering and Data Science</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">UNITE CODaS Consortium</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Munich (multi-country mobility), Germany</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Erasmus Mundus scholarships for selected students:</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">5 January 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.unite-codas-master.eu/admission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>CODaS, delivered by the UNITE university network, combines communications engineering with data science for next-generation network technologies. For studies beginning in autumn 2027 the application window runs from 1 December 2026 to 5 January 2027 at 15:00 (GMT+2) — a short, well-defined window.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Communications-plus-data-science hybrid curriculum</li>\n <li>Five-week window: 1 December 2026 – 5 January 2027 (15:00 GMT+2)</li>\n <li>Bachelor's requirement of 180 ECTS or three years of full-time study</li>\n <li>Pathways into 5G/6G research, telecom R&D and data engineering</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Electrical engineering, telecommunications, computer science and applied mathematics graduates are the core applicants.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships for selected students: participation costs plus monthly allowance.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Submit through the CODaS admission page during the December window and check the schedule section for document deadlines. Key deadline information: <strong>5 January 2027 (15:00 GMT+2); application window 1 December 2026 – 5 January 2027</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://www.unite-codas-master.eu/admission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About UNITE CODaS Consortium</h2><p>The UNITE CODaS consortium delivers the Erasmus Mundus Joint Master in Communications Engineering and Data Science through a network of European technical universities.</p><p>Official website: <a href=\"https://www.unite-codas-master.eu\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.unite-codas-master.eu</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 5 January 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/phd-salary-germany-tv-l-e13-explained\">TV-L E13 PhD Pay in Germany: Contract Percentage, Gross Pay and Benefits</a></li><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li></ul>"
+  "website": "https://www.unite-codas-master.eu",
+  "about": "The UNITE CODaS consortium delivers the Erasmus Mundus Joint Master in Communications Engineering and Data Science through a network of European technical universities.",
+  "name": "UNITE CODaS Consortium",
+  "programCount": 1,
+  "logoUrl": "https://www.google.com/s2/favicons?domain=unite-codas-master.eu&sz=256",
+  "slug": "unite-codas-consortium",
+  "status": "published",
+  "updatedAt": "2026-10-23T00:07:35.000Z",
+  "id": "rX4P2BnolxlIn30eN2nH"
+ },
+ "regionId": "europe",
+ "countryCode": "DE",
+ "city": "Munich (multi-country mobility)",
+ "deadline": "2027-01-05T13:00:00.000Z",
+ "deadlineType": "fixed",
+ "deadlineText": "5 January 2027",
+ "degreeLevels": [
+  "masters"
+ ],
+ "disciplines": [
+  "telecommunications",
+  "data_science",
+  "signal_processing",
+  "electrical_engineering",
+  "machine_learning"
+ ],
+ "subjects": [
+  "Communications engineering",
+  "Data science",
+  "6G technologies",
+  "Erasmus Mundus"
+ ],
+ "fundingType": "fully_funded",
+ "fundingStatus": "fully_funded",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "stipend": "€1,400/month (EMJM scholarship rate)",
+ "intro": "CODaS, delivered by the UNITE university network, combines communications engineering with data science for next-generation network technologies. For studies beginning in autumn 2027 the application window runs from 1 December 2026 to 5 January 2027 at 15:00 (GMT+2) — a short, well-defined window.",
+ "tags": [
+  "Erasmus Mundus",
+  "CODaS",
+  "Communications Engineering",
+  "Data Science",
+  "5G 6G",
+  "Fully Funded",
+  "Masters"
+ ],
+ "applyLink": "https://www.unite-codas-master.eu/admission.html",
+ "isFeatured": false,
+ "ieltsRequired": true,
+ "eligibility": "worldwide",
+ "seoTitle": "UNITE CODaS 2027 | Communications Engineering & Data Science, 5 Jan Deadline",
+ "seoDescription": "UNITE CODaS Erasmus Mundus master in communications engineering and data science. Applications 1 Dec 2026 - 5 Jan 2027 (15:00 GMT+2) for autumn 2027. Fully funded.",
+ "ogImage": "https://nextapply.co.uk/unite-codas-communications-engineering-data-science-2027/opengraph-image",
+ "verificationStatus": "verified",
+ "verificationScore": null,
+ "addedDate": "2026-10-23T00:07:35.000Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-23T00:07:35.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-23T00:07:35.000Z",
+ "id": "A7VsZMFgZgw5RGG5yXXz",
+ "opportunityType": "scholarship",
+ "sourceType": "official_organization",
+ "isRemote": false,
+ "description": "<h2>About the Scholarship</h2><p>CODaS, delivered by the UNITE university network, combines communications engineering with data science for next-generation network technologies. For studies beginning in autumn 2027 the application window runs from 1 December 2026 to 5 January 2027 at 15:00 (GMT+2) — a short, well-defined window.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">UNITE CODaS – Erasmus Mundus Master in Communications Engineering and Data Science</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">UNITE CODaS Consortium</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Munich (multi-country mobility), Germany</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Erasmus Mundus scholarships for selected students:</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">5 January 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://www.unite-codas-master.eu/admission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>CODaS, delivered by the UNITE university network, combines communications engineering with data science for next-generation network technologies. For studies beginning in autumn 2027 the application window runs from 1 December 2026 to 5 January 2027 at 15:00 (GMT+2) — a short, well-defined window.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Communications-plus-data-science hybrid curriculum</li>\n <li>Five-week window: 1 December 2026 – 5 January 2027 (15:00 GMT+2)</li>\n <li>Bachelor's requirement of 180 ECTS or three years of full-time study</li>\n <li>Pathways into 5G/6G research, telecom R&D and data engineering</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Electrical engineering, telecommunications, computer science and applied mathematics graduates are the core applicants.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships for selected students: participation costs plus monthly allowance.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Submit through the CODaS admission page during the December window and check the schedule section for document deadlines. Key deadline information: <strong>5 January 2027 (15:00 GMT+2); application window 1 December 2026 – 5 January 2027</strong>.</p>\n<h2>Official Link</h2>\n<ul>\n <li><a href=\"https://www.unite-codas-master.eu/admission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About UNITE CODaS Consortium</h2><p>The UNITE CODaS consortium delivers the Erasmus Mundus Joint Master in Communications Engineering and Data Science through a network of European technical universities.</p><p>Official website: <a href=\"https://www.unite-codas-master.eu\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.unite-codas-master.eu</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 5 January 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/phd-salary-germany-tv-l-e13-explained\">TV-L E13 PhD Pay in Germany: Contract Percentage, Gross Pay and Benefits</a></li><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li></ul>",
+ "stipendAmount": 1400,
+ "stipendCurrency": "EUR",
+ "stipendPeriod": "month",
+ "keywords": [
+  "UNITE CODaS – Erasmus Mundus Master in Communications Engineering and",
+  "UNITE CODaS Consortium scholarships",
+  "fully funded Master's Germany",
+  "Germany scholarships 2027",
+  "Master's 2027 intake",
+  "IELTS requirement",
+  "Erasmus Mundus",
+  "CODaS",
+  "Communications Engineering"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/unite-codas-communications-engineering-data-science-2027",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalProgram",
+  "@id": "https://nextapply.co.uk/unite-codas-communications-engineering-data-science-2027#opportunity",
+  "url": "https://nextapply.co.uk/unite-codas-communications-engineering-data-science-2027",
+  "name": "UNITE CODaS – Erasmus Mundus Master in Communications Engineering and Data Science",
+  "description": "CODaS, delivered by the UNITE university network, combines communications engineering with data science for next-generation network technologies. For studies beginning in autumn 2027 the application window runs from 1 December 2026 to 5 January 2027 at 15:00 (GMT+2) — a short, well-defined window.",
+  "educationalProgramMode": "full time",
+  "provider": {
+   "@type": "Organization",
+   "name": "UNITE CODaS Consortium",
+   "sameAs": "https://www.unite-codas-master.eu",
+   "logo": "https://www.google.com/s2/favicons?domain=unite-codas-master.eu&sz=256"
+  },
+  "applicationDeadline": "2027-01-05",
+  "offers": {
+   "@type": "Offer",
+   "category": "Fully Funded programme",
+   "priceSpecification": {
+    "@type": "PriceSpecification",
+    "price": 1400,
+    "priceCurrency": "EUR"
+   }
+  }
+ }
 }

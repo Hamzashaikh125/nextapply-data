@@ -1,71 +1,125 @@
 {
+ "title": "PhD in AI for Cinematic Camera Lens Design at University of Surrey, UK",
+ "status": "published",
+ "slug": "phd-ai-for-cinematic-camera-lens-design-surrey-2027",
+ "isOpen": true,
+ "category": "phd_position",
+ "organizationId": "WboOvGYGcXKoBVVYYcvc",
+ "organization": {
+  "id": "WboOvGYGcXKoBVVYYcvc",
+  "slug": "university-of-surrey",
+  "name": "University of Surrey",
+  "logoUrl": "https://images.seeklogo.com/logo-png/20/1/university-of-surrey-logo-png_seeklogo-207024.png",
+  "website": "https://www.surrey.ac.uk/",
+  "about": "University of Surrey is a public research university in Guildford, England. It offers undergraduate, postgraduate and doctoral programmes across engineering, science, business, health, humanities and social sciences. Its teaching and research connect academic foundations with professional practice, supported by partnerships and work addressing questions in technology, health and contemporary society."
+ },
+ "regionId": "europe",
+ "countryCode": "GB",
+ "city": "Guildford",
+ "deadline": "2027-01-17T23:59:59.999Z",
+ "deadlineType": "fixed",
+ "deadlineText": "17 January 2027",
+ "degreeLevels": [
+  "phd"
+ ],
+ "disciplines": [
+  "computer_science",
+  "artificial_intelligence"
+ ],
+ "subjects": [
+  "Computational imaging",
+  "Differentiable rendering",
+  "Inverse optical design",
+  "Machine learning"
+ ],
+ "fundingType": "fully_funded",
+ "stipend": "£21,805/year",
+ "intro": "The University of Surrey is offering a doctorate on AI-assisted camera-lens design. The project combines computer vision, graphics and computational imaging to connect optical design choices with image quality.",
+ "description": "<h2>About the Position</h2>\n<p>The University of Surrey is offering a doctorate on AI-assisted camera-lens design.</p><p>The project combines computer vision, graphics and computational imaging to connect optical design choices with image quality.</p>\n\n<h2>Official Project Title</h2>\n<p>Smart optical design: AI tools for the next generation of cinematic camera lenses</p>\n\n<h2>Research Focus and Methods</h2>\n<p>Develop differentiable, data-driven models for forward imaging simulation and inverse lens design. Investigate ways to propose lens architectures that meet imaging or perceptual objectives.</p>\n\n<h2>Research Training and Development</h2>\n<p>Research connects AI methods with industrial optical-design problems.</p>\n\n<h2>Funding and Duration</h2>\n<div class=\"table-wrapper\"><table class=\"info-table\" style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\">\n<caption>Studentship funding and award conditions</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Component</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Award</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">PhD studentship; selection is competitive</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Programme</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Surrey studentship</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Duration</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">42 months (3.5 years)</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Stipend</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">£21,805 per year at the advertised 2026/27 UKRI rate; later rates follow the award terms.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Tuition and research support</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Home fees or an international-fee waiver, stipend, research training and travel funds.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Award conditions</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Selection is competitive; an advertised project does not guarantee a studentship.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Stipend amount status</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">£21,805 is the published 2026/27 reference rate. Subsequent academic-year rates and the amount in an individual funding offer should be checked separately.</td></tr></tbody></table></div>\n\n<h2>Eligibility and English Language</h2>\n<div class=\"table-wrapper\"><table class=\"info-table\" style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\">\n<caption>Applicant qualifications and funding eligibility</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Component</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Applicant eligibility</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Worldwide applicants may apply, subject to programme and university requirements.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Academic preparation</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">First-class or high 2:1 honours degree or equivalent in computer science, electronic engineering, applied mathematics, physics or a related subject; a relevant master’s is preferred.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Project interests and skills</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Strong mathematics and Python or C/C++; relevant vision, graphics or machine-learning experience. Rendering or optics experience is desirable.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">English language</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Meet the host university’s English-language admission rules. An approved alternative or exemption may apply; IELTS is not universally mandatory.</td></tr>\n</tbody></table></div>\n\n<h2>About University of Surrey</h2><p>University of Surrey is a public research university in Guildford, England. It offers undergraduate, postgraduate and doctoral programmes across engineering, science, business, health, humanities and social sciences. Its teaching and research connect academic foundations with professional practice, supported by partnerships and work addressing questions in technology, health and contemporary society.</p><p>Official website: <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.surrey.ac.uk/</a></p><h2>Application Dates and Location</h2>\n<div class=\"table-wrapper\"><table class=\"info-table\" style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><caption>Deadline, start date and research location</caption><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Item</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody><tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Application deadline</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">17 January 2027</td></tr><tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Start date</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">1 April 2027</td></tr><tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Research location</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Guildford, United Kingdom</td></tr></tbody></table></div>\n\n<h2>Contact</h2><ul><li>Email: <a href=\"mailto:m.volino@surrey.ac.uk\">m.volino@surrey.ac.uk</a></li><li>Email: <a href=\"mailto:j.guillemaut@surrey.ac.uk\">j.guillemaut@surrey.ac.uk</a></li></ul><p>Questions about this position, eligibility or the application process should be sent to the contacts above or raised through the channel given on the official announcement page.</p><h2>Important Notes</h2><ul><li>Application deadline: 17 January 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2>\n<ol><li>Apply through the Vision, Speech and Signal Processing PhD link in the advert.</li><li>Instead of a research proposal, upload a document stating the project title and relevant supervisor.</li><li>Complete the programme’s remaining supporting-document requirements.</li></ol>\n\n<h2>Application Checklist</h2>\n<ul><li>Document stating the project title and relevant supervisor, uploaded in place of a research proposal</li><li>Other supporting documents required by the linked PhD programme; consult its current checklist</li></ul>\n\n<h2>Supervisors and Contact</h2>\n<div class=\"table-wrapper\"><table class=\"info-table\" style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><caption>Supervisory team and contact details</caption><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Supervisor</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Role</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Email</th></tr></thead><tbody><tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Dr Marco Volino</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Primary Supervisor</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\"><a href=\"mailto:m.volino@surrey.ac.uk\">m.volino@surrey.ac.uk</a></td></tr><tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Dr Jean-Yves Guillemaut</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Co-supervisor</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\"><a href=\"mailto:j.guillemaut@surrey.ac.uk\">j.guillemaut@surrey.ac.uk</a></td></tr></tbody></table></div>\n\n\n\n<h2>Application Preparation</h2>\n<p>For application preparation, see <a href=\"/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a>, <a href=\"/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a> and <a href=\"/articles/how-to-identify-funded-phd-accepts-international-students\">Is a PhD Funded for International Students? How to Check the Advert</a>.</p>\n\n<h2>Official Link</h2>\n<ul><li><a href=\"https://www.surrey.ac.uk/fees-and-funding/studentships/smart-optical-design-ai-tools-next-generation-cinematic-camera-lenses\" target=\"_blank\" rel=\"noopener noreferrer\">Official project description</a></li><li><a href=\"https://www.surrey.ac.uk/people/marco-volino\" target=\"_blank\" rel=\"noopener noreferrer\">Dr Marco Volino: official profile</a></li><li><a href=\"https://www.surrey.ac.uk/people/jean-yves-guillemaut\" target=\"_blank\" rel=\"noopener noreferrer\">Dr Jean-Yves Guillemaut: official profile</a></li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
+ "tags": [
+  "phd",
+  "fully-funded",
+  "united-kingdom",
+  "university-of-surrey",
+  "2027",
+  "computational-imaging",
+  "differentiable-rendering",
+  "inverse-optical-design",
+  "machine-learning",
+  "University of Surrey",
+  "Guildford",
+  "United Kingdom"
+ ],
+ "applyLink": "https://www.surrey.ac.uk/fees-and-funding/studentships/smart-optical-design-ai-tools-next-generation-cinematic-camera-lenses",
+ "isFeatured": false,
+ "ieltsRequired": true,
+ "eligibility": "worldwide",
+ "seoTitle": "Fully Funded PhD in AI for Lens Design – Surrey, UK 2027",
+ "seoDescription": "Fully Funded PhD in Guildford at University of Surrey: £21,805/yr stipend. Deadline: 17 January 2027. Apply via NextApply.",
+ "ogImage": "https://www.surrey.ac.uk/sites/default/files/styles/banner_image_1500x470/public/2018-10/studentship-cta-strip%20%281%29.jpg?itok=WymnDaaa",
+ "verificationStatus": "unverified",
+ "addedDate": "2026-10-15T22:08:21.948Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-15T22:08:22.119Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-15T22:08:22.119Z",
+ "fundingStatus": "fully_funded",
+ "id": "nJdmLdljCRELhDsHTAsT",
+ "stipendAmount": 21805,
+ "stipendCurrency": "GBP",
+ "stipendPeriod": "year",
+ "opportunityType": "phd_position",
+ "keywords": [
+  "PhD in AI for Cinematic Camera Lens Design",
+  "University of Surrey positions",
+  "fully funded PhD UK",
+  "UK scholarships 2027",
+  "PhD 2027 intake",
+  "IELTS requirement",
+  "phd",
+  "fully-funded",
+  "united-kingdom"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/phd-ai-for-cinematic-camera-lens-design-surrey-2027",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/phd-ai-for-cinematic-camera-lens-design-surrey-2027#opportunity",
+  "url": "https://nextapply.co.uk/phd-ai-for-cinematic-camera-lens-design-surrey-2027",
   "title": "PhD in AI for Cinematic Camera Lens Design at University of Surrey, UK",
-  "status": "published",
-  "slug": "phd-ai-for-cinematic-camera-lens-design-surrey-2027",
-  "isOpen": true,
-  "category": "phd_position",
-  "organizationId": "WboOvGYGcXKoBVVYYcvc",
-  "organization": {
-    "id": "WboOvGYGcXKoBVVYYcvc",
-    "slug": "university-of-surrey",
-    "name": "University of Surrey",
-    "logoUrl": "https://images.seeklogo.com/logo-png/20/1/university-of-surrey-logo-png_seeklogo-207024.png",
-    "website": "https://www.surrey.ac.uk/",
-    "about": "University of Surrey is a public research university in Guildford, England. It offers undergraduate, postgraduate and doctoral programmes across engineering, science, business, health, humanities and social sciences. Its teaching and research connect academic foundations with professional practice, supported by partnerships and work addressing questions in technology, health and contemporary society."
+  "description": "The University of Surrey is offering a doctorate on AI-assisted camera-lens design. The project combines computer vision, graphics and computational imaging to connect optical design choices with image quality.",
+  "datePosted": "2026-10-15T22:08:22.119Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "University of Surrey",
+   "sameAs": "https://www.surrey.ac.uk/",
+   "logo": "https://images.seeklogo.com/logo-png/20/1/university-of-surrey-logo-png_seeklogo-207024.png"
   },
-  "regionId": "europe",
-  "countryCode": "GB",
-  "city": "Guildford",
-  "deadline": "2027-01-17T23:59:59.999Z",
-  "deadlineType": "fixed",
-  "deadlineText": "17 January 2027",
-  "degreeLevels": [
-    "phd"
-  ],
-  "disciplines": [
-    "computer_science",
-    "artificial_intelligence"
-  ],
-  "subjects": [
-    "Computational imaging",
-    "Differentiable rendering",
-    "Inverse optical design",
-    "Machine learning"
-  ],
-  "fundingType": "fully_funded",
-  "stipend": "£21,805/year",
-  "intro": "The University of Surrey is offering a doctorate on AI-assisted camera-lens design. The project combines computer vision, graphics and computational imaging to connect optical design choices with image quality.",
-  "description": "<h2>Research Summary</h2>\n<p>The University of Surrey is offering a doctorate on AI-assisted camera-lens design.</p><p>The project combines computer vision, graphics and computational imaging to connect optical design choices with image quality.</p>\n\n<h2>Official Project Title</h2>\n<p>Smart optical design: AI tools for the next generation of cinematic camera lenses</p>\n\n<h2>Research Focus and Methods</h2>\n<p>Develop differentiable, data-driven models for forward imaging simulation and inverse lens design. Investigate ways to propose lens architectures that meet imaging or perceptual objectives.</p>\n\n<h2>Research Training and Development</h2>\n<p>Research connects AI methods with industrial optical-design problems.</p>\n\n<h2>Funding and Duration</h2>\n<div class=\"table-wrapper\"><table class=\"info-table\" style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\">\n<caption>Studentship funding and award conditions</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Component</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Award</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">PhD studentship; selection is competitive</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Programme</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Surrey studentship</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Duration</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">42 months (3.5 years)</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Stipend</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">£21,805 per year at the advertised 2026/27 UKRI rate; later rates follow the award terms.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Tuition and research support</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Home fees or an international-fee waiver, stipend, research training and travel funds.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Award conditions</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Selection is competitive; an advertised project does not guarantee a studentship.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Stipend amount status</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">£21,805 is the published 2026/27 reference rate. Subsequent academic-year rates and the amount in an individual funding offer should be checked separately.</td></tr></tbody></table></div>\n\n<h2>Eligibility and English Language</h2>\n<div class=\"table-wrapper\"><table class=\"info-table\" style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\">\n<caption>Applicant qualifications and funding eligibility</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Component</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Applicant eligibility</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Worldwide applicants may apply, subject to programme and university requirements.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Academic preparation</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">First-class or high 2:1 honours degree or equivalent in computer science, electronic engineering, applied mathematics, physics or a related subject; a relevant master’s is preferred.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Project interests and skills</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Strong mathematics and Python or C/C++; relevant vision, graphics or machine-learning experience. Rendering or optics experience is desirable.</td></tr>\n<tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">English language</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Meet the host university’s English-language admission rules. An approved alternative or exemption may apply; IELTS is not universally mandatory.</td></tr>\n</tbody></table></div>\n\n<h2>About University of Surrey</h2><p>University of Surrey is a public research university in Guildford, England. It offers undergraduate, postgraduate and doctoral programmes across engineering, science, business, health, humanities and social sciences. Its teaching and research connect academic foundations with professional practice, supported by partnerships and work addressing questions in technology, health and contemporary society.</p><p>Official website: <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.surrey.ac.uk/</a></p><h2>Application Dates and Location</h2>\n<div class=\"table-wrapper\"><table class=\"info-table\" style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><caption>Deadline, start date and research location</caption><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Item</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Details</th></tr></thead><tbody><tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Application deadline</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">17 January 2027</td></tr><tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Start date</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">1 April 2027</td></tr><tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Research location</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Guildford, United Kingdom</td></tr></tbody></table></div>\n\n<h2>Contact</h2><ul><li>Email: <a href=\"mailto:m.volino@surrey.ac.uk\">m.volino@surrey.ac.uk</a></li><li>Email: <a href=\"mailto:j.guillemaut@surrey.ac.uk\">j.guillemaut@surrey.ac.uk</a></li></ul><p>Questions about this position, eligibility or the application process should be sent to the contacts above or raised through the channel given on the official announcement page.</p><h2>Important Notes</h2><ul><li>Application deadline: 17 January 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2>\n<ol><li>Apply through the Vision, Speech and Signal Processing PhD link in the advert.</li><li>Instead of a research proposal, upload a document stating the project title and relevant supervisor.</li><li>Complete the programme’s remaining supporting-document requirements.</li></ol>\n\n<h2>Application Checklist</h2>\n<ul><li>Document stating the project title and relevant supervisor, uploaded in place of a research proposal</li><li>Other supporting documents required by the linked PhD programme; consult its current checklist</li></ul>\n\n<h2>Supervisors and Contact</h2>\n<div class=\"table-wrapper\"><table class=\"info-table\" style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><caption>Supervisory team and contact details</caption><thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Supervisor</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Role</th><th scope=\"col\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Email</th></tr></thead><tbody><tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Dr Marco Volino</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Primary Supervisor</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\"><a href=\"mailto:m.volino@surrey.ac.uk\">m.volino@surrey.ac.uk</a></td></tr><tr><th scope=\"row\" style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\">Dr Jean-Yves Guillemaut</th><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\">Co-supervisor</td><td style=\"border:1px solid #d9dee5;padding:8px 10px;text-align:left;vertical-align:top\"><a href=\"mailto:j.guillemaut@surrey.ac.uk\">j.guillemaut@surrey.ac.uk</a></td></tr></tbody></table></div>\n\n\n\n<h2>Application Preparation</h2>\n<p>For application preparation, see <a href=\"/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a>, <a href=\"/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a> and <a href=\"/articles/how-to-identify-funded-phd-accepts-international-students\">Is a PhD Funded for International Students? How to Check the Advert</a>.</p>\n\n<h2>Official Sources</h2>\n<ul><li><a href=\"https://www.surrey.ac.uk/fees-and-funding/studentships/smart-optical-design-ai-tools-next-generation-cinematic-camera-lenses\" target=\"_blank\" rel=\"noopener noreferrer\">Official project description</a></li><li><a href=\"https://www.surrey.ac.uk/people/marco-volino\" target=\"_blank\" rel=\"noopener noreferrer\">Dr Marco Volino: official profile</a></li><li><a href=\"https://www.surrey.ac.uk/people/jean-yves-guillemaut\" target=\"_blank\" rel=\"noopener noreferrer\">Dr Jean-Yves Guillemaut: official profile</a></li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-apply-uk-student-visa-step-by-step-2026-2027\">UK Student Visa Application: CAS, Documents and Financial Evidence</a></li></ul>",
-  "tags": [
-    "phd",
-    "fully-funded",
-    "united-kingdom",
-    "university-of-surrey",
-    "2027",
-    "computational-imaging",
-    "differentiable-rendering",
-    "inverse-optical-design",
-    "machine-learning",
-    "University of Surrey",
-    "Guildford",
-    "United Kingdom"
-  ],
-  "applyLink": "https://www.surrey.ac.uk/fees-and-funding/studentships/smart-optical-design-ai-tools-next-generation-cinematic-camera-lenses",
-  "isFeatured": false,
-  "ieltsRequired": true,
-  "eligibility": "worldwide",
-  "seoTitle": "Fully Funded PhD in AI for Lens Design – Surrey, UK 2027",
-  "seoDescription": "Fully Funded PhD in Guildford at University of Surrey: £21,805/yr stipend. Deadline: 17 January 2027. Apply via NextApply.",
-  "ogImage": "https://www.surrey.ac.uk/sites/default/files/styles/banner_image_1500x470/public/2018-10/studentship-cta-strip%20%281%29.jpg?itok=WymnDaaa",
-  "verificationStatus": "unverified",
-  "addedDate": "2026-10-15T22:08:21.948Z",
-  "clickCount": 0,
-  "createdAt": "2026-10-15T22:08:22.119Z",
-  "updatedAt": "2026-10-23T14:21:38.000Z",
-  "publishedAt": "2026-10-15T22:08:22.119Z",
-  "fundingStatus": "fully_funded",
-  "id": "nJdmLdljCRELhDsHTAsT",
-  "stipendAmount": 21805,
-  "stipendCurrency": "GBP",
-  "stipendPeriod": "year"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "phd-ai-for-cinematic-camera-lens-design-surrey-2027"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "GB",
+    "addressLocality": "Guildford"
+   }
+  },
+  "validThrough": "2027-01-17T23:59:59.999Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "GBP",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 21805,
+    "unitText": "YEAR"
+   }
+  }
+ }
 }

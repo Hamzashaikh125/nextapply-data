@@ -1,76 +1,129 @@
 {
+ "title": "PhD-student in Evolutionary and Ecological Genetics - Uppsala University, Sweden",
+ "status": "published",
+ "slug": "phd-evolutionary-ecological-genetics-uppsala-2027",
+ "isOpen": true,
+ "category": "phd_position",
+ "organizationId": "xdUkOGn8yH35UrymKVky",
+ "organization": {
+  "id": "xdUkOGn8yH35UrymKVky",
+  "slug": "uppsala-university",
+  "name": "Uppsala University",
+  "logoUrl": "https://www.google.com/s2/favicons?domain=uu.se&sz=256",
+  "website": "https://www.uu.se",
+  "about": "Uppsala University is a comprehensive research university in Uppsala, Sweden, and the oldest university in the Nordic countries. Its research and education span science, medicine, technology, humanities and social sciences. Doctoral students are employed as paid researchers with monthly salaries across its departments."
+ },
+ "regionId": "europe",
+ "countryCode": "SE",
+ "city": "Uppsala",
+ "deadline": "2026-11-01T23:59:00.000Z",
+ "deadlineType": "fixed",
+ "deadlineText": "1 November 2026",
+ "degreeLevels": [
+  "phd"
+ ],
+ "disciplines": [
+  "biology",
+  "genetics",
+  "evolutionary_biology",
+  "bioinformatics"
+ ],
+ "subjects": [
+  "Evolutionary genetics",
+  "Ecological genetics",
+  "Population genomics",
+  "Adaptation"
+ ],
+ "fundingType": "fully_funded",
+ "stipend": "SEK 31,300/month",
+ "intro": "Uppsala University invites applications for a doctoral student position in evolutionary and ecological genetics. The project applies genomic methods to questions in population and evolutionary genetics, studying how genetic variation is shaped by ecological processes and how natural populations adapt to changing environments.",
+ "description": "<h2>About the Position</h2>\n<p>Uppsala University invites applications for a doctoral student position in evolutionary and ecological genetics. The project applies genomic methods to questions in population and evolutionary genetics, studying how genetic variation is shaped by ecological processes and how natural populations adapt to changing environments.</p>\n<p>The successful candidate joins the research environment at the Evolutionary Biology Centre (EBC), one of Europe's leading hubs for evolutionary research. The doctoral project combines laboratory genomics with computational analysis, and offers training in population genetic inference, bioinformatics and quantitative genetics within an internationally networked department.</p>\n\n<h2>Candidate Profile</h2>\n<p>Applicants hold a master's degree (or equivalent) in biology, genetics, bioinformatics or a related field, with demonstrable interest in evolutionary questions. Skills in statistical analysis and scripting are important; prior experience with sequencing data is an advantage. Doctoral students in Sweden are employed with a paid contract under collective-agreement terms, and admission runs through the university's structured doctoral programme in biology.</p>\n<h2>Highlights</h2>\n<ul>\n<li>Population and evolutionary genetics</li>\n<li>Genomic analysis of natural populations</li>\n<li>Adaptation to changing environments</li>\n<li>Quantitative genetics and bioinformatics training</li>\n<li>Research environment at the Evolutionary Biology Centre</li>\n<li>Paid doctoral employment under Swedish collective agreement</li>\n</ul>\n<h2>Funding and Duration</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Award or position</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">PhD fellowship / salaried position</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Stipend / salary</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Monthly doctoral salary per the Uppsala University salary ladder (approx. SEK 31,300+)</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Duration</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Four years (PhD employment)</td></tr>\n</tbody>\n</table>\n<h2>Eligibility and Requirements</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Applicant eligibility</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Worldwide</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Academic preparation</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Master's in biology, genetics, bioinformatics or a related field</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Language</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">English proficiency required</td></tr>\n</tbody>\n</table>\n<h2>Application dates</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Recruitment status</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Open</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Deadline</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">1 November 2026</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Location</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Uppsala, Sweden</td></tr>\n</tbody>\n</table>\n<h2>About Uppsala University</h2>\n<p>Uppsala University is a comprehensive research university in Uppsala, Sweden, and the oldest university in the Nordic countries. Its research and education span science, medicine, technology, humanities and social sciences. Doctoral students are employed as paid researchers with monthly salaries across its departments.</p>\n\n<p><strong>Official details:</strong> <a href=\"https://uu.varbi.com/en/what:job/jobID:967249\" rel=\"noopener noreferrer\">Read the programme or project information</a></p>\n<p><strong>Application route:</strong> <a href=\"https://uu.varbi.com/en/what:job/jobID:967249\" rel=\"noopener noreferrer\">Follow the official application instructions</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 1 November 2026 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2><p>Submit your application through the official page before the deadline: 1 November 2026. Read the eligibility requirements carefully and prepare all requested documents - early applications are strongly recommended for competitive awards.</p><p><a href=\"https://uu.varbi.com/en/what:job/jobID:967249\">Open the official application page ↗</a></p><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/phd-in-netherlands-employee-salary-contract\">PhD Employment in the Netherlands: Salary, Contract and Funding Routes</a></li><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li></ul><h2>Official Link</h2><p>https://uu.varbi.com/en/what:job/jobID:967249</p>",
+ "tags": [
+  "phd",
+  "fully-funded",
+  "se",
+  "2026",
+  "uppsala-university"
+ ],
+ "applyLink": "https://uu.varbi.com/en/what:job/jobID:967249",
+ "isFeatured": false,
+ "ieltsRequired": true,
+ "eligibility": "worldwide",
+ "seoTitle": "PhD-student in Evolutionary and Ecological Genetics - Uppsal...",
+ "seoDescription": "Uppsala University invites applications for a doctoral student position in evolutionary and ecological genetics. The project applies genomic methods to que...",
+ "ogImage": "https://www.google.com/s2/favicons?domain=uu.se&sz=256",
+ "verificationStatus": "verified",
+ "verifiedAt": "2026-10-22T07:30:00.000Z",
+ "addedDate": "2026-10-22T07:30:00.000Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-22T07:30:00.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-22T07:30:00.000Z",
+ "fundingStatus": "fully_funded",
+ "id": "3VQhaX31ke6Uu53X2ohd",
+ "opportunityType": "phd_position",
+ "isRemote": false,
+ "sourceType": "official_university",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "stipendCurrency": "SEK",
+ "stipendAmount": 31300,
+ "stipendPeriod": "month",
+ "deadlineTimezone": "Europe/Stockholm",
+ "verificationScore": 95,
+ "keywords": [
+  "PhD-student in Evolutionary and Ecological Genetics - Uppsala",
+  "Uppsala University positions",
+  "fully funded PhD Sweden",
+  "Sweden scholarships 2027",
+  "PhD 2027 intake",
+  "IELTS requirement",
+  "phd",
+  "fully-funded",
+  "se"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/phd-evolutionary-ecological-genetics-uppsala-2027",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/phd-evolutionary-ecological-genetics-uppsala-2027#opportunity",
+  "url": "https://nextapply.co.uk/phd-evolutionary-ecological-genetics-uppsala-2027",
   "title": "PhD-student in Evolutionary and Ecological Genetics - Uppsala University, Sweden",
-  "status": "published",
-  "slug": "phd-evolutionary-ecological-genetics-uppsala-2027",
-  "isOpen": true,
-  "category": "phd_position",
-  "organizationId": "xdUkOGn8yH35UrymKVky",
-  "organization": {
-    "id": "xdUkOGn8yH35UrymKVky",
-    "slug": "uppsala-university",
-    "name": "Uppsala University",
-    "logoUrl": "https://www.google.com/s2/favicons?domain=uu.se&sz=256",
-    "website": "https://www.uu.se",
-    "about": "Uppsala University is a comprehensive research university in Uppsala, Sweden, and the oldest university in the Nordic countries. Its research and education span science, medicine, technology, humanities and social sciences. Doctoral students are employed as paid researchers with monthly salaries across its departments."
+  "description": "Uppsala University invites applications for a doctoral student position in evolutionary and ecological genetics. The project applies genomic methods to questions in population and evolutionary genetics, studying how genetic variation is shaped by ecological processes and how natural populations adapt to changing environments.",
+  "datePosted": "2026-10-22T07:30:00.000Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "Uppsala University",
+   "sameAs": "https://www.uu.se",
+   "logo": "https://www.google.com/s2/favicons?domain=uu.se&sz=256"
   },
-  "regionId": "europe",
-  "countryCode": "SE",
-  "city": "Uppsala",
-  "deadline": "2026-11-01T23:59:00.000Z",
-  "deadlineType": "fixed",
-  "deadlineText": "1 November 2026",
-  "degreeLevels": [
-    "phd"
-  ],
-  "disciplines": [
-    "biology",
-    "genetics",
-    "evolutionary_biology",
-    "bioinformatics"
-  ],
-  "subjects": [
-    "Evolutionary genetics",
-    "Ecological genetics",
-    "Population genomics",
-    "Adaptation"
-  ],
-  "fundingType": "fully_funded",
-  "stipend": "SEK 31,300/month",
-  "intro": "Uppsala University invites applications for a doctoral student position in evolutionary and ecological genetics. The project applies genomic methods to questions in population and evolutionary genetics, studying how genetic variation is shaped by ecological processes and how natural populations adapt to changing environments.",
-  "description": "<h2>Programme or Project Overview</h2>\n<p>Uppsala University invites applications for a doctoral student position in evolutionary and ecological genetics. The project applies genomic methods to questions in population and evolutionary genetics, studying how genetic variation is shaped by ecological processes and how natural populations adapt to changing environments.</p>\n<p>The successful candidate joins the research environment at the Evolutionary Biology Centre (EBC), one of Europe's leading hubs for evolutionary research. The doctoral project combines laboratory genomics with computational analysis, and offers training in population genetic inference, bioinformatics and quantitative genetics within an internationally networked department.</p>\n\n<h2>Candidate profile</h2>\n<p>Applicants hold a master's degree (or equivalent) in biology, genetics, bioinformatics or a related field, with demonstrable interest in evolutionary questions. Skills in statistical analysis and scripting are important; prior experience with sequencing data is an advantage. Doctoral students in Sweden are employed with a paid contract under collective-agreement terms, and admission runs through the university's structured doctoral programme in biology.</p>\n<h2>Highlights</h2>\n<ul>\n<li>Population and evolutionary genetics</li>\n<li>Genomic analysis of natural populations</li>\n<li>Adaptation to changing environments</li>\n<li>Quantitative genetics and bioinformatics training</li>\n<li>Research environment at the Evolutionary Biology Centre</li>\n<li>Paid doctoral employment under Swedish collective agreement</li>\n</ul>\n<h2>Funding and duration</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Award or position</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">PhD fellowship / salaried position</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Stipend / salary</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Monthly doctoral salary per the Uppsala University salary ladder (approx. SEK 31,300+)</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Duration</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Four years (PhD employment)</td></tr>\n</tbody>\n</table>\n<h2>Eligibility and Requirements</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Applicant eligibility</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Worldwide</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Academic preparation</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Master's in biology, genetics, bioinformatics or a related field</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Language</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">English proficiency required</td></tr>\n</tbody>\n</table>\n<h2>Application dates</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Recruitment status</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Open</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Deadline</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">1 November 2026</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Location</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Uppsala, Sweden</td></tr>\n</tbody>\n</table>\n<h2>About Uppsala University</h2>\n<p>Uppsala University is a comprehensive research university in Uppsala, Sweden, and the oldest university in the Nordic countries. Its research and education span science, medicine, technology, humanities and social sciences. Doctoral students are employed as paid researchers with monthly salaries across its departments.</p>\n\n<p><strong>Official details:</strong> <a href=\"https://uu.varbi.com/en/what:job/jobID:967249\" rel=\"noopener noreferrer\">Read the programme or project information</a></p>\n<p><strong>Application route:</strong> <a href=\"https://uu.varbi.com/en/what:job/jobID:967249\" rel=\"noopener noreferrer\">Follow the official application instructions</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 1 November 2026 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2><p>Submit your application through the official page before the deadline: 1 November 2026. Read the eligibility requirements carefully and prepare all requested documents - early applications are strongly recommended for competitive awards.</p><p><a href=\"https://uu.varbi.com/en/what:job/jobID:967249\">Open the official application page ↗</a></p><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/phd-in-netherlands-employee-salary-contract\">PhD Employment in the Netherlands: Salary, Contract and Funding Routes</a></li><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li></ul>",
-  "tags": [
-    "phd",
-    "fully-funded",
-    "se",
-    "2026",
-    "uppsala-university"
-  ],
-  "applyLink": "https://uu.varbi.com/en/what:job/jobID:967249",
-  "isFeatured": false,
-  "ieltsRequired": true,
-  "eligibility": "worldwide",
-  "seoTitle": "PhD-student in Evolutionary and Ecological Genetics - Uppsal...",
-  "seoDescription": "Uppsala University invites applications for a doctoral student position in evolutionary and ecological genetics. The project applies genomic methods to que...",
-  "ogImage": "https://www.google.com/s2/favicons?domain=uu.se&sz=256",
-  "verificationStatus": "verified",
-  "verifiedAt": "2026-10-22T07:30:00.000Z",
-  "addedDate": "2026-10-22T07:30:00.000Z",
-  "clickCount": 0,
-  "createdAt": "2026-10-22T07:30:00.000Z",
-  "updatedAt": "2026-10-23T14:21:38.000Z",
-  "publishedAt": "2026-10-22T07:30:00.000Z",
-  "fundingStatus": "fully_funded",
-  "id": "3VQhaX31ke6Uu53X2ohd",
-  "opportunityType": "phd_position",
-  "isRemote": false,
-  "sourceType": "official_university",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "phd-evolutionary-ecological-genetics-uppsala-2027"
   },
-  "stipendCurrency": "SEK",
-  "stipendAmount": 31300,
-  "stipendPeriod": "month",
-  "deadlineTimezone": "Europe/Stockholm",
-  "verificationScore": 95
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "SE",
+    "addressLocality": "Uppsala"
+   }
+  },
+  "validThrough": "2026-11-01T23:59:00.000Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "SEK",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 31300,
+    "unitText": "MONTH"
+   }
+  }
+ }
 }

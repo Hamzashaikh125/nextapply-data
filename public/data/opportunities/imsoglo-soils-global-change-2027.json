@@ -1,79 +1,120 @@
 {
-  "title": "IMSOGLO – International Master in Soils and Global Change (Erasmus Mundus)",
-  "status": "published",
-  "slug": "imsoglo-soils-global-change-2027",
-  "isOpen": true,
-  "category": "scholarship",
-  "organizationId": "cnDhyrogMdkMnY9Hu4XO",
-  "organization": {
-    "createdAt": "2026-10-23T00:07:35.000Z",
-    "website": "https://imsoglo.eu",
-    "about": "The IMSOGLO consortium is coordinated by Ghent University and delivers the International Master of Science in Soils and Global Change with European partner universities.",
-    "name": "IMSOGLO Consortium (Ghent University)",
-    "programCount": 1,
-    "logoUrl": "https://www.google.com/s2/favicons?domain=imsoglo.eu&sz=256",
-    "slug": "imsoglo-consortium-ghent-university",
-    "status": "published",
-    "updatedAt": "2026-10-23T00:07:35.000Z",
-    "id": "cnDhyrogMdkMnY9Hu4XO"
-  },
-  "regionId": "europe",
-  "countryCode": "BE",
-  "city": "Ghent (multi-country mobility)",
-  "deadline": "2027-02-28T22:59:59.999Z",
-  "deadlineType": "fixed",
-  "deadlineText": "28 February 2027",
-  "deadlineTimezone": "Europe/Brussels",
-  "degreeLevels": [
-    "masters"
-  ],
-  "disciplines": [
-    "soil_science",
-    "climate_change",
-    "environmental_science",
-    "geochemistry",
-    "land_management"
-  ],
-  "subjects": [
-    "Soil science",
-    "Global change",
-    "Carbon cycling",
-    "Erasmus Mundus"
-  ],
-  "fundingType": "fully_funded",
-  "fundingStatus": "fully_funded",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "stipend": "Erasmus Mundus scholarships for selected students:",
-  "intro": "IMSOGLO is a two-year Erasmus Mundus master in soil systems under global change, coordinated from Ghent University with European partners. Applications for the September 2027 intake opened on 1 October 2026; the scholarship round closes on 28 February 2027, and self-funded documents can follow until 31 May 2027.",
-  "tags": [
-    "Erasmus Mundus",
-    "IMSOGLO",
-    "Soil Science",
-    "Global Change",
-    "Ghent University",
-    "Fully Funded",
-    "Masters"
-  ],
-  "applyLink": "https://imsoglo.eu/admission-application/",
-  "isFeatured": false,
-  "ieltsRequired": true,
-  "eligibility": "worldwide",
-  "seoTitle": "IMSOGLO 2027 | Erasmus Mundus Soils & Global Change Master, 28 Feb Deadline",
-  "seoDescription": "IMSOGLO Erasmus Mundus master in soils and global change (Ghent-led). Applications open 1 Oct 2026; scholarship deadline 28 February 2027. Fully funded places.",
-  "ogImage": "",
-  "verificationStatus": "verified",
-  "verificationScore": null,
-  "addedDate": "2026-10-23T00:07:35.000Z",
-  "clickCount": 0,
+ "title": "IMSOGLO – International Master in Soils and Global Change (Erasmus Mundus)",
+ "status": "published",
+ "slug": "imsoglo-soils-global-change-2027",
+ "isOpen": true,
+ "category": "scholarship",
+ "organizationId": "cnDhyrogMdkMnY9Hu4XO",
+ "organization": {
   "createdAt": "2026-10-23T00:07:35.000Z",
-  "updatedAt": "2026-10-23T14:20:12.000Z",
-  "publishedAt": "2026-10-23T00:07:35.000Z",
-  "id": "4F1YORi6U4vYMqdIRFwh",
-  "opportunityType": "scholarship",
-  "sourceType": "official_organization",
-  "isRemote": false,
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">IMSOGLO – International Master in Soils and Global Change (Erasmus Mundus)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">IMSOGLO Consortium (Ghent University)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Ghent (multi-country mobility), Belgium</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Erasmus Mundus scholarships for selected students:</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">28 February 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://imsoglo.eu/admission-application/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>IMSOGLO is a two-year Erasmus Mundus master in soil systems under global change, coordinated from Ghent University with European partners. Applications for the September 2027 intake opened on 1 October 2026; the scholarship round closes on 28 February 2027, and self-funded documents can follow until 31 May 2027.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Ghent-coordinated soil science programme with a global-change lens</li>\n <li>Scholarship deadline 28 February 2027; long self-funded tail to 31 May</li>\n <li>Fieldwork across European soil observatories and partner universities</li>\n <li>Careers in land management, climate services and environmental consulting</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Bachelor's degrees (180 ECTS) in environmental science, biology, agriculture, geology or engineering are expected, with English documentation per the Ghent process.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships for selected students: tuition coverage plus monthly allowance.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Apply through the Ghent University portal linked on the IMSOGLO site and complete legalised documents in time for the May stage. Key deadline information: <strong>28 February 2027 (scholarship round); applications opened 1 October 2026; non-scholarship documents until 31 May 2027</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://imsoglo.eu/admission-application/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About IMSOGLO Consortium (Ghent University)</h2><p>The IMSOGLO consortium is coordinated by Ghent University and delivers the International Master of Science in Soils and Global Change with European partner universities.</p><p>Official website: <a href=\"https://imsoglo.eu\" target=\"_blank\" rel=\"noopener noreferrer\">https://imsoglo.eu</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 28 February 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/masters-phd-application-timeline-12-months\">A 12-Month Study Abroad Application Plan for Master's and PhD Applicants</a></li></ul>"
+  "website": "https://imsoglo.eu",
+  "about": "The IMSOGLO consortium is coordinated by Ghent University and delivers the International Master of Science in Soils and Global Change with European partner universities.",
+  "name": "IMSOGLO Consortium (Ghent University)",
+  "programCount": 1,
+  "logoUrl": "https://www.google.com/s2/favicons?domain=imsoglo.eu&sz=256",
+  "slug": "imsoglo-consortium-ghent-university",
+  "status": "published",
+  "updatedAt": "2026-10-23T00:07:35.000Z",
+  "id": "cnDhyrogMdkMnY9Hu4XO"
+ },
+ "regionId": "europe",
+ "countryCode": "BE",
+ "city": "Ghent (multi-country mobility)",
+ "deadline": "2027-02-28T22:59:59.999Z",
+ "deadlineType": "fixed",
+ "deadlineText": "28 February 2027",
+ "deadlineTimezone": "Europe/Brussels",
+ "degreeLevels": [
+  "masters"
+ ],
+ "disciplines": [
+  "soil_science",
+  "climate_change",
+  "environmental_science",
+  "geochemistry",
+  "land_management"
+ ],
+ "subjects": [
+  "Soil science",
+  "Global change",
+  "Carbon cycling",
+  "Erasmus Mundus"
+ ],
+ "fundingType": "fully_funded",
+ "fundingStatus": "fully_funded",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "stipend": "€1,400/month (EMJM scholarship rate)",
+ "intro": "IMSOGLO is a two-year Erasmus Mundus master in soil systems under global change, coordinated from Ghent University with European partners. Applications for the September 2027 intake opened on 1 October 2026; the scholarship round closes on 28 February 2027, and self-funded documents can follow until 31 May 2027.",
+ "tags": [
+  "Erasmus Mundus",
+  "IMSOGLO",
+  "Soil Science",
+  "Global Change",
+  "Ghent University",
+  "Fully Funded",
+  "Masters"
+ ],
+ "applyLink": "https://imsoglo.eu/admission-application/",
+ "isFeatured": false,
+ "ieltsRequired": true,
+ "eligibility": "worldwide",
+ "seoTitle": "IMSOGLO 2027 | Erasmus Mundus Soils & Global Change Master, 28 Feb Deadline",
+ "seoDescription": "IMSOGLO Erasmus Mundus master in soils and global change (Ghent-led). Applications open 1 Oct 2026; scholarship deadline 28 February 2027. Fully funded places.",
+ "ogImage": "https://nextapply.co.uk/imsoglo-soils-global-change-2027/opengraph-image",
+ "verificationStatus": "verified",
+ "verificationScore": null,
+ "addedDate": "2026-10-23T00:07:35.000Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-23T00:07:35.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-23T00:07:35.000Z",
+ "id": "4F1YORi6U4vYMqdIRFwh",
+ "opportunityType": "scholarship",
+ "sourceType": "official_organization",
+ "isRemote": false,
+ "description": "<h2>About the Scholarship</h2><p>IMSOGLO is a two-year Erasmus Mundus master in soil systems under global change, coordinated from Ghent University with European partners. Applications for the September 2027 intake opened on 1 October 2026; the scholarship round closes on 28 February 2027, and self-funded documents can follow until 31 May 2027.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">IMSOGLO – International Master in Soils and Global Change (Erasmus Mundus)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">IMSOGLO Consortium (Ghent University)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Ghent (multi-country mobility), Belgium</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Erasmus Mundus scholarships for selected students:</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">28 February 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://imsoglo.eu/admission-application/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>IMSOGLO is a two-year Erasmus Mundus master in soil systems under global change, coordinated from Ghent University with European partners. Applications for the September 2027 intake opened on 1 October 2026; the scholarship round closes on 28 February 2027, and self-funded documents can follow until 31 May 2027.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Ghent-coordinated soil science programme with a global-change lens</li>\n <li>Scholarship deadline 28 February 2027; long self-funded tail to 31 May</li>\n <li>Fieldwork across European soil observatories and partner universities</li>\n <li>Careers in land management, climate services and environmental consulting</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Bachelor's degrees (180 ECTS) in environmental science, biology, agriculture, geology or engineering are expected, with English documentation per the Ghent process.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships for selected students: tuition coverage plus monthly allowance.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Apply through the Ghent University portal linked on the IMSOGLO site and complete legalised documents in time for the May stage. Key deadline information: <strong>28 February 2027 (scholarship round); applications opened 1 October 2026; non-scholarship documents until 31 May 2027</strong>.</p>\n<h2>Official Link</h2>\n<ul>\n <li><a href=\"https://imsoglo.eu/admission-application/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About IMSOGLO Consortium (Ghent University)</h2><p>The IMSOGLO consortium is coordinated by Ghent University and delivers the International Master of Science in Soils and Global Change with European partner universities.</p><p>Official website: <a href=\"https://imsoglo.eu\" target=\"_blank\" rel=\"noopener noreferrer\">https://imsoglo.eu</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 28 February 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/masters-phd-application-timeline-12-months\">A 12-Month Study Abroad Application Plan for Master's and PhD Applicants</a></li></ul>",
+ "stipendAmount": 1400,
+ "stipendCurrency": "EUR",
+ "stipendPeriod": "month",
+ "keywords": [
+  "IMSOGLO – International Master in Soils and Global Change (Erasmus",
+  "IMSOGLO Consortium (Ghent University) scholarships",
+  "fully funded Master's Belgium",
+  "Belgium scholarships 2027",
+  "Master's 2027 intake",
+  "IELTS requirement",
+  "Erasmus Mundus",
+  "IMSOGLO",
+  "Soil Science"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/imsoglo-soils-global-change-2027",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalProgram",
+  "@id": "https://nextapply.co.uk/imsoglo-soils-global-change-2027#opportunity",
+  "url": "https://nextapply.co.uk/imsoglo-soils-global-change-2027",
+  "name": "IMSOGLO – International Master in Soils and Global Change (Erasmus Mundus)",
+  "description": "IMSOGLO is a two-year Erasmus Mundus master in soil systems under global change, coordinated from Ghent University with European partners. Applications for the September 2027 intake opened on 1 October 2026; the scholarship round closes on 28 February 2027, and self-funded documents can follow until 31 May 2027.",
+  "educationalProgramMode": "full time",
+  "provider": {
+   "@type": "Organization",
+   "name": "IMSOGLO Consortium (Ghent University)",
+   "sameAs": "https://imsoglo.eu",
+   "logo": "https://www.google.com/s2/favicons?domain=imsoglo.eu&sz=256"
+  },
+  "applicationDeadline": "2027-02-28",
+  "offers": {
+   "@type": "Offer",
+   "category": "Fully Funded programme",
+   "priceSpecification": {
+    "@type": "PriceSpecification",
+    "price": 1400,
+    "priceCurrency": "EUR"
+   }
+  }
+ }
 }

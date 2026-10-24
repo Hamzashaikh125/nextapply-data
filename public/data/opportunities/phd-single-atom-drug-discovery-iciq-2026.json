@@ -1,70 +1,115 @@
 {
+ "title": "PhD in Single-Atom Drug Discovery 2026 — ICIQ Tarragona, Spain",
+ "status": "published",
+ "slug": "phd-single-atom-drug-discovery-iciq-2026",
+ "isOpen": true,
+ "category": "phd_position",
+ "organizationId": "Js1DE0pcY09wJ2OEpPos",
+ "organization": {
+  "id": "Js1DE0pcY09wJ2OEpPos",
+  "slug": "institute-chemical-research-catalonia",
+  "name": "Institute of Chemical Research of Catalonia (ICIQ)",
+  "logoUrl": "https://www.google.com/s2/favicons?domain=iciq.cat&sz=256",
+  "website": "https://iciq.org/",
+  "about": "The Institute of Chemical Research of Catalonia (ICIQ) is a leading research centre in Tarragona, Spain."
+ },
+ "regionId": "europe",
+ "countryCode": "ES",
+ "city": "Tarragona",
+ "deadline": "2026-11-08T23:59:00.000Z",
+ "deadlineType": "fixed",
+ "deadlineText": "8 November 2026",
+ "degreeLevels": [
+  "phd"
+ ],
+ "disciplines": [
+  "chemistry",
+  "medicinal_chemistry",
+  "drug_discovery",
+  "chemical_biology"
+ ],
+ "subjects": [
+  "Single-Atom Modification",
+  "Drug Discovery",
+  "Chemical Biology",
+  "Skeletal Editing"
+ ],
+ "fundingType": "fully_funded",
+ "stipend": "Fully funded PhD (up to 4 years)",
+ "intro": "Fully funded PhD at ICIQ developing single-atom skeletal modification methods to impact drug discovery and chemical biology.",
+ "description": "<h2>About the Position</h2>\n<p>ICIQ invites applications for a fully funded PhD position within its Fully-Funded PhD Programme 2026 – Third Call. The project, \"Single-Atom Skeletal Modification to Impact Drug Discovery and Chemical Biology\" (reference PhD 2026-23 MG), is supervised by Dr. Marcos G. Suero.</p>\n<p>The research focuses on developing methods for single-atom skeletal modification of organic molecules, enabling precise changes to molecular frameworks that can impact drug discovery and chemical biology research.</p>\n\n<h2>Research Position Overview</h2>\n<p>You will work on innovative synthetic methodology for editing molecular skeletons at the single-atom level, with applications in medicinal chemistry and chemical biology. The project combines synthetic organic chemistry, catalysis, and drug discovery.</p>\n\n<h2>Research Areas</h2>\n<ul>\n<li>Single-atom skeletal modification</li>\n<li>Drug discovery and medicinal chemistry</li>\n<li>Chemical biology</li>\n<li>Synthetic methodology</li>\n<li>Catalysis and reaction development</li>\n</ul>\n\n<h2>Funding and Duration</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Award or position</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Fully funded PhD</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Stipend / salary</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Pre-doctoral employment contract</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Duration</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Up to four years</td></tr>\n</tbody>\n</table>\n\n<h2>Eligibility and Requirements</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Criterion</th><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Requirement</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Applicant eligibility</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Worldwide</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Academic preparation</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">MSc in chemistry or a related field</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Language</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">English proficiency required</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Further conditions</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Interest in synthetic methodology and drug discovery</td></tr>\n</tbody>\n</table>\n\n<h2>Application dates</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Recruitment status</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Open</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Deadline</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">8 November 2026</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Location</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Tarragona, Spain</td></tr>\n</tbody>\n</table>\n\n<h2>About ICIQ</h2>\n<p>The Institute of Chemical Research of Catalonia (ICIQ) is a leading research centre in Tarragona, Spain, focused on chemistry, catalysis, and sustainable processes.</p>\n\n<p><strong>Official details:</strong> <a href=\"https://careers.iciq.org/jobs/8479051-phd-2026-23-mg-iciq-fully-funded-phd-programme-2026-third-call\" rel=\"noopener noreferrer\">Read the programme or project information</a></p>\n<p><strong>Application route:</strong> <a href=\"https://careers.iciq.org/jobs/8479051-phd-2026-23-mg-iciq-fully-funded-phd-programme-2026-third-call\" rel=\"noopener noreferrer\">Follow the official application instructions</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Official Link</h2><p>Full announcement and application portal: <a href=\"https://careers.iciq.org/jobs/8479051-phd-2026-23-mg-iciq-fully-funded-phd-programme-2026-third-call\" target=\"_blank\" rel=\"noopener noreferrer\">https://careers.iciq.org/jobs/8479051-phd-2026-23-mg-iciq-fully-funded-phd-programme-2026-third-call</a></p><p>Source: careers.iciq.org - the details in this listing were recorded from this official page.</p><h2>Important Notes</h2><ul><li>Application deadline: 8 November 2026 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: 8 November 2026. Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://careers.iciq.org/jobs/8479051-phd-2026-23-mg-iciq-fully-funded-phd-programme-2026-third-call\">Open the official application page ↗</a></p><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+ "tags": [
+  "phd",
+  "chemistry",
+  "drug-discovery",
+  "chemical-biology",
+  "spain",
+  "fully-funded",
+  "2026",
+  "Institute of Chemical Research of Catalonia (ICIQ)",
+  "Tarragona",
+  "Fully Funded",
+  "Medicinal_Chemistry",
+  "Drug_Discovery"
+ ],
+ "applyLink": "https://careers.iciq.org/jobs/8479051-phd-2026-23-mg-iciq-fully-funded-phd-programme-2026-third-call",
+ "isFeatured": false,
+ "ieltsRequired": true,
+ "eligibility": "worldwide",
+ "seoTitle": "PhD in Single-Atom Drug Discovery 2026 at ICIQ Spain",
+ "seoDescription": "Fully funded PhD at ICIQ on single-atom skeletal modification for drug discovery. Pre-doctoral contract, up to 4 years. Apply by 8 November 2026.",
+ "ogImage": "https://bist.eu/wp-content/uploads/2016/05/3-iciq-b.png",
+ "verificationStatus": "unverified",
+ "addedDate": "2026-10-15T13:58:55.486Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-15T13:58:55.656Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-15T13:58:55.656Z",
+ "fundingStatus": "fully_funded",
+ "id": "XHxtVmHDYEXeWiJjSY5F",
+ "opportunityType": "phd_position",
+ "keywords": [
+  "PhD in Single-Atom Drug Discovery 2026 — ICIQ Tarragona, Spain",
+  "Institute of Chemical Research of Catalonia (ICIQ) positions",
+  "fully funded PhD Spain",
+  "Spain scholarships 2026",
+  "PhD 2026 intake",
+  "IELTS requirement",
+  "phd",
+  "chemistry",
+  "drug-discovery"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/phd-single-atom-drug-discovery-iciq-2026",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/phd-single-atom-drug-discovery-iciq-2026#opportunity",
+  "url": "https://nextapply.co.uk/phd-single-atom-drug-discovery-iciq-2026",
   "title": "PhD in Single-Atom Drug Discovery 2026 — ICIQ Tarragona, Spain",
-  "status": "published",
-  "slug": "phd-single-atom-drug-discovery-iciq-2026",
-  "isOpen": true,
-  "category": "phd_position",
-  "organizationId": "Js1DE0pcY09wJ2OEpPos",
-  "organization": {
-    "id": "Js1DE0pcY09wJ2OEpPos",
-    "slug": "institute-chemical-research-catalonia",
-    "name": "Institute of Chemical Research of Catalonia (ICIQ)",
-    "logoUrl": "https://bist.eu/wp-content/uploads/2016/05/3-iciq-b.png",
-    "website": "https://iciq.org/",
-    "about": "The Institute of Chemical Research of Catalonia (ICIQ) is a leading research centre in Tarragona, Spain."
+  "description": "Fully funded PhD at ICIQ developing single-atom skeletal modification methods to impact drug discovery and chemical biology.",
+  "datePosted": "2026-10-15T13:58:55.656Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "Institute of Chemical Research of Catalonia (ICIQ)",
+   "sameAs": "https://iciq.org/",
+   "logo": "https://www.google.com/s2/favicons?domain=iciq.cat&sz=256"
   },
-  "regionId": "europe",
-  "countryCode": "ES",
-  "city": "Tarragona",
-  "deadline": "2026-11-08T23:59:00.000Z",
-  "deadlineType": "fixed",
-  "deadlineText": "8 November 2026",
-  "degreeLevels": [
-    "phd"
-  ],
-  "disciplines": [
-    "chemistry",
-    "medicinal_chemistry",
-    "drug_discovery",
-    "chemical_biology"
-  ],
-  "subjects": [
-    "Single-Atom Modification",
-    "Drug Discovery",
-    "Chemical Biology",
-    "Skeletal Editing"
-  ],
-  "fundingType": "fully_funded",
-  "stipend": "Fully funded PhD (up to 4 years)",
-  "intro": "Fully funded PhD at ICIQ developing single-atom skeletal modification methods to impact drug discovery and chemical biology.",
-  "description": "<h2>Project Overview</h2>\n<p>ICIQ invites applications for a fully funded PhD position within its Fully-Funded PhD Programme 2026 – Third Call. The project, \"Single-Atom Skeletal Modification to Impact Drug Discovery and Chemical Biology\" (reference PhD 2026-23 MG), is supervised by Dr. Marcos G. Suero.</p>\n<p>The research focuses on developing methods for single-atom skeletal modification of organic molecules, enabling precise changes to molecular frameworks that can impact drug discovery and chemical biology research.</p>\n\n<h2>Research position overview</h2>\n<p>You will work on innovative synthetic methodology for editing molecular skeletons at the single-atom level, with applications in medicinal chemistry and chemical biology. The project combines synthetic organic chemistry, catalysis, and drug discovery.</p>\n\n<h2>Research Areas</h2>\n<ul>\n<li>Single-atom skeletal modification</li>\n<li>Drug discovery and medicinal chemistry</li>\n<li>Chemical biology</li>\n<li>Synthetic methodology</li>\n<li>Catalysis and reaction development</li>\n</ul>\n\n<h2>Funding and duration</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Award or position</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Fully funded PhD</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Stipend / salary</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Pre-doctoral employment contract</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Duration</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Up to four years</td></tr>\n</tbody>\n</table>\n\n<h2>Eligibility and Requirements</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Criterion</th><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Requirement</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Applicant eligibility</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Worldwide</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Academic preparation</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">MSc in chemistry or a related field</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Language</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">English proficiency required</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Further conditions</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Interest in synthetic methodology and drug discovery</td></tr>\n</tbody>\n</table>\n\n<h2>Application dates</h2>\n<table style=\"border:1px solid #d1d5db;border-collapse:collapse;width:100%;margin:20px 0;font-family:Arial,sans-serif;font-size:15px;\">\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr style=\"background:#f3f4f6;\"><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Component</th><th style=\"padding:12px 14px;text-align:left;border-bottom:2px solid #d1d5db;\">Details</th></tr></thead>\n<tbody>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Recruitment status</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Open</td></tr>\n<tr style=\"background:#fafafa;\"><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Deadline</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">8 November 2026</td></tr>\n<tr><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Location</td><td style=\"padding:11px 14px;border-bottom:1px solid #e5e7eb;\">Tarragona, Spain</td></tr>\n</tbody>\n</table>\n\n<h2>About ICIQ</h2>\n<p>The Institute of Chemical Research of Catalonia (ICIQ) is a leading research centre in Tarragona, Spain, focused on chemistry, catalysis, and sustainable processes.</p>\n\n<p><strong>Official details:</strong> <a href=\"https://careers.iciq.org/jobs/8479051-phd-2026-23-mg-iciq-fully-funded-phd-programme-2026-third-call\" rel=\"noopener noreferrer\">Read the programme or project information</a></p>\n<p><strong>Application route:</strong> <a href=\"https://careers.iciq.org/jobs/8479051-phd-2026-23-mg-iciq-fully-funded-phd-programme-2026-third-call\" rel=\"noopener noreferrer\">Follow the official application instructions</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Official Link</h2><p>Full announcement and application portal: <a href=\"https://careers.iciq.org/jobs/8479051-phd-2026-23-mg-iciq-fully-funded-phd-programme-2026-third-call\" target=\"_blank\" rel=\"noopener noreferrer\">https://careers.iciq.org/jobs/8479051-phd-2026-23-mg-iciq-fully-funded-phd-programme-2026-third-call</a></p><p>Source: careers.iciq.org - the details in this listing were recorded from this official page.</p><h2>Important Notes</h2><ul><li>Application deadline: 8 November 2026 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: 8 November 2026. Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://careers.iciq.org/jobs/8479051-phd-2026-23-mg-iciq-fully-funded-phd-programme-2026-third-call\">Open the official application page ↗</a></p><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
-  "tags": [
-    "phd",
-    "chemistry",
-    "drug-discovery",
-    "chemical-biology",
-    "spain",
-    "fully-funded",
-    "2026",
-    "Institute of Chemical Research of Catalonia (ICIQ)",
-    "Tarragona",
-    "Fully Funded",
-    "Medicinal_Chemistry",
-    "Drug_Discovery"
-  ],
-  "applyLink": "https://careers.iciq.org/jobs/8479051-phd-2026-23-mg-iciq-fully-funded-phd-programme-2026-third-call",
-  "isFeatured": false,
-  "ieltsRequired": true,
-  "eligibility": "worldwide",
-  "seoTitle": "PhD in Single-Atom Drug Discovery 2026 at ICIQ Spain",
-  "seoDescription": "Fully funded PhD at ICIQ on single-atom skeletal modification for drug discovery. Pre-doctoral contract, up to 4 years. Apply by 8 November 2026.",
-  "ogImage": "https://bist.eu/wp-content/uploads/2016/05/3-iciq-b.png",
-  "verificationStatus": "unverified",
-  "addedDate": "2026-10-15T13:58:55.486Z",
-  "clickCount": 0,
-  "createdAt": "2026-10-15T13:58:55.656Z",
-  "updatedAt": "2026-10-23T14:21:38.000Z",
-  "publishedAt": "2026-10-15T13:58:55.656Z",
-  "fundingStatus": "fully_funded",
-  "id": "XHxtVmHDYEXeWiJjSY5F"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "phd-single-atom-drug-discovery-iciq-2026"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "ES",
+    "addressLocality": "Tarragona"
+   }
+  },
+  "validThrough": "2026-11-08T23:59:00.000Z"
+ }
 }

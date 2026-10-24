@@ -1,79 +1,120 @@
 {
-  "title": "JANUS – Erasmus Mundus Master in Security and Defence",
-  "status": "published",
-  "slug": "janus-security-defence-erasmus-mundus-2027",
-  "isOpen": true,
-  "category": "scholarship",
-  "organizationId": "VFCrBiyQJ3KJDVAUG8H8",
-  "organization": {
-    "createdAt": "2026-10-23T00:07:35.000Z",
-    "website": "https://master-janus-security-defense.eu",
-    "about": "The JANUS consortium is coordinated by Université Jean Moulin Lyon 3 and delivers the Erasmus Mundus Joint Master in Security and Defence with partners in Lebanon, Spain, Romania and the UK.",
-    "name": "JANUS Consortium (Université Jean Moulin Lyon 3)",
-    "programCount": 1,
-    "logoUrl": "https://www.google.com/s2/favicons?domain=master-janus-security-defense.eu&sz=256",
-    "slug": "janus-consortium-universit-jean-moulin-lyon-3",
-    "status": "published",
-    "updatedAt": "2026-10-23T00:07:35.000Z",
-    "id": "VFCrBiyQJ3KJDVAUG8H8"
-  },
-  "regionId": "europe",
-  "countryCode": "FR",
-  "city": "Lyon (multi-country mobility)",
-  "deadline": "2027-03-06T22:59:59.999Z",
-  "deadlineType": "fixed",
-  "deadlineText": "6 March 2027",
-  "deadlineTimezone": "Europe/Paris",
-  "degreeLevels": [
-    "masters"
-  ],
-  "disciplines": [
-    "security_studies",
-    "defence_studies",
-    "international_relations",
-    "law",
-    "cybersecurity"
-  ],
-  "subjects": [
-    "Security and defence",
-    "Strategic affairs",
-    "Erasmus Mundus",
-    "Cyber defence"
-  ],
-  "fundingType": "fully_funded",
-  "fundingStatus": "fully_funded",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "stipend": "EMJM scholarship (selected students)",
-  "intro": "JANUS is the Erasmus Mundus master in security and defence coordinated from Université Jean Moulin Lyon 3, with mandatory mobility between Lyon and Beirut Saint-Joseph and options in Granada, Bucharest and Essex. The first cohort's applications closed on 6 March 2026, and the 2027-2029 round is expected to follow the same early-March pattern.",
-  "tags": [
-    "Erasmus Mundus",
-    "JANUS",
-    "Security Studies",
-    "Defence",
-    "Cybersecurity",
-    "Fully Funded",
-    "Masters"
-  ],
-  "applyLink": "https://master-janus-security-defense.eu/scholarship-janus/",
-  "isFeatured": false,
-  "ieltsRequired": true,
-  "eligibility": "worldwide",
-  "seoTitle": "JANUS Erasmus Mundus Master 2027 | Security & Defence Scholarships",
-  "seoDescription": "JANUS Erasmus Mundus master in security and defence (Lyon 3-led). Expected deadline 6 March 2027 for the next cohort. Fully funded security master with Beirut mobility.",
-  "ogImage": "",
-  "verificationStatus": "unverified",
-  "verificationScore": null,
-  "addedDate": "2026-10-23T00:07:35.000Z",
-  "clickCount": 0,
+ "title": "JANUS – Erasmus Mundus Master in Security and Defence",
+ "status": "published",
+ "slug": "janus-security-defence-erasmus-mundus-2027",
+ "isOpen": true,
+ "category": "scholarship",
+ "organizationId": "VFCrBiyQJ3KJDVAUG8H8",
+ "organization": {
   "createdAt": "2026-10-23T00:07:35.000Z",
-  "updatedAt": "2026-10-23T14:20:12.000Z",
-  "publishedAt": "2026-10-23T00:07:35.000Z",
-  "id": "QkgSlR7ih4WTolpUB81S",
-  "opportunityType": "scholarship",
-  "sourceType": "official_organization",
-  "isRemote": false,
-  "description": "<table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">JANUS – Erasmus Mundus Master in Security and Defence</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">JANUS Consortium (Université Jean Moulin Lyon 3)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Lyon (multi-country mobility), France</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Erasmus Mundus scholarships cover tuition and provide a</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">6 March 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://master-janus-security-defense.eu/scholarship-janus/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>JANUS is the Erasmus Mundus master in security and defence coordinated from Université Jean Moulin Lyon 3, with mandatory mobility between Lyon and Beirut Saint-Joseph and options in Granada, Bucharest and Essex. The first cohort's applications closed on 6 March 2026, and the 2027-2029 round is expected to follow the same early-March pattern.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Distinctive security-and-defence curriculum with Lyon-Beirut core mobility</li>\n <li>Specialisations in cybersecurity, criminology and high-intensity warfare</li>\n <li>Professional exposure through site visits (Interpol, NATO) and internships</li>\n <li>Erasmus Mundus scholarships covering fees plus living allowance</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Backgrounds in law, political science, international relations, economics, history or security/defence studies are welcomed; French is not a prerequisite since the programme runs in English with language support.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships cover tuition and provide a monthly allowance for travel and living costs.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Watch the JANUS how-to-apply page for the 2027-2029 call and submit before the early-March cut-off. Key deadline information: <strong>6 March 2027 (23:59 Paris time, expected — the first round closed 6 March 2026)</strong>.</p>\n<h2>Official Source</h2>\n<ul>\n <li><a href=\"https://master-janus-security-defense.eu/scholarship-janus/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About JANUS Consortium (Université Jean Moulin Lyon 3)</h2><p>The JANUS consortium is coordinated by Université Jean Moulin Lyon 3 and delivers the Erasmus Mundus Joint Master in Security and Defence with partners in Lebanon, Spain, Romania and the UK.</p><p>Official website: <a href=\"https://master-janus-security-defense.eu\" target=\"_blank\" rel=\"noopener noreferrer\">https://master-janus-security-defense.eu</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 6 March 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/masters-phd-application-timeline-12-months\">A 12-Month Study Abroad Application Plan for Master's and PhD Applicants</a></li></ul>"
+  "website": "https://master-janus-security-defense.eu",
+  "about": "The JANUS consortium is coordinated by Université Jean Moulin Lyon 3 and delivers the Erasmus Mundus Joint Master in Security and Defence with partners in Lebanon, Spain, Romania and the UK.",
+  "name": "JANUS Consortium (Université Jean Moulin Lyon 3)",
+  "programCount": 1,
+  "logoUrl": "https://www.google.com/s2/favicons?domain=master-janus-security-defense.eu&sz=256",
+  "slug": "janus-consortium-universit-jean-moulin-lyon-3",
+  "status": "published",
+  "updatedAt": "2026-10-23T00:07:35.000Z",
+  "id": "VFCrBiyQJ3KJDVAUG8H8"
+ },
+ "regionId": "europe",
+ "countryCode": "FR",
+ "city": "Lyon (multi-country mobility)",
+ "deadline": "2027-03-06T22:59:59.999Z",
+ "deadlineType": "fixed",
+ "deadlineText": "6 March 2027",
+ "deadlineTimezone": "Europe/Paris",
+ "degreeLevels": [
+  "masters"
+ ],
+ "disciplines": [
+  "security_studies",
+  "defence_studies",
+  "international_relations",
+  "law",
+  "cybersecurity"
+ ],
+ "subjects": [
+  "Security and defence",
+  "Strategic affairs",
+  "Erasmus Mundus",
+  "Cyber defence"
+ ],
+ "fundingType": "fully_funded",
+ "fundingStatus": "fully_funded",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "stipend": "€1,400/month for 24 months (EMJM scholarship)",
+ "intro": "JANUS is the Erasmus Mundus master in security and defence coordinated from Université Jean Moulin Lyon 3, with mandatory mobility between Lyon and Beirut Saint-Joseph and options in Granada, Bucharest and Essex. The first cohort's applications closed on 6 March 2026, and the 2027-2029 round is expected to follow the same early-March pattern.",
+ "tags": [
+  "Erasmus Mundus",
+  "JANUS",
+  "Security Studies",
+  "Defence",
+  "Cybersecurity",
+  "Fully Funded",
+  "Masters"
+ ],
+ "applyLink": "https://master-janus-security-defense.eu/scholarship-janus/",
+ "isFeatured": false,
+ "ieltsRequired": true,
+ "eligibility": "worldwide",
+ "seoTitle": "JANUS Erasmus Mundus Master 2027 | Security & Defence Scholarships",
+ "seoDescription": "JANUS Erasmus Mundus master in security and defence (Lyon 3-led). Expected deadline 6 March 2027 for the next cohort. Fully funded security master with Beirut mobility.",
+ "ogImage": "https://nextapply.co.uk/janus-security-defence-erasmus-mundus-2027/opengraph-image",
+ "verificationStatus": "unverified",
+ "verificationScore": null,
+ "addedDate": "2026-10-23T00:07:35.000Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-23T00:07:35.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-23T00:07:35.000Z",
+ "id": "QkgSlR7ih4WTolpUB81S",
+ "opportunityType": "scholarship",
+ "sourceType": "official_organization",
+ "isRemote": false,
+ "description": "<h2>About the Scholarship</h2><p>JANUS is the Erasmus Mundus master in security and defence coordinated from Université Jean Moulin Lyon 3, with mandatory mobility between Lyon and Beirut Saint-Joseph and options in Granada, Bucharest and Essex. The first cohort's applications closed on 6 March 2026, and the 2027-2029 round is expected to follow the same early-March pattern.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">JANUS – Erasmus Mundus Master in Security and Defence</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">JANUS Consortium (Université Jean Moulin Lyon 3)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Lyon (multi-country mobility), France</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Study Level</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Master's</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Stipend</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Erasmus Mundus scholarships cover tuition and provide a</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">6 March 2027</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://master-janus-security-defense.eu/scholarship-janus/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page ↗</a></td></tr></tbody></table> <p>JANUS is the Erasmus Mundus master in security and defence coordinated from Université Jean Moulin Lyon 3, with mandatory mobility between Lyon and Beirut Saint-Joseph and options in Granada, Bucharest and Essex. The first cohort's applications closed on 6 March 2026, and the 2027-2029 round is expected to follow the same early-March pattern.</p>\n<h2>Programme Highlights</h2>\n<ul>\n <li>Distinctive security-and-defence curriculum with Lyon-Beirut core mobility</li>\n <li>Specialisations in cybersecurity, criminology and high-intensity warfare</li>\n <li>Professional exposure through site visits (Interpol, NATO) and internships</li>\n <li>Erasmus Mundus scholarships covering fees plus living allowance</li>\n</ul>\n<h2>Who Should Apply</h2>\n<p>Backgrounds in law, political science, international relations, economics, history or security/defence studies are welcomed; French is not a prerequisite since the programme runs in English with language support.</p>\n<h2>Funding and Costs</h2>\n<p>Erasmus Mundus scholarships cover tuition and provide a monthly allowance for travel and living costs.</p>\n<h2>Deadline and How to Apply</h2>\n<p>Watch the JANUS how-to-apply page for the 2027-2029 call and submit before the early-March cut-off. Key deadline information: <strong>6 March 2027 (23:59 Paris time, expected — the first round closed 6 March 2026)</strong>.</p>\n<h2>Official Link</h2>\n<ul>\n <li><a href=\"https://master-janus-security-defense.eu/scholarship-janus/\" target=\"_blank\" rel=\"noopener noreferrer\">Official application page (verified link)</a></li>\n</ul><h2>About JANUS Consortium (Université Jean Moulin Lyon 3)</h2><p>The JANUS consortium is coordinated by Université Jean Moulin Lyon 3 and delivers the Erasmus Mundus Joint Master in Security and Defence with partners in Lebanon, Spain, Romania and the UK.</p><p>Official website: <a href=\"https://master-janus-security-defense.eu\" target=\"_blank\" rel=\"noopener noreferrer\">https://master-janus-security-defense.eu</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 6 March 2027 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/why-scholarship-applications-get-rejected-12-reasons\">Scholarship Application Rejected? 12 Problems to Check Before Reapplying</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-write-motivation-letter-european-universities-sample\">University Motivation Letter: Explain Your Preparation and Course Choice</a></li><li><a href=\"https://nextapply.co.uk/articles/masters-phd-application-timeline-12-months\">A 12-Month Study Abroad Application Plan for Master's and PhD Applicants</a></li></ul>",
+ "stipendAmount": 1400,
+ "stipendCurrency": "EUR",
+ "stipendPeriod": "month",
+ "keywords": [
+  "JANUS – Erasmus Mundus Master in Security and Defence",
+  "JANUS Consortium (Université Jean Moulin Lyon 3) scholarships",
+  "fully funded Master's France",
+  "France scholarships 2027",
+  "Master's 2027 intake",
+  "IELTS requirement",
+  "Erasmus Mundus",
+  "JANUS",
+  "Security Studies"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/janus-security-defence-erasmus-mundus-2027",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalProgram",
+  "@id": "https://nextapply.co.uk/janus-security-defence-erasmus-mundus-2027#opportunity",
+  "url": "https://nextapply.co.uk/janus-security-defence-erasmus-mundus-2027",
+  "name": "JANUS – Erasmus Mundus Master in Security and Defence",
+  "description": "JANUS is the Erasmus Mundus master in security and defence coordinated from Université Jean Moulin Lyon 3, with mandatory mobility between Lyon and Beirut Saint-Joseph and options in Granada, Bucharest and Essex. The first cohort's applications closed on 6 March 2026, and the 2027-2029 round is expected to follow the same early-March pattern.",
+  "educationalProgramMode": "full time",
+  "provider": {
+   "@type": "Organization",
+   "name": "JANUS Consortium (Université Jean Moulin Lyon 3)",
+   "sameAs": "https://master-janus-security-defense.eu",
+   "logo": "https://www.google.com/s2/favicons?domain=master-janus-security-defense.eu&sz=256"
+  },
+  "applicationDeadline": "2027-03-06",
+  "offers": {
+   "@type": "Offer",
+   "category": "Fully Funded programme",
+   "priceSpecification": {
+    "@type": "PriceSpecification",
+    "price": 1400,
+    "priceCurrency": "EUR"
+   }
+  }
+ }
 }

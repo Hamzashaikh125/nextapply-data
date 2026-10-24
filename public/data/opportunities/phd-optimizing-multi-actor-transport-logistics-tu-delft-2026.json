@@ -1,71 +1,124 @@
 {
+ "title": "PhD in Optimizing Multi-actor Transport and Logistics Systems at TU Delft, Netherlands",
+ "status": "published",
+ "slug": "phd-optimizing-multi-actor-transport-logistics-tu-delft-2026",
+ "isOpen": true,
+ "category": "phd_position",
+ "organizationId": "fWDwnuGf3LBFaQhGO7iT",
+ "organization": {
+  "id": "fWDwnuGf3LBFaQhGO7iT",
+  "slug": "tu-delft",
+  "name": "TU Delft",
+  "logoUrl": "https://www.google.com/s2/favicons?domain=tudelft.nl&sz=256",
+  "website": "https://www.tudelft.nl",
+  "about": "TU Delft is a public technical university in Delft, the Netherlands. It offers undergraduate, master's and doctoral education across engineering, architecture, design and applied sciences. Its research connects technical knowledge with practical challenges, including energy, mobility, infrastructure and sustainability, through collaboration with industry, public organisations and international academic institutions worldwide."
+ },
+ "regionId": "europe",
+ "countryCode": "NL",
+ "city": "Delft",
+ "deadline": "2026-11-22T23:59:59.999Z",
+ "deadlineType": "fixed",
+ "deadlineText": "22 November 2026",
+ "degreeLevels": [
+  "phd"
+ ],
+ "disciplines": [
+  "operations_research",
+  "mathematics",
+  "computer_science"
+ ],
+ "subjects": [
+  "Game theory",
+  "Mixed-integer optimization",
+  "Transport logistics"
+ ],
+ "fundingType": "fully_funded",
+ "stipend": "€3,204/month",
+ "intro": "This doctorate develops mathematical approaches for transport and logistics decisions involving multiple organisations. It considers how competition and cooperation change the choices available to each participant. Applicants can apply without IELTS - selection is based on documents and an English interview, not a test certificate.",
+ "description": "<h2>About the Position</h2>\n<p>This doctorate develops mathematical approaches for transport and logistics decisions involving multiple organisations. It considers how competition and cooperation change the choices available to each participant.</p>\n\n<h2>Research Position Overview</h2>\n<p>Combine game theory with mixed-integer optimisation. Develop scalable algorithms using methods such as column generation, branch-and-price and Benders decomposition.</p>\n\n<h2>Research Areas</h2>\n<ul>\n<li>Operations research</li>\n<li>Game theory</li>\n<li>Large-scale mathematical optimisation</li>\n</ul>\n\n<h2>Funding and Duration</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\">\n<table style=\"width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\">\n<caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Employment and financial support</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Component</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Details</th></tr></thead>\n<tbody>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Position</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Paid doctoral employee</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Salary</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">€3,204–€4,051 gross/month; first-to-fourth-year progression</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Additional pay</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">8% holiday allowance; 8.3% year-end bonus</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Duration</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Four years in principle: 18 months initially, then 30 months after satisfactory assessment</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Programme / support</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Salaried TU Delft doctoral employment.</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>Eligibility and Requirements</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\">\n<table style=\"width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\">\n<caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Academic and research preparation</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Criterion</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Requirement</th></tr></thead>\n<tbody>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Academic preparation</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">MSc in operations research, econometrics, applied mathematics, computer science, industrial engineering, systems/control or a related field.</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Relevant skills</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Mixed-integer optimisation, programming and solver experience; game theory or decomposition knowledge is advantageous.</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">English</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Required; see TU Delft’s admission policy for accepted evidence and exemptions.</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Specific conditions</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">The advert contains inconsistent hours/FTE fields; confirm the working-hours arrangement with the recruiter.</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>Application dates</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\">\n<table style=\"width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\">\n<caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Recruitment information</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Component</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Details</th></tr></thead>\n<tbody>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Status</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Open when verified against the official source</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Deadline</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">22 November 2026</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Start date</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Not specified</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Location</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Delft, Netherlands</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>Important Notes</h2><ul><li>Application deadline: 22 November 2026 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2>\n<ul>\n<li>CV and motivation letter addressed to Patrick Stokkink.</li>\n</ul><p>Use the application button on the official advert; email enquiries do not replace an online application.</p>\n\n<h2>About TU Delft and the Host Faculty</h2>\n<p>TU Delft is a technical university in Delft, Netherlands. This position is hosted by the Faculty of Technology, Policy and Management. Doctoral employment includes Graduate School training and supervision.</p>\n\n<h2>Official Link</h2>\n<ul><li><a href=\"https://careers.tudelft.nl/job/Delft-PhD-Position-Optimizing-Multi-actor-Transport-and-Logistics-Systems-2628-CD/1374437557/\" target=\"_blank\" rel=\"noopener noreferrer\">TU Delft vacancy and application instructions</a></li><li><a href=\"https://www.tudelft.nl/onderwijs/opleidingen/phd/admission\" target=\"_blank\" rel=\"noopener noreferrer\">TU Delft PhD admission and English-language requirements</a></li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul><h3>English language requirements</h3><p>No IELTS or TOEFL certificate is requested for this employed Dutch position; English is assessed through the application documents and an interview in English.</p>",
+ "tags": [
+  "phd",
+  "tu-delft",
+  "netherlands",
+  "paid-phd",
+  "2026",
+  "operations-research",
+  "game-theory",
+  "large-scale-mathematical-optimisation",
+  "TU Delft",
+  "Delft",
+  "Fully Funded",
+  "Operations_Research"
+ ],
+ "applyLink": "https://careers.tudelft.nl/job/Delft-PhD-Position-Optimizing-Multi-actor-Transport-and-Logistics-Systems-2628-CD/1374437557/",
+ "isFeatured": false,
+ "ieltsRequired": false,
+ "eligibility": "worldwide",
+ "seoTitle": "Transport and Logistics Optimisation PhD | TU Delft",
+ "seoDescription": "Paid TU Delft PhD combining game theory and transport optimisation. Review eligibility, salary and the application deadline of 22 November 2026.",
+ "ogImage": "https://nextapply.co.uk/phd-optimizing-multi-actor-transport-logistics-tu-delft-2026/opengraph-image",
+ "verificationStatus": "unverified",
+ "addedDate": "2026-10-15T14:47:58.166Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-15T14:47:58.348Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-15T14:47:58.348Z",
+ "fundingStatus": "fully_funded",
+ "id": "Lf7xTCrlBSVhVuN24fGJ",
+ "stipendAmount": 3204,
+ "stipendCurrency": "EUR",
+ "stipendPeriod": "month",
+ "opportunityType": "phd_position",
+ "keywords": [
+  "PhD in Optimizing Multi-actor Transport and Logistics Systems",
+  "TU Delft positions",
+  "fully funded PhD Netherlands",
+  "Netherlands scholarships 2026",
+  "PhD 2026 intake",
+  "phd",
+  "tu-delft",
+  "netherlands"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/phd-optimizing-multi-actor-transport-logistics-tu-delft-2026",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/phd-optimizing-multi-actor-transport-logistics-tu-delft-2026#opportunity",
+  "url": "https://nextapply.co.uk/phd-optimizing-multi-actor-transport-logistics-tu-delft-2026",
   "title": "PhD in Optimizing Multi-actor Transport and Logistics Systems at TU Delft, Netherlands",
-  "status": "published",
-  "slug": "phd-optimizing-multi-actor-transport-logistics-tu-delft-2026",
-  "isOpen": true,
-  "category": "phd_position",
-  "organizationId": "fWDwnuGf3LBFaQhGO7iT",
-  "organization": {
-    "id": "fWDwnuGf3LBFaQhGO7iT",
-    "slug": "tu-delft",
-    "name": "TU Delft",
-    "logoUrl": "https://diamhomes.ewi.tudelft.nl/~kaardal/PNG_2400dpi/TU_d_stack_P1_color.png",
-    "website": "https://www.tudelft.nl",
-    "about": "TU Delft is a public technical university in Delft, the Netherlands. It offers undergraduate, master's and doctoral education across engineering, architecture, design and applied sciences. Its research connects technical knowledge with practical challenges, including energy, mobility, infrastructure and sustainability, through collaboration with industry, public organisations and international academic institutions worldwide."
+  "description": "This doctorate develops mathematical approaches for transport and logistics decisions involving multiple organisations. It considers how competition and cooperation change the choices available to each participant. Applicants can apply without IELTS - selection is based on documents and an English interview, not a test certificate.",
+  "datePosted": "2026-10-15T14:47:58.348Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "TU Delft",
+   "sameAs": "https://www.tudelft.nl",
+   "logo": "https://www.google.com/s2/favicons?domain=tudelft.nl&sz=256"
   },
-  "regionId": "europe",
-  "countryCode": "NL",
-  "city": "Delft",
-  "deadline": "2026-11-22T23:59:59.999Z",
-  "deadlineType": "fixed",
-  "deadlineText": "22 November 2026",
-  "degreeLevels": [
-    "phd"
-  ],
-  "disciplines": [
-    "operations_research",
-    "mathematics",
-    "computer_science"
-  ],
-  "subjects": [
-    "Game theory",
-    "Mixed-integer optimization",
-    "Transport logistics"
-  ],
-  "fundingType": "fully_funded",
-  "stipend": "€3,204/month",
-  "intro": "This doctorate develops mathematical approaches for transport and logistics decisions involving multiple organisations. It considers how competition and cooperation change the choices available to each participant. Applicants can apply without IELTS - selection is based on documents and an English interview, not a test certificate.",
-  "description": "<h2>Project Overview</h2>\n<p>This doctorate develops mathematical approaches for transport and logistics decisions involving multiple organisations. It considers how competition and cooperation change the choices available to each participant.</p>\n\n<h2>Research Position Overview</h2>\n<p>Combine game theory with mixed-integer optimisation. Develop scalable algorithms using methods such as column generation, branch-and-price and Benders decomposition.</p>\n\n<h2>Research Areas</h2>\n<ul>\n<li>Operations research</li>\n<li>Game theory</li>\n<li>Large-scale mathematical optimisation</li>\n</ul>\n\n<h2>Funding and Duration</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\">\n<table style=\"width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\">\n<caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Employment and financial support</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Component</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Details</th></tr></thead>\n<tbody>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Position</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Paid doctoral employee</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Salary</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">€3,204–€4,051 gross/month; first-to-fourth-year progression</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Additional pay</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">8% holiday allowance; 8.3% year-end bonus</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Duration</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Four years in principle: 18 months initially, then 30 months after satisfactory assessment</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Programme / support</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Salaried TU Delft doctoral employment.</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>Eligibility and Requirements</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\">\n<table style=\"width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\">\n<caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Academic and research preparation</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Criterion</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Requirement</th></tr></thead>\n<tbody>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Academic preparation</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">MSc in operations research, econometrics, applied mathematics, computer science, industrial engineering, systems/control or a related field.</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Relevant skills</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Mixed-integer optimisation, programming and solver experience; game theory or decomposition knowledge is advantageous.</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">English</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Required; see TU Delft’s admission policy for accepted evidence and exemptions.</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Specific conditions</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">The advert contains inconsistent hours/FTE fields; confirm the working-hours arrangement with the recruiter.</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>Application Dates</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\">\n<table style=\"width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\">\n<caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">Recruitment information</caption>\n<thead style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;text-align:left\"><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Component</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Details</th></tr></thead>\n<tbody>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Status</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Open when verified against the official source</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Deadline</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">22 November 2026</td></tr>\n<tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Start date</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Not specified</td></tr>\n<tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Location</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Delft, Netherlands</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>Important Notes</h2><ul><li>Application deadline: 22 November 2026 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>How to Apply</h2>\n<ul>\n<li>CV and motivation letter addressed to Patrick Stokkink.</li>\n</ul><p>Use the application button on the official advert; email enquiries do not replace an online application.</p>\n\n<h2>About TU Delft and the Host Faculty</h2>\n<p>TU Delft is a technical university in Delft, Netherlands. This position is hosted by the Faculty of Technology, Policy and Management. Doctoral employment includes Graduate School training and supervision.</p>\n\n<h2>Official Sources</h2>\n<ul><li><a href=\"https://careers.tudelft.nl/job/Delft-PhD-Position-Optimizing-Multi-actor-Transport-and-Logistics-Systems-2628-CD/1374437557/\" target=\"_blank\" rel=\"noopener noreferrer\">TU Delft vacancy and application instructions</a></li><li><a href=\"https://www.tudelft.nl/onderwijs/opleidingen/phd/admission\" target=\"_blank\" rel=\"noopener noreferrer\">TU Delft PhD admission and English-language requirements</a></li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul><h3>English language requirements</h3><p>No IELTS or TOEFL certificate is requested for this employed Dutch position; English is assessed through the application documents and an interview in English.</p>",
-  "tags": [
-    "phd",
-    "tu-delft",
-    "netherlands",
-    "paid-phd",
-    "2026",
-    "operations-research",
-    "game-theory",
-    "large-scale-mathematical-optimisation",
-    "TU Delft",
-    "Delft",
-    "Fully Funded",
-    "Operations_Research"
-  ],
-  "applyLink": "https://careers.tudelft.nl/job/Delft-PhD-Position-Optimizing-Multi-actor-Transport-and-Logistics-Systems-2628-CD/1374437557/",
-  "isFeatured": false,
-  "ieltsRequired": false,
-  "eligibility": "worldwide",
-  "seoTitle": "Transport and Logistics Optimisation PhD | TU Delft",
-  "seoDescription": "Paid TU Delft PhD combining game theory and transport optimisation. Review eligibility, salary and the application deadline of 22 November 2026.",
-  "ogImage": "",
-  "verificationStatus": "unverified",
-  "addedDate": "2026-10-15T14:47:58.166Z",
-  "clickCount": 0,
-  "createdAt": "2026-10-15T14:47:58.348Z",
-  "updatedAt": "2026-10-23T14:21:38.000Z",
-  "publishedAt": "2026-10-15T14:47:58.348Z",
-  "fundingStatus": "fully_funded",
-  "id": "Lf7xTCrlBSVhVuN24fGJ",
-  "stipendAmount": 3204,
-  "stipendCurrency": "EUR",
-  "stipendPeriod": "month"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "phd-optimizing-multi-actor-transport-logistics-tu-delft-2026"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "NL",
+    "addressLocality": "Delft"
+   }
+  },
+  "validThrough": "2026-11-22T23:59:59.999Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "EUR",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 3204,
+    "unitText": "MONTH"
+   }
+  }
+ }
 }

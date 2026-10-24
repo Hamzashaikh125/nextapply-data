@@ -1,70 +1,123 @@
 {
-  "addedDate": "2026-09-16T23:52:52.876Z",
-  "clickCount": 0,
-  "city": "Multiple Locations",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "description": "<h2>Program Overview</h2>\n<p>The Royal Society University Research Fellowship is a highly competitive, fully funded fellowship that supports outstanding early-career scientists to become independent researchers. It is ideal for AI/CS researchers who want to build their own research group in the UK.</p>\n<h2>Funding &amp; Benefits</h2>\n<ul><li>Salary: Full salary (typically £45,000-£60,000 per year)</li><li>Research Expenses: £90,000 per year for research costs, equipment, and travel</li><li>Duration: 5 years (initially 3 years, renewable for 2 more)</li><li>Location: Any UK university or research institution</li><li>Additional Benefits: Mentoring from a Royal Society Fellow, access to exclusive networks</li></ul>\n<h2>Eligibility Criteria</h2>\n<ul><li>Career Stage: Early-career researchers (typically within 3-5 years of PhD completion)</li><li>Nationality: Open to UK and international applicants</li><li>Research Area: Natural sciences, including AI, computer science, and interdisciplinary research</li><li>Track Record: Exceptional research potential with publications in top-tier venues</li></ul>\n<h2>Application Process</h2>\n<ol><li>Identify host institution and sponsor.</li><li>Develop research vision (5-page outline of long-term research goals).</li><li>Submit application to Royal Society.</li><li>Review and interview process.</li><li>Award notification.</li></ol>\n<h2>Required Documents</h2>\n<ul><li>Research Vision (5-page outline)</li><li>CV highlighting significant achievements and publications</li><li>Sponsor Letter from a senior scientist at host institution</li><li>Head of Department Statement confirming institutional support</li></ul>\n<h2>Timeline &amp; Deadlines</h2>\n<table><thead><tr><th>Milestone</th><th>Date</th></tr></thead><tbody><tr><td>Application Deadline</td><td>September 2026</td></tr><tr><td>Notification Date</td><td>March 2027</td></tr><tr><td>Start Date</td><td>October 2027</td></tr></tbody></table>\n<h2>Official Link</h2>\n<p>https://royalsociety.org</p>\n<h2>Important Notes</h2>\n<ul><li>The Royal Society is the UK's national academy of sciences.</li><li>Emphasize how your AI research addresses fundamental scientific questions or has potential for significant societal impact.</li><li>5 years of funding allows building a substantial research program.</li></ul>",
-  "eligibility": "worldwide",
-  "stipend": "£45,000/year",
-  "applyLink": "https://royalsociety.org",
-  "seoTitle": "Royal Society University Research Fellowship 2027",
+ "addedDate": "2026-09-16T23:52:52.876Z",
+ "clickCount": 0,
+ "city": "Multiple Locations",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "description": "<h2>About the Fellowship</h2>\n<p>The Royal Society University Research Fellowship is a highly competitive, fully funded fellowship that supports outstanding early-career scientists to become independent researchers. It is ideal for AI/CS researchers who want to build their own research group in the UK.</p>\n<h2>Funding &amp; Benefits</h2>\n<ul><li>Salary: Full salary (typically £45,000-£60,000 per year)</li><li>Research Expenses: £90,000 per year for research costs, equipment, and travel</li><li>Duration: 5 years (initially 3 years, renewable for 2 more)</li><li>Location: Any UK university or research institution</li><li>Additional Benefits: Mentoring from a Royal Society Fellow, access to exclusive networks</li></ul>\n<h2>Eligibility and Requirements</h2>\n<ul><li>Career Stage: Early-career researchers (typically within 3-5 years of PhD completion)</li><li>Nationality: Open to UK and international applicants</li><li>Research Area: Natural sciences, including AI, computer science, and interdisciplinary research</li><li>Track Record: Exceptional research potential with publications in top-tier venues</li></ul>\n<h2>Application Process</h2>\n<ol><li>Identify host institution and sponsor.</li><li>Develop research vision (5-page outline of long-term research goals).</li><li>Submit application to Royal Society.</li><li>Review and interview process.</li><li>Award notification.</li></ol>\n<h2>Required Documents</h2>\n<ul><li>Research Vision (5-page outline)</li><li>CV highlighting significant achievements and publications</li><li>Sponsor Letter from a senior scientist at host institution</li><li>Head of Department Statement confirming institutional support</li></ul>\n<h2>Timeline &amp; Deadlines</h2>\n<table><thead><tr><th>Milestone</th><th>Date</th></tr></thead><tbody><tr><td>Application Deadline</td><td>September 2026</td></tr><tr><td>Notification Date</td><td>March 2027</td></tr><tr><td>Start Date</td><td>October 2027</td></tr></tbody></table>\n<h2>Official Link</h2>\n<p>https://royalsociety.org</p>\n<h2>Important Notes</h2>\n<ul><li>The Royal Society is the UK's national academy of sciences.</li><li>Emphasize how your AI research addresses fundamental scientific questions or has potential for significant societal impact.</li><li>5 years of funding allows building a substantial research program.</li></ul><h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: September 2026. Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://royalsociety.org\">Open the official application page ↗</a></p><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+ "eligibility": "worldwide",
+ "stipend": "£45,000/year",
+ "applyLink": "https://royalsociety.org",
+ "seoTitle": "Royal Society University Research Fellowship 2027",
+ "title": "Royal Society University Research Fellowship 2027 - Fully Funded 5-Year",
+ "fundingStatus": "fully_funded",
+ "ieltsRequired": true,
+ "organizationId": "iGo2m7S6Bt3ZxpkXOEx6",
+ "createdAt": "2026-09-16T23:52:52.876Z",
+ "stipendAmount": 45000,
+ "fundingType": "fully_funded",
+ "countryCode": "GB",
+ "intro": "The Royal Society University Research Fellowship supports outstanding early-career scientists for 5 years to become independent researchers. Full salary plus £90,000/year research expenses. Open to international applicants.",
+ "deadlineTimezone": "Europe/London",
+ "deadline": "2026-09-30T04:00:00.000Z",
+ "degreeLevels": [
+  "postdoctoral"
+ ],
+ "isFeatured": false,
+ "slug": "royal-society-university-research-fellowship-2027-fully-funded-5-year",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "deadlineText": "September 2026",
+ "verificationStatus": "unverified",
+ "seoDescription": "An eight-year fellowship for early-career scientists developing independent research careers. Continued funding for years six to eight depends on a.",
+ "isRemote": false,
+ "ogImage": "https://nextapply.co.uk/royal-society-university-research-fellowship-2027-fully-funded-5-year/opengraph-image",
+ "tags": [
+  "Royal Society",
+  "University Research Fellowship",
+  "UK",
+  "Fully Funded",
+  "5-Year Fellowship",
+  "Early Career",
+  "Independent Researcher",
+  "AI",
+  "Computer Science",
+  "Physics"
+ ],
+ "opportunityType": "fellowship",
+ "isOpen": false,
+ "disciplines": [
+  "artificial_intelligence",
+  "computer_science",
+  "physics"
+ ],
+ "stipendCurrency": "GBP",
+ "verificationScore": null,
+ "deadlineType": "fixed",
+ "regionId": "europe",
+ "sourceType": "official_organization",
+ "stipendPeriod": "year",
+ "organization": {
+  "website": "https://royalsociety.org",
+  "about": "The Royal Society is the world's oldest scientific academy in continuous existence, founded in London in 1660.",
+  "name": "Royal Society",
+  "logoUrl": "https://www.seresearch.qmul.ac.uk/content/news/images/a3e70580c2d0e026c5330c7d23a6703c-original.jpg"
+ },
+ "category": "fellowship",
+ "status": "expired",
+ "id": "ofnnNhciEpp2cCBFVgZp",
+ "keywords": [
+  "Royal Society University Research Fellowship 2027 - Fully Funded",
+  "Royal Society positions",
+  "fully funded Postdoc UK",
+  "UK scholarships 2027",
+  "Postdoc 2027 intake",
+  "IELTS requirement",
+  "Royal Society",
+  "University Research Fellowship",
+  "UK"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/royal-society-university-research-fellowship-2027-fully-funded-5-year",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/royal-society-university-research-fellowship-2027-fully-funded-5-year#opportunity",
+  "url": "https://nextapply.co.uk/royal-society-university-research-fellowship-2027-fully-funded-5-year",
   "title": "Royal Society University Research Fellowship 2027 - Fully Funded 5-Year",
-  "fundingStatus": "fully_funded",
-  "ieltsRequired": true,
-  "organizationId": "iGo2m7S6Bt3ZxpkXOEx6",
-  "createdAt": "2026-09-16T23:52:52.876Z",
-  "stipendAmount": 45000,
-  "fundingType": "fully_funded",
-  "countryCode": "GB",
-  "intro": "The Royal Society University Research Fellowship supports outstanding early-career scientists for 5 years to become independent researchers. Full salary plus £90,000/year research expenses. Open to international applicants.",
-  "deadlineTimezone": "Europe/London",
-  "deadline": "2026-09-30T04:00:00.000Z",
-  "degreeLevels": [
-    "postdoctoral"
-  ],
-  "isFeatured": false,
-  "slug": "royal-society-university-research-fellowship-2027-fully-funded-5-year",
-  "updatedAt": "2026-10-23",
-  "deadlineText": "September 2026",
-  "verificationStatus": "unverified",
-  "seoDescription": "An eight-year fellowship for early-career scientists developing independent research careers. Continued funding for years six to eight depends on a.",
-  "isRemote": false,
-  "ogImage": null,
-  "tags": [
-    "Royal Society",
-    "University Research Fellowship",
-    "UK",
-    "Fully Funded",
-    "5-Year Fellowship",
-    "Early Career",
-    "Independent Researcher",
-    "AI",
-    "Computer Science",
-    "Physics"
-  ],
-  "opportunityType": "fellowship",
-  "isOpen": false,
-  "disciplines": [
-    "artificial_intelligence",
-    "computer_science",
-    "physics"
-  ],
-  "stipendCurrency": "GBP",
-  "verificationScore": null,
-  "deadlineType": "fixed",
-  "regionId": "europe",
-  "sourceType": "official_organization",
-  "stipendPeriod": "year",
-  "organization": {
-    "website": "https://royalsociety.org",
-    "about": "The Royal Society is the world's oldest scientific academy in continuous existence, founded in London in 1660.",
-    "name": "Royal Society",
-    "logoUrl": "https://www.seresearch.qmul.ac.uk/content/news/images/a3e70580c2d0e026c5330c7d23a6703c-original.jpg"
+  "description": "The Royal Society University Research Fellowship supports outstanding early-career scientists for 5 years to become independent researchers. Full salary plus £90,000/year research expenses. Open to international applicants.",
+  "datePosted": "2026-09-16T23:52:52.876Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "Royal Society",
+   "sameAs": "https://royalsociety.org",
+   "logo": "https://www.seresearch.qmul.ac.uk/content/news/images/a3e70580c2d0e026c5330c7d23a6703c-original.jpg"
   },
-  "category": "fellowship",
-  "status": "expired",
-  "id": "ofnnNhciEpp2cCBFVgZp"
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "royal-society-university-research-fellowship-2027-fully-funded-5-year"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "GB",
+    "addressLocality": "Multiple Locations"
+   }
+  },
+  "validThrough": "2026-09-30T04:00:00.000Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "GBP",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 45000,
+    "unitText": "YEAR"
+   }
+  }
+ }
 }

@@ -1,86 +1,138 @@
 {
-  "title": "IMPRS-CPQM PhD Positions in Quantum Materials - Max Planck, TU Dresden and St Andrews",
-  "status": "published",
-  "slug": "imprs-cpqm-phd-positions-quantum-materials-dresden-2027",
-  "isOpen": true,
-  "category": "phd_position",
-  "organizationId": "NqqG7QhcI4z5IXZbjd83",
-  "organization": {
-    "createdAt": "2026-10-22T00:13:50.000Z",
-    "website": "https://imprs-cpqm.mpg.de",
-    "about": "The International Max Planck Research School for Chemistry and Physics of Quantum Materials (IMPRS-CPQM) is a tri-institutional graduate school of the Max Planck Institute for Chemical Physics of Solids, Technische Universitaet Dresden and the University of St Andrews, offering 20+ funded doctoral projects in condensed matter physics and solid-state chemistry.",
-    "name": "IMPRS-CPQM (Max Planck / TU Dresden / St Andrews)",
-    "programCount": 0,
-    "logoUrl": "https://www.google.com/s2/favicons?domain=imprs-cpqm.mpg.de&sz=128",
-    "slug": "imprs-cpqm",
-    "status": "published",
-    "updatedAt": "2026-10-22T00:13:50.000Z",
-    "id": "NqqG7QhcI4z5IXZbjd83"
-  },
-  "regionId": "europe",
-  "countryCode": "DE",
-  "city": "Dresden",
-  "deadline": "2026-11-30T22:59:59.999Z",
-  "deadlineType": "fixed",
-  "deadlineText": "30 November 2026",
-  "deadlineTimezone": "Europe/Berlin",
-  "degreeLevels": [
-    "phd"
-  ],
-  "disciplines": [
-    "physics",
-    "quantum_technology",
-    "materials_science",
-    "chemistry",
-    "quantum_physics"
-  ],
-  "subjects": [
-    "Quantum materials",
-    "Condensed matter physics",
-    "Solid-state chemistry",
-    "Max Planck",
-    "Dresden"
-  ],
-  "fundingType": "fully_funded",
-  "fundingStatus": "fully_funded",
-  "fundingCoverage": {
-    "stipendProvided": true,
-    "tuitionCovered": true
-  },
-  "stipend": "Fully funded doctoral employment contract under Max",
-  "stipendAmount": null,
-  "stipendCurrency": "EUR",
-  "stipendPeriod": "month",
-  "intro": "IMPRS-CPQM 2027 call: 20+ funded PhD projects in quantum materials across the Max Planck Institute for Chemical Physics of Solids, TU Dresden and the University of St Andrews. Apply by 30 November 2026. Applicants can apply without IELTS - German doctoral hiring assesses English through documents and interview.",
-  "description": "<h2>Programme Overview</h2>\n<p>The International Max Planck Research School for Chemistry and Physics of Quantum Materials (IMPRS-CPQM) has opened its 2027 call with more than twenty doctoral projects on offer. The school is a tri-institutional collaboration: the Max Planck Institute for Chemical Physics of Solids in Dresden, Technische Universitaet Dresden, and the University of St Andrews in Scotland. Each project pairs a specific supervisor with a defined research question across condensed matter physics and solid-state chemistry.</p>\n<p>The subject matter spans the chemistry-physics boundary of quantum materials - how new compounds are grown and characterised, and how their electronic, magnetic and topological behaviour is measured and modelled. Because every project is advertised individually with its own page, applicants should read the project list on the school website and target the two or three projects closest to their background.</p>\n<h2>What Is on Offer</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\"><caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">The 2027 call at a glance</caption><thead><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Component</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Details</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Projects</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">More than 20 doctoral projects in condensed matter physics and solid-state chemistry.</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Institutions</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Max Planck Institute for Chemical Physics of Solids (Dresden), TU Dresden, University of St Andrews.</td></tr><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Funding</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Fully funded doctoral employment contracts under Max Planck Society / TU Dresden scales; health insurance, pension and social benefits included.</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Deadline</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Applications accepted no later than 30 November 2026.</td></tr><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Eligibility</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Highly motivated candidates with an outstanding bachelor's or master's degree well aligned with the school's research areas.</td></tr></tbody></table></div>\n<h2>Who Should Apply</h2>\n<p>Candidates finishing a bachelor's or master's degree in physics, chemistry, materials science or a neighbouring field whose interests sit in quantum materials - superconductivity, magnetism, topology, correlated electron systems, crystal growth or the solid-state chemistry behind them. The school explicitly welcomes applications from candidates whose degree is 'well-aligned' rather than identical to the project topics, so a strong methods background matters more than an exact subject match.</p>\n<h2>How to Apply</h2>\n<p>Applications run through the school's own application system, following the detailed application guidelines published on the IMPRS-CPQM website. The usual package - CV, transcripts, two referees and a statement of research interests tied to specific advertised projects - should be prepared before starting the form, and each project page on the school site tells you which supervisor to reference.</p>\n<h2>Why Dresden</h2>\n<p>Dresden is one of Europe's densest clusters for materials research: the Max Planck Institute for Chemical Physics of Solids, TU Dresden's ct.qmat cluster and a wider campus of Leibniz institutes sit within walking distance of each other. Doctoral researchers in Max Planck schools are employed with full contracts, and Dresden's living costs remain well below those of Munich, Stuttgart or Frankfurt, which stretches a German doctoral salary a long way.</p>\n<h2>Official Sources</h2><ul><li><a href=\"https://imprs-cpqm.mpg.de/\" target=\"_blank\" rel=\"noopener noreferrer\">Official advert and application (verified link)</a></li><li><a href=\"https://imprs-cpqm.mpg.de/\" target=\"_blank\" rel=\"noopener noreferrer\">IMPRS-CPQM official website (project list and guidelines)</a></li></ul><h3>English language requirements</h3><p>German doctoral employment generally has no fixed IELTS or TOEFL threshold; your English is judged from the written application and the interview, and prior English-medium study is widely accepted as evidence.</p><h2>About IMPRS-CPQM (Max Planck / TU Dresden / St Andrews)</h2><p>The International Max Planck Research School for Chemistry and Physics of Quantum Materials (IMPRS-CPQM) is a tri-institutional graduate school of the Max Planck Institute for Chemical Physics of Solids, Technische Universitaet Dresden and the University of St Andrews, offering 20+ funded doctoral projects in condensed matter physics and solid-state chemistry.</p><p>Official website: <a href=\"https://imprs-cpqm.mpg.de\" target=\"_blank\" rel=\"noopener noreferrer\">https://imprs-cpqm.mpg.de</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 30 November 2026 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/phd-salary-germany-tv-l-e13-explained\">TV-L E13 PhD Pay in Germany: Contract Percentage, Gross Pay and Benefits</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
-  "tags": [
-    "IMPRS-CPQM",
-    "Max Planck",
-    "Quantum Materials",
-    "PhD Germany",
-    "TU Dresden",
-    "Condensed Matter",
-    "Fully Funded",
-    "Solid-State Chemistry",
-    "St Andrews",
-    "Physics"
-  ],
-  "applyLink": "https://imprs-cpqm.mpg.de/",
-  "isFeatured": false,
-  "ieltsRequired": false,
-  "eligibility": "worldwide",
-  "seoTitle": "IMPRS-CPQM PhD Positions 2027 | Quantum Materials, Dresden",
-  "seoDescription": "Apply for 20+ fully funded PhD positions in condensed matter physics and solid-state chemistry at IMPRS-CPQM (Max Planck / TU Dresden / St Andrews). Deadline 30 November 2026.",
-  "ogImage": "",
-  "verificationStatus": "unverified",
-  "verificationScore": null,
-  "addedDate": "2026-10-22T00:13:50.000Z",
-  "clickCount": 0,
+ "title": "IMPRS-CPQM PhD Positions in Quantum Materials - Max Planck, TU Dresden and St Andrews",
+ "status": "published",
+ "slug": "imprs-cpqm-phd-positions-quantum-materials-dresden-2027",
+ "isOpen": true,
+ "category": "phd_position",
+ "organizationId": "NqqG7QhcI4z5IXZbjd83",
+ "organization": {
   "createdAt": "2026-10-22T00:13:50.000Z",
-  "updatedAt": "2026-10-23T14:20:12.000Z",
-  "publishedAt": "2026-10-22T00:13:50.000Z",
-  "id": "YxsN80PBx5jCjSwnuaGj",
-  "opportunityType": "phd_position",
-  "sourceType": "official_organization",
-  "isRemote": false
+  "website": "https://imprs-cpqm.mpg.de",
+  "about": "The International Max Planck Research School for Chemistry and Physics of Quantum Materials (IMPRS-CPQM) is a tri-institutional graduate school of the Max Planck Institute for Chemical Physics of Solids, Technische Universitaet Dresden and the University of St Andrews, offering 20+ funded doctoral projects in condensed matter physics and solid-state chemistry.",
+  "name": "IMPRS-CPQM (Max Planck / TU Dresden / St Andrews)",
+  "programCount": 0,
+  "logoUrl": "https://www.google.com/s2/favicons?domain=imprs-cpqm.mpg.de&sz=256",
+  "slug": "imprs-cpqm",
+  "status": "published",
+  "updatedAt": "2026-10-22T00:13:50.000Z",
+  "id": "NqqG7QhcI4z5IXZbjd83"
+ },
+ "regionId": "europe",
+ "countryCode": "DE",
+ "city": "Dresden",
+ "deadline": "2026-11-30T22:59:59.999Z",
+ "deadlineType": "fixed",
+ "deadlineText": "30 November 2026",
+ "deadlineTimezone": "Europe/Berlin",
+ "degreeLevels": [
+  "phd"
+ ],
+ "disciplines": [
+  "physics",
+  "quantum_technology",
+  "materials_science",
+  "chemistry",
+  "quantum_physics"
+ ],
+ "subjects": [
+  "Quantum materials",
+  "Condensed matter physics",
+  "Solid-state chemistry",
+  "Max Planck",
+  "Dresden"
+ ],
+ "fundingType": "fully_funded",
+ "fundingStatus": "fully_funded",
+ "fundingCoverage": {
+  "stipendProvided": true,
+  "tuitionCovered": true
+ },
+ "stipend": "Approx. €3,010/month gross (TV-L E13, 65% — typical doctoral level)",
+ "stipendCurrency": "EUR",
+ "stipendPeriod": "month",
+ "intro": "IMPRS-CPQM 2027 call: 20+ funded PhD projects in quantum materials across the Max Planck Institute for Chemical Physics of Solids, TU Dresden and the University of St Andrews. Apply by 30 November 2026. Applicants can apply without IELTS - German doctoral hiring assesses English through documents and interview.",
+ "description": "<h2>About the Position</h2>\n<p>The International Max Planck Research School for Chemistry and Physics of Quantum Materials (IMPRS-CPQM) has opened its 2027 call with more than twenty doctoral projects on offer. The school is a tri-institutional collaboration: the Max Planck Institute for Chemical Physics of Solids in Dresden, Technische Universitaet Dresden, and the University of St Andrews in Scotland. Each project pairs a specific supervisor with a defined research question across condensed matter physics and solid-state chemistry.</p>\n<p>The subject matter spans the chemistry-physics boundary of quantum materials - how new compounds are grown and characterised, and how their electronic, magnetic and topological behaviour is measured and modelled. Because every project is advertised individually with its own page, applicants should read the project list on the school website and target the two or three projects closest to their background.</p>\n<h2>What Is on Offer</h2>\n<div style=\"overflow-x:auto;margin:18px 0;\"><table style=\"width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:15px;line-height:1.6;\"><caption style=\"text-align:left;font-weight:600;padding-bottom:8px;\">The 2027 call at a glance</caption><thead><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Component</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;background:#edf3f8;border:1px solid #cbd5e1;\">Details</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Projects</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">More than 20 doctoral projects in condensed matter physics and solid-state chemistry.</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Institutions</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Max Planck Institute for Chemical Physics of Solids (Dresden), TU Dresden, University of St Andrews.</td></tr><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Funding</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Fully funded doctoral employment contracts under Max Planck Society / TU Dresden scales; health insurance, pension and social benefits included.</td></tr><tr style=\"background:#f8fafc;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Deadline</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Applications accepted no later than 30 November 2026.</td></tr><tr style=\"background:#ffffff;\"><th scope=\"row\" style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;font-weight:600;width:30%;\">Eligibility</th><td style=\"padding:11px 14px;text-align:left;vertical-align:top;border:1px solid #d8e0e8;overflow-wrap:anywhere;\">Highly motivated candidates with an outstanding bachelor's or master's degree well aligned with the school's research areas.</td></tr></tbody></table></div>\n<h2>Who Should Apply</h2>\n<p>Candidates finishing a bachelor's or master's degree in physics, chemistry, materials science or a neighbouring field whose interests sit in quantum materials - superconductivity, magnetism, topology, correlated electron systems, crystal growth or the solid-state chemistry behind them. The school explicitly welcomes applications from candidates whose degree is 'well-aligned' rather than identical to the project topics, so a strong methods background matters more than an exact subject match.</p>\n<h2>How to Apply</h2>\n<p>Applications run through the school's own application system, following the detailed application guidelines published on the IMPRS-CPQM website. The usual package - CV, transcripts, two referees and a statement of research interests tied to specific advertised projects - should be prepared before starting the form, and each project page on the school site tells you which supervisor to reference.</p>\n<h2>Why Dresden</h2>\n<p>Dresden is one of Europe's densest clusters for materials research: the Max Planck Institute for Chemical Physics of Solids, TU Dresden's ct.qmat cluster and a wider campus of Leibniz institutes sit within walking distance of each other. Doctoral researchers in Max Planck schools are employed with full contracts, and Dresden's living costs remain well below those of Munich, Stuttgart or Frankfurt, which stretches a German doctoral salary a long way.</p>\n<h2>Official Link</h2><ul><li><a href=\"https://imprs-cpqm.mpg.de/\" target=\"_blank\" rel=\"noopener noreferrer\">Official advert and application (verified link)</a></li><li><a href=\"https://imprs-cpqm.mpg.de/\" target=\"_blank\" rel=\"noopener noreferrer\">IMPRS-CPQM official website (project list and guidelines)</a></li></ul><h3>English language requirements</h3><p>German doctoral employment generally has no fixed IELTS or TOEFL threshold; your English is judged from the written application and the interview, and prior English-medium study is widely accepted as evidence.</p><h2>About IMPRS-CPQM (Max Planck / TU Dresden / St Andrews)</h2><p>The International Max Planck Research School for Chemistry and Physics of Quantum Materials (IMPRS-CPQM) is a tri-institutional graduate school of the Max Planck Institute for Chemical Physics of Solids, Technische Universitaet Dresden and the University of St Andrews, offering 20+ funded doctoral projects in condensed matter physics and solid-state chemistry.</p><p>Official website: <a href=\"https://imprs-cpqm.mpg.de\" target=\"_blank\" rel=\"noopener noreferrer\">https://imprs-cpqm.mpg.de</a></p><h2>Contact</h2><p>Questions about this position, eligibility or the application process should be raised through the contact channel given on the official announcement page (see the Official Link section above). Always quote the position reference in your message so the admissions or HR team can route your enquiry quickly.</p><h2>Important Notes</h2><ul><li>Application deadline: 30 November 2026 - late or incomplete applications are normally not considered.</li><li>Listing details were recorded from the official source at the time of publication; always confirm the latest requirements on the official page before applying.</li><li>Prepare the documents listed in the eligibility and application sections before starting the online form - transcripts, CV and references take the longest to collect.</li></ul><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/phd-salary-germany-tv-l-e13-explained\">TV-L E13 PhD Pay in Germany: Contract Percentage, Gross Pay and Benefits</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
+ "tags": [
+  "IMPRS-CPQM",
+  "Max Planck",
+  "Quantum Materials",
+  "PhD Germany",
+  "TU Dresden",
+  "Condensed Matter",
+  "Fully Funded",
+  "Solid-State Chemistry",
+  "St Andrews",
+  "Physics"
+ ],
+ "applyLink": "https://imprs-cpqm.mpg.de/",
+ "isFeatured": false,
+ "ieltsRequired": false,
+ "eligibility": "worldwide",
+ "seoTitle": "IMPRS-CPQM PhD Positions 2027 | Quantum Materials, Dresden",
+ "seoDescription": "Apply for 20+ fully funded PhD positions in condensed matter physics and solid-state chemistry at IMPRS-CPQM (Max Planck / TU Dresden / St Andrews). Deadline 30 November 2026.",
+ "ogImage": "https://nextapply.co.uk/imprs-cpqm-phd-positions-quantum-materials-dresden-2027/opengraph-image",
+ "verificationStatus": "unverified",
+ "verificationScore": null,
+ "addedDate": "2026-10-22T00:13:50.000Z",
+ "clickCount": 0,
+ "createdAt": "2026-10-22T00:13:50.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
+ "publishedAt": "2026-10-22T00:13:50.000Z",
+ "id": "YxsN80PBx5jCjSwnuaGj",
+ "opportunityType": "phd_position",
+ "sourceType": "official_organization",
+ "isRemote": false,
+ "stipendAmount": 3010,
+ "keywords": [
+  "IMPRS-CPQM PhD Positions in Quantum Materials - Max Planck, TU",
+  "IMPRS-CPQM (Max Planck / TU Dresden / St Andrews) positions",
+  "fully funded PhD Germany",
+  "Germany scholarships 2027",
+  "PhD 2027 intake",
+  "IMPRS-CPQM",
+  "Max Planck",
+  "Quantum Materials"
+ ],
+ "canonicalUrl": "https://nextapply.co.uk/imprs-cpqm-phd-positions-quantum-materials-dresden-2027",
+ "robots": "index,follow",
+ "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "@id": "https://nextapply.co.uk/imprs-cpqm-phd-positions-quantum-materials-dresden-2027#opportunity",
+  "url": "https://nextapply.co.uk/imprs-cpqm-phd-positions-quantum-materials-dresden-2027",
+  "title": "IMPRS-CPQM PhD Positions in Quantum Materials - Max Planck, TU Dresden and St Andrews",
+  "description": "IMPRS-CPQM 2027 call: 20+ funded PhD projects in quantum materials across the Max Planck Institute for Chemical Physics of Solids, TU Dresden and the University of St Andrews. Apply by 30 November 2026. Applicants can apply without IELTS - German doctoral hiring assesses English through documents and interview.",
+  "datePosted": "2026-10-22T00:13:50.000Z",
+  "employmentType": "FULL_TIME",
+  "directApply": false,
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "IMPRS-CPQM (Max Planck / TU Dresden / St Andrews)",
+   "sameAs": "https://imprs-cpqm.mpg.de",
+   "logo": "https://www.google.com/s2/favicons?domain=imprs-cpqm.mpg.de&sz=256"
+  },
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "NextApply",
+   "value": "imprs-cpqm-phd-positions-quantum-materials-dresden-2027"
+  },
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "DE",
+    "addressLocality": "Dresden"
+   }
+  },
+  "validThrough": "2026-11-30T22:59:59.999Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "EUR",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": 3010,
+    "unitText": "MONTH"
+   }
+  }
+ }
 }
