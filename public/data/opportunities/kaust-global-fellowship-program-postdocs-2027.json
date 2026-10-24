@@ -8,7 +8,7 @@
  },
  "description": "<h2>About the Position</h2>\n<p>The KAUST Global Fellowship Program for Early Career Researchers attracts and supports outstanding emerging research leaders from around the world, empowering them to build a path towards a fully independent career. The program inspires the next generation of scientists and engineers to address global challenges and create opportunities that benefit humanity. This merit-based program targets excellent postdoctoral researchers with breakthrough ideas that can complement, support, and advance the major research priorities of KAUST.</p>\n<h2>Research Areas</h2>\n<p>The KAUST Global Fellowship identifies exceptional early-career scientists with the independence, ambition and ideas to address the world's most pressing global challenges in:</p>\n<ul><li>Water</li><li>Food</li><li>Energy</li><li>Health</li><li>AI</li><li>Marine Science (with focus on the Red Sea)</li></ul>\n<h2>What the Fellowship Provides</h2>\n<ul><li>Top-tier international faculty: A KAUST host PI with similar research interests will mentor, empower and support you to successfully conduct your independent research.</li><li>Fellow-led research: As a Global Fellow you will design and lead your own original research at KAUST, advancing knowledge, opening new pathways for innovation, and contributing to the KAUST research missions.</li><li>Unparalleled research facilities: Direct access to multidisciplinary laboratories located on campus equipped with cutting-edge technologies and staffed with experts to support faculty, students, researchers, and partners.</li><li>In our 'research-first' environment, Global Fellows have full access to world-class research tools and equipment, unparalleled facilities, and expertise required to realise their research ambitions.</li></ul>\n<h2>Application Process (Two-Stage)</h2>\n<h2>Stage 1 (Concept Note)</h2>\n<ul><li>Accepting applications: 1 September – 1 October</li><li>Applicants submit a concept note outlining their research idea.</li></ul>\n<h2>Stage 2 (Full Proposal, by Invitation)</h2>\n<ul><li>Accepting applications: 15 November – 15 January</li><li>Selected applicants are invited to submit a full proposal.</li></ul>\n<h2>Eligibility and Requirements</h2>\n<ul><li>Open to outstanding postdoctoral researchers from around the world.</li><li>Must have a PhD or equivalent.</li><li>Must have breakthrough ideas that align with KAUST's research priorities.</li><li>No nationality restrictions.</li></ul>\n<h2>Application dates</h2>\n<table><thead><tr><th>Milestone</th><th>Date</th></tr></thead><tbody><tr><td>Stage 1 (Concept Note) Opens</td><td>1 September</td></tr><tr><td>Stage 1 (Concept Note) Deadline</td><td>1 October 2026</td></tr><tr><td>Stage 2 (Full Proposal) Opens</td><td>15 November</td></tr><tr><td>Stage 2 (Full Proposal) Deadline</td><td>15 January</td></tr></tbody></table>\n<h2>Official Link</h2>\n<p>https://kgfp.kaust.edu.sa/</p>\n<h2>Contact</h2>\n<p>KGFP@kaust.edu.sa<br/>4700 King Abdullah University of Science and Technology<br/>Thuwal 23955-6900<br/>Kingdom of Saudi Arabia</p>\n<h2>Important Notes</h2>\n<ul><li>KAUST is officially recognised as the most acclaimed postgraduate research university in the Middle East.</li><li>Founded in 2009, KAUST has established itself as Saudi Arabia's most collaborative and innovative university.</li><li>The program is merit-based and supports early-career researchers.</li><li>Fellows have full access to world-class research tools and facilities.</li></ul><h2>How to Apply</h2><p>Submit your application through the official portal before the deadline: 1 October 2026 (Stage 1 Concept Note). Read the eligibility requirements carefully and prepare all requested documents — early applications are strongly recommended for competitive awards.</p><p><a href=\"https://kgfp.kaust.edu.sa/\">Open the official application page ↗</a></p><h2>Application guides</h2><ul><li><a href=\"https://nextapply.co.uk/articles/how-to-email-phd-supervisor-uk-7-templates\">How to Email a PhD Supervisor: 7 Templates and Practical Tips</a></li><li><a href=\"https://nextapply.co.uk/articles/how-to-read-phd-job-advertisement-before-applying\">How to Read a PhD Job Advert: Funding, Eligibility and Application Steps</a></li></ul>",
  "eligibility": "worldwide",
- "stipend": "US$75,000/year tax-free stipend + free on-campus housing + up to US$40,000/year research fund",
+ "stipend": "Stipend/salary rate set by the funder — see the official listing",
  "applyLink": "https://kgfp.kaust.edu.sa/",
  "seoTitle": "KAUST Global Fellowship Program for Postdocs 2027",
  "title": "KAUST Global Fellowship Program for Postdocs 2027",
@@ -106,15 +106,6 @@
     "addressLocality": "Thuwal"
    }
   },
-  "validThrough": "2026-10-01T20:59:59.999Z",
-  "baseSalary": {
-   "@type": "MonetaryAmount",
-   "currency": "USD",
-   "value": {
-    "@type": "QuantitativeValue",
-    "value": 75000,
-    "unitText": "YEAR"
-   }
-  }
+  "validThrough": "2026-10-01T20:59:59.999Z"
  }
 }

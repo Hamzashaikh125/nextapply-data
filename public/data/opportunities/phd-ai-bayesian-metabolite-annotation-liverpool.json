@@ -33,7 +33,7 @@
   "Scientific software"
  ],
  "fundingType": "fully_funded",
- "stipend": "£21,805/year tax-free stipend (UKRI 2026/27 rate)",
+ "stipend": "Covered",
  "intro": "The University of Liverpool is advertising a funded doctorate on context-aware metabolite annotation. It builds on Integrated Probabilistic Annotation to reduce reliance on simple mass matching.",
  "tags": [
   "phd",
@@ -105,15 +105,6 @@
     "@type": "PostalAddress",
     "addressCountry": "GB",
     "addressLocality": "Liverpool"
-   }
-  },
-  "baseSalary": {
-   "@type": "MonetaryAmount",
-   "currency": "GBP",
-   "value": {
-    "@type": "QuantitativeValue",
-    "value": 21805,
-    "unitText": "YEAR"
    }
   }
  }

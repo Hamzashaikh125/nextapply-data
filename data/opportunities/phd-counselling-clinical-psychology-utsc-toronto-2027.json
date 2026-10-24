@@ -44,7 +44,7 @@
   "stipendProvided": true,
   "tuitionCovered": true
  },
- "stipend": "Guaranteed funding package of ≈CAD $41,000/year incl. TA + fellowship (UofT 2026-27)",
+ "stipend": "Stipend/salary rate set by the funder — see the official listing",
  "stipendCurrency": "CAD",
  "stipendPeriod": "year",
  "intro": "Funded PhD in Counselling and Clinical Psychology (UTSC field, clinical psychology) at the University of Toronto for Fall 2027 entry. Application deadline: 1 December 2026.",
@@ -121,15 +121,6 @@
     "addressLocality": "Toronto"
    }
   },
-  "validThrough": "2026-12-02T04:59:59.999Z",
-  "baseSalary": {
-   "@type": "MonetaryAmount",
-   "currency": "CAD",
-   "value": {
-    "@type": "QuantitativeValue",
-    "value": 41000,
-    "unitText": "YEAR"
-   }
-  }
+  "validThrough": "2026-12-02T04:59:59.999Z"
  }
 }
