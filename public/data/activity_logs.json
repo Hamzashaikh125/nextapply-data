@@ -1,0 +1,76 @@
+[
+  {
+    "id": "1792683962824",
+    "action": "bulk_import",
+    "details": {
+      "added": 22,
+      "organizationsAdded": 4,
+      "note": "22-row owner list added; 4 new organizations (Radboudumc, University of Essex, CNRS, UMC Utrecht)"
+    },
+    "adminEmail": "rowddy1997@gmail.com",
+    "timestamp": "2026-10-22T15:46:02.000Z"
+  },
+  {
+    "id": "1792674434265",
+    "action": "bulk_import",
+    "details": {
+      "added": 39,
+      "organizationsAdded": 6,
+      "note": "40-row owner list; 1 already present (TU Delft sea-ice) skipped as duplicate"
+    },
+    "adminEmail": "rowddy1997@gmail.com",
+    "timestamp": "2026-10-22T13:07:14.000Z"
+  },
+  {
+    "id": "1792667974118",
+    "action": "bulk_import",
+    "details": {
+      "added": 49,
+      "organizationsAdded": 12,
+      "note": "55-row owner list; 6 already present were skipped as duplicates"
+    },
+    "adminEmail": "rowddy1997@gmail.com",
+    "timestamp": "2026-10-22T07:30:00.000Z"
+  },
+  {
+    "id": "1792667974117",
+    "action": "expiry_sweep",
+    "details": {
+      "expired": 34,
+      "note": "deadline-crossed opportunities marked expired"
+    },
+    "adminEmail": "rowddy1997@gmail.com",
+    "timestamp": "2026-10-22T07:30:00.000Z"
+  },
+  {
+    "id": "a1792622354808",
+    "action": "expiry_sweep",
+    "details": {
+      "expired": 11,
+      "slugs": [
+        "immufellow-postdoctoral-fellowships-immunology-turku-abo-akademi-2027",
+        "paid-phd-position-in-curiosity-in-the-classroom-radboud",
+        "icgeb-south-african-women-in-biotechnology-phd-fellowships-2027",
+        "ibec-phd-smartspmhisto-nanoscale-bioelectrical-characterisation",
+        "ibec-phd-cellcellnuc-cellular-and-molecular-mechanobiology",
+        "ibec-phd-hepaging-biosensors-for-bioengineering",
+        "ibec-phd-ir-drug-nanoprobes-and-nanoswitches",
+        "commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states",
+        "nsf-graduate-research-fellowship-program-grfp-2027-fully-funded",
+        "rhodes-scholarship-2027-oxford-fully-funded",
+        "fully-funded-commonwealth-masters-scholarships-for-study-in-the-uk"
+      ]
+    },
+    "adminEmail": "rowddy1997@gmail.com",
+    "timestamp": "2026-10-21T22:39:14.808Z"
+  },
+  {
+    "id": "a1792426994891",
+    "action": "announcements_updated",
+    "details": {
+      "count": 3
+    },
+    "adminEmail": "rowddy1997@gmail.com",
+    "timestamp": "2026-10-19T16:23:14.891Z"
+  }
+]
