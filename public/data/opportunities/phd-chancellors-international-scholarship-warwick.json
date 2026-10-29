@@ -18,7 +18,7 @@
  "stipendAmount": 5000,
  "fundingType": "fully_funded",
  "countryCode": "GB",
- "intro": "Warwick’s 2027 postgraduate research competition offers full UK or international tuition and a maintenance stipend. Check the stream-specific eligibility and submit the scholarship application by 10 December 2026.",
+ "intro": "University of Warwick has opened a PhD track in Warwick Chancellor's Doctoral Scholarships for 2027 Entry. According to the listing, funding covers the full cost of participation; financial support is listed as £5,000. Interested candidates should note the deadline: 10 December 2026.",
  "deadlineTimezone": "Europe/London",
  "lastVerifiedAt": "2026-10-13T23:19:36.497Z",
  "deadline": "2026-12-10T16:59:00.000Z",
@@ -27,7 +27,7 @@
  ],
  "isFeatured": false,
  "slug": "phd-chancellors-international-scholarship-warwick",
- "updatedAt": "2026-10-24T00:00:00.000Z",
+ "updatedAt": "2026-10-29T04:10:00.000Z",
  "deadlineText": "10 December 2026",
  "publishedAt": "2026-08-22T20:42:44.144Z",
  "verificationStatus": "verified",
@@ -44,7 +44,7 @@
   "Coventry",
   "United Kingdom",
   "PhD",
-  "All_Subjects"
+  "All Subjects"
  ],
  "opportunityType": "scholarship",
  "isOpen": true,

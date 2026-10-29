@@ -10,7 +10,7 @@
  "eligibility": "worldwide",
  "stipend": "144,000 yen/month (Master's) / 145,000 yen/month (Doctoral)",
  "applyLink": "https://www.mext.go.jp/",
- "seoTitle": "Fully Funded PhD at Government of Japan",
+ "seoTitle": "Fully Funded Scholarship: MEXT Scholarship (University",
  "title": "Fully Funded Scholarship: MEXT Scholarship (University Recommendation) - Japan",
  "fundingStatus": "fully_funded",
  "ieltsRequired": true,
@@ -19,7 +19,7 @@
  "stipendAmount": 144000,
  "fundingType": "fully_funded",
  "countryCode": "JP",
- "intro": "The Japanese Government MEXT Scholarship is fully funded for Master's and Doctoral programs via university recommendation.",
+ "intro": "Government of Japan is offering a PhD / master's opportunity centred on Scholarship: MEXT Scholarship (University Recommendation) - Japan. According to the listing, this is a fully funded opportunity; financial support is listed as 144,000 yen/month (Master's) / 145,000 yen/month (Doctoral). Timing: Rolling (Varies by University).",
  "deadlineTimezone": "Asia/Tokyo",
  "deadline": null,
  "degreeLevels": [
@@ -28,7 +28,7 @@
  ],
  "isFeatured": true,
  "slug": "phd-mext-university-recommendation-japan",
- "updatedAt": "2026-10-24T00:00:00.000Z",
+ "updatedAt": "2026-10-29T05:40:00.000Z",
  "deadlineText": "Rolling (Varies by University)",
  "publishedAt": "2026-08-22T20:43:21.414Z",
  "verificationStatus": "unverified",
@@ -46,7 +46,7 @@
   "Master's",
   "Various",
   "PhD",
-  "Artificial_Intelligence"
+  "Artificial Intelligence"
  ],
  "opportunityType": "scholarship",
  "isOpen": true,

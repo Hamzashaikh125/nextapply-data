@@ -19,7 +19,7 @@
  "stipendAmount": 50000,
  "fundingType": "fully_funded",
  "countryCode": "NZ",
- "intro": "Massey supports doctoral food research through an NZD 50,000 annual scholarship package for graduates of its Singapore Bachelor of Food Technology (Hons) programme.",
+ "intro": "Massey University is offering a PhD opportunity centred on Massey Singapore Food Technology PhD Scholarship 2027. Funding covers the full cost of participation; financial support is listed as NZD 50,000/year total package: stipend, tuition. Applications close 1 November 2026. Location: Various, New Zealand.",
  "deadlineTimezone": "Pacific/Auckland",
  "lastVerifiedAt": null,
  "deadline": "2026-11-01T10:59:59.999Z",
@@ -28,10 +28,10 @@
  ],
  "isFeatured": false,
  "slug": "massey-singapore-food-technology-phd-scholarship-2027",
- "updatedAt": "2026-10-24T00:00:00.000Z",
+ "updatedAt": "2026-10-29T05:40:00.000Z",
  "deadlineText": "1 November 2026",
  "verificationStatus": "unverified",
- "seoDescription": "Fully Funded PhD at Massey University: NZ$50,000/yr stipend. Deadline: 1 November 2026. Apply via NextApply.",
+ "seoDescription": "PhD opportunity in Massey Singapore Food Technology PhD Scholarship 2027 at Massey University (Various). Fully funded. Deadline: 1 November 2026.",
  "isRemote": false,
  "ogImage": "https://nextapply.co.uk/massey-singapore-food-technology-phd-scholarship-2027/opengraph-image",
  "tags": [
@@ -45,8 +45,8 @@
   "Food research",
   "Nutrition-related research",
   "PhD",
-  "Food_Science",
-  "Food_Technology"
+  "Food Science",
+  "Food Technology"
  ],
  "opportunityType": "scholarship",
  "isOpen": true,
