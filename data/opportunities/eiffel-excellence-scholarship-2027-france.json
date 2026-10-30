@@ -71,14 +71,14 @@
  "ieltsRequired": true,
  "eligibility": "worldwide",
  "seoTitle": "Fully Funded France Excellence Eiffel Scholarship 2027",
- "seoDescription": "France Excellence Eiffel Scholarship 2027: €1,181/month (master's) and €1,700/month (PhD) for international students in France. Applications go through French institutions.",
+ "seoDescription": "Eiffel Scholarship 2027: EUR 1,181/month (master's) or EUR 1,700/month (PhD) in France. Applications go through French institutions - deadline 6 January 2027.",
  "ogImage": "https://nextapply.co.uk/eiffel-excellence-scholarship-2027-france/opengraph-image",
- "verificationStatus": "unverified",
- "verificationScore": null,
+ "verificationStatus": "verified",
+ "verificationScore": 100,
  "addedDate": "2026-10-22T00:13:50.000Z",
  "clickCount": 0,
  "createdAt": "2026-10-22T00:13:50.000Z",
- "updatedAt": "2026-10-24T05:01:06.000Z",
+ "updatedAt": "2026-10-30T00:00:00.000Z",
  "publishedAt": "2026-10-22T00:13:50.000Z",
  "id": "w0Izl99NjrlPZjJZAGgp",
  "opportunityType": "scholarship",
@@ -103,7 +103,7 @@
   "@id": "https://nextapply.co.uk/eiffel-excellence-scholarship-2027-france#opportunity",
   "url": "https://nextapply.co.uk/eiffel-excellence-scholarship-2027-france",
   "name": "France Excellence Eiffel Scholarship 2027 (Master's and PhD in France)",
-  "description": "France Excellence Eiffel Scholarship 2027: French government funding for top international students - €1,181/month at master's level, €1,700/month at PhD level, plus travel and insurance. Institutions submit by 6 January 2027.",
+  "description": "Eiffel Scholarship 2027: EUR 1,181/month (master's) or EUR 1,700/month (PhD) in France. Applications go through French institutions - deadline 6 January 2027.",
   "educationalProgramMode": "full time",
   "provider": {
    "@type": "Organization",
@@ -121,5 +121,6 @@
     "priceCurrency": "EUR"
    }
   }
- }
+ },
+ "verifiedAt": "2026-10-30T00:00:00.000Z"
 }

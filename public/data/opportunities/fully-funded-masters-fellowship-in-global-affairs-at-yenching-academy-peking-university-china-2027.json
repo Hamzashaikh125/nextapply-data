@@ -19,16 +19,16 @@
  "countryCode": "CN",
  "intro": "The Yenching Academy provides fully funded Master's fellowships in China Studies at Peking University for outstanding international students.",
  "deadlineTimezone": "Asia/Shanghai",
- "deadline": "2026-12-01T00:00:00.000Z",
+ "deadline": "2026-11-30T01:00:00.000Z",
  "degreeLevels": [
   "masters"
  ],
  "isFeatured": false,
  "slug": "fully-funded-masters-fellowship-in-global-affairs-at-yenching-academy-peking-university-china-2027",
- "updatedAt": "2026-10-24T00:00:00.000Z",
- "deadlineText": "1 December 2026",
+ "updatedAt": "2026-10-30T00:00:00.000Z",
+ "deadlineText": "30 November 2026, 9:00 am Beijing time",
  "publishedAt": "2026-09-08T21:59:20.675Z",
- "verificationStatus": "unverified",
+ "verificationStatus": "verified",
  "seoDescription": "The Yenching Academy provides fully funded Master's fellowships in China Studies at Peking University for outstanding international students.",
  "isRemote": false,
  "ogImage": "https://nextapply.co.uk/fully-funded-masters-fellowship-in-global-affairs-at-yenching-academy-peking-university-china-2027/opengraph-image",
@@ -52,7 +52,7 @@
   "history"
  ],
  "stipendCurrency": null,
- "verificationScore": 95,
+ "verificationScore": 100,
  "deadlineType": "fixed",
  "regionId": "asia",
  "sourceType": "official_university",
@@ -99,5 +99,6 @@
    "@type": "Offer",
    "category": "Fully Funded programme"
   }
- }
+ },
+ "verifiedAt": "2026-10-30T00:00:00.000Z"
 }

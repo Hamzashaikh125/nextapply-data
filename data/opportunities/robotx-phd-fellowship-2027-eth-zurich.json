@@ -69,12 +69,12 @@
  "seoTitle": "RobotX PhD Fellowship 2027 | ETH Zurich Robotics",
  "seoDescription": "Apply for the RobotX PhD Fellowship 2027 in robotics at ETH Zurich. Fully funded doctoral fellowship, competitive salary. Deadline 27 November 2026.",
  "ogImage": "https://nextapply.co.uk/robotx-phd-fellowship-2027-eth-zurich/opengraph-image",
- "verificationStatus": "unverified",
- "verificationScore": null,
+ "verificationStatus": "verified",
+ "verificationScore": 100,
  "addedDate": "2026-10-21T23:49:35.000Z",
  "clickCount": 0,
  "createdAt": "2026-10-21T23:49:35.000Z",
- "updatedAt": "2026-10-24T00:00:00.000Z",
+ "updatedAt": "2026-10-30T00:00:00.000Z",
  "publishedAt": "2026-10-21T23:49:35.000Z",
  "id": "4CRkqmQ2CwZfXoHpu8oj",
  "opportunityType": "phd_position",
@@ -133,5 +133,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "verifiedAt": "2026-10-30T00:00:00.000Z"
 }

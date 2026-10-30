@@ -27,9 +27,9 @@
  ],
  "isFeatured": false,
  "slug": "eth-zurich-excellence-scholarship-esop-2027-fully-funded-masters",
- "updatedAt": "2026-10-24T00:00:00.000Z",
+ "updatedAt": "2026-10-30T00:00:00.000Z",
  "deadlineText": "30 November 2026, 11:59 CET (morning)",
- "verificationStatus": "unverified",
+ "verificationStatus": "verified",
  "seoDescription": "Fully Funded Master's in Zurich at ETH Zurich: CHF 13,500 stipend. Deadline: 30 November 2026, 11:59 CET (morning). Apply via NextApply.",
  "isRemote": false,
  "ogImage": "https://nextapply.co.uk/eth-zurich-excellence-scholarship-esop-2027-fully-funded-masters/opengraph-image",
@@ -53,7 +53,7 @@
   "all_subjects"
  ],
  "stipendCurrency": "CHF",
- "verificationScore": null,
+ "verificationScore": 100,
  "deadlineType": "fixed",
  "regionId": "europe",
  "sourceType": "official_organization",
@@ -106,5 +106,6 @@
     "priceCurrency": "CHF"
    }
   }
- }
+ },
+ "verifiedAt": "2026-10-30T00:00:00.000Z"
 }

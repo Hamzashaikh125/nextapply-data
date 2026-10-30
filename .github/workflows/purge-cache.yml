@@ -3,8 +3,27 @@
 # Setup (one time, in THIS repo on GitHub):
 #   Settings > Secrets and variables > Actions
 #     - Secret  DATA_SYNC_WEBHOOK_TOKEN  (same value as the DATA_SYNC_WEBHOOK_TOKEN
-#       env var on Netlify: Site settings > Environment variables)
+#       env var on the site host: Netlify/Vercel site settings)
 #     - Variable SITE_URL = https://nextapply.co.uk  (optional, has a default)
+#
+# CLOUDFLARE REQUIREMENT (one time, in the Cloudflare dashboard for nextapply.co.uk):
+#   GitHub Actions runners live on cloud IPs that Cloudflare flags as bots, so the
+#   site webhook (POST /api/webhooks/data-sync) gets a 403 "Just a moment..."
+#   challenge page. Fix BOTH of these once and this workflow runs green:
+#
+#   1. Security > Bots > Bot Fight Mode: set to OFF.
+#      (Free-plan Bot Fight Mode cannot be exempted by any WAF rule — it blocks
+#      GitHub Actions, uptime monitors and API clients unconditionally.)
+#
+#   2. Security > WAF > Custom rules > Create rule:
+#        Name:     skip-challenge-for-data-webhook
+#        Field:    URI Path | starts with | /api/webhooks/
+#        AND       Header Name: x-webhook-token | equals | <paste DATA_SYNC_WEBHOOK_TOKEN>
+#        Action:   Skip
+#        Products to skip: Browser Integrity Check + Security Level
+#                       (+ Super Bot Fight Mode if on a paid plan)
+#      Result: only requests that already carry the shared secret bypass the
+#      challenge — the rest of the site keeps full bot protection.
 #
 # What it does on every push that changes public/data/**:
 #   1. Finds the files changed in the latest public/data commit (works for manual
@@ -12,6 +31,13 @@
 #   2. Purges EVERY changed file on jsDelivr (no cap, 8 parallel requests).
 #   3. Calls the site webhook (POST /api/webhooks/data-sync) in BATCHES OF 50 PATHS
 #      (the endpoint rejects more than 50 in one request).
+#
+# v3 fixes:
+#   - Detects the Cloudflare "Just a moment..." challenge page and prints ONE
+#     actionable error (instead of 15 identical ones) with the exact fix
+#   - Sends a real User-Agent header (curl's default UA is bot-flagged)
+#   - 3 attempts per batch with 30s backoff for transient network errors
+#   - Batches continue after individual failures; failure summary at the end
 #
 # v2 fixes:
 #   - Site webhook: chunked into 50-path batches (was: all at once -> HTTP 400
@@ -80,13 +106,17 @@ jobs:
           SITE_URL: ${{ vars.SITE_URL }}
         run: |
           python3 - <<'EOF'
-          import json, os, subprocess, sys
+          import json, os, subprocess, sys, time
 
           paths = [l.strip() for l in open('changed.txt') if l.strip()]
           site = os.environ.get('SITE_URL') or 'https://nextapply.co.uk'
           token = os.environ.get('WEBHOOK_TOKEN') or ''
           CHUNK = 50  # endpoint hard limit: "Too many purge paths (max 50)."
+          ATTEMPTS = 3
+          BACKOFF = 30  # seconds between attempts
+          UA = 'NextApplyDataSync/3.0 (+github-actions; cache-refresh agent)'
           fails = []
+          cloudflare_block = False
           batches = (len(paths) + CHUNK - 1) // CHUNK
           for b in range(batches):
               batch = paths[b * CHUNK:(b + 1) * CHUNK]
@@ -95,6 +125,7 @@ jobs:
                   r = subprocess.run(
                       ['curl', '-s', '--max-time', '120', '-o', 'resp.json', '-w', '%{http_code}',
                        '-X', 'POST',
+                       '-A', UA,
                        '-H', f'x-webhook-token: {token}',
                        '-H', 'Content-Type: application/json',
                        '-d', payload,
@@ -102,19 +133,39 @@ jobs:
                       capture_output=True, text=True)
                   body = ''
                   if os.path.exists('resp.json'):
-                      try: body = open('resp.json').read()[:150]
+                      try: body = open('resp.json').read()[:2000]
                       except Exception: pass
                   return (r.stdout.strip() or '000'), body
               code, body = call()
-              print(f'batch {b+1}/{batches}: {len(batch)} paths -> HTTP {code} {body}')
+              print(f'batch {b+1}/{batches}: {len(batch)} paths -> HTTP {code}')
               if code != '200':
-                  code, body = call()  # one retry
-                  print(f'  retry -> HTTP {code}')
-                  if code != '200':
-                      fails.append(f'batch {b+1} HTTP {code} {body}')
+                  for attempt in range(2, ATTEMPTS + 1):
+                      time.sleep(BACKOFF)
+                      code, body = call()
+                      print(f'  retry {attempt}/{ATTEMPTS} -> HTTP {code}')
+                      if code == '200':
+                          break
+              if code != '200':
+                  if code == '403' and ('Just a moment' in body or 'challenge' in body.lower() or 'cf-' in body.lower()):
+                      cloudflare_block = True
+                      fails.append(f'batch {b+1}: HTTP 403 Cloudflare challenge page')
+                  else:
+                      fails.append(f'batch {b+1}: HTTP {code} {body[:120]}')
           if fails:
               for f in fails:
                   print(f'::error::Site webhook {f}')
+              if cloudflare_block:
+                  print()
+                  print('::error::CLOUDFLARE IS CHALLENGING THE WEBHOOK REQUEST')
+                  print('::error::GitHub Actions runs on cloud IPs that Cloudflare flags as bots.')
+                  print('::error::The shared-secret token was sent correctly (x-webhook-token) - the block happens BEFORE it reaches the site.')
+                  print('::error::Fix (one time, ~3 minutes, in the Cloudflare dashboard for nextapply.co.uk):')
+                  print('::error::1. Security > Bots > turn Bot Fight Mode OFF (free-plan mode cannot be exempted by WAF rules).')
+                  print('::error::2. Security > WAF > Custom rules > Create rule:')
+                  print('::error::     IF URI Path starts with /api/webhooks/ AND Header "x-webhook-token" equals <your DATA_SYNC_WEBHOOK_TOKEN>')
+                  print('::error::     THEN Action: Skip -> tick Browser Integrity Check + Security Level (+ Super Bot Fight Mode on paid plans).')
+                  print('::error::3. Re-run this job: Actions > Purge CDN caches > Re-run failed jobs.')
+                  print('::error::NOTE: jsDelivr already purged this push, so the CDN data is fresh; the site picks it up on its next ISR window anyway - the webhook only makes it instant.')
               sys.exit(1)
           print(f'ALL {len(paths)} paths revalidated in {batches} batch(es)')
           EOF
@@ -128,4 +179,5 @@ jobs:
             echo "- Changed public/data files: \`${{ steps.diff.outputs.count }}\`"
             echo "- jsDelivr per-file purge: all files, 8x parallel"
             echo "- Site webhook: chunked in batches of 50 (ISR + Netlify + jsDelivr core)"
+            echo "- If the webhook step failed with HTTP 403 'Just a moment...': add the Cloudflare WAF skip rule described at the top of .github/workflows/purge-cache.yml, then re-run."
           } >> "$GITHUB_STEP_SUMMARY"

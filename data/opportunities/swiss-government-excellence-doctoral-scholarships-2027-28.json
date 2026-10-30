@@ -27,9 +27,9 @@
  ],
  "isFeatured": false,
  "slug": "swiss-government-excellence-doctoral-scholarships-2027-28",
- "updatedAt": "2026-10-24T00:00:00.000Z",
+ "updatedAt": "2026-10-30T00:00:00.000Z",
  "deadlineText": "Country-of-origin-specific deadline",
- "verificationStatus": "unverified",
+ "verificationStatus": "verified",
  "seoDescription": "Partially Funded PhD in Bern at Swiss State Secretariat for Education, Research and Innovation (SERI): CHF 2,450/mo stipend. Deadline.",
  "isRemote": false,
  "ogImage": "https://nextapply.co.uk/swiss-government-excellence-doctoral-scholarships-2027-28/opengraph-image",
@@ -104,5 +104,7 @@
     "priceCurrency": "CHF"
    }
   }
- }
+ },
+ "verificationScore": 100,
+ "verifiedAt": "2026-10-30T00:00:00.000Z"
 }
