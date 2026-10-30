@@ -10,7 +10,7 @@
  "eligibility": "worldwide",
  "stipend": "NOK 550,800 gross salary per year.",
  "applyLink": "https://www.jobbnorge.no/en/available-jobs/job/308334/phd-research-fellow-in-learning-based-control-of-autonomous-robot-manipulation",
- "seoTitle": "PhD Research Fellow in Learning-based Control of Autonomous Robot",
+ "seoTitle": "Fully Funded PhD in Robotics – Agder – 2026",
  "title": "PhD Research Fellow in Learning-based Control of Autonomous Robot Manipulation at University of Agder",
  "fundingStatus": "fully_funded",
  "ieltsRequired": true,
@@ -19,7 +19,7 @@
  "stipendAmount": 550800,
  "fundingType": "fully_funded",
  "countryCode": "NO",
- "intro": "University of Agder has opened a PhD track in PhD Research Fellow in Learning-based Control of Autonomous Robot Manipulation. This is a fully funded opportunity; financial support is listed as NOK 550,800 gross salary per year.. The stated deadline is 28 October 2026.",
+ "intro": "3-year fully funded PhD in learning-based control of autonomous robot manipulation at University of Agder, Norway. NOK 550,800 gross/year. Deadline: 28 Oct 2026.",
  "deadlineTimezone": "Europe/Oslo",
  "deadline": "2026-10-28T22:59:59.999Z",
  "degreeLevels": [
@@ -27,10 +27,10 @@
  ],
  "isFeatured": false,
  "slug": "phd-research-fellow-learning-based-control-autonomous-robot-manipulation-university-of-agder",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-10-24T05:01:06.000Z",
  "deadlineText": "28 October 2026",
- "verificationStatus": "verified",
- "seoDescription": "PhD opportunity in PhD Research Fellow in Learning-based Control of Autonomous Robot Manipulation at University of Agder (Grimstad). Fully funded",
+ "verificationStatus": "unverified",
+ "seoDescription": "Fully Funded PhD in Grimstad at University of Agder: NOK 550,800/yr stipend. Deadline: 28 October 2026. Apply via NextApply.",
  "isRemote": false,
  "ogImage": "https://nextapply.co.uk/phd-research-fellow-learning-based-control-autonomous-robot-manipulation-university-of-agder/opengraph-image",
  "tags": [
@@ -48,7 +48,7 @@
   "Learning-based Control"
  ],
  "opportunityType": "phd_position",
- "isOpen": false,
+ "isOpen": true,
  "disciplines": [
   "robotics",
   "control_systems",
@@ -71,7 +71,7 @@
   "slug": "university-of-agder"
  },
  "category": "phd_position",
- "status": "expired",
+ "status": "published",
  "publishedAt": "2026-09-16T13:41:53.164Z",
  "id": "6yjPaZtk4IZdA4Rl8c37",
  "keywords": [
@@ -125,8 +125,5 @@
     "unitText": "YEAR"
    }
   }
- },
- "expiredAt": "2026-10-29T01:07:21.000Z",
- "verifiedAt": "2026-10-29T01:07:21.000Z",
- "lastVerifiedAt": "2026-10-29T01:07:21.000Z"
+ }
 }

@@ -19,7 +19,7 @@
  "stipendAmount": 3000,
  "fundingType": "fully_funded",
  "countryCode": "CN",
- "intro": "Tsinghua University is offering a master's / PhD opportunity centred on Chinese Government Scholarship 2027. According to the listing, full funding is provided; financial support is listed as CNY 3,000/month (Master's); CNY 3,500/month (PhD).. Applications close 28 February 2027. The role is based in Beijing, China.",
+ "intro": "Fully funded CSC scholarship at Tsinghua University covering tuition, accommodation, monthly stipend (CNY 3,000-3,500), and medical insurance. Open to international students for Master's and PhD programs. Apply via Type A (embassy) or Type B (direct to Tsinghua).",
  "deadlineTimezone": "Asia/Shanghai",
  "deadline": "2027-02-28T15:59:59.999Z",
  "degreeLevels": [
@@ -28,7 +28,7 @@
  ],
  "isFeatured": false,
  "slug": "fully-funded-chinese-government-scholarship-2027-tsinghua-university",
- "updatedAt": "2026-10-29T04:10:00.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
  "deadlineText": "28 February 2027",
  "publishedAt": "2026-09-09T13:22:04.536Z",
  "verificationStatus": "verified",

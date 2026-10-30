@@ -18,7 +18,7 @@
  "stipendAmount": 21805,
  "fundingType": "fully_funded",
  "countryCode": "GB",
- "intro": "Heriot-Watt University is offering a PhD opportunity centred on PhD Studentship: CDT in Green Industrial Futures (CDT-GIF). According to the listing, this is a fully funded opportunity; financial support is listed as £21,805/year (UKRI minimum stipend 2026/27). Timing: Rolling. Location: Edinburgh, United Kingdom.",
+ "intro": "A 4-year fully funded EPSRC CDT focusing on industrial decarbonisation and the green industrial revolution, led by Heriot-Watt University.",
  "deadlineTimezone": "Europe/London",
  "deadline": null,
  "degreeLevels": [
@@ -26,7 +26,7 @@
  ],
  "isFeatured": false,
  "slug": "phd-green-industrial-futures-heriot-watt",
- "updatedAt": "2026-10-29T04:10:00.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
  "deadlineText": "Rolling",
  "publishedAt": "2026-08-22T20:43:35.177Z",
  "verificationStatus": "unverified",

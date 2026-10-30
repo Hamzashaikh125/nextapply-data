@@ -1,102 +1,102 @@
 {
- "title": "Fulbright UK Scholar Awards 2027-28 – Fully Funded Research and Teaching in the USA",
- "status": "published",
- "slug": "fulbright-uk-scholar-awards-usa-2027-28",
- "isOpen": true,
- "category": "fellowship",
- "organizationId": "Hj5pQd3sNcWx8Rkv6YtB",
- "organization": {
-  "createdAt": "2026-10-26T02:33:25.000Z",
-  "website": "https://fulbright.org.uk",
-  "about": "The US-UK Fulbright Commission administers the Fulbright exchange programme between the United States and the United Kingdom, funding Scholar Awards for UK academics and professionals to lecture and research at US institutions, and Student Awards for UK graduates to study in the USA. It is the UK arm of the world’s best-known academic exchange programme.",
-  "name": "US-UK Fulbright Commission",
-  "programCount": 1,
-  "logoUrl": "https://www.google.com/s2/favicons?domain=fulbright.org.uk&sz=256",
-  "slug": "us-uk-fulbright-commission",
+  "title": "Fulbright UK Scholar Awards 2027-28 – Fully Funded Research and Teaching in the USA",
   "status": "published",
+  "slug": "fulbright-uk-scholar-awards-usa-2027-28",
+  "isOpen": true,
+  "category": "fellowship",
+  "organizationId": "Hj5pQd3sNcWx8Rkv6YtB",
+  "organization": {
+    "createdAt": "2026-10-26T02:33:25.000Z",
+    "website": "https://fulbright.org.uk",
+    "about": "The US-UK Fulbright Commission administers the Fulbright exchange programme between the United States and the United Kingdom, funding Scholar Awards for UK academics and professionals to lecture and research at US institutions, and Student Awards for UK graduates to study in the USA. It is the UK arm of the world’s best-known academic exchange programme.",
+    "name": "US-UK Fulbright Commission",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=fulbright.org.uk&sz=256",
+    "slug": "us-uk-fulbright-commission",
+    "status": "published",
+    "updatedAt": "2026-10-26T02:33:25.000Z",
+    "id": "Hj5pQd3sNcWx8Rkv6YtB"
+  },
+  "regionId": "europe",
+  "countryCode": "GB",
+  "city": "London (awards held at US institutions)",
+  "deadline": "2026-11-02T23:59:59.999Z",
+  "deadlineType": "fixed",
+  "deadlineText": "2 November 2026 (2027-28 Scholar Awards)",
+  "degreeLevels": [
+    "postdoctoral"
+  ],
+  "disciplines": [
+    "all_disciplines"
+  ],
+  "subjects": [
+    "Fulbright Scholar Awards",
+    "UK to USA fellowship",
+    "Lecturing fellowship",
+    "Research fellowship USA"
+  ],
+  "fundingType": "fully_funded",
+  "fundingStatus": "fully_funded",
+  "fundingCoverage": {
+    "stipendProvided": true,
+    "tuitionCovered": false
+  },
+  "stipend": "Grant towards maintenance and travel, plus accident and sickness insurance and visa support",
+  "intro": "The Fulbright Scholar Awards fund UK academics and professionals for 3–10 months of lecturing and/or research at a US institution. Administered by the US-UK Fulbright Commission in London, the award covers a maintenance grant, travel, health insurance and J-1 visa sponsorship. Applications for the 2027-28 awards close on 2 November 2026, with the application window typically opening in July.",
+  "tags": [
+    "Fulbright",
+    "UK Scholar Awards",
+    "USA Fellowship",
+    "Research Fellowship",
+    "2027-28"
+  ],
+  "applyLink": "https://fulbright.org.uk/our-programmes/fulbright-scholarships-to-the-usa/uk-scholars/",
+  "isFeatured": false,
+  "ieltsRequired": true,
+  "eligibility": "uk_only",
+  "seoTitle": "Fulbright UK Scholar Awards 2027-28 – Fully Funded, USA",
+  "seoDescription": "Fulbright UK Scholar Awards 2027-28: fully funded 3-10 month lecturing/research fellowships in the USA for UK academics. Maintenance + travel + insurance. Deadline 2 November 2026.",
+  "ogImage": "https://nextapply.co.uk/fulbright-uk-scholar-awards-usa-2027-28/opengraph-image",
+  "verificationStatus": "unverified",
+  "verificationScore": null,
+  "addedDate": "2026-10-26T02:33:25.000Z",
+  "clickCount": 0,
+  "createdAt": "2026-10-26T02:33:25.000Z",
   "updatedAt": "2026-10-26T02:33:25.000Z",
-  "id": "Hj5pQd3sNcWx8Rkv6YtB"
- },
- "regionId": "europe",
- "countryCode": "GB",
- "city": "London (awards held at US institutions)",
- "deadline": "2026-11-02T23:59:59.999Z",
- "deadlineType": "fixed",
- "deadlineText": "2 November 2026 (2027-28 Scholar Awards)",
- "degreeLevels": [
-  "postdoctoral"
- ],
- "disciplines": [
-  "all_disciplines"
- ],
- "subjects": [
-  "Fulbright Scholar Awards",
-  "UK to USA fellowship",
-  "Lecturing fellowship",
-  "Research fellowship USA"
- ],
- "fundingType": "fully_funded",
- "fundingStatus": "fully_funded",
- "fundingCoverage": {
-  "stipendProvided": true,
-  "tuitionCovered": false
- },
- "stipend": "Grant towards maintenance and travel, plus accident and sickness insurance and visa support",
- "intro": "The Fulbright Scholar Awards fund UK academics and professionals for 3–10 months of lecturing and/or research at a US institution. Administered by the US-UK Fulbright Commission in London, the award covers a maintenance grant, travel, health insurance and J-1 visa sponsorship. Applications for the 2027-28 awards close on 2 November 2026, with the application window typically opening in July.",
- "tags": [
-  "Fulbright",
-  "UK Scholar Awards",
-  "USA Fellowship",
-  "Research Fellowship",
-  "2027-28"
- ],
- "applyLink": "https://fulbright.org.uk/our-programmes/fulbright-scholarships-to-the-usa/uk-scholars/",
- "isFeatured": false,
- "ieltsRequired": true,
- "eligibility": "uk_only",
- "seoTitle": "Fulbright UK Scholar Awards 2027-28 – Fully Funded, USA",
- "seoDescription": "US-UK Fulbright Commission offers a fully funded postdoctoral position in Fulbright UK Scholar Awards. Deadline: 2 November 2026 (2027-28 Scholar Awards).",
- "ogImage": "https://nextapply.co.uk/fulbright-uk-scholar-awards-usa-2027-28/opengraph-image",
- "verificationStatus": "unverified",
- "verificationScore": null,
- "addedDate": "2026-10-26T02:33:25.000Z",
- "clickCount": 0,
- "createdAt": "2026-10-26T02:33:25.000Z",
- "updatedAt": "2026-10-29T06:00:00.000Z",
- "publishedAt": "2026-10-26T02:33:25.000Z",
- "id": "Jieai4MPmIcCxF8xwgTV",
- "opportunityType": "fellowship",
- "sourceType": "official_organization",
- "isRemote": false,
- "description": "<h2>About the Fellowship</h2><p>The Fulbright Scholar Awards are the flagship mid-career exchange of the US-UK Fulbright Commission, sending UK-based academics and experienced professionals to the United States for a period of collaborative research, lecturing, or both. Scholars design their own project, secure an affiliation with a US host institution, and spend between three and ten months in residence — long enough to finish a book chapter, run a joint study, build a teaching collaboration or establish a durable transatlantic partnership. The programme is intensely competitive and prestige-rich: Fulbright alumni include heads of state, Nobel laureates and field-defining scholars, and the award carries that weight on a CV for life. Applications for the 2027-28 award year close on 2 November 2026.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fulbright UK Scholar Awards 2027-28</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">US-UK Fulbright Commission</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">US host institutions (award held in the USA)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Career Stage</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Academics and mid-career professionals (postdoctoral and beyond)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Grant</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Maintenance grant + travel + accident/sickness insurance + J-1 visa sponsorship</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Duration</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">3–10 months</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">2 November 2026</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://fulbright.org.uk/our-programmes/fulbright-scholarships-to-the-usa/uk-scholars/\" target=\"_blank\" rel=\"noopener noreferrer\">Official Fulbright UK Scholar page ↗</a></td></tr></tbody></table><h2>What the Award Covers</h2><p>The Commission provides a grant towards maintenance for the length of the stay, international travel to and from the United States, accident and sickness insurance for the grant period, and full J-1 visa sponsorship. Award lengths and grant values vary by category (All Disciplines Scholar Awards, and themed or partner awards announced each cycle). Some US partner institutions additionally offer in-kind support — housing, office space, library access — but the Fulbright grant itself is designed to be sufficient for a scholar to live and work in the US without needing a top-up salary from the host.</p><h2>Eligibility Criteria</h2><ul><li>UK citizens resident in the UK (see the Commission’s current eligibility rules).</li><li>Typically a PhD or equivalent professional qualification/experience — early-career academics through to senior professors and experienced professionals apply.</li><li>A clearly defined research and/or lecturing project requiring a US affiliation.</li><li>A letter of invitation or affiliation from the proposed US host institution.</li><li>Ability to demonstrate the “ambassadorial” dimension Fulbright weighs heavily: cultural exchange and public engagement, not only academic output.</li></ul><h2>How to Apply</h2><p>The application window typically opens in July and closes on 2 November 2026 for the 2027-28 awards. You apply online through the Commission’s portal with a project statement, your CV, the US host invitation letter, references and proof of eligibility. Shortlisted candidates are invited to interview in London in the winter, and final decisions follow in the spring. The strongest applications read like a plan, not a wish: they name the US collaborators, the resources they will use, the outputs they expect, and what the exchange gives back to both countries.</p><h2>Important Notes</h2><p>Start with the host affiliation — a specific, documented invitation from a named US collaborator is what separates fundable applications from aspirational ones, and it takes months to arrange. Themed and partner awards (in areas such as cybersecurity, journalism, science and technology, or specific institutions) often attract smaller applicant pools than the All-Disciplines category, so review the current award list before choosing where to apply. Successful scholars travel in the following academic year.</p>",
- "stipendCurrency": "GBP",
- "stipendPeriod": "month",
- "stipendAmount": null,
- "keywords": [
-  "Fulbright UK Scholar Awards 2027-28",
-  "Fulbright Scholarships to the USA for UK academics",
-  "UK to USA research fellowship",
-  "Fulbright lecturing award USA",
-  "US-UK Fulbright Commission scholarships",
-  "fully funded fellowships USA 2027",
-  "postdoctoral fellowship USA UK citizens",
-  "Fulbright Scholar Award deadline November 2026"
- ],
- "canonicalUrl": "https://nextapply.co.uk/fulbright-uk-scholar-awards-usa-2027-28",
- "robots": "index,follow",
- "structuredData": {
-  "@context": "https://schema.org",
-  "@type": "Grant",
-  "@id": "https://nextapply.co.uk/fulbright-uk-scholar-awards-usa-2027-28#opportunity",
-  "url": "https://nextapply.co.uk/fulbright-uk-scholar-awards-usa-2027-28",
-  "name": "Fulbright UK Scholar Awards 2027-28 – Fully Funded Research and Teaching in the USA",
-  "description": "The Fulbright Scholar Awards fund UK academics and professionals for 3–10 months of lecturing and/or research at a US institution. Administered by the US-UK Fulbright Commission in London, the award covers a maintenance grant, travel, health insurance and J-1 visa sponsorship. Applications for the 2027-28 awards close on 2 November 2026, with the application window typically opening in July.",
-  "funder": {
-   "@type": "Organization",
-   "name": "US-UK Fulbright Commission",
-   "sameAs": "https://fulbright.org.uk",
-   "logo": "https://www.google.com/s2/favicons?domain=fulbright.org.uk&sz=256"
-  }
- },
- "deadlineTimezone": "Europe/London"
+  "publishedAt": "2026-10-26T02:33:25.000Z",
+  "id": "Jieai4MPmIcCxF8xwgTV",
+  "opportunityType": "fellowship",
+  "sourceType": "official_organization",
+  "isRemote": false,
+  "description": "<h2>About the Fellowship</h2><p>The Fulbright Scholar Awards are the flagship mid-career exchange of the US-UK Fulbright Commission, sending UK-based academics and experienced professionals to the United States for a period of collaborative research, lecturing, or both. Scholars design their own project, secure an affiliation with a US host institution, and spend between three and ten months in residence — long enough to finish a book chapter, run a joint study, build a teaching collaboration or establish a durable transatlantic partnership. The programme is intensely competitive and prestige-rich: Fulbright alumni include heads of state, Nobel laureates and field-defining scholars, and the award carries that weight on a CV for life. Applications for the 2027-28 award year close on 2 November 2026.</p><table style=\"border-collapse:collapse;width:100%;margin:14px 0;font-size:0.92em;line-height:1.45\"><tbody><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Opportunity</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fulbright UK Scholar Awards 2027-28</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Host</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">US-UK Fulbright Commission</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Location</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">US host institutions (award held in the USA)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Career Stage</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Academics and mid-career professionals (postdoctoral and beyond)</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Funding</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Fully Funded</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Grant</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">Maintenance grant + travel + accident/sickness insurance + J-1 visa sponsorship</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Duration</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">3–10 months</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Application Deadline</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\">2 November 2026</td></tr><tr><td style=\"border:1px solid #d9dee5;background:#eef3fb;padding:8px 10px;font-weight:600\">Apply</td><td style=\"border:1px solid #d9dee5;padding:8px 10px\"><a href=\"https://fulbright.org.uk/our-programmes/fulbright-scholarships-to-the-usa/uk-scholars/\" target=\"_blank\" rel=\"noopener noreferrer\">Official Fulbright UK Scholar page ↗</a></td></tr></tbody></table><h2>What the Award Covers</h2><p>The Commission provides a grant towards maintenance for the length of the stay, international travel to and from the United States, accident and sickness insurance for the grant period, and full J-1 visa sponsorship. Award lengths and grant values vary by category (All Disciplines Scholar Awards, and themed or partner awards announced each cycle). Some US partner institutions additionally offer in-kind support — housing, office space, library access — but the Fulbright grant itself is designed to be sufficient for a scholar to live and work in the US without needing a top-up salary from the host.</p><h2>Eligibility Criteria</h2><ul><li>UK citizens resident in the UK (see the Commission’s current eligibility rules).</li><li>Typically a PhD or equivalent professional qualification/experience — early-career academics through to senior professors and experienced professionals apply.</li><li>A clearly defined research and/or lecturing project requiring a US affiliation.</li><li>A letter of invitation or affiliation from the proposed US host institution.</li><li>Ability to demonstrate the “ambassadorial” dimension Fulbright weighs heavily: cultural exchange and public engagement, not only academic output.</li></ul><h2>How to Apply</h2><p>The application window typically opens in July and closes on 2 November 2026 for the 2027-28 awards. You apply online through the Commission’s portal with a project statement, your CV, the US host invitation letter, references and proof of eligibility. Shortlisted candidates are invited to interview in London in the winter, and final decisions follow in the spring. The strongest applications read like a plan, not a wish: they name the US collaborators, the resources they will use, the outputs they expect, and what the exchange gives back to both countries.</p><h2>Important Notes</h2><p>Start with the host affiliation — a specific, documented invitation from a named US collaborator is what separates fundable applications from aspirational ones, and it takes months to arrange. Themed and partner awards (in areas such as cybersecurity, journalism, science and technology, or specific institutions) often attract smaller applicant pools than the All-Disciplines category, so review the current award list before choosing where to apply. Successful scholars travel in the following academic year.</p>",
+  "stipendCurrency": "GBP",
+  "stipendPeriod": "month",
+  "stipendAmount": null,
+  "keywords": [
+    "Fulbright UK Scholar Awards 2027-28",
+    "Fulbright Scholarships to the USA for UK academics",
+    "UK to USA research fellowship",
+    "Fulbright lecturing award USA",
+    "US-UK Fulbright Commission scholarships",
+    "fully funded fellowships USA 2027",
+    "postdoctoral fellowship USA UK citizens",
+    "Fulbright Scholar Award deadline November 2026"
+  ],
+  "canonicalUrl": "https://nextapply.co.uk/fulbright-uk-scholar-awards-usa-2027-28",
+  "robots": "index,follow",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Grant",
+    "@id": "https://nextapply.co.uk/fulbright-uk-scholar-awards-usa-2027-28#opportunity",
+    "url": "https://nextapply.co.uk/fulbright-uk-scholar-awards-usa-2027-28",
+    "name": "Fulbright UK Scholar Awards 2027-28 – Fully Funded Research and Teaching in the USA",
+    "description": "The Fulbright Scholar Awards fund UK academics and professionals for 3–10 months of lecturing and/or research at a US institution. Administered by the US-UK Fulbright Commission in London, the award covers a maintenance grant, travel, health insurance and J-1 visa sponsorship. Applications for the 2027-28 awards close on 2 November 2026, with the application window typically opening in July.",
+    "funder": {
+      "@type": "Organization",
+      "name": "US-UK Fulbright Commission",
+      "sameAs": "https://fulbright.org.uk",
+      "logo": "https://www.google.com/s2/favicons?domain=fulbright.org.uk&sz=256"
+    }
+  },
+  "deadlineTimezone": "Europe/London"
 }

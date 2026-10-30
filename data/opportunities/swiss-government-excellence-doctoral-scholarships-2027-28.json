@@ -19,7 +19,7 @@
  "stipendAmount": 2450,
  "fundingType": "partially_funded",
  "countryCode": "CH",
- "intro": "Swiss State Secretariat for Education, Research and Innovation (SERI) is offering a PhD opportunity centred on Swiss Government Excellence Doctoral Scholarships 2027/28. Funding is partial; financial support is listed as CHF 2,450/month. The application window is described as: Country-of-origin-specific deadline.",
+ "intro": "The Swiss Government Excellence doctoral scholarship supports research with an approved Swiss academic host.",
  "deadlineTimezone": "Europe/Zurich",
  "deadline": null,
  "degreeLevels": [
@@ -27,10 +27,10 @@
  ],
  "isFeatured": false,
  "slug": "swiss-government-excellence-doctoral-scholarships-2027-28",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
  "deadlineText": "Country-of-origin-specific deadline",
  "verificationStatus": "unverified",
- "seoDescription": "Partially funded PhD opportunity: Swiss Government Excellence Doctoral Scholarships 2027/28 at Swiss State Secretariat for Education, Research and",
+ "seoDescription": "Partially Funded PhD in Bern at Swiss State Secretariat for Education, Research and Innovation (SERI): CHF 2,450/mo stipend. Deadline.",
  "isRemote": false,
  "ogImage": "https://nextapply.co.uk/swiss-government-excellence-doctoral-scholarships-2027-28/opengraph-image",
  "tags": [

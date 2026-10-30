@@ -3,50 +3,24 @@
 # Setup (one time, in THIS repo on GitHub):
 #   Settings > Secrets and variables > Actions
 #     - Secret  DATA_SYNC_WEBHOOK_TOKEN  (same value as the DATA_SYNC_WEBHOOK_TOKEN
-#       env var on Vercel: Project Settings > Environment Variables)
+#       env var on Netlify: Site settings > Environment variables)
 #     - Variable SITE_URL = https://nextapply.co.uk  (optional, has a default)
-#     - Variable VERCEL_SITE_URL = https://<project>.vercel.app  (OPTIONAL
-#       fallback origin that bypasses Cloudflare entirely, used only if the
-#       main domain gets challenged)
 #
 # What it does on every push that changes public/data/**:
 #   1. Finds the files changed in the latest public/data commit (works for manual
 #      re-runs too, even after non-data commits like workflow fixes).
 #   2. Purges EVERY changed file on jsDelivr (no cap, 8 parallel requests).
-#   3. Calls the site webhook (POST /api/webhooks/data-sync) in BATCHES OF 50
-#      PATHS (the endpoint rejects more than 50 in one request). Each batch
-#      also sends changedSlugs derived from public/data/opportunities/<slug>.json
-#      so the site revalidates the changed DETAIL pages (+ their checklist
-#      mirrors) on demand — that is what lets the site's listing pages use a
-#      weekly ISR window without going stale (Vercel bills an ISR write only
-#      when regenerated content CHANGES, so untouched pages cost nothing).
-#
-# v4 changes (Vercel ISR-writes quota fix):
-#   - Sends { "paths": [...batch], "changedSlugs": [...slugs] } per batch —
-#     the site's webhook revalidates /<slug> AND /checklist/<slug> immediately.
-#     Data edits are now visible on detail pages in seconds, not "up to a
-#     week" (listing pages moved from a daily to a weekly ISR window to cut
-#     Vercel ISR Writes, which had hit 100% of the 200,000/month allowance).
-#   - Fallback origin renamed NETLIFY_SITE_URL -> VERCEL_SITE_URL (the site
-#     runs on Vercel behind Cloudflare; the .vercel.app origin bypasses CF).
-#   - Browser-like headers on webhook calls (v3 Cloudflare fix) kept.
-#
-# v3 fixes (the HTTP 403 "Just a moment..." Cloudflare error):
-#   - The site is proxied through Cloudflare, and its bot protection
-#     challenged every non-browser client (curl's default User-Agent) with a
-#     JS challenge page: HTTP 403 + "Just a moment...". Webhook calls now
-#     send a real browser User-Agent + standard browser headers (verified
-#     live: Cloudflare passes them and the app answers).
-#   - Detects Cloudflare challenge responses specifically and prints an
-#     actionable error instead of a truncated HTML dump.
-#   - Retries with a short backoff (was: immediate retry).
+#   3. Calls the site webhook (POST /api/webhooks/data-sync) in BATCHES OF 50 PATHS
+#      (the endpoint rejects more than 50 in one request).
 #
 # v2 fixes:
 #   - Site webhook: chunked into 50-path batches (was: all at once -> HTTP 400
 #     "Too many purge paths (max 50)")
 #   - jsDelivr purge: no more 200 cap, fixed off-by-one (large uploads of 300+
 #     files now fully purged), 8x parallel
-#   - Manual re-run friendly: diff is based on the last public/data commit
+#   - Manual re-run friendly: diff is based on the last public/data commit, so
+#     Actions > Run workflow re-purges the latest data batch even if newer
+#     commits only touched .github or README
 
 name: Purge CDN caches
 
@@ -99,91 +73,45 @@ jobs:
             echo "::warning::jsDelivr purge had $FAIL failures (retry-safe: next push re-purges)"
           fi
 
-      - name: Refresh site caches (ISR + memos) - batches of 50, with changedSlugs
+      - name: Refresh site caches (ISR + memos + Netlify CDN) - batches of 50
         if: steps.diff.outputs.count > 0
         env:
           WEBHOOK_TOKEN: ${{ secrets.DATA_SYNC_WEBHOOK_TOKEN }}
           SITE_URL: ${{ vars.SITE_URL }}
-          VERCEL_SITE_URL: ${{ vars.VERCEL_SITE_URL }}
         run: |
           python3 - <<'EOF'
-          import json, os, subprocess, sys, time
+          import json, os, subprocess, sys
 
           paths = [l.strip() for l in open('changed.txt') if l.strip()]
           site = os.environ.get('SITE_URL') or 'https://nextapply.co.uk'
-          fallback = os.environ.get('VERCEL_SITE_URL') or ''
           token = os.environ.get('WEBHOOK_TOKEN') or ''
-          CHUNK = 50   # endpoint hard limit: "Too many purge paths (max 50)."
-          # The endpoint's changedSlugs cap is 100; a batch is <=50 paths, so
-          # its derived slug count is always within the cap.
-          OPP = 'public/data/opportunities/'
-
-          # The site sits behind Cloudflare, which challenges non-browser
-          # clients (default curl UA -> 403 "Just a moment..." JS challenge).
-          # Browser-like headers let the webhook through (verified live).
-          UA = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
-                '(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36')
-
-          def call(url, payload):
-              r = subprocess.run(
-                  ['curl', '-s', '--compressed', '--max-time', '120',
-                   '-o', 'resp.json', '-w', '%{http_code}',
-                   '-A', UA,
-                   '-H', 'Accept: application/json, text/plain, */*',
-                   '-H', 'Accept-Language: en-US,en;q=0.9',
-                   '-X', 'POST',
-                   '-H', f'x-webhook-token: {token}',
-                   '-H', 'Content-Type: application/json',
-                   '-d', payload,
-                   f'{url}/api/webhooks/data-sync'],
-                  capture_output=True, text=True)
-              body = ''
-              if os.path.exists('resp.json'):
-                  try: body = open('resp.json').read()[:150]
-                  except Exception: pass
-              return (r.stdout.strip() or '000'), body
-
-          def is_cf_challenge(code, body):
-              markers = ('Just a moment', 'challenges.cloudflare.com',
-                         'cf-chl', 'Attention Required')
-              return code in ('403', '503') and any(m in body for m in markers)
-
-          if not token:
-              print('::error::DATA_SYNC_WEBHOOK_TOKEN secret is not set '
-                    '(repo Settings > Secrets and variables > Actions)')
-              sys.exit(1)
-
-          def slugs_of(batch):
-              # public/data/opportunities/<slug>.json -> <slug>
-              out = []
-              for p in batch:
-                  if p.startswith(OPP) and p.endswith('.json'):
-                      out.append(p[len(OPP):-5])
-              return out
-
+          CHUNK = 50  # endpoint hard limit: "Too many purge paths (max 50)."
           fails = []
           batches = (len(paths) + CHUNK - 1) // CHUNK
           for b in range(batches):
               batch = paths[b * CHUNK:(b + 1) * CHUNK]
-              payload = json.dumps({"paths": batch, "changedSlugs": slugs_of(batch)})
-              code, body = call(site, payload)
+              payload = json.dumps({"paths": batch})
+              def call():
+                  r = subprocess.run(
+                      ['curl', '-s', '--max-time', '120', '-o', 'resp.json', '-w', '%{http_code}',
+                       '-X', 'POST',
+                       '-H', f'x-webhook-token: {token}',
+                       '-H', 'Content-Type: application/json',
+                       '-d', payload,
+                       f'{site}/api/webhooks/data-sync'],
+                      capture_output=True, text=True)
+                  body = ''
+                  if os.path.exists('resp.json'):
+                      try: body = open('resp.json').read()[:150]
+                      except Exception: pass
+                  return (r.stdout.strip() or '000'), body
+              code, body = call()
               print(f'batch {b+1}/{batches}: {len(batch)} paths -> HTTP {code} {body}')
-              # Cloudflare challenge on the main domain? Try the direct origin.
-              if code != '200' and is_cf_challenge(code, body) and fallback:
-                  code, body = call(fallback, payload)
-                  print(f'  fallback origin -> HTTP {code} {body}')
-              # One retry with a short backoff.
               if code != '200':
-                  time.sleep(2)
-                  code, body = call(site, payload)
-                  print(f'  retry -> HTTP {code} {body}')
-              if code != '200':
-                  msg = f'batch {b+1} HTTP {code} {body}'
-                  if is_cf_challenge(code, body):
-                      msg += (' [Cloudflare challenge - fix: add a WAF Skip rule for '
-                              '/api/webhooks/data-sync in Cloudflare, or set the '
-                              'VERCEL_SITE_URL repo variable]')
-                  fails.append(msg)
+                  code, body = call()  # one retry
+                  print(f'  retry -> HTTP {code}')
+                  if code != '200':
+                      fails.append(f'batch {b+1} HTTP {code} {body}')
           if fails:
               for f in fails:
                   print(f'::error::Site webhook {f}')
@@ -199,6 +127,5 @@ jobs:
             echo ""
             echo "- Changed public/data files: \`${{ steps.diff.outputs.count }}\`"
             echo "- jsDelivr per-file purge: all files, 8x parallel"
-            echo "- Site webhook: batches of 50 paths + changedSlugs (ISR on-demand: /{slug} + /checklist/{slug} + hubs)"
-            echo "- Webhook calls send browser-like headers (Cloudflare bot protection fix)"
+            echo "- Site webhook: chunked in batches of 50 (ISR + Netlify + jsDelivr core)"
           } >> "$GITHUB_STEP_SUMMARY"

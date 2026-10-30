@@ -19,7 +19,7 @@
  "stipendAmount": 2500,
  "fundingType": "fully_funded",
  "countryCode": "IT",
- "intro": "European University Institute has opened a postdoctoral track in EUI Max Weber Fellowships 2027. The opportunity is fully funded; financial support is listed as EUR 2,500 per month plus other benefits.. Applications close 16 October 2026, 14:00 CEST. The host institution is in Florence, Italy.",
+ "intro": "The Max Weber Fellowship 2026 is a fully-funded postdoctoral fellowship at the European University Institute in Florence, Italy. Open to early-career researchers in history, humanities, and social sciences. Deadline: 16 October 2026.",
  "deadlineTimezone": "Europe/Rome",
  "lastVerifiedAt": null,
  "deadline": "2026-10-16T12:00:00.000Z",
@@ -73,7 +73,7 @@
  "expiredAt": "2026-10-16T00:33:31.017Z",
  "isOpen": false,
  "status": "expired",
- "updatedAt": "2026-10-29T04:10:00.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
  "id": "3k6uOkVQcwCnSnv3xJGK",
  "keywords": [
   "EUI Max Weber Fellowships 2027",

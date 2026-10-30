@@ -19,7 +19,7 @@
  "stipendAmount": 21805,
  "fundingType": "fully_funded",
  "countryCode": "GB",
- "intro": "A PhD opportunity at University of East Anglia focused on SENSS ESRC Studentship 2027 is currently listed. Funding covers the full cost of participation; financial support is listed as GBP 21,805 per year (2026/27 rate). Interested candidates should note the deadline: 14 January 2027.",
+ "intro": "Fully funded PhD studentship at the University of East Anglia through the South and East Network for Social Sciences (SENSS) Doctoral Training Partnership. Open to Home and International students for October 2027 start.",
  "deadlineTimezone": "Europe/London",
  "deadline": "2027-01-14T23:59:59.999Z",
  "degreeLevels": [
@@ -27,10 +27,10 @@
  ],
  "isFeatured": false,
  "slug": "senss-esrc-studentship-2027-university-of-east-anglia",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
  "deadlineText": "14 January 2027",
  "verificationStatus": "unverified",
- "seoDescription": "PhD opportunity in SENSS ESRC Studentship 2027 at University of East Anglia (Norwich). Fully funded. Deadline: 14 January 2027.",
+ "seoDescription": "Fully funded PhD studentship at the University of East Anglia through the South and East Network for Social Sciences (SENSS) Doctoral Training Partnership.",
  "isRemote": false,
  "ogImage": "https://nextapply.co.uk/senss-esrc-studentship-2027-university-of-east-anglia/opengraph-image",
  "tags": [
@@ -45,7 +45,7 @@
   "Doctoral Training Partnership",
   "United Kingdom",
   "PhD",
-  "Social Sciences"
+  "Social_Sciences"
  ],
  "opportunityType": "phd_position",
  "isOpen": true,
@@ -89,7 +89,7 @@
   "title": "SENSS ESRC Studentship 2027 at the University of East Anglia",
   "description": "Fully funded PhD studentship at the University of East Anglia through the South and East Network for Social Sciences (SENSS) Doctoral Training Partnership. Open to Home and International students for October 2027 start.",
   "datePosted": "2026-10-09T12:04:21.042Z",
-  "employmentType": "FULL TIME",
+  "employmentType": "FULL_TIME",
   "directApply": false,
   "hiringOrganization": {
    "@type": "Organization",

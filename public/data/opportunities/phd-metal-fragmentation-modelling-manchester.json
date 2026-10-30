@@ -9,7 +9,7 @@
  "eligibility": "uk_only",
  "stipend": "£21,805 per year (tax-free, UKRI 2026/27 rate)",
  "applyLink": "https://www.se.manchester.ac.uk/study/postgraduate-research/getting-started/applying/",
- "seoTitle": "Fully Funded PhD Studentship: Microstructurally Informed Modelling",
+ "seoTitle": "Fully Funded PhD in Materials_Science – Manchester – 2027",
  "title": "Fully Funded PhD Studentship: Microstructurally Informed Modelling of Metal Fragmentation",
  "fundingStatus": "fully_funded",
  "ieltsRequired": true,
@@ -18,7 +18,7 @@
  "stipendAmount": 21805,
  "fundingType": "fully_funded",
  "countryCode": "GB",
- "intro": "University of Manchester has opened a PhD track in PhD Studentship: Microstructurally Informed Modelling of Metal Fragmentation. Funding covers the full cost of participation; financial support is listed as £21,805 per year (tax-free, UKRI 2026/27 rate). Interested candidates should note the deadline: Check departmental page.",
+ "intro": "A fully funded PhD in the Department of Materials focusing on microstructurally informed modelling of metal fragmentation.",
  "deadlineTimezone": "Europe/London",
  "deadline": "2027-03-30T22:55:00.000Z",
  "degreeLevels": [
@@ -26,8 +26,8 @@
  ],
  "isFeatured": false,
  "slug": "phd-metal-fragmentation-modelling-manchester",
- "updatedAt": "2026-10-29T06:00:00.000Z",
- "deadlineText": "Check departmental page",
+ "updatedAt": "2026-10-30T00:00:00.000Z",
+ "deadlineText": "30 March 2027",
  "publishedAt": "2026-08-22T20:43:16.692Z",
  "verificationStatus": "verified",
  "seoDescription": "A fully funded PhD in the Department of Materials focusing on microstructurally informed modelling of metal fragmentation.",
@@ -45,7 +45,7 @@
   "Manchester",
   "United Kingdom",
   "PhD",
-  "Materials Science"
+  "Materials_Science"
  ],
  "opportunityType": "phd_position",
  "isOpen": true,
@@ -89,7 +89,7 @@
   "title": "Fully Funded PhD Studentship: Microstructurally Informed Modelling of Metal Fragmentation",
   "description": "A fully funded PhD in the Department of Materials focusing on microstructurally informed modelling of metal fragmentation.",
   "datePosted": "2026-08-22T20:43:16.692Z",
-  "employmentType": "FULL TIME",
+  "employmentType": "FULL_TIME",
   "directApply": false,
   "hiringOrganization": {
    "@type": "Organization",

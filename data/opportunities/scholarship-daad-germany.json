@@ -18,7 +18,7 @@
  "stipendAmount": 992,
  "fundingType": "fully_funded",
  "countryCode": "DE",
- "intro": "German Academic Exchange Service is offering a PhD / master's opportunity centred on Scholarship: DAAD Scholarships (Germany). According to the listing, funding covers the full cost of participation; financial support is listed as €992/month (Master's) / €1,400/month (PhD). Timing: Varies by program (Usually Oct intake).",
+ "intro": "The German Academic Exchange Service (DAAD) offers fully funded scholarships for Master's and PhD studies in Germany across all disciplines.",
  "deadlineTimezone": "Europe/Berlin",
  "deadline": null,
  "degreeLevels": [
@@ -27,7 +27,7 @@
  ],
  "isFeatured": false,
  "slug": "scholarship-daad-germany",
- "updatedAt": "2026-10-29T04:10:00.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
  "deadlineText": "Varies by program (Usually Oct intake)",
  "publishedAt": "2026-08-22T20:42:59.674Z",
  "verificationStatus": "unverified",
@@ -44,7 +44,7 @@
   "Master's",
   "Various",
   "PhD",
-  "All Subjects"
+  "All_Subjects"
  ],
  "opportunityType": "scholarship",
  "isOpen": true,

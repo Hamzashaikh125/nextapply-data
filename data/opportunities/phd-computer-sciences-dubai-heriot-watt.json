@@ -18,7 +18,7 @@
  "stipendAmount": null,
  "fundingType": "self_funded",
  "countryCode": "AE",
- "intro": "A PhD opportunity at Heriot-Watt University focused on Computer Sciences [Dubai Campus] is currently listed. Financial support: No awarded stipend or tuition funding. The application window is described as: Rolling. Location: Dubai, United Arab Emirates. The opportunity sits within Computer Science, Data Science, Artificial Intelligence.",
+ "intro": "A self-funded PhD programme at the Dubai Campus focusing on Data Science, Artificial Intelligence, and Cyber Security.",
  "deadlineTimezone": "Asia/Dubai",
  "deadline": null,
  "degreeLevels": [
@@ -26,11 +26,11 @@
  ],
  "isFeatured": false,
  "slug": "phd-computer-sciences-dubai-heriot-watt",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-10-24T00:00:00.000Z",
  "deadlineText": "Rolling",
  "publishedAt": "2026-08-22T20:43:12.755Z",
  "verificationStatus": "unverified",
- "seoDescription": "PhD opportunity in Computer Sciences [Dubai Campus] at Heriot-Watt University (Dubai). Funded. Deadline: Rolling.",
+ "seoDescription": "Self Funded PhD in Dubai at Heriot-Watt University: Deadline: Rolling. Apply via NextApply.",
  "isRemote": false,
  "ogImage": "https://nextapply.co.uk/phd-computer-sciences-dubai-heriot-watt/opengraph-image",
  "tags": [
