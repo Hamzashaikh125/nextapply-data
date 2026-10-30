@@ -19,7 +19,7 @@
  "stipendAmount": 41976,
  "fundingType": "fully_funded",
  "countryCode": "LU",
- "intro": "36-month fully funded PhD in Network Traffic Obfuscation at University of Luxembourg. Gross salary EUR 41,976/year. Open to all nationalities.",
+ "intro": "University of Luxembourg has opened a PhD track in Doctoral Researcher in Network Traffic Obfuscation. According to the listing, full funding is provided; financial support is listed as EUR 41,976 gross per year (full time).. The application window is described as: Open - Apply as soon as possible.",
  "deadlineTimezone": "Europe/Luxembourg",
  "deadline": null,
  "degreeLevels": [
@@ -27,10 +27,10 @@
  ],
  "isFeatured": false,
  "slug": "doctoral-researcher-network-traffic-obfuscation-university-of-luxembourg",
- "updatedAt": "2026-10-24T00:00:00.000Z",
+ "updatedAt": "2026-10-29T05:40:00.000Z",
  "deadlineText": "Open - Apply as soon as possible",
  "verificationStatus": "unverified",
- "seoDescription": "Fully Funded PhD in Luxembourg at University of Luxembourg: €41,976/yr stipend. Deadline: Open - Applications processed upon reception. Apply via NextApply.",
+ "seoDescription": "PhD in Doctoral Researcher in Network Traffic Obfuscation — University of Luxembourg, Luxembourg. Fully funded.. Apply by Open - Apply as soon as possible.",
  "isRemote": false,
  "ogImage": "https://nextapply.co.uk/doctoral-researcher-network-traffic-obfuscation-university-of-luxembourg/opengraph-image",
  "tags": [
@@ -45,7 +45,7 @@
   "SnT",
   "Packet Scheduling",
   "PhD",
-  "Computer_Science"
+  "Computer Science"
  ],
  "opportunityType": "phd_position",
  "isOpen": true,
@@ -91,7 +91,7 @@
   "title": "Doctoral Researcher in Network Traffic Obfuscation at University of Luxembourg",
   "description": "36-month fully funded PhD in Network Traffic Obfuscation at University of Luxembourg. Gross salary EUR 41,976/year. Open to all nationalities.",
   "datePosted": "2026-09-16T23:07:50.616Z",
-  "employmentType": "FULL_TIME",
+  "employmentType": "FULL TIME",
   "directApply": false,
   "hiringOrganization": {
    "@type": "Organization",

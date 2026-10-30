@@ -55,14 +55,14 @@
  "ieltsRequired": true,
  "eligibility": "uk_only",
  "seoTitle": "Fulbright UK Scholar Awards 2027-28 – Fully Funded, USA",
- "seoDescription": "Fulbright UK Scholar Awards 2027-28: fully funded 3-10 month US fellowships for UK academics. Travel + maintenance included. Deadline 2 November 2026.",
+ "seoDescription": "US-UK Fulbright Commission offers a fully funded postdoctoral position in Fulbright UK Scholar Awards. Deadline: 2 November 2026 (2027-28 Scholar Awards).",
  "ogImage": "https://nextapply.co.uk/fulbright-uk-scholar-awards-usa-2027-28/opengraph-image",
- "verificationStatus": "verified",
- "verificationScore": 100,
+ "verificationStatus": "unverified",
+ "verificationScore": null,
  "addedDate": "2026-10-26T02:33:25.000Z",
  "clickCount": 0,
  "createdAt": "2026-10-26T02:33:25.000Z",
- "updatedAt": "2026-10-30T00:00:00.000Z",
+ "updatedAt": "2026-10-29T06:00:00.000Z",
  "publishedAt": "2026-10-26T02:33:25.000Z",
  "id": "Jieai4MPmIcCxF8xwgTV",
  "opportunityType": "fellowship",
@@ -90,7 +90,7 @@
   "@id": "https://nextapply.co.uk/fulbright-uk-scholar-awards-usa-2027-28#opportunity",
   "url": "https://nextapply.co.uk/fulbright-uk-scholar-awards-usa-2027-28",
   "name": "Fulbright UK Scholar Awards 2027-28 – Fully Funded Research and Teaching in the USA",
-  "description": "Fulbright UK Scholar Awards 2027-28: fully funded 3-10 month US fellowships for UK academics. Travel + maintenance included. Deadline 2 November 2026.",
+  "description": "The Fulbright Scholar Awards fund UK academics and professionals for 3–10 months of lecturing and/or research at a US institution. Administered by the US-UK Fulbright Commission in London, the award covers a maintenance grant, travel, health insurance and J-1 visa sponsorship. Applications for the 2027-28 awards close on 2 November 2026, with the application window typically opening in July.",
   "funder": {
    "@type": "Organization",
    "name": "US-UK Fulbright Commission",
@@ -98,6 +98,5 @@
    "logo": "https://www.google.com/s2/favicons?domain=fulbright.org.uk&sz=256"
   }
  },
- "deadlineTimezone": "Europe/London",
- "verifiedAt": "2026-10-30T00:00:00.000Z"
+ "deadlineTimezone": "Europe/London"
 }

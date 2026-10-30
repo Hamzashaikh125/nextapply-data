@@ -1,52 +1,33 @@
-# purge-cache.yml - AUTO CACHE REFRESH on every push to nextapply-data@main.
+# purge-cache.yml — v3 (2026-10-31). AUTO CACHE REFRESH on every push to nextapply-data@main.
+#
+# v3 fixes (after run #30 — purge job went red with 10 batch errors):
+#   1. DIFF: uses github.event.before when the push provides it, so the file
+#      list is EXACTLY what this push changed; the old "last two public/data
+#      commits" logic stays as the fallback for manual re-runs. Deduped.
+#   2. SITE WEBHOOK now sends changedSlugs (derived from
+#      public/data/opportunities/<slug>.json) so detail pages AND their
+#      /checklist mirrors revalidate immediately — the
+#      /api/webhooks/data-sync route has supported changedSlugs all along;
+#      the workflow just never sent them. Paths stay chunked at 50 (route
+#      hard limit); slugs chunked at 25 per call so each serverless function
+#      invocation stays fast.
+#   3. FAILURE MODEL: the push itself already publishes the data (jsDelivr
+#      serves it within minutes), so this workflow is a cache-REFRESHER.
+#      Transient webhook failures are now ::warning:: + exit 0 (next push
+#      retries automatically) instead of 10 red ::error::s. ONLY
+#      deterministic config errors fail the job, each with the exact fix
+#      printed in the log and the step summary:
+#        - DATA_SYNC_WEBHOOK_TOKEN secret not set in THIS repo, or
+#        - every batch answered HTTP 401 (token mismatch with the Vercel env)
+#   4. SPEED: up to 4 webhook batches in parallel, per-request --max-time,
+#      one retry ONLY on transient codes (000/408/429/5xx). Job capped at
+#      15 minutes.
 #
 # Setup (one time, in THIS repo on GitHub):
 #   Settings > Secrets and variables > Actions
-#     - Secret  DATA_SYNC_WEBHOOK_TOKEN  (same value as the DATA_SYNC_WEBHOOK_TOKEN
-#       env var on the site host: Netlify/Vercel site settings)
+#     - Secret  DATA_SYNC_WEBHOOK_TOKEN  (SAME value as the DATA_SYNC_WEBHOOK_TOKEN
+#       env var on Vercel: Project Settings > Environment Variables)
 #     - Variable SITE_URL = https://nextapply.co.uk  (optional, has a default)
-#
-# CLOUDFLARE REQUIREMENT (one time, in the Cloudflare dashboard for nextapply.co.uk):
-#   GitHub Actions runners live on cloud IPs that Cloudflare flags as bots, so the
-#   site webhook (POST /api/webhooks/data-sync) gets a 403 "Just a moment..."
-#   challenge page. Fix BOTH of these once and this workflow runs green:
-#
-#   1. Security > Bots > Bot Fight Mode: set to OFF.
-#      (Free-plan Bot Fight Mode cannot be exempted by any WAF rule — it blocks
-#      GitHub Actions, uptime monitors and API clients unconditionally.)
-#
-#   2. Security > WAF > Custom rules > Create rule:
-#        Name:     skip-challenge-for-data-webhook
-#        Field:    URI Path | starts with | /api/webhooks/
-#        AND       Header Name: x-webhook-token | equals | <paste DATA_SYNC_WEBHOOK_TOKEN>
-#        Action:   Skip
-#        Products to skip: Browser Integrity Check + Security Level
-#                       (+ Super Bot Fight Mode if on a paid plan)
-#      Result: only requests that already carry the shared secret bypass the
-#      challenge — the rest of the site keeps full bot protection.
-#
-# What it does on every push that changes public/data/**:
-#   1. Finds the files changed in the latest public/data commit (works for manual
-#      re-runs too, even after non-data commits like workflow fixes).
-#   2. Purges EVERY changed file on jsDelivr (no cap, 8 parallel requests).
-#   3. Calls the site webhook (POST /api/webhooks/data-sync) in BATCHES OF 50 PATHS
-#      (the endpoint rejects more than 50 in one request).
-#
-# v3 fixes:
-#   - Detects the Cloudflare "Just a moment..." challenge page and prints ONE
-#     actionable error (instead of 15 identical ones) with the exact fix
-#   - Sends a real User-Agent header (curl's default UA is bot-flagged)
-#   - 3 attempts per batch with 30s backoff for transient network errors
-#   - Batches continue after individual failures; failure summary at the end
-#
-# v2 fixes:
-#   - Site webhook: chunked into 50-path batches (was: all at once -> HTTP 400
-#     "Too many purge paths (max 50)")
-#   - jsDelivr purge: no more 200 cap, fixed off-by-one (large uploads of 300+
-#     files now fully purged), 8x parallel
-#   - Manual re-run friendly: diff is based on the last public/data commit, so
-#     Actions > Run workflow re-purges the latest data batch even if newer
-#     commits only touched .github or README
 
 name: Purge CDN caches
 
@@ -64,6 +45,7 @@ concurrency:
 jobs:
   purge:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout (full history for the diff)
         uses: actions/checkout@v4
@@ -72,10 +54,29 @@ jobs:
 
       - name: List changed public/data files
         id: diff
+        env:
+          EVENT_BEFORE: ${{ github.event.before }}
         run: |
           set -e
-          LAST=$(git log -n 1 --format=%H -- 'public/data/')
-          PREV=$(git log -n 2 --format=%H -- 'public/data/' | tail -n 1)
+          LAST="$GITHUB_SHA"
+          PREV=""
+          # Preferred base: the before-sha of THIS push (exact per-push diff).
+          # Re-runs keep the original event context, so a manual re-run
+          # re-purges the same batch. Guarded: real commit + true ancestor
+          # (a force-push falls through to the fallback below).
+          if [ -n "$EVENT_BEFORE" ] \
+             && [ "$EVENT_BEFORE" != "0000000000000000000000000000000000000000" ] \
+             && git cat-file -e "$EVENT_BEFORE^{commit}" 2>/dev/null \
+             && git merge-base --is-ancestor "$EVENT_BEFORE" "$LAST" 2>/dev/null; then
+            PREV="$EVENT_BEFORE"
+            echo "diff base: this push's before-sha"
+          else
+            # Fallback (manual dispatch / force-push): diff the last two
+            # commits that touched public/data/.
+            LAST=$(git log -n 1 --format=%H -- 'public/data/')
+            PREV=$(git log -n 2 --format=%H -- 'public/data/' | tail -n 1)
+            echo "diff base: last two public/data commits (fallback)"
+          fi
           if [ -z "$LAST" ]; then
             echo "no public/data commits found"
             echo "count=0" >> "$GITHUB_OUTPUT"
@@ -84,14 +85,18 @@ jobs:
           if [ -z "$PREV" ] || [ "$PREV" = "$LAST" ]; then
             PREV=$(git hash-object -t tree /dev/null)
           fi
-          git diff --name-only "$PREV" "$LAST" -- 'public/data/**' | tee changed.txt
-          echo "count=$(wc -l < changed.txt | tr -d ' ')" >> "$GITHUB_OUTPUT"
+          git diff --name-only "$PREV" "$LAST" -- 'public/data/**' | sort -u | tee changed.txt
+          if [ ! -s changed.txt ]; then
+            echo "no public/data changes in this range"
+          fi
+          echo "count=$(grep -c . changed.txt || true)" >> "$GITHUB_OUTPUT"
+          echo "changed files: $(grep -c . changed.txt || true)"
 
       - name: Purge changed files on jsDelivr (all files, 8 parallel)
         if: steps.diff.outputs.count > 0
         run: |
           TOTAL=$(grep -c . changed.txt || true)
-          FAIL=$(xargs -a changed.txt -I{} -P 8 curl -s -o /dev/null -w '%{http_code}\n' \
+          FAIL=$(xargs -a changed.txt -I{} -P 8 curl -s --max-time 20 -o /dev/null -w '%{http_code}\n' \
             "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/{}" \
             | grep -vc '^200$' || true)
           echo "jsDelivr purge attempted=$TOTAL failures=${FAIL:-0}"
@@ -99,75 +104,130 @@ jobs:
             echo "::warning::jsDelivr purge had $FAIL failures (retry-safe: next push re-purges)"
           fi
 
-      - name: Refresh site caches (ISR + memos + Netlify CDN) - batches of 50
+      # Site webhook (Vercel): ISR revalidation + jsDelivr core. The route's
+      # Netlify-tag layer no-ops without NETLIFY_API_TOKEN — on Vercel, ISR
+      # (revalidatePath) is the native equivalent.
+      # Sends paths (batches of 50) AND changedSlugs (batches of 25) so the
+      # affected detail + checklist pages refresh on demand.
+      - name: Refresh site caches (ISR + slugs + CDN)
         if: steps.diff.outputs.count > 0
         env:
           WEBHOOK_TOKEN: ${{ secrets.DATA_SYNC_WEBHOOK_TOKEN }}
           SITE_URL: ${{ vars.SITE_URL }}
         run: |
           python3 - <<'EOF'
-          import json, os, subprocess, sys, time
+          import json, os, re, subprocess, sys
+          from concurrent.futures import ThreadPoolExecutor
 
-          paths = [l.strip() for l in open('changed.txt') if l.strip()]
-          site = os.environ.get('SITE_URL') or 'https://nextapply.co.uk'
-          token = os.environ.get('WEBHOOK_TOKEN') or ''
-          CHUNK = 50  # endpoint hard limit: "Too many purge paths (max 50)."
-          ATTEMPTS = 3
-          BACKOFF = 30  # seconds between attempts
-          UA = 'NextApplyDataSync/3.0 (+github-actions; cache-refresh agent)'
-          fails = []
-          cloudflare_block = False
-          batches = (len(paths) + CHUNK - 1) // CHUNK
-          for b in range(batches):
-              batch = paths[b * CHUNK:(b + 1) * CHUNK]
-              payload = json.dumps({"paths": batch})
-              def call():
-                  r = subprocess.run(
-                      ['curl', '-s', '--max-time', '120', '-o', 'resp.json', '-w', '%{http_code}',
-                       '-X', 'POST',
-                       '-A', UA,
-                       '-H', f'x-webhook-token: {token}',
-                       '-H', 'Content-Type: application/json',
-                       '-d', payload,
-                       f'{site}/api/webhooks/data-sync'],
-                      capture_output=True, text=True)
-                  body = ''
-                  if os.path.exists('resp.json'):
-                      try: body = open('resp.json').read()[:2000]
-                      except Exception: pass
-                  return (r.stdout.strip() or '000'), body
-              code, body = call()
-              print(f'batch {b+1}/{batches}: {len(batch)} paths -> HTTP {code}')
-              if code != '200':
-                  for attempt in range(2, ATTEMPTS + 1):
-                      time.sleep(BACKOFF)
-                      code, body = call()
-                      print(f'  retry {attempt}/{ATTEMPTS} -> HTTP {code}')
-                      if code == '200':
-                          break
-              if code != '200':
-                  if code == '403' and ('Just a moment' in body or 'challenge' in body.lower() or 'cf-' in body.lower()):
-                      cloudflare_block = True
-                      fails.append(f'batch {b+1}: HTTP 403 Cloudflare challenge page')
-                  else:
-                      fails.append(f'batch {b+1}: HTTP {code} {body[:120]}')
-          if fails:
-              for f in fails:
-                  print(f'::error::Site webhook {f}')
-              if cloudflare_block:
-                  print()
-                  print('::error::CLOUDFLARE IS CHALLENGING THE WEBHOOK REQUEST')
-                  print('::error::GitHub Actions runs on cloud IPs that Cloudflare flags as bots.')
-                  print('::error::The shared-secret token was sent correctly (x-webhook-token) - the block happens BEFORE it reaches the site.')
-                  print('::error::Fix (one time, ~3 minutes, in the Cloudflare dashboard for nextapply.co.uk):')
-                  print('::error::1. Security > Bots > turn Bot Fight Mode OFF (free-plan mode cannot be exempted by WAF rules).')
-                  print('::error::2. Security > WAF > Custom rules > Create rule:')
-                  print('::error::     IF URI Path starts with /api/webhooks/ AND Header "x-webhook-token" equals <your DATA_SYNC_WEBHOOK_TOKEN>')
-                  print('::error::     THEN Action: Skip -> tick Browser Integrity Check + Security Level (+ Super Bot Fight Mode on paid plans).')
-                  print('::error::3. Re-run this job: Actions > Purge CDN caches > Re-run failed jobs.')
-                  print('::error::NOTE: jsDelivr already purged this push, so the CDN data is fresh; the site picks it up on its next ISR window anyway - the webhook only makes it instant.')
+          TRANSIENT = {"000", "408", "429", "500", "502", "503", "504"}
+
+          lines = [l.strip() for l in open("changed.txt") if l.strip()]
+          paths = [p for p in lines if p.startswith("public/data/")]
+          slugs = []
+          for p in paths:
+              m = re.match(r"^public/data/opportunities/([a-z0-9][a-z0-9-]*)\.json$", p)
+              if m:
+                  slugs.append(m.group(1))
+          slugs = sorted(set(slugs))
+
+          site = (os.environ.get("SITE_URL") or "https://nextapply.co.uk").rstrip("/")
+          token = os.environ.get("WEBHOOK_TOKEN") or ""
+
+          if not token:
+              print("::error::DATA_SYNC_WEBHOOK_TOKEN is NOT set in this repository "
+                    "(Hamzashaikh125/nextapply-data). The site webhook cannot be called. "
+                    "FIX (2 minutes, one time): GitHub repo (nextapply-data) > Settings > "
+                    "Secrets and variables > Actions > New repository secret > "
+                    "Name: DATA_SYNC_WEBHOOK_TOKEN > Value: the SAME string as the "
+                    "DATA_SYNC_WEBHOOK_TOKEN environment variable on Vercel "
+                    "(Project Settings > Environment Variables). "
+                    "Note: the data pushed by this commit is ALREADY live on jsDelivr "
+                    "within minutes; only the site's cached pages wait for the webhook.")
               sys.exit(1)
-          print(f'ALL {len(paths)} paths revalidated in {batches} batch(es)')
+
+          PATH_CHUNK = 50   # route hard limit: "Too many purge paths (max 50)."
+          SLUG_CHUNK = 25   # keeps each serverless function invocation fast
+
+          path_batches = [paths[i:i + PATH_CHUNK] for i in range(0, len(paths), PATH_CHUNK)]
+          slug_batches = [slugs[i:i + SLUG_CHUNK] for i in range(0, len(slugs), SLUG_CHUNK)]
+          n = max(len(path_batches), len(slug_batches))
+          batches = []
+          for i in range(n):
+              body = {}
+              if i < len(path_batches):
+                  body["paths"] = path_batches[i]
+              if i < len(slug_batches):
+                  body["changedSlugs"] = slug_batches[i]
+              batches.append((i + 1, body))
+
+          def call(item):
+              num, body = item
+              payload = json.dumps(body)
+              def once():
+                  r = subprocess.run(
+                      ["curl", "-s", "--max-time", "60", "-o", f"resp{num}.json",
+                       "-w", "%{http_code}", "-X", "POST",
+                       "-H", f"x-webhook-token: {token}",
+                       "-H", "Content-Type: application/json",
+                       "-d", payload,
+                       f"{site}/api/webhooks/data-sync"],
+                      capture_output=True, text=True)
+                  code = (r.stdout.strip() or "000")
+                  body_txt = ""
+                  try:
+                      body_txt = open(f"resp{num}.json").read()[:160].replace("\n", " ")
+                  except Exception:
+                      pass
+                  return code, body_txt
+              code, body_txt = once()
+              if code in TRANSIENT:
+                  code, body_txt = once()  # one retry, transient codes only
+              return num, code, body_txt
+
+          results = []
+          with ThreadPoolExecutor(max_workers=4) as ex:
+              for num, code, body_txt in ex.map(call, batches):
+                  results.append((num, code, body_txt))
+
+          results.sort()
+          for num, code, body_txt in results:
+              print(f"batch {num}/{n}: HTTP {code} {body_txt}")
+          with open("webhook_results.txt", "w") as f:
+              for num, code, body_txt in results:
+                  f.write(f"batch {num:02d}: HTTP {code} {body_txt}\n")
+
+          ok = [r for r in results if r[1] == "200"]
+          bad = [r for r in results if r[1] != "200"]
+          auth = [r for r in bad if r[1] == "401"]
+          print(f"webhook: {len(ok)}/{len(results)} batches OK "
+                f"({len(paths)} paths, {len(slugs)} changed slugs)")
+
+          if results and len(auth) == len(results):
+              print("::error::EVERY webhook batch answered HTTP 401 — auth mismatch. "
+                    "The Actions secret DATA_SYNC_WEBHOOK_TOKEN in this repo does NOT match "
+                    "the Vercel env var DATA_SYNC_WEBHOOK_TOKEN (or the Vercel env var is "
+                    "missing/empty). FIX: Vercel > Project Settings > Environment Variables > "
+                    "DATA_SYNC_WEBHOOK_TOKEN — copy its exact value, then GitHub "
+                    "(nextapply-data) > Settings > Secrets and variables > Actions > update "
+                    "the DATA_SYNC_WEBHOOK_TOKEN secret to the SAME value, then re-run this "
+                    "workflow (Actions > Purge CDN caches > Run workflow).")
+              sys.exit(1)
+
+          for num, code, body_txt in bad:
+              hint = ""
+              if code == "400":
+                  hint = "(request rejected — see body above)"
+              elif code == "404":
+                  hint = "(endpoint not deployed — is the latest code deployed on Vercel?)"
+              elif code in TRANSIENT:
+                  hint = "(transient — the next push retries automatically)"
+              print(f"::warning::webhook batch {num} HTTP {code} {hint}")
+
+          if bad:
+              print(f"::warning::{len(bad)} of {len(results)} webhook batches failed — "
+                    "non-fatal: the pushed data is already live on jsDelivr, and the next "
+                    "push re-attempts the refresh.")
+          sys.exit(0)
           EOF
 
       - name: Summary
@@ -177,7 +237,30 @@ jobs:
             echo "## CDN purge summary"
             echo ""
             echo "- Changed public/data files: \`${{ steps.diff.outputs.count }}\`"
-            echo "- jsDelivr per-file purge: all files, 8x parallel"
-            echo "- Site webhook: chunked in batches of 50 (ISR + Netlify + jsDelivr core)"
-            echo "- If the webhook step failed with HTTP 403 'Just a moment...': add the Cloudflare WAF skip rule described at the top of .github/workflows/purge-cache.yml, then re-run."
+            echo "- jsDelivr per-file purge: all changed files, 8x parallel (best-effort)"
+            echo "- Site webhook: paths in batches of 50 + changed slugs in batches of 25"
+            echo ""
+            if [ -f webhook_results.txt ]; then
+              echo "### Webhook batches"
+              echo ""
+              echo '```'
+              cat webhook_results.txt
+              echo '```'
+              echo ""
+            fi
+            echo "### Verify (a couple of minutes after this run)"
+            echo ""
+            echo '```bash'
+            echo "# fresh data on the CDN (should show the new lastExportAt):"
+            echo "curl -s https://cdn.jsdelivr.net/gh/Hamzashaikh125/nextapply-data@main/public/data/stats.json | head -c 300"
+            echo ""
+            echo "# refreshed listing hub (HTTP 200):"
+            echo "curl -s -o /dev/null -w '%{http_code}\\n' https://nextapply.co.uk/opportunities"
+            echo '```'
+            echo ""
+            echo "### If the webhook step failed with 401"
+            echo ""
+            echo "Set the same \`DATA_SYNC_WEBHOOK_TOKEN\` value in BOTH places, then re-run:"
+            echo "1. Vercel > Project Settings > Environment Variables (source of truth)"
+            echo "2. GitHub nextapply-data > Settings > Secrets and variables > Actions"
           } >> "$GITHUB_STEP_SUMMARY"

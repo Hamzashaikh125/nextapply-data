@@ -47,7 +47,7 @@
   "tuitionCovered": true
  },
  "stipend": "€1,400/month (EMJM scholarship rate)",
- "intro": "EU4M is the Erasmus Mundus master in mechatronic engineering coordinated from ENSMM Besançon with mobility through Spanish and German partner campuses. Scholarship rounds in recent cycles closed on 15 January, and the 2027 intake application window is already being promoted by the consortium.",
+ "intro": "A master's opportunity at EU4M Consortium focused on EU4M – Erasmus Mundus Joint Master in Mechatronic Engineering is currently listed. According to the listing, the opportunity is fully funded; financial support is listed as €1,400/month (EMJM scholarship rate). Applications close 15 January 2027.",
  "tags": [
   "Erasmus Mundus",
   "EU4M",
@@ -64,12 +64,12 @@
  "seoTitle": "Fully Funded EU4M – Erasmus Mundus Joint Master",
  "seoDescription": "EU4M Erasmus Mundus joint master in mechatronic engineering. Scholarship round expected 15 January 2027. Fully funded mobility across France, Spain and Germany.",
  "ogImage": "https://nextapply.co.uk/eu4m-mechatronic-engineering-erasmus-mundus-2027/opengraph-image",
- "verificationStatus": "verified",
- "verificationScore": 100,
+ "verificationStatus": "unverified",
+ "verificationScore": null,
  "addedDate": "2026-10-23T00:07:35.000Z",
  "clickCount": 0,
  "createdAt": "2026-10-23T00:07:35.000Z",
- "updatedAt": "2026-10-30T00:00:00.000Z",
+ "updatedAt": "2026-10-29T04:10:00.000Z",
  "publishedAt": "2026-10-23T00:07:35.000Z",
  "id": "f2R5Hu7EyyA9w2tkzg5s",
  "opportunityType": "scholarship",
@@ -116,6 +116,5 @@
     "priceCurrency": "EUR"
    }
   }
- },
- "verifiedAt": "2026-10-30T00:00:00.000Z"
+ }
 }

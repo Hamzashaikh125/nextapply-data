@@ -19,7 +19,7 @@
  "stipendAmount": 41976,
  "fundingType": "fully_funded",
  "countryCode": "LU",
- "intro": "36-month fully funded PhD in AI for Cybersecurity at University of Luxembourg. Gross salary EUR 41,976/year. EU/EEA/EFTA, NATO Allied, and NATO Indo-Pacific applicants only.",
+ "intro": "University of Luxembourg is offering a PhD opportunity centred on Doctoral Researcher in AI for Cybersecurity. This is a fully funded opportunity; financial support is listed as EUR 41,976 gross per year (full time).. Timing: Open - Apply as soon as possible.",
  "deadlineTimezone": "Europe/Luxembourg",
  "deadline": null,
  "degreeLevels": [
@@ -27,10 +27,10 @@
  ],
  "isFeatured": false,
  "slug": "doctoral-researcher-ai-cybersecurity-university-of-luxembourg",
- "updatedAt": "2026-10-24T00:00:00.000Z",
+ "updatedAt": "2026-10-29T05:40:00.000Z",
  "deadlineText": "Open - Apply as soon as possible",
  "verificationStatus": "unverified",
- "seoDescription": "Fully Funded PhD in Luxembourg at University of Luxembourg: €41,976/yr stipend. Deadline: Open - Applications processed upon reception. Apply via NextApply.",
+ "seoDescription": "University of Luxembourg offers a fully funded PhD position in Doctoral Researcher in AI for Cybersecurity.. Deadline: Open - Apply as soon as possible.",
  "isRemote": false,
  "ogImage": "https://nextapply.co.uk/doctoral-researcher-ai-cybersecurity-university-of-luxembourg/opengraph-image",
  "tags": [
@@ -45,7 +45,7 @@
   "SnT",
   "Systems and Network Security",
   "PhD",
-  "Artificial_Intelligence"
+  "Artificial Intelligence"
  ],
  "opportunityType": "phd_position",
  "isOpen": true,
@@ -91,7 +91,7 @@
   "title": "Doctoral Researcher in AI for Cybersecurity at University of Luxembourg",
   "description": "36-month fully funded PhD in AI for Cybersecurity at University of Luxembourg. Gross salary EUR 41,976/year. EU/EEA/EFTA, NATO Allied, and NATO Indo-Pacific applicants only.",
   "datePosted": "2026-09-16T23:07:49.214Z",
-  "employmentType": "FULL_TIME",
+  "employmentType": "FULL TIME",
   "directApply": false,
   "hiringOrganization": {
    "@type": "Organization",

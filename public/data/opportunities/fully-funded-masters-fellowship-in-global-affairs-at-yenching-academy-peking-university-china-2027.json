@@ -9,7 +9,7 @@
  "eligibility": "worldwide",
  "stipend": "Stipend/salary rate set by the funder — see the official listing",
  "applyLink": "https://yenchingacademy.pku.edu.cn/",
- "seoTitle": "Fully Funded Master's in History – Peking University 2027",
+ "seoTitle": "Fully Funded Master's Fellowship in Global Affairs at Yenching",
  "title": "Fully Funded Master's Fellowship in Global Affairs at Yenching Academy, Peking University, China 2027",
  "fundingStatus": "fully_funded",
  "ieltsRequired": true,
@@ -17,18 +17,18 @@
  "createdAt": "2026-09-08T21:59:20.675Z",
  "fundingType": "fully_funded",
  "countryCode": "CN",
- "intro": "The Yenching Academy provides fully funded Master's fellowships in China Studies at Peking University for outstanding international students.",
+ "intro": "Peking University has opened a master's track in Global Affairs at Yenching Academy, Peking University, China 2027. According to the listing, full funding is provided; financial support is listed as Stipend/salary rate set by the funder — see the official listing. The stated deadline is 1 December 2026.",
  "deadlineTimezone": "Asia/Shanghai",
- "deadline": "2026-11-30T01:00:00.000Z",
+ "deadline": "2026-12-01T00:00:00.000Z",
  "degreeLevels": [
   "masters"
  ],
  "isFeatured": false,
  "slug": "fully-funded-masters-fellowship-in-global-affairs-at-yenching-academy-peking-university-china-2027",
- "updatedAt": "2026-10-30T00:00:00.000Z",
- "deadlineText": "30 November 2026, 9:00 am Beijing time",
+ "updatedAt": "2026-10-29T05:40:00.000Z",
+ "deadlineText": "1 December 2026",
  "publishedAt": "2026-09-08T21:59:20.675Z",
- "verificationStatus": "verified",
+ "verificationStatus": "unverified",
  "seoDescription": "The Yenching Academy provides fully funded Master's fellowships in China Studies at Peking University for outstanding international students.",
  "isRemote": false,
  "ogImage": "https://nextapply.co.uk/fully-funded-masters-fellowship-in-global-affairs-at-yenching-academy-peking-university-china-2027/opengraph-image",
@@ -52,7 +52,7 @@
   "history"
  ],
  "stipendCurrency": null,
- "verificationScore": 100,
+ "verificationScore": 95,
  "deadlineType": "fixed",
  "regionId": "asia",
  "sourceType": "official_university",
@@ -99,6 +99,5 @@
    "@type": "Offer",
    "category": "Fully Funded programme"
   }
- },
- "verifiedAt": "2026-10-30T00:00:00.000Z"
+ }
 }

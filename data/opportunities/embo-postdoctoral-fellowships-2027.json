@@ -19,6 +19,7 @@
  "fundingType": "fully_funded",
  "countryCode": "DE",
  "intro": "EMBO Postdoctoral Fellowships support excellent postdoctoral researchers in the life sciences for up to two years. International mobility is a key requirement. Includes salary, relocation allowance, and child support. Applications accepted throughout the year with cutoff dates. Next deadline: 22 January 2027.",
+ "deadlineTimezone": "Europe/Berlin",
  "lastVerifiedAt": null,
  "deadline": null,
  "degreeLevels": [
@@ -26,10 +27,10 @@
  ],
  "isFeatured": false,
  "slug": "embo-postdoctoral-fellowships-2027",
- "updatedAt": "2026-10-30T00:00:00.000Z",
- "deadlineText": "Rolling — next cutoff 22 January 2027, 14:00 CET",
+ "updatedAt": "2026-10-29T05:40:00.000Z",
+ "deadlineText": "Open - Apply as soon as possible",
  "verificationStatus": "unverified",
- "seoDescription": "Fully Funded Postdoc in Heidelberg at EMBO (European Molecular Biology Organization): Deadline: Applications accepted year-round; next evaluation cutoff 22.",
+ "seoDescription": "Postdoctoral opportunity in EMBO Postdoctoral Fellowships 2027 at EMBO (European Molecular Biology Organization) (Heidelberg). Fully funded. Deadline",
  "isRemote": false,
  "ogImage": "https://nextapply.co.uk/embo-postdoctoral-fellowships-2027/opengraph-image",
  "tags": [
@@ -57,7 +58,7 @@
   "biochemistry"
  ],
  "stipendCurrency": null,
- "deadlineType": "custom",
+ "deadlineType": "rolling",
  "regionId": "europe",
  "sourceType": "official_organization",
  "stipendPeriod": null,

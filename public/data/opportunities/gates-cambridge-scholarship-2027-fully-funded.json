@@ -10,7 +10,7 @@
  "eligibility": "worldwide",
  "stipend": "£21,805/year (maintenance aligned with UKRI 2026/27)",
  "applyLink": "https://www.gatescambridge.org",
- "seoTitle": "Fully Funded Master's at Gates Cambridge Trust – 2027",
+ "seoTitle": "Gates Cambridge Scholarship 2027 - Fully Funded at University",
  "title": "Gates Cambridge Scholarship 2027 - Fully Funded at University of Cambridge",
  "fundingStatus": "fully_funded",
  "ieltsRequired": true,
@@ -19,7 +19,7 @@
  "stipendAmount": 21805,
  "fundingType": "fully_funded",
  "countryCode": "GB",
- "intro": "The Gates Cambridge Scholarship is one of the world's most international scholarship programs, funding outstanding applicants from outside the UK to pursue full-time postgraduate degrees at the University of Cambridge.",
+ "intro": "Gates Cambridge Trust is offering a master's / PhD opportunity centred on Gates Cambridge Scholarship 2027. According to the listing, funding covers the full cost of participation; financial support is listed as £21,805/year (maintenance aligned with UKRI 2026/27). Applications close 6 January 2027 (course-specific: most 8 December 2026 or 6 January 2027; US round closed 14 October 2026).",
  "deadlineTimezone": "Europe/London",
  "deadline": "2027-01-06T23:59:59.999Z",
  "degreeLevels": [
@@ -28,10 +28,10 @@
  ],
  "isFeatured": false,
  "slug": "gates-cambridge-scholarship-2027-fully-funded",
- "updatedAt": "2026-10-30T00:00:00.000Z",
+ "updatedAt": "2026-10-29T06:00:00.000Z",
  "deadlineText": "6 January 2027 (course-specific: most 8 December 2026 or 6 January 2027; US round closed 14 October 2026)",
- "verificationStatus": "verified",
- "seoDescription": "Fully Funded Master's / PhD in Cambridge at Gates Cambridge Trust: £21,805/yr stipend. Deadline: January 2027 (varies by course). Apply via NextApply.",
+ "verificationStatus": "unverified",
+ "seoDescription": "Gates Cambridge Trust offers a fully funded master's / PhD position in Gates Cambridge Scholarship 2027. Deadline: 6 January 2027 (course-specific: most 8.",
  "isRemote": false,
  "ogImage": "https://nextapply.co.uk/gates-cambridge-scholarship-2027-fully-funded/opengraph-image",
  "tags": [
@@ -55,7 +55,7 @@
   "artificial_intelligence"
  ],
  "stipendCurrency": "GBP",
- "verificationScore": 100,
+ "verificationScore": null,
  "deadlineType": "fixed",
  "regionId": "europe",
  "sourceType": "official_organization",
@@ -108,6 +108,5 @@
     "priceCurrency": "GBP"
    }
   }
- },
- "verifiedAt": "2026-10-30T00:00:00.000Z"
+ }
 }
