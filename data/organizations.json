@@ -3886,5 +3886,77 @@
     "status": "published",
     "updatedAt": "2026-10-26T02:33:25.000Z",
     "id": "Vf2gYs7mTbNe4Hwq9XkR"
+  },
+  {
+    "createdAt": "2026-10-31T00:00:00.000Z",
+    "website": "https://www.sciencespo.fr",
+    "about": "Sciences Po (Paris Institute of Political Studies) is one of Europe's leading universities for politics, international relations, law, economics and social sciences. The Émile Boutmy scholarship is its principal funding scheme for students from outside the European Union.",
+    "name": "Sciences Po",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=www.sciencespo.fr&sz=256",
+    "slug": "sciences-po",
+    "status": "published",
+    "updatedAt": "2026-10-31T00:00:00.000Z",
+    "id": "gCatz4llKrQeOspU61Ao"
+  },
+  {
+    "createdAt": "2026-10-31T00:00:00.000Z",
+    "website": "https://www.scholarships.sk",
+    "about": "SAIA is the Slovak national agency that administers the National Scholarship Programme of the Slovak Republic on behalf of the Government of Slovakia, funding study and research stays of international students, PhD candidates, university teachers, researchers and artists at Slovak institutions.",
+    "name": "SAIA – Slovak Academic Information Agency",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=www.scholarships.sk&sz=256",
+    "slug": "saia-slovak-academic-information-agency",
+    "status": "published",
+    "updatedAt": "2026-10-31T00:00:00.000Z",
+    "id": "TuvnCkXxTt0V21dDGq9z"
+  },
+  {
+    "createdAt": "2026-10-31T00:00:00.000Z",
+    "website": "https://international.pte.hu",
+    "about": "Founded in 1367, the University of Pécs is Hungary's oldest university and one of the largest Stipendium Hungaricum host universities, enrolling several thousand scholarship students across medical, health, business, engineering, humanities and arts programmes.",
+    "name": "University of Pécs",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=international.pte.hu&sz=256",
+    "slug": "university-of-pecs",
+    "status": "published",
+    "updatedAt": "2026-10-31T00:00:00.000Z",
+    "id": "JVqeXLUFeocsNFfbMLua"
+  },
+  {
+    "createdAt": "2026-10-31T00:00:00.000Z",
+    "website": "https://www.gu.se",
+    "about": "With roughly 37,000 students, the University of Gothenburg is one of Sweden's largest universities. The Axel Adler Scholarship is its principal tuition-fee waiver for fee-paying (non-EU/EEA) students admitted to bachelor's and master's programmes.",
+    "name": "University of Gothenburg",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=www.gu.se&sz=256",
+    "slug": "university-of-gothenburg",
+    "status": "published",
+    "updatedAt": "2026-10-31T00:00:00.000Z",
+    "id": "bMNFFYCZxlDobRqNKjwO"
+  },
+  {
+    "createdAt": "2026-10-31T00:00:00.000Z",
+    "website": "https://www.ceu.edu",
+    "about": "Central European University is a US- and Austrian-accredited graduate research university headquartered in Vienna, known for its generous financial aid: doctoral students receive a multi-year stipend and most master's applicants are automatically considered for tuition awards.",
+    "name": "Central European University (CEU)",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=www.ceu.edu&sz=256",
+    "slug": "central-european-university",
+    "status": "published",
+    "updatedAt": "2026-10-31T00:00:00.000Z",
+    "id": "oWtAPB89SA6oJzO1UCOZ"
+  },
+  {
+    "createdAt": "2026-10-31T00:00:00.000Z",
+    "website": "https://www.uoguelph.ca",
+    "about": "The University of Guelph is a research-intensive Canadian university in Ontario known for veterinary, agricultural, food and life sciences. Its President's Scholarship is the flagship entrance award for international undergraduate students.",
+    "name": "University of Guelph",
+    "programCount": 1,
+    "logoUrl": "https://www.google.com/s2/favicons?domain=www.uoguelph.ca&sz=256",
+    "slug": "university-of-guelph",
+    "status": "published",
+    "updatedAt": "2026-10-31T00:00:00.000Z",
+    "id": "1jKmwKLpsq0gpfCViyKt"
   }
 ]
