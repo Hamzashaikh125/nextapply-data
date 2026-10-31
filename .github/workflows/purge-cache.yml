@@ -5,9 +5,13 @@
 #     - Secret  DATA_SYNC_WEBHOOK_TOKEN  (same value as the DATA_SYNC_WEBHOOK_TOKEN
 #       env var on Vercel: Project Settings > Environment Variables)
 #     - Variable SITE_URL = https://nextapply.co.uk  (optional, has a default)
-#     - Variable VERCEL_SITE_URL = https://<project>.vercel.app  (OPTIONAL
-#       fallback origin that bypasses Cloudflare entirely, used only if the
-#       main domain gets challenged)
+#     - Variable VERCEL_SITE_URL = https://<project>.vercel.app  (STRONGLY
+#       RECOMMENDED - the direct Vercel origin that bypasses Cloudflare
+#       entirely. Find it: Vercel dashboard > the NextApply project (the one
+#       with the nextapply.co.uk domain) > Settings > Domains > copy the
+#       "<project>.vercel.app" URL. Without this, webhook calls depend on
+#       Cloudflare letting GitHub runner IPs through - which is IP-reputation
+#       roulette: run #31 passed, run #32 got a 403 "Just a moment..." page.)
 #
 # What it does on every push that changes public/data/**:
 #   1. Finds the files changed in the latest public/data commit (works for manual
@@ -17,29 +21,34 @@
 #      PATHS (the endpoint rejects more than 50 in one request). Each batch
 #      also sends changedSlugs derived from public/data/opportunities/<slug>.json
 #      so the site revalidates the changed DETAIL pages (+ their checklist
-#      mirrors) on demand — that is what lets the site's listing pages use a
-#      weekly ISR window without going stale (Vercel bills an ISR write only
-#      when regenerated content CHANGES, so untouched pages cost nothing).
+#      mirrors) on demand.
+#
+# v5 changes (run #32 fix - Cloudflare IP-reputation roulette):
+#   - When VERCEL_SITE_URL is set it is tried FIRST (the *.vercel.app origin
+#     has no Cloudflare in front of it - the only deterministic path).
+#   - ANY failure (not just a detected Cloudflare challenge) now falls
+#     through to the next origin; up to 3 rounds with 2s/5s backoff.
+#   - Browser User-Agent rotates across retries (Chrome/Chrome/Firefox) -
+#     Cloudflare scores the client fingerprint, so verdicts differ per attempt.
+#   - Error classification with actionable messages:
+#       401 = token mismatch (GitHub secret vs Vercel env var)
+#       404 = wrong origin (not the production project / code outdated)
+#       403+challenge = the one-time VERCEL_SITE_URL or Cloudflare-rule fix
+#   - curl --connect-timeout added so network black holes fail fast.
 #
 # v4 changes (Vercel ISR-writes quota fix):
-#   - Sends { "paths": [...batch], "changedSlugs": [...slugs] } per batch —
+#   - Sends { "paths": [...batch], "changedSlugs": [...slugs] } per batch -
 #     the site's webhook revalidates /<slug> AND /checklist/<slug> immediately.
-#     Data edits are now visible on detail pages in seconds, not "up to a
-#     week" (listing pages moved from a daily to a weekly ISR window to cut
-#     Vercel ISR Writes, which had hit 100% of the 200,000/month allowance).
+#     Listing pages use a weekly ISR window (Vercel bills an ISR write only
+#     when regenerated content CHANGES, so untouched pages cost nothing).
 #   - Fallback origin renamed NETLIFY_SITE_URL -> VERCEL_SITE_URL (the site
 #     runs on Vercel behind Cloudflare; the .vercel.app origin bypasses CF).
 #   - Browser-like headers on webhook calls (v3 Cloudflare fix) kept.
 #
 # v3 fixes (the HTTP 403 "Just a moment..." Cloudflare error):
-#   - The site is proxied through Cloudflare, and its bot protection
-#     challenged every non-browser client (curl's default User-Agent) with a
-#     JS challenge page: HTTP 403 + "Just a moment...". Webhook calls now
-#     send a real browser User-Agent + standard browser headers (verified
-#     live: Cloudflare passes them and the app answers).
-#   - Detects Cloudflare challenge responses specifically and prints an
-#     actionable error instead of a truncated HTML dump.
-#   - Retries with a short backoff (was: immediate retry).
+#   - Browser-like headers let the webhook through in most cases; detects
+#     Cloudflare challenge responses specifically and prints an actionable
+#     error instead of a truncated HTML dump.
 #
 # v2 fixes:
 #   - Site webhook: chunked into 50-path batches (was: all at once -> HTTP 400
@@ -110,32 +119,54 @@ jobs:
           import json, os, subprocess, sys, time
 
           paths = [l.strip() for l in open('changed.txt') if l.strip()]
-          site = os.environ.get('SITE_URL') or 'https://nextapply.co.uk'
-          fallback = os.environ.get('VERCEL_SITE_URL') or ''
+
+          def norm(url):
+              url = (url or '').strip().rstrip('/')
+              if url and not url.startswith('http'):
+                  url = 'https://' + url
+              return url
+
+          site = norm(os.environ.get('SITE_URL')) or 'https://nextapply.co.uk'
+          fallback = norm(os.environ.get('VERCEL_SITE_URL'))
           token = os.environ.get('WEBHOOK_TOKEN') or ''
           CHUNK = 50   # endpoint hard limit: "Too many purge paths (max 50)."
           # The endpoint's changedSlugs cap is 100; a batch is <=50 paths, so
           # its derived slug count is always within the cap.
           OPP = 'public/data/opportunities/'
 
-          # The site sits behind Cloudflare, which challenges non-browser
-          # clients (default curl UA -> 403 "Just a moment..." JS challenge).
-          # Browser-like headers let the webhook through (verified live).
-          UA = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
-                '(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36')
+          # Origins in priority order. The direct Vercel origin (when set) has
+          # NO Cloudflare in front of it, so it goes first; the Cloudflare-
+          # proxied main domain is the backup. Both hit the same serverless
+          # webhook and the same ISR cache, so either one is sufficient.
+          origins = []
+          if fallback:
+              origins.append(('origin', fallback))
+          origins.append(('main', site))
 
-          def call(url, payload):
+          # Cloudflare scores the client fingerprint. Rotating realistic
+          # browser UAs across retries materially changes the verdict.
+          UAS = [
+              'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+              '(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+              'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 '
+              '(KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36',
+              'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) '
+              'Gecko/20100101 Firefox/135.0',
+          ]
+
+          def call(base, payload, ua):
               r = subprocess.run(
-                  ['curl', '-s', '--compressed', '--max-time', '120',
+                  ['curl', '-s', '--compressed',
+                   '--connect-timeout', '15', '--max-time', '120',
                    '-o', 'resp.json', '-w', '%{http_code}',
-                   '-A', UA,
+                   '-A', ua,
                    '-H', 'Accept: application/json, text/plain, */*',
                    '-H', 'Accept-Language: en-US,en;q=0.9',
                    '-X', 'POST',
                    '-H', f'x-webhook-token: {token}',
                    '-H', 'Content-Type: application/json',
                    '-d', payload,
-                   f'{url}/api/webhooks/data-sync'],
+                   f'{base}/api/webhooks/data-sync'],
                   capture_output=True, text=True)
               body = ''
               if os.path.exists('resp.json'):
@@ -143,10 +174,21 @@ jobs:
                   except Exception: pass
               return (r.stdout.strip() or '000'), body
 
-          def is_cf_challenge(code, body):
-              markers = ('Just a moment', 'challenges.cloudflare.com',
-                         'cf-chl', 'Attention Required')
-              return code in ('403', '503') and any(m in body for m in markers)
+          def classify(code, body):
+              if code == '200':
+                  return 'ok'
+              if code == '401':
+                  return 'token'
+              if code == '404':
+                  return 'missing'
+              if code == '400':
+                  return 'payload'
+              if code in ('403', '503') and any(
+                      m in body for m in ('Just a moment',
+                                          'challenges.cloudflare.com',
+                                          'cf-chl', 'Attention Required')):
+                  return 'cf'
+              return 'retry'   # 5xx, timeouts, network errors
 
           if not token:
               print('::error::DATA_SYNC_WEBHOOK_TOKEN secret is not set '
@@ -166,23 +208,50 @@ jobs:
           for b in range(batches):
               batch = paths[b * CHUNK:(b + 1) * CHUNK]
               payload = json.dumps({"paths": batch, "changedSlugs": slugs_of(batch)})
-              code, body = call(site, payload)
-              print(f'batch {b+1}/{batches}: {len(batch)} paths -> HTTP {code} {body}')
-              # Cloudflare challenge on the main domain? Try the direct origin.
-              if code != '200' and is_cf_challenge(code, body) and fallback:
-                  code, body = call(fallback, payload)
-                  print(f'  fallback origin -> HTTP {code} {body}')
-              # One retry with a short backoff.
-              if code != '200':
-                  time.sleep(2)
-                  code, body = call(site, payload)
-                  print(f'  retry -> HTTP {code} {body}')
-              if code != '200':
-                  msg = f'batch {b+1} HTTP {code} {body}'
-                  if is_cf_challenge(code, body):
-                      msg += (' [Cloudflare challenge - fix: add a WAF Skip rule for '
-                              '/api/webhooks/data-sync in Cloudflare, or set the '
-                              'VERCEL_SITE_URL repo variable]')
+              done, fatal, last = False, None, ('000', '', 'main')
+              # Up to 3 rounds; each round tries every origin once (UA rotates
+              # per round). Config errors (token/origin) abort immediately -
+              # retrying cannot help those.
+              for rnd in range(3):
+                  for name, base in origins:
+                      code, body = call(base, payload, UAS[rnd % len(UAS)])
+                      kind = classify(code, body)
+                      last = (code, body, name)
+                      print(f'batch {b+1}/{batches} round {rnd+1} via {name}: '
+                            f'{len(batch)} paths -> HTTP {code} {body}')
+                      if kind == 'ok':
+                          done = True
+                          break
+                      if kind in ('token', 'missing', 'payload'):
+                          fatal = kind
+                          break
+                  if done or fatal:
+                      break
+                  time.sleep(2 + 3 * rnd)   # 2s, then 5s
+              if not done:
+                  code, body, name = last
+                  kind = fatal or classify(code, body)
+                  msg = f'batch {b+1} HTTP {code} via {name} {body}'
+                  if kind == 'token':
+                      msg += (' [DATA_SYNC_WEBHOOK_TOKEN mismatch: the GitHub '
+                              'secret and the Vercel env var must hold the SAME '
+                              'value - fix in repo Settings > Secrets and '
+                              'variables > Actions]')
+                  elif kind == 'missing':
+                      msg += (' [/api/webhooks/data-sync not found on this '
+                              'origin - VERCEL_SITE_URL must point at the '
+                              'PRODUCTION NextApply project (the one serving '
+                              'nextapply.co.uk), not an old project]')
+                  elif kind == 'cf':
+                      msg += (' [Cloudflare challenged the GitHub runner IP. '
+                              'ONE-TIME FIX: repo Settings > Secrets and '
+                              'variables > Actions > Variables > add '
+                              'VERCEL_SITE_URL = https://<project>.vercel.app '
+                              '(direct Vercel origin - find it in Vercel > '
+                              'Project > Settings > Domains). Alternative: '
+                              'Cloudflare > Rules > Configuration Rules > '
+                              'URI Path equals /api/webhooks/data-sync > '
+                              'Security Level: Essentially Off]')
                   fails.append(msg)
           if fails:
               for f in fails:
@@ -200,5 +269,6 @@ jobs:
             echo "- Changed public/data files: \`${{ steps.diff.outputs.count }}\`"
             echo "- jsDelivr per-file purge: all files, 8x parallel"
             echo "- Site webhook: batches of 50 paths + changedSlugs (ISR on-demand: /{slug} + /checklist/{slug} + hubs)"
-            echo "- Webhook calls send browser-like headers (Cloudflare bot protection fix)"
+            echo "- Origins: \${VERCEL_SITE_URL:+direct origin first, }main domain fallback - 3 rounds, rotating browser UAs"
+            echo "- If a Cloudflare challenge error appears: set the VERCEL_SITE_URL repo variable once (see the error message)"
           } >> "$GITHUB_STEP_SUMMARY"
