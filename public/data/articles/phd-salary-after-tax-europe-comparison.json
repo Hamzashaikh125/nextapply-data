@@ -21,15 +21,19 @@
   "phd net salary europe",
   "switzerland phd salary net",
   "sweden phd salary after tax",
-  "germany phd salary net"
+  "germany phd salary net",
+  "phd salary in euros",
+  "phd salary denmark after tax",
+  "phd salary norway after tax",
+  "phd student salary in sweden after tax"
  ],
  "author": "NextApply Team",
  "status": "published",
  "isFeatured": false,
  "publishedAt": "2026-10-26T10:00:00.000Z",
  "createdAt": "2026-10-26T10:00:00.000Z",
- "updatedAt": "2026-10-31",
- "lastReviewedAt": "2026-10-31",
+ "updatedAt": "2026-11-01",
+ "lastReviewedAt": "2026-11-01",
  "ogImage": "https://cdn.jsdelivr.net/gh/Hamzashaikh125/nextapply-data@main/public/data/article-images/phd-salary-after-tax-europe-comparison.jpg",
  "featuredImage": "https://cdn.jsdelivr.net/gh/Hamzashaikh125/nextapply-data@main/public/data/article-images/phd-salary-after-tax-europe-comparison.jpg",
  "excerpt": "What PhD salaries pay after tax across eight European systems — the net numbers that decide your standard of living.",
@@ -39,7 +43,7 @@
  "charts": [
   {
    "id": "phd-net-pay",
-   "type": "bars",
+   "type": "bar",
    "title": "Approximate net monthly PhD pay (EUR equivalent)",
    "unit": "€/month",
    "source": "2026 salary scales, standard single-person taxation; NextApply calculations.",

@@ -63,7 +63,7 @@
  "addedDate": "2026-10-15T13:58:49.220Z",
  "clickCount": 0,
  "createdAt": "2026-10-15T13:58:49.395Z",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "publishedAt": "2026-10-15T13:58:49.395Z",
  "fundingStatus": "fully_funded",
  "id": "SDeOcjS6zAZ01OcOgQlg",
@@ -111,5 +111,6 @@
    }
   },
   "validThrough": "2026-11-01T23:59:00.000Z"
- }
+ },
+ "expiredAt": null
 }

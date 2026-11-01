@@ -28,7 +28,7 @@
  "isFeatured": false,
  "publishedAt": "2026-10-24T12:00:00.000Z",
  "createdAt": "2026-10-24T12:00:00.000Z",
- "updatedAt": "2026-10-24",
+ "updatedAt": "2026-11-01",
  "lastReviewedAt": "2026-10-24",
  "ogImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&h=630&q=85",
  "featuredImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&h=630&q=85",
@@ -39,7 +39,7 @@
  "charts": [
   {
    "id": "eiffel-allowance",
-   "type": "bars",
+   "type": "bar",
    "title": "Eiffel monthly allowance by level",
    "unit": "€/month",
    "source": "Campus France, France Excellence Eiffel programme.",

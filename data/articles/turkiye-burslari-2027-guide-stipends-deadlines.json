@@ -21,15 +21,19 @@
   "turkey burslari scholarship 2027",
   "turkiye scholarship stipend",
   "türkiye burslari deadline",
-  "turkey government scholarship"
+  "turkey government scholarship",
+  "türkiye bursları 2027 başvuru tarihleri",
+  "turkiye burslari 2027 opening date",
+  "turkish government scholarship 2027",
+  "türkiye scholarships 2027 application dates"
  ],
  "author": "NextApply Team",
  "status": "published",
  "isFeatured": false,
  "publishedAt": "2026-10-23T13:30:00.000Z",
  "createdAt": "2026-10-23T13:30:00.000Z",
- "updatedAt": "2026-10-31",
- "lastReviewedAt": "2026-10-31",
+ "updatedAt": "2026-11-01",
+ "lastReviewedAt": "2026-11-01",
  "ogImage": "https://cdn.jsdelivr.net/gh/Hamzashaikh125/nextapply-data@main/public/data/article-images/turkiye-burslari-2027-guide-stipends-deadlines.jpg",
  "featuredImage": "https://cdn.jsdelivr.net/gh/Hamzashaikh125/nextapply-data@main/public/data/article-images/turkiye-burslari-2027-guide-stipends-deadlines.jpg",
  "excerpt": "Türkiye Bursları 2027: stipends, CGPA and age limits, and how the five selection stages really work.",
@@ -39,7 +43,7 @@
  "charts": [
   {
    "id": "burslari-stipends",
-   "type": "bars",
+   "type": "bar",
    "title": "Türkiye Bursları monthly stipend by level",
    "unit": "TL/month",
    "source": "Türkiye Scholarships official site, 2026.",

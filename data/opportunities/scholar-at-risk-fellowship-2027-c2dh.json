@@ -27,7 +27,7 @@
  ],
  "isFeatured": false,
  "slug": "scholar-at-risk-fellowship-2027-c2dh",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "31 October 2026",
  "verificationStatus": "unverified",
  "seoDescription": "Postdoctoral opportunity in Scholar at Risk Fellowship 2027 at Luxembourg Centre for Contemporary and Digital History at Luxembourg Centre for",
@@ -48,7 +48,7 @@
   "Luxembourg"
  ],
  "opportunityType": "fellowship",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "history",
   "digital_humanities"
@@ -66,7 +66,7 @@
   "slug": "luxembourg-centre-for-contemporary-and-digital-history-c-dh"
  },
  "category": "fellowship",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-09-23T12:15:17.501Z",
  "id": "RvSXH9Ryc45voJT5gW1B",
  "keywords": [
@@ -121,5 +121,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

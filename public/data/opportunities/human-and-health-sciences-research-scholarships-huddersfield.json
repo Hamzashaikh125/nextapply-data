@@ -23,7 +23,7 @@
  ],
  "isFeatured": false,
  "slug": "human-and-health-sciences-research-scholarships-huddersfield",
- "updatedAt": "2026-10-29T04:10:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "30 October 2026; references 6 November",
  "verificationStatus": "verified",
  "seoDescription": "Huddersfield's human and health sciences research scholarships support doctoral work within the School's advertised research areas.",
@@ -44,7 +44,7 @@
   "PhD"
  ],
  "opportunityType": "scholarship",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "psychology",
   "health_sciences",
@@ -63,7 +63,7 @@
   "slug": "university-of-huddersfield"
  },
  "category": "scholarship",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T14:31:52.734Z",
  "id": "9OP4O1sA33MFGSZYwRNa",
  "lastVerifiedAt": "2026-10-23T00:45:18.000Z",
@@ -103,5 +103,6 @@
     "priceCurrency": "GBP"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

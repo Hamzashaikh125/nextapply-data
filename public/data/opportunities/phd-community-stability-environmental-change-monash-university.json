@@ -27,7 +27,7 @@
  ],
  "isFeatured": false,
  "slug": "phd-community-stability-environmental-change-monash-university",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "30 October 2026",
  "verificationStatus": "unverified",
  "seoDescription": "PhD opportunity in Community Stability under Environmental Change at Monash University at Monash University - Ghedini Lab (Melbourne). Fully funded",
@@ -48,7 +48,7 @@
   "Environmental Change"
  ],
  "opportunityType": "phd_position",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "biology",
   "environmental_science",
@@ -67,7 +67,7 @@
   "slug": "monash-university-ghedini-lab"
  },
  "category": "phd_position",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-09-23T12:00:23.929Z",
  "id": "EymRFoGPA7M84Z0JUdyS",
  "keywords": [
@@ -121,5 +121,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

@@ -27,7 +27,7 @@
  ],
  "isFeatured": false,
  "slug": "phd-near-field-wave-physics-kcl",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "1 November 2026, 00:00 GMT",
  "publishedAt": "2026-08-22T20:43:26.758Z",
  "verificationStatus": "unverified",
@@ -121,5 +121,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": null
 }

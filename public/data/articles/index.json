@@ -1,7 +1,16 @@
 {
- "total": 88,
- "generatedAt": "2026-10-31T12:00:00.000Z",
+ "total": 98,
+ "generatedAt": "2026-11-01T12:00:00.000Z",
  "articles": [
+  {
+   "slug": "adb-japan-scholarship-program-2027-guide",
+   "title": "ADB–Japan Scholarship Program 2027: Benefits, Eligibility, Deadlines",
+   "category": "Funding & Scholarships",
+   "wordCount": 847,
+   "isFeatured": false,
+   "updatedAt": "2026-11-01",
+   "readingTimeMinutes": 4
+  },
   {
    "slug": "age-limit-scholarships-phd-europe",
    "title": "Age Limits for Scholarships and PhDs in Europe: The Honest List for 2027",
@@ -17,7 +26,7 @@
    "category": "UK Study, Visa & After-Study",
    "wordCount": 1029,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -26,7 +35,7 @@
    "category": "Study Abroad Guides",
    "wordCount": 964,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -53,7 +62,7 @@
    "category": "Applications & Supervisors",
    "wordCount": 1729,
    "isFeatured": false,
-   "updatedAt": "2026-10-31",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 8
   },
   {
@@ -62,7 +71,7 @@
    "category": "Profile & Eligibility",
    "wordCount": 1520,
    "isFeatured": false,
-   "updatedAt": "2026-10-21T00:00:00Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -80,7 +89,7 @@
    "category": "Study Abroad Guides",
    "wordCount": 942,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -89,7 +98,7 @@
    "category": "Funding & Scholarships",
    "wordCount": 1153,
    "isFeatured": true,
-   "updatedAt": "2026-10-31",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -98,7 +107,7 @@
    "category": "Funding & Scholarships",
    "wordCount": 1024,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -107,7 +116,7 @@
    "category": "Country Comparisons & Salaries",
    "wordCount": 1478,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -116,7 +125,7 @@
    "category": "Funding & Scholarships",
    "wordCount": 1475,
    "isFeatured": true,
-   "updatedAt": "2026-10-21T00:00:00Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -125,7 +134,7 @@
    "category": "Funding & Scholarships",
    "wordCount": 953,
    "isFeatured": false,
-   "updatedAt": "2026-10-24",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -134,16 +143,16 @@
    "category": "Funding & Scholarships",
    "wordCount": 1033,
    "isFeatured": true,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
    "slug": "erasmus-mundus-scholarship-complete-guide",
    "title": "Erasmus Mundus Scholarship: The Complete Guide (2027 Intake)",
-   "category": null,
+   "category": "",
    "wordCount": 1528,
    "isFeatured": false,
-   "updatedAt": "2026-10-24T05:01:06.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -152,8 +161,35 @@
    "category": "Eligibility & Requirements",
    "wordCount": 1016,
    "isFeatured": false,
-   "updatedAt": "2026-10-31",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
+  },
+  {
+   "slug": "eth-ai-center-doctoral-fellowship-guide",
+   "title": "ETH AI Center Doctoral Fellowship: Salary, Deadlines and How to Apply",
+   "category": "Funding & Scholarships",
+   "wordCount": 987,
+   "isFeatured": false,
+   "updatedAt": "2026-11-01",
+   "readingTimeMinutes": 4
+  },
+  {
+   "slug": "fully-funded-ai-phd-europe-2027",
+   "title": "Fully Funded AI PhD in Europe 2027: Programs, Salaries, Deadlines",
+   "category": "Funding & Scholarships",
+   "wordCount": 864,
+   "isFeatured": false,
+   "updatedAt": "2026-11-01",
+   "readingTimeMinutes": 4
+  },
+  {
+   "slug": "gks-korea-government-scholarship-2027-guide",
+   "title": "GKS Korea Government Scholarship 2027: Stipends, Deadlines, Tracks",
+   "category": "Funding & Scholarships",
+   "wordCount": 892,
+   "isFeatured": false,
+   "updatedAt": "2026-11-01",
+   "readingTimeMinutes": 4
   },
   {
    "slug": "graduate-route-vs-psw-vs-opt-working-abroad-2027",
@@ -161,7 +197,7 @@
    "category": "UK Study, Visa & After-Study",
    "wordCount": 1579,
    "isFeatured": false,
-   "updatedAt": "2026-10-21T00:00:00Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -170,7 +206,7 @@
    "category": "Funding & Scholarships",
    "wordCount": 1010,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -179,7 +215,7 @@
    "category": "UK Study, Visa & After-Study",
    "wordCount": 1459,
    "isFeatured": false,
-   "updatedAt": "2026-10-21T00:00:00Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -188,7 +224,7 @@
    "category": "UK Study, Visa & After-Study",
    "wordCount": 1513,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -212,11 +248,20 @@
   {
    "slug": "how-to-find-apply-research-internships-europe",
    "title": "How to Find and Apply for Research Internships in Europe (2026-27)",
-   "category": null,
+   "category": "",
    "wordCount": 1489,
    "isFeatured": false,
-   "updatedAt": "2026-10-24T05:01:06.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
+  },
+  {
+   "slug": "how-to-find-phd-supervisor-email-contact",
+   "title": "How to Find a PhD Supervisor's Email Address (and Exactly What to Write)",
+   "category": "Applications & Supervisors",
+   "wordCount": 516,
+   "isFeatured": false,
+   "updatedAt": "2026-10-31",
+   "readingTimeMinutes": 3
   },
   {
    "slug": "how-to-follow-up-phd-supervisor-does-not-reply",
@@ -224,7 +269,7 @@
    "category": "Applications & Supervisors",
    "wordCount": 1481,
    "isFeatured": false,
-   "updatedAt": "2026-10-21T00:00:00Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -233,7 +278,7 @@
    "category": "Funding & Scholarships",
    "wordCount": 1517,
    "isFeatured": false,
-   "updatedAt": "2026-10-21T00:00:00Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -251,7 +296,7 @@
    "category": "Application Documents",
    "wordCount": 1503,
    "isFeatured": false,
-   "updatedAt": "2026-10-31",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -260,7 +305,7 @@
    "category": "Application Documents",
    "wordCount": 1526,
    "isFeatured": false,
-   "updatedAt": "2026-10-31",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -269,7 +314,7 @@
    "category": "Application Documents",
    "wordCount": 1473,
    "isFeatured": false,
-   "updatedAt": "2026-10-21T00:00:00Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -287,7 +332,7 @@
    "category": "Funding & Scholarships",
    "wordCount": 1140,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -305,7 +350,7 @@
    "category": "Robotics & Research",
    "wordCount": 1546,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -323,8 +368,17 @@
    "category": "Profile & Eligibility",
    "wordCount": 1553,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
+  },
+  {
+   "slug": "imprs-phd-programs-germany-complete-list",
+   "title": "IMPRS PhD Programs in Germany: Complete List of Max Planck Research Schools",
+   "category": "Funding & Scholarships",
+   "wordCount": 828,
+   "isFeatured": false,
+   "updatedAt": "2026-11-01",
+   "readingTimeMinutes": 4
   },
   {
    "slug": "italy-dsu-scholarship-2027-guide",
@@ -332,7 +386,7 @@
    "category": "Funding & Scholarships",
    "wordCount": 1052,
    "isFeatured": false,
-   "updatedAt": "2026-10-24",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -347,10 +401,10 @@
   {
    "slug": "marie-curie-msca-doctoral-networks-phd-guide",
    "title": "Marie Curie Doctoral Networks: The Complete PhD Guide (2026-27)",
-   "category": null,
+   "category": "",
    "wordCount": 1520,
    "isFeatured": false,
-   "updatedAt": "2026-10-24T05:01:06.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -359,7 +413,7 @@
    "category": "Profile & Eligibility",
    "wordCount": 1544,
    "isFeatured": false,
-   "updatedAt": "2026-10-21T00:00:00Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -368,7 +422,7 @@
    "category": "Application Documents",
    "wordCount": 1484,
    "isFeatured": false,
-   "updatedAt": "2026-10-31",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -377,7 +431,7 @@
    "category": "Applications & Supervisors",
    "wordCount": 1491,
    "isFeatured": false,
-   "updatedAt": "2026-10-21T00:00:00Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -386,8 +440,26 @@
    "category": "Funding & Scholarships",
    "wordCount": 940,
    "isFeatured": false,
-   "updatedAt": "2026-10-31",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
+  },
+  {
+   "slug": "mp-aix-max-planck-ai-network-phd-program-guide",
+   "title": "MP-AIX PhD Program: Max Planck AI Network Guide (Salary, Deadlines, How to Apply)",
+   "category": "Funding & Scholarships",
+   "wordCount": 996,
+   "isFeatured": false,
+   "updatedAt": "2026-11-01",
+   "readingTimeMinutes": 5
+  },
+  {
+   "slug": "msca-postdoctoral-fellowships-2027-guide",
+   "title": "MSCA Postdoctoral Fellowship 2027 (Marie Curie PF): Deadline 8 September and What It Pays",
+   "category": "Funding & Scholarships",
+   "wordCount": 962,
+   "isFeatured": false,
+   "updatedAt": "2026-11-01",
+   "readingTimeMinutes": 4
   },
   {
    "slug": "no-application-fee-universities-europe-2027",
@@ -413,8 +485,26 @@
    "category": "Applications & Supervisors",
    "wordCount": 1482,
    "isFeatured": false,
-   "updatedAt": "2026-10-31",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
+  },
+  {
+   "slug": "phd-estonia-salary-funding-guide",
+   "title": "PhD in Estonia: Salary, Living Costs and How to Apply (Tartu & TalTech)",
+   "category": "Country Comparisons & Salaries",
+   "wordCount": 767,
+   "isFeatured": false,
+   "updatedAt": "2026-11-01",
+   "readingTimeMinutes": 3
+  },
+  {
+   "slug": "phd-failure-can-you-appeal-viva-resit-guide",
+   "title": "Can You Appeal a PhD Failure? Viva Outcomes, Resits and What Comes Next",
+   "category": "Applications & Supervisors",
+   "wordCount": 573,
+   "isFeatured": false,
+   "updatedAt": "2026-10-31",
+   "readingTimeMinutes": 3
   },
   {
    "slug": "phd-family-visa-europe-comparison",
@@ -431,7 +521,7 @@
    "category": "Study Abroad Guides",
    "wordCount": 983,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -440,16 +530,16 @@
    "category": "Eligibility & Requirements",
    "wordCount": 902,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 4
   },
   {
    "slug": "phd-in-europe-complete-guide-choosing-best-country",
    "title": "PhD in Europe: The Complete Guide to Choosing the Best Country (2027)",
-   "category": null,
+   "category": "",
    "wordCount": 1593,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -462,12 +552,21 @@
    "readingTimeMinutes": 7
   },
   {
+   "slug": "phd-in-luxembourg-salary-funding-guide",
+   "title": "PhD in Luxembourg: Salary (€44,531/year), Funding and Live Positions",
+   "category": "Country Comparisons & Salaries",
+   "wordCount": 755,
+   "isFeatured": false,
+   "updatedAt": "2026-11-01",
+   "readingTimeMinutes": 3
+  },
+  {
    "slug": "phd-in-netherlands-employee-salary-contract",
    "title": "PhD Employment in the Netherlands: Salary, Contract and Funding Routes",
    "category": "Country Comparisons & Salaries",
    "wordCount": 1443,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -485,7 +584,7 @@
    "category": "Study Abroad Guides",
    "wordCount": 957,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -494,8 +593,17 @@
    "category": "Eligibility & Requirements",
    "wordCount": 999,
    "isFeatured": false,
-   "updatedAt": "2026-10-24",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
+  },
+  {
+   "slug": "phd-positions-starting-january-2027",
+   "title": "PhD Positions Starting January 2027: What's Still Open and How to Apply in Time",
+   "category": "Applications & Supervisors",
+   "wordCount": 902,
+   "isFeatured": false,
+   "updatedAt": "2026-11-01",
+   "readingTimeMinutes": 4
   },
   {
    "slug": "phd-research-proposal-europe-structure-sample-pdf",
@@ -512,7 +620,7 @@
    "category": "Funding & Scholarships",
    "wordCount": 947,
    "isFeatured": false,
-   "updatedAt": "2026-10-31",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -521,7 +629,7 @@
    "category": "Country Comparisons & Salaries",
    "wordCount": 1488,
    "isFeatured": false,
-   "updatedAt": "2026-10-31",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -539,7 +647,7 @@
    "category": "Study Abroad Guides",
    "wordCount": 940,
    "isFeatured": false,
-   "updatedAt": "2026-10-24",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -548,7 +656,7 @@
    "category": "Funding & Scholarships",
    "wordCount": 1063,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -557,7 +665,7 @@
    "category": "UK Study, Visa & After-Study",
    "wordCount": 1643,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -566,7 +674,34 @@
    "category": "Profile & Eligibility",
    "wordCount": 974,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
+   "readingTimeMinutes": 4
+  },
+  {
+   "slug": "pre-sessional-english-guaranteed-progression-conditional-offers",
+   "title": "Pre-sessional English with Guaranteed Progression: How Conditional Offers Really Work",
+   "category": "UK Study, Visa & After-Study",
+   "wordCount": 661,
+   "isFeatured": false,
+   "updatedAt": "2026-10-31",
+   "readingTimeMinutes": 3
+  },
+  {
+   "slug": "rhodes-scholarship-2027-complete-guide",
+   "title": "Rhodes Scholarship 2027: Complete Guide (Eligibility, Stipend, Timeline)",
+   "category": "Funding & Scholarships",
+   "wordCount": 892,
+   "isFeatured": false,
+   "updatedAt": "2026-11-01",
+   "readingTimeMinutes": 4
+  },
+  {
+   "slug": "robotics-phd-europe-guide",
+   "title": "Robotics PhD in Europe: Live Positions, Salaries and How to Apply",
+   "category": "Robotics & Research",
+   "wordCount": 868,
+   "isFeatured": false,
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 4
   },
   {
@@ -575,7 +710,7 @@
    "category": "Study Abroad Guides",
    "wordCount": 963,
    "isFeatured": false,
-   "updatedAt": "2026-10-24",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -584,8 +719,17 @@
    "category": "Funding & Scholarships",
    "wordCount": 1464,
    "isFeatured": false,
-   "updatedAt": "2026-10-21T00:00:00Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
+  },
+  {
+   "slug": "scholarships-for-pakistani-students-2027",
+   "title": "Scholarships for Pakistani Students 2027: Every Fully Funded Route",
+   "category": "Funding & Scholarships",
+   "wordCount": 856,
+   "isFeatured": false,
+   "updatedAt": "2026-11-01",
+   "readingTimeMinutes": 4
   },
   {
    "slug": "sop-vs-personal-statement-vs-research-proposal",
@@ -593,7 +737,7 @@
    "category": "Application Documents",
    "wordCount": 1509,
    "isFeatured": false,
-   "updatedAt": "2026-10-31",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -602,7 +746,7 @@
    "category": "Funding & Scholarships",
    "wordCount": 1031,
    "isFeatured": false,
-   "updatedAt": "2026-10-24",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -620,7 +764,7 @@
    "category": "UK Study, Visa & After-Study",
    "wordCount": 1498,
    "isFeatured": false,
-   "updatedAt": "2026-10-21T00:00:00Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -629,7 +773,7 @@
    "category": "Study Abroad Guides",
    "wordCount": 1003,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -638,7 +782,7 @@
    "category": "Funding & Scholarships",
    "wordCount": 1536,
    "isFeatured": true,
-   "updatedAt": "2026-10-21T00:00:00Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -647,7 +791,7 @@
    "category": "Study Abroad Guides",
    "wordCount": 1076,
    "isFeatured": true,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -656,7 +800,7 @@
    "category": "Eligibility & Requirements",
    "wordCount": 961,
    "isFeatured": false,
-   "updatedAt": "2026-10-24",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -665,7 +809,7 @@
    "category": "Funding & Scholarships",
    "wordCount": 1079,
    "isFeatured": false,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -674,7 +818,7 @@
    "category": "Funding & Scholarships",
    "wordCount": 951,
    "isFeatured": false,
-   "updatedAt": "2026-10-31",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -683,7 +827,7 @@
    "category": "Profile & Eligibility",
    "wordCount": 998,
    "isFeatured": true,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
   },
   {
@@ -701,7 +845,7 @@
    "category": "Country Comparisons & Salaries",
    "wordCount": 1448,
    "isFeatured": false,
-   "updatedAt": "2026-10-21T00:00:00Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -710,8 +854,17 @@
    "category": "Funding & Scholarships",
    "wordCount": 1079,
    "isFeatured": true,
-   "updatedAt": "2026-10-29T07:00:00.000Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 5
+  },
+  {
+   "slug": "university-of-waterloo-research-funding-international-students",
+   "title": "University of Waterloo Research Programs: How International Students Get Funded (2027)",
+   "category": "Funding & Scholarships",
+   "wordCount": 817,
+   "isFeatured": false,
+   "updatedAt": "2026-11-01",
+   "readingTimeMinutes": 4
   },
   {
    "slug": "what-does-self-funded-phd-mean-costs-funding-alternatives",
@@ -719,7 +872,7 @@
    "category": "Funding & Scholarships",
    "wordCount": 1578,
    "isFeatured": false,
-   "updatedAt": "2026-10-21T00:00:00Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
   },
   {
@@ -728,71 +881,8 @@
    "category": "Funding & Scholarships",
    "wordCount": 1490,
    "isFeatured": false,
-   "updatedAt": "2026-10-21T00:00:00Z",
+   "updatedAt": "2026-11-01",
    "readingTimeMinutes": 7
-  },
-  {
-   "slug": "eth-ai-center-doctoral-fellowship-guide",
-   "title": "ETH AI Center Doctoral Fellowship: Salary, Deadlines and How to Apply",
-   "category": "Funding & Scholarships",
-   "wordCount": 565,
-   "isFeatured": false,
-   "updatedAt": "2026-10-31",
-   "readingTimeMinutes": 3
-  },
-  {
-   "slug": "how-to-find-phd-supervisor-email-contact",
-   "title": "How to Find a PhD Supervisor's Email Address (and Exactly What to Write)",
-   "category": "Applications & Supervisors",
-   "wordCount": 516,
-   "isFeatured": false,
-   "updatedAt": "2026-10-31",
-   "readingTimeMinutes": 3
-  },
-  {
-   "slug": "msca-postdoctoral-fellowships-2027-guide",
-   "title": "MSCA Postdoctoral Fellowship 2027 (Marie Curie PF): Deadline 8 September and What It Pays",
-   "category": "Funding & Scholarships",
-   "wordCount": 542,
-   "isFeatured": false,
-   "updatedAt": "2026-10-31",
-   "readingTimeMinutes": 3
-  },
-  {
-   "slug": "phd-failure-can-you-appeal-viva-resit-guide",
-   "title": "Can You Appeal a PhD Failure? Viva Outcomes, Resits and What Comes Next",
-   "category": "Applications & Supervisors",
-   "wordCount": 573,
-   "isFeatured": false,
-   "updatedAt": "2026-10-31",
-   "readingTimeMinutes": 3
-  },
-  {
-   "slug": "phd-positions-starting-january-2027",
-   "title": "PhD Positions Starting January 2027: What's Still Open and How to Apply in Time",
-   "category": "Applications & Supervisors",
-   "wordCount": 573,
-   "isFeatured": false,
-   "updatedAt": "2026-10-31",
-   "readingTimeMinutes": 3
-  },
-  {
-   "slug": "pre-sessional-english-guaranteed-progression-conditional-offers",
-   "title": "Pre-sessional English with Guaranteed Progression: How Conditional Offers Really Work",
-   "category": "UK Study, Visa & After-Study",
-   "wordCount": 661,
-   "isFeatured": false,
-   "updatedAt": "2026-10-31",
-   "readingTimeMinutes": 3
-  },
-  {
-   "slug": "university-of-waterloo-research-funding-international-students",
-   "title": "University of Waterloo Research Programs: How International Students Get Funded (2027)",
-   "category": "Funding & Scholarships",
-   "wordCount": 448,
-   "isFeatured": false,
-   "updatedAt": "2026-10-31",
-   "readingTimeMinutes": 3
   }
  ]
 }

@@ -28,7 +28,7 @@
  "isFeatured": false,
  "publishedAt": "2026-10-25T12:00:00.000Z",
  "createdAt": "2026-10-25T12:00:00.000Z",
- "updatedAt": "2026-10-24",
+ "updatedAt": "2026-11-01",
  "lastReviewedAt": "2026-10-24",
  "ogImage": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&h=630&q=85",
  "featuredImage": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&h=630&q=85",
@@ -96,7 +96,7 @@
  "charts": [
   {
    "id": "nordic-pay",
-   "type": "bars",
+   "type": "bar",
    "title": "Doctoral pay across the three systems",
    "unit": "gross per month, local currency",
    "description": "Sweden’s average advertised salary, Denmark’s range midpoint and Norway’s state-scale monthly equivalent.",

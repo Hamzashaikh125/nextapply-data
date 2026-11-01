@@ -21,15 +21,19 @@
   "mext embassy recommendation",
   "japan government scholarship",
   "mext stipend amount",
-  "mext university recommendation"
+  "mext university recommendation",
+  "mext scholarship 2027 university track",
+  "mext embassy track 2027",
+  "mext scholarship timeline",
+  "mext scholarship 2027 deadline"
  ],
  "author": "NextApply Team",
  "status": "published",
  "isFeatured": false,
  "publishedAt": "2026-10-24T10:00:00.000Z",
  "createdAt": "2026-10-24T10:00:00.000Z",
- "updatedAt": "2026-10-31",
- "lastReviewedAt": "2026-10-31",
+ "updatedAt": "2026-11-01",
+ "lastReviewedAt": "2026-11-01",
  "ogImage": "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?auto=format&fit=crop&w=1200&h=630&q=85",
  "featuredImage": "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?auto=format&fit=crop&w=1200&h=630&q=85",
  "excerpt": "MEXT Scholarship 2027: embassy vs university tracks, stipend rates and the real timeline for each intake.",
@@ -39,7 +43,7 @@
  "charts": [
   {
    "id": "mext-stipends",
-   "type": "bars",
+   "type": "bar",
    "title": "MEXT monthly stipend by category",
    "unit": "¥/month",
    "source": "MEXT application guidelines via studyinjapan.go.jp, 2027 cycle.",

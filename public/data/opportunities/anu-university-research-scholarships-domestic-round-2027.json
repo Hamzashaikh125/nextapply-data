@@ -28,7 +28,7 @@
  ],
  "isFeatured": false,
  "slug": "anu-university-research-scholarships-domestic-round-2027",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "31 October 2026 (domestic round)",
  "verificationStatus": "verified",
  "seoDescription": "Australian National University offers a fully funded PhD position in ANU University Research Scholarships: Domestic Round 2027. Stipend: AUD 40,475/year",
@@ -48,7 +48,7 @@
   "All Subjects"
  ],
  "opportunityType": "scholarship",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "all_subjects"
  ],
@@ -65,7 +65,7 @@
   "slug": "australian-national-university"
  },
  "category": "scholarship",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T14:32:07.903Z",
  "id": "EqQ5epx5WL1lGMsqg9dc",
  "keywords": [
@@ -105,5 +105,6 @@
     "priceCurrency": "AUD"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

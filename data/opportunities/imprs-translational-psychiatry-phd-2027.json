@@ -26,7 +26,7 @@
  ],
  "isFeatured": false,
  "slug": "imprs-translational-psychiatry-phd-2027",
- "updatedAt": "2026-10-29T08:00:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "31 October 2026",
  "verificationStatus": "verified",
  "seoDescription": "PhD opportunity in IMPRS Translational Psychiatry PhD 2027 at Max Planck Society (Various). Fully funded. Deadline: 31 October 2026.",
@@ -43,7 +43,7 @@
   "PhD"
  ],
  "opportunityType": "phd_position",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "neuroscience"
  ],
@@ -60,7 +60,7 @@
   "slug": "max-planck-society"
  },
  "category": "phd_position",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T14:27:58.084Z",
  "id": "KWlFOCQDoZEXWX5QvIJ8",
  "lastVerifiedAt": "2026-10-23T00:45:18.000Z",
@@ -116,5 +116,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

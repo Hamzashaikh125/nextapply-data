@@ -28,7 +28,7 @@
  ],
  "isFeatured": false,
  "slug": "rotary-yoneyama-scholarship-2027-apu-japan-living-cost-stipend",
- "updatedAt": "2026-10-29T04:10:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "31 October 2026, 13:00 JST",
  "publishedAt": "2026-09-09T12:35:32.043Z",
  "verificationStatus": "verified",
@@ -50,7 +50,7 @@
   "International Students"
  ],
  "opportunityType": "scholarship",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "all_subjects"
  ],
@@ -68,7 +68,7 @@
   "slug": "rotary-yoneyama-memorial-foundation"
  },
  "category": "scholarship",
- "status": "published",
+ "status": "expired",
  "id": "EikZBN1dm0qGUWjgA98B",
  "lastVerifiedAt": "2026-10-23T00:45:18.000Z",
  "keywords": [
@@ -108,5 +108,6 @@
     "priceCurrency": "JPY"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

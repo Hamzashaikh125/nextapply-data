@@ -27,7 +27,7 @@
  ],
  "isFeatured": false,
  "slug": "aut-doctoral-scholarships-2026-27",
- "updatedAt": "2026-10-29T04:10:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "1 November 2026",
  "verificationStatus": "unverified",
  "seoDescription": "AUT's 1 November 2026 doctoral scholarship round requires applicants to secure doctoral admission and submit a separate scholarship application.",
@@ -104,5 +104,6 @@
     "priceCurrency": "NZD"
    }
   }
- }
+ },
+ "expiredAt": null
 }

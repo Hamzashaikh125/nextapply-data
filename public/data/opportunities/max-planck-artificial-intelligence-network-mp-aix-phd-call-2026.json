@@ -10,7 +10,7 @@
  "eligibility": "worldwide",
  "stipend": "Approx. €3,010/month gross (TV-L E13, 65% — typical doctoral level)",
  "applyLink": "https://ai.mpg.de/how-to-join-phd",
- "seoTitle": "MP-AIX PhD Call 2026: Max Planck AI Network (Deadline 1 November)",
+ "seoTitle": "MP-AIX PhD Program 2026: Max Planck AI Network (Deadline 1 November)",
  "title": "Max Planck Artificial Intelligence Network MP-AIX PhD Call 2026",
  "fundingStatus": "fully_funded",
  "ieltsRequired": false,
@@ -26,7 +26,7 @@
  ],
  "isFeatured": false,
  "slug": "max-planck-artificial-intelligence-network-mp-aix-phd-call-2026",
- "updatedAt": "2026-10-31T00:00:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "31 October 2026, 23:59 Anywhere on Earth",
  "verificationStatus": "unverified",
  "seoDescription": "Max Planck Artificial Intelligence Network (MP-AIX) PhD call: fully funded positions across Max Planck AI institutes. Application deadline 1 November 2026.",
@@ -120,5 +120,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": null
 }

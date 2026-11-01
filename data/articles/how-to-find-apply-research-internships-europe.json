@@ -20,7 +20,7 @@
  "excerpt": "Find funded research internships in Europe: DAAD RISE €992/month for summer 2027, Erasmus+ grants, EURAXESS vacancies and the application that gets picked.",
  "slug": "how-to-find-apply-research-internships-europe",
  "status": "published",
- "updatedAt": "2026-10-24T05:01:06.000Z",
+ "updatedAt": "2026-11-01",
  "id": "how-to-find-apply-research-internships-europe",
  "description": "Find funded research internships in Europe: DAAD RISE €992/month for summer 2027, Erasmus+ grants, EURAXESS vacancies and the application that gets picked.",
  "keywords": [
@@ -111,7 +111,7 @@
   },
   {
    "id": "intern-budget",
-   "type": "bars",
+   "type": "bar",
    "title": "Monthly support by route",
    "unit": "€/month",
    "description": "DAAD RISE €992 (matches the 2026 blocked-account standard); Erasmus+ €300-500 depending on national agency; paid EURAXESS vacancies pay junior salaries. Direct unfunded asks: €0 — bring your own funding instead.",
@@ -182,9 +182,34 @@
  "readingTimeWordsPerMinute": 220,
  "ogImage": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=1200&h=630&q=85",
  "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://nextapply.co.uk/articles/how-to-find-apply-research-internships-europe#article",
+  "mainEntityOfPage": {
+   "@type": "WebPage",
+   "@id": "https://nextapply.co.uk/articles/how-to-find-apply-research-internships-europe"
+  },
+  "url": "https://nextapply.co.uk/articles/how-to-find-apply-research-internships-europe",
+  "headline": "How to Find and Apply for Research Internships in Europe (2026-27)",
+  "description": "Find funded research internships in Europe: DAAD RISE €992/month for summer 2027, Erasmus+ grants, EURAXESS vacancies and the application that gets picked.",
+  "datePublished": "2026-10-13T02:54:16.814Z",
+  "dateModified": "2026-11-01",
+  "inLanguage": "en-GB",
+  "author": {
+   "@type": "Organization",
+   "name": "NextApply Team",
+   "url": "https://nextapply.co.uk/about"
+  },
+  "publisher": {
+   "@type": "Organization",
+   "name": "NextApply",
+   "url": "https://nextapply.co.uk"
+  },
   "image": [
    "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=1200&h=630&q=85"
-  ]
+  ],
+  "articleSection": "",
+  "keywords": "research internship europe, daad rise germany 2027, summer research fellowship europe, paid research internship students, erasmus traineeship grant, euraxess vacancies, research assistant internship europe"
  },
  "relatedArticles": [
   "/articles/erasmus-mundus-scholarship-complete-guide",

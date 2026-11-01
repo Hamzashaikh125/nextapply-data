@@ -27,7 +27,7 @@
  ],
  "isFeatured": false,
  "slug": "sutd-phd-scholarship-january-2027-intake",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "30 October 2026",
  "verificationStatus": "verified",
  "seoDescription": "PhD in SUTD PhD Scholarship: January 2027 Intake — Singapore University of Technology and Design (SUTD), Singapore. Fully funded. Apply by 30 October 2026.",
@@ -44,7 +44,7 @@
   "PhD"
  ],
  "opportunityType": "scholarship",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "engineering"
  ],
@@ -61,7 +61,7 @@
   "slug": "singapore-university-of-technology-and-design-sutd"
  },
  "category": "scholarship",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T14:28:11.620Z",
  "id": "OSyX2Y8SrdhaKq9u8jrg",
  "lastVerifiedAt": "2026-10-23T00:45:18.000Z",
@@ -101,5 +101,6 @@
     "priceCurrency": "SGD"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

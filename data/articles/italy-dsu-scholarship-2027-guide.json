@@ -28,7 +28,7 @@
  "isFeatured": false,
  "publishedAt": "2026-10-23T12:30:00.000Z",
  "createdAt": "2026-10-23T12:30:00.000Z",
- "updatedAt": "2026-10-24",
+ "updatedAt": "2026-11-01",
  "lastReviewedAt": "2026-10-24",
  "ogImage": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=1200&h=630&q=85",
  "featuredImage": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=1200&h=630&q=85",
@@ -97,7 +97,7 @@
  "charts": [
   {
    "id": "dsu-value",
-   "type": "bars",
+   "type": "bar",
    "title": "DSU grant value, 2026/27 reference",
    "unit": "€ per year",
    "description": "The fuori sede (living away from home) cash range, plus the separate visa funds rule that a DSU application does not satisfy.",

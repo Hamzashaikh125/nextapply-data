@@ -1,8 +1,8 @@
 {
  "title": "PhD in Spatial Statistics for IoT and Remote Sensing of Tree Crop Diseases at Twente, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "phd-iot-and-tree-crop-disease-mapping-twente-2026",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "jGc3ALW15fGcYhQbIkh5",
  "organization": {
@@ -62,7 +62,7 @@
  "addedDate": "2026-10-15T14:29:08.863Z",
  "clickCount": 0,
  "createdAt": "2026-10-15T14:29:09.090Z",
- "updatedAt": "2026-10-29T04:10:00.000Z",
+ "updatedAt": "2026-11-01",
  "publishedAt": "2026-10-15T14:29:09.090Z",
  "fundingStatus": "fully_funded",
  "id": "69BiDMKq49MDrdkTykLj",
@@ -123,5 +123,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

@@ -1,8 +1,8 @@
 {
  "title": "PhD in Cattle Metabolomics and Methane Mitigation at University of Liverpool, UK",
- "status": "published",
+ "status": "expired",
  "slug": "phd-methane-mitigation-and-cattle-metabolomics-liverpool-2027",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "OobqZHjQk6PJYqQTw9AI",
  "organization": {
@@ -61,7 +61,7 @@
  "addedDate": "2026-10-15T22:08:27.858Z",
  "clickCount": 0,
  "createdAt": "2026-10-15T22:08:28.033Z",
- "updatedAt": "2026-10-29T06:00:00.000Z",
+ "updatedAt": "2026-11-01",
  "publishedAt": "2026-10-15T22:08:28.033Z",
  "fundingStatus": "fully_funded",
  "id": "z5Byg6SOPkNE2EbDa8Bs",
@@ -109,5 +109,6 @@
    }
   },
   "validThrough": "2026-10-31T23:59:59.999Z"
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

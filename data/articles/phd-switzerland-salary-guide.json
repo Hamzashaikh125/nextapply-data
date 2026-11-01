@@ -21,15 +21,19 @@
   "eth zurich phd salary",
   "swiss doctoral salary chf",
   "epfl phd salary",
-  "phd switzerland funding"
+  "phd switzerland funding",
+  "phd salary in switzerland per month",
+  "phd student salary in switzerland after tax",
+  "eth zurich phd salary after tax",
+  "swiss phd salary"
  ],
  "author": "NextApply Team",
  "status": "published",
  "isFeatured": false,
  "publishedAt": "2026-10-27T12:00:00.000Z",
  "createdAt": "2026-10-27T12:00:00.000Z",
- "updatedAt": "2026-10-24",
- "lastReviewedAt": "2026-10-24",
+ "updatedAt": "2026-11-01",
+ "lastReviewedAt": "2026-11-01",
  "ogImage": "https://images.unsplash.com/photo-1543269865-cbf427effbad?auto=format&fit=crop&w=1200&h=630&q=85",
  "featuredImage": "https://images.unsplash.com/photo-1543269865-cbf427effbad?auto=format&fit=crop&w=1200&h=630&q=85",
  "excerpt": "Swiss PhD salaries: CHF 50,000-68,000 on contract scales — and what they buy in Zurich, Basel and Lausanne.",
@@ -39,7 +43,7 @@
  "charts": [
   {
    "id": "swiss-phd-salary",
-   "type": "bars",
+   "type": "bar",
    "title": "Swiss doctoral salary ranges by institution type",
    "unit": "CHF/year",
    "source": "Institutional scales and SNSF minimums, 2026.",

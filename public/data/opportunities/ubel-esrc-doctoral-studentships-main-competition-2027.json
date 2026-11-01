@@ -27,7 +27,7 @@
  ],
  "isFeatured": false,
  "slug": "ubel-esrc-doctoral-studentships-main-competition-2027",
- "updatedAt": "2026-10-29T08:00:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "30 October 2026",
  "verificationStatus": "verified",
  "seoDescription": "University College London offers a fully funded PhD position in UBEL ESRC Doctoral Studentships Main Competition 2027. Deadline: 30 October 2026.",
@@ -47,7 +47,7 @@
   "Social Sciences"
  ],
  "opportunityType": "doctoral_training_centre",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "social_sciences"
  ],
@@ -64,7 +64,7 @@
   "slug": "university-college-london"
  },
  "category": "doctoral_training_centre",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T14:31:57.026Z",
  "id": "crBgWWwTpsDJGRLYslkX",
  "lastVerifiedAt": "2026-10-23T00:45:18.000Z",
@@ -120,5 +120,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

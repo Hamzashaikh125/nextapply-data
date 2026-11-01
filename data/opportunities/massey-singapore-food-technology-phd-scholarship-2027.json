@@ -28,7 +28,7 @@
  ],
  "isFeatured": false,
  "slug": "massey-singapore-food-technology-phd-scholarship-2027",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "1 November 2026",
  "verificationStatus": "unverified",
  "seoDescription": "PhD opportunity in Massey Singapore Food Technology PhD Scholarship 2027 at Massey University (Various). Fully funded. Deadline: 1 November 2026.",
@@ -107,5 +107,6 @@
     "priceCurrency": "NZD"
    }
   }
- }
+ },
+ "expiredAt": null
 }

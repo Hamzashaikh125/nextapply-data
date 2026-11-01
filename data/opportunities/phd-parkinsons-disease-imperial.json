@@ -26,7 +26,7 @@
  ],
  "isFeatured": false,
  "slug": "phd-parkinsons-disease-imperial",
- "updatedAt": "2026-10-29T06:00:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "30 October 2026 (time not specified)",
  "publishedAt": "2026-08-22T20:43:25.625Z",
  "verificationStatus": "unverified",
@@ -48,7 +48,7 @@
   "PhD"
  ],
  "opportunityType": "phd_position",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "neuroscience",
   "medicine"
@@ -67,7 +67,7 @@
   "slug": "imperial-college-london"
  },
  "category": "phd_position",
- "status": "published",
+ "status": "expired",
  "id": "YxeQR6gdvmZL13i2IPkS",
  "keywords": [
   "Fully Funded PhD Studentship: Edmond & Lily Safra PhD Studentship in",
@@ -120,5 +120,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

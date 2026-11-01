@@ -1,8 +1,8 @@
 {
  "title": "PhD in Molecular Machines Physics 2027 — Vrije Universiteit Amsterdam, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "phd-molecular-machines-physics-vu-amsterdam-2027",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "y2oa0jmOHBozhYMpXBBb",
  "organization": {
@@ -63,7 +63,7 @@
  "addedDate": "2026-10-15T13:58:45.672Z",
  "clickCount": 0,
  "createdAt": "2026-10-15T13:58:45.865Z",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "publishedAt": "2026-10-15T13:58:45.865Z",
  "fundingStatus": "fully_funded",
  "id": "pPUTCjZWD3VTDxvkW3nV",
@@ -123,5 +123,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

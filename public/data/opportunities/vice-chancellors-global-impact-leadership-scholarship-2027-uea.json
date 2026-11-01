@@ -27,7 +27,7 @@
  ],
  "isFeatured": false,
  "slug": "vice-chancellors-global-impact-leadership-scholarship-2027-uea",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "30 October 2026",
  "verificationStatus": "unverified",
  "seoDescription": "Master's opportunity in Vice Chancellor's Global Impact and Leadership Scholarship 2027 at UEA at University of East Anglia (Norwich). Partially funded",
@@ -48,7 +48,7 @@
   "Norwich"
  ],
  "opportunityType": "scholarship",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "all_subjects"
  ],
@@ -65,7 +65,7 @@
   "slug": "university-of-east-anglia"
  },
  "category": "scholarship",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T12:26:10.283Z",
  "id": "GVkysSj5o4QRdHRuJXOx",
  "keywords": [
@@ -105,5 +105,6 @@
     "priceCurrency": "GBP"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

@@ -29,7 +29,7 @@
  ],
  "isFeatured": false,
  "slug": "max-planck-internship-2027-germany-fully-funded-research-program",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "1 November 2026",
  "verificationStatus": "unverified",
  "seoDescription": "Max Planck Society offers a fully funded undergraduate / master's / PhD position in Max Planck Internship 2027 in Germany. Deadline: 1 November 2026.",
@@ -129,5 +129,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": null
 }

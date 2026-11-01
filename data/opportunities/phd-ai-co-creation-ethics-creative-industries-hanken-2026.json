@@ -1,8 +1,8 @@
 {
  "title": "PhD in AI Co-Creation and Ethics in Creative Industries 2026 — Hanken School of Economics, Finland",
- "status": "published",
+ "status": "expired",
  "slug": "phd-ai-co-creation-ethics-creative-industries-hanken-2026",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "AgnY7EfGRZGdSlpp6Vxb",
  "organization": {
@@ -64,7 +64,7 @@
  "addedDate": "2026-10-15T13:58:44.342Z",
  "clickCount": 0,
  "createdAt": "2026-10-15T13:58:44.544Z",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "publishedAt": "2026-10-15T13:58:44.544Z",
  "fundingStatus": "fully_funded",
  "id": "4iKfkniXGgXv0wZKHUth",
@@ -112,5 +112,6 @@
    }
   },
   "validThrough": "2026-10-29T23:59:00.000Z"
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

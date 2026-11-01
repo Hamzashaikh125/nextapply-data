@@ -27,7 +27,7 @@
  ],
  "isFeatured": false,
  "slug": "research-mobilisation-doctoral-scholarship-wellington",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "1 November 2026, 16:30 NZDT",
  "verificationStatus": "unverified",
  "seoDescription": "Victoria University of Wellington offers a fully funded PhD position in Research Mobilisation Doctoral Scholarship, Wellington. Stipend: NZD 32,000/year",
@@ -105,5 +105,6 @@
     "priceCurrency": "NZD"
    }
   }
- }
+ },
+ "expiredAt": null
 }

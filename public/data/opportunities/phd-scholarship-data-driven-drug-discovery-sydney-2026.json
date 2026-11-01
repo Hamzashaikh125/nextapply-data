@@ -1,8 +1,8 @@
 {
  "title": "PhD Scholarship in Data-Driven Drug Discovery 2026 — University of Sydney, Australia",
- "status": "published",
+ "status": "expired",
  "slug": "phd-scholarship-data-driven-drug-discovery-sydney-2026",
- "isOpen": true,
+ "isOpen": false,
  "category": "scholarship",
  "organizationId": "QwHLVpzifa4eDrorjmjr",
  "organization": {
@@ -64,7 +64,7 @@
  "addedDate": "2026-10-15T13:58:46.857Z",
  "clickCount": 0,
  "createdAt": "2026-10-15T13:58:47.051Z",
- "updatedAt": "2026-10-29T04:10:00.000Z",
+ "updatedAt": "2026-11-01",
  "opportunityType": "scholarship",
  "publishedAt": "2026-10-15T13:58:47.051Z",
  "fundingStatus": "partially_funded",
@@ -109,5 +109,6 @@
     "priceCurrency": "AUD"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

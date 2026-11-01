@@ -28,7 +28,7 @@
  "isFeatured": false,
  "publishedAt": "2026-10-23T10:30:00.000Z",
  "createdAt": "2026-10-23T10:30:00.000Z",
- "updatedAt": "2026-10-31",
+ "updatedAt": "2026-11-01",
  "lastReviewedAt": "2026-10-31",
  "ogImage": "https://cdn.jsdelivr.net/gh/Hamzashaikh125/nextapply-data@main/public/data/article-images/erasmus-mundus-without-ielts-english-rules.jpg",
  "featuredImage": "https://cdn.jsdelivr.net/gh/Hamzashaikh125/nextapply-data@main/public/data/article-images/erasmus-mundus-without-ielts-english-rules.jpg",
@@ -94,7 +94,7 @@
  "charts": [
   {
    "id": "test-costs",
-   "type": "bars",
+   "type": "bar",
    "title": "What the English evidence costs",
    "unit": "€ (typical, one-off)",
    "description": "A waiver costs nothing but paperwork; the paid tests differ mostly in price and turnaround.",

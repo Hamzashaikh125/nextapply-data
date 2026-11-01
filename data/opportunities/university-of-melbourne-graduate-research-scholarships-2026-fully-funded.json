@@ -28,7 +28,7 @@
  ],
  "isFeatured": false,
  "slug": "university-of-melbourne-graduate-research-scholarships-2026-fully-funded",
- "updatedAt": "2026-10-29T04:10:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "31 October 2026 (Round 1)",
  "verificationStatus": "verified",
  "seoDescription": "The University of Melbourne Graduate Research Scholarships offer fully funded Master's by Research and PhD opportunities.",
@@ -49,7 +49,7 @@
   "Melbourne"
  ],
  "opportunityType": "phd_position",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "all_subjects"
  ],
@@ -67,7 +67,7 @@
   "slug": "university-of-melbourne"
  },
  "category": "phd_position",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-09-16T23:22:48.629Z",
  "id": "dpRfJ9p6GiFv46XB60Gt",
  "keywords": [
@@ -122,5 +122,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

@@ -73,7 +73,7 @@
  "addedDate": "2026-10-21T23:49:35.000Z",
  "clickCount": 0,
  "createdAt": "2026-10-21T23:49:35.000Z",
- "updatedAt": "2026-10-29T04:10:00.000Z",
+ "updatedAt": "2026-11-01",
  "publishedAt": "2026-10-21T23:49:35.000Z",
  "id": "rmmmUDnfx0iPkWkkiHdM",
  "opportunityType": "phd_position",
@@ -131,5 +131,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": null
 }

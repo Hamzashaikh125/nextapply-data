@@ -27,7 +27,7 @@
  ],
  "isFeatured": false,
  "slug": "unil-masters-scholarship-2027-university-of-lausanne",
- "updatedAt": "2026-10-29T04:10:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "1 November 2026",
  "verificationStatus": "unverified",
  "seoDescription": "UNIL Master's Scholarship offers CHF 1,600/month to approximately 10 foreign graduates. Partial funding; check costs not covered by the award.",
@@ -106,5 +106,6 @@
     "priceCurrency": "CHF"
    }
   }
- }
+ },
+ "expiredAt": null
 }

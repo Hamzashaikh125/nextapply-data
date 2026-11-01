@@ -29,7 +29,7 @@
  ],
  "isFeatured": false,
  "slug": "sir-james-mcneill-postgraduate-research-scholarship-monash-university",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "31 October 2026",
  "verificationStatus": "unverified",
  "seoDescription": "PhD / master's opportunity in Sir James McNeill Postgraduate Research Scholarship (SJMN) at Monash University at Monash University - Ghedini Lab",
@@ -50,7 +50,7 @@
   "PhD"
  ],
  "opportunityType": "scholarship",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "all_subjects"
  ],
@@ -67,7 +67,7 @@
   "slug": "monash-university-ghedini-lab"
  },
  "category": "scholarship",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-09-24T00:07:26.814Z",
  "id": "bFscoM6lhvsjSpt76BGF",
  "keywords": [
@@ -106,5 +106,6 @@
     "priceCurrency": "AUD"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

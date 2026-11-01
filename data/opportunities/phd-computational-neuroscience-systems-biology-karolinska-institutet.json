@@ -26,7 +26,7 @@
  ],
  "isFeatured": false,
  "slug": "phd-computational-neuroscience-systems-biology-karolinska-institutet",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "30 October 2026",
  "verificationStatus": "unverified",
  "seoDescription": "PhD opportunity in Computational Neuroscience and Systems Biology at Karolinska Institutet (Stockholm). Fully funded. Deadline: 30 October 2026.",
@@ -47,7 +47,7 @@
   "Systems Biology"
  ],
  "opportunityType": "phd_position",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "neuroscience",
   "computational_biology",
@@ -71,7 +71,7 @@
   "slug": "karolinska-institutet"
  },
  "category": "phd_position",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-09-16T14:03:36.571Z",
  "id": "RTdubqcsC2vBG27eV76w",
  "stipendAmount": 32000,
@@ -126,5 +126,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

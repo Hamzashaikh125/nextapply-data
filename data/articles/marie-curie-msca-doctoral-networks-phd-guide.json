@@ -20,7 +20,7 @@
  "excerpt": "MSCA Doctoral Networks 2026-27: €4,010 living + €710 mobility monthly, the 36-month mobility rule, EURAXESS vacancies and how to win a position.",
  "slug": "marie-curie-msca-doctoral-networks-phd-guide",
  "status": "published",
- "updatedAt": "2026-10-24T05:01:06.000Z",
+ "updatedAt": "2026-11-01",
  "id": "marie-curie-msca-doctoral-networks-phd-guide",
  "description": "MSCA Doctoral Networks 2026-27: €4,010 living + €710 mobility monthly, the 36-month mobility rule, EURAXESS vacancies and how to win a position.",
  "keywords": [
@@ -37,7 +37,7 @@
  "charts": [
   {
    "id": "dn-allowances",
-   "type": "bars",
+   "type": "bar",
    "title": "MSCA DN unit rates per month (2026-27 programme)",
    "unit": "€/month",
    "description": "Living allowance €4,010 (before country correction), mobility allowance €710, family allowance €660 where applicable. Employers typically top up to national norms.",
@@ -111,7 +111,7 @@
   },
   {
    "id": "dn-country-net",
-   "type": "bars",
+   "type": "bar",
    "title": "Same unit rate, different net pay",
    "unit": "≈ €/month net (illustrative)",
    "description": "A €4,010 living allowance converts differently after country correction and national deductions: high-cost hosts with top-ups reach roughly €3,100-3,500 net; lower-cost hosts without top-ups land near €2,700-3,000. Ask the host for the net figure — offers differ within the same programme.",
@@ -148,9 +148,34 @@
  "readingTimeWordsPerMinute": 220,
  "ogImage": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1200&h=630&q=85",
  "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://nextapply.co.uk/articles/marie-curie-msca-doctoral-networks-phd-guide#article",
+  "mainEntityOfPage": {
+   "@type": "WebPage",
+   "@id": "https://nextapply.co.uk/articles/marie-curie-msca-doctoral-networks-phd-guide"
+  },
+  "url": "https://nextapply.co.uk/articles/marie-curie-msca-doctoral-networks-phd-guide",
+  "headline": "Marie Curie Doctoral Networks: The Complete PhD Guide (2026-27)",
+  "description": "MSCA Doctoral Networks 2026-27: €4,010 living + €710 mobility monthly, the 36-month mobility rule, EURAXESS vacancies and how to win a position.",
+  "datePublished": "2026-10-13T11:13:43.158Z",
+  "dateModified": "2026-11-01",
+  "inLanguage": "en-GB",
+  "author": {
+   "@type": "Organization",
+   "name": "NextApply Team",
+   "url": "https://nextapply.co.uk/about"
+  },
+  "publisher": {
+   "@type": "Organization",
+   "name": "NextApply",
+   "url": "https://nextapply.co.uk"
+  },
   "image": [
    "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1200&h=630&q=85"
-  ]
+  ],
+  "articleSection": "",
+  "keywords": "marie curie phd salary 2026, msca doctoral networks guide, msca living allowance 4010, msca mobility rule 36 months, msca phd vacancy euraxess, european union funded phd, marie curie fellowship eligibility"
  },
  "relatedArticles": [
   "/articles/can-international-students-work-during-phd-uk",

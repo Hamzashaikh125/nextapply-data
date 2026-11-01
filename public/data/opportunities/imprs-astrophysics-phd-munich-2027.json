@@ -27,7 +27,7 @@
  ],
  "isFeatured": false,
  "slug": "imprs-astrophysics-phd-munich-2027",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "1 November 2026, 23:59 CET",
  "verificationStatus": "unverified",
  "seoDescription": "PhD opportunity in IMPRS Astrophysics PhD, Munich 2027 at Max Planck Society (Munich). Fully funded. Deadline: 1 November 2026, 23:59 CET.",
@@ -117,5 +117,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": null
 }

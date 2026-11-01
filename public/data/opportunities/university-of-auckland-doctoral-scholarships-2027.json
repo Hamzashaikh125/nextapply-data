@@ -28,7 +28,7 @@
  ],
  "isFeatured": false,
  "slug": "university-of-auckland-doctoral-scholarships-2027",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "1 November 2026 next round",
  "verificationStatus": "unverified",
  "seoDescription": "PhD opportunity in Doctoral Scholarships 2027 at University of Auckland (Auckland). Fully funded. Deadline: 1 November 2026 next round.",
@@ -105,5 +105,6 @@
     "priceCurrency": "NZD"
    }
   }
- }
+ },
+ "expiredAt": null
 }

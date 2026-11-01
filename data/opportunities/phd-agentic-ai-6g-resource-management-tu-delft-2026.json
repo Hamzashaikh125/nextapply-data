@@ -61,7 +61,7 @@
  "addedDate": "2026-10-15T14:48:02.973Z",
  "clickCount": 0,
  "createdAt": "2026-10-15T14:48:03.146Z",
- "updatedAt": "2026-10-29T04:10:00.000Z",
+ "updatedAt": "2026-11-01",
  "publishedAt": "2026-10-15T14:48:03.146Z",
  "fundingStatus": "fully_funded",
  "id": "7ntmFPb12aUO5vHnNDfQ",
@@ -120,5 +120,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": null
 }

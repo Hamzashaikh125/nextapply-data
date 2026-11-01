@@ -26,7 +26,7 @@
  ],
  "isFeatured": false,
  "slug": "international-fully-funded-phd-positions-life-sciences-zurich-graduate-school",
- "updatedAt": "2026-10-29T04:10:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "1 November 2026",
  "verificationStatus": "unverified",
  "seoDescription": "Over 100 fully funded PhD positions in life sciences at Life Science Zurich Graduate School (ETH Zurich and University of Zurich).",
@@ -130,5 +130,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": null
 }

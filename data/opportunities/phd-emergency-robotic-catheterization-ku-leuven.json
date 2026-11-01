@@ -27,7 +27,7 @@
  ],
  "isFeatured": false,
  "slug": "phd-emergency-robotic-catheterization-ku-leuven",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "30 October 2026, 23:59 CET",
  "verificationStatus": "unverified",
  "seoDescription": "PhD opportunity in Emergency Robotic Catheterization at KU Leuven (Leuven). Fully funded. Deadline: 30 October 2026, 23:59 CET.",
@@ -48,7 +48,7 @@
   "Belgium"
  ],
  "opportunityType": "phd_position",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "robotics",
   "mechanical_engineering",
@@ -68,7 +68,7 @@
   "slug": "ku-leuven"
  },
  "category": "phd_position",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-09-16T13:45:13.372Z",
  "id": "dxMtOfGlTlFGLZywYVf2",
  "stipendCurrency": "EUR",
@@ -125,5 +125,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

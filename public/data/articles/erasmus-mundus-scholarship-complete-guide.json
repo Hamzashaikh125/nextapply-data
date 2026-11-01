@@ -20,7 +20,7 @@
  "excerpt": "Erasmus Mundus 2027: €1,400/month for up to 24 months (max €33,600) plus full tuition, three-programme cap, October-January windows and winning strategy.",
  "slug": "erasmus-mundus-scholarship-complete-guide",
  "status": "published",
- "updatedAt": "2026-10-24T05:01:06.000Z",
+ "updatedAt": "2026-11-01",
  "id": "erasmus-mundus-scholarship-complete-guide",
  "description": "Erasmus Mundus 2027: €1,400/month for up to 24 months (max €33,600) plus full tuition, three-programme cap, October-January windows and winning strategy.",
  "keywords": [
@@ -40,14 +40,18 @@
    "type": "donut",
    "total": 33600,
    "showTotal": true,
-   "title": "The 24-month scholarship package",
-   "unit": "€",
-   "description": "€1,400/month x 24 = €33,600 in allowances, on top of fully covered tuition and participation costs, mandatory insurance and travel/installation support where provided.",
+   "title": "The standard EMJM scholarship package, per year",
+   "unit": "€/year",
+   "description": "Erasmus Mundus Joint Masters: monthly allowance plus one-off travel and installation support.",
    "source": "Erasmus+ programme rules; University of Glasgow EMJM page.",
    "data": [
     {
-     "label": "Monthly allowance x24",
-     "value": 33600
+     "label": "Monthly allowance (12 x €1,400)",
+     "value": 16800
+    },
+    {
+     "label": "Travel + installation (per year)",
+     "value": 2000
     }
    ]
   },
@@ -79,7 +83,7 @@
   },
   {
    "id": "emjm-odds",
-   "type": "bars",
+   "type": "bar",
    "title": "Scholarships per programme intake",
    "unit": "scholarships (typical)",
    "description": "Single programmes typically fund 15-30 scholarships per intake against multi-hundred applicant pools — single-digit acceptance rates that reward three-programme portfolio strategies.",
@@ -101,7 +105,7 @@
   },
   {
    "id": "emjm-cost-cities",
-   "type": "bars",
+   "type": "bar",
    "title": "The €1,400 allowance against city rents",
    "unit": "≈ €/month room rent",
    "description": "Typical room costs on EMJM mobility tracks: Tartu ~€250, Ghent ~€500, Bologna ~€600, Groningen ~€600, Aix/Marseille ~€550, Paris ~€850, Amsterdam ~€1,000. Same allowance, different margin — check each track's cities.",
@@ -154,9 +158,34 @@
  "readingTimeWordsPerMinute": 220,
  "ogImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&h=630&q=85",
  "structuredData": {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://nextapply.co.uk/articles/erasmus-mundus-scholarship-complete-guide#article",
+  "mainEntityOfPage": {
+   "@type": "WebPage",
+   "@id": "https://nextapply.co.uk/articles/erasmus-mundus-scholarship-complete-guide"
+  },
+  "url": "https://nextapply.co.uk/articles/erasmus-mundus-scholarship-complete-guide",
+  "headline": "Erasmus Mundus Scholarship: The Complete Guide (2027 Intake)",
+  "description": "Erasmus Mundus 2027: €1,400/month for up to 24 months (max €33,600) plus full tuition, three-programme cap, October-January windows and winning strategy.",
+  "datePublished": "2026-10-13T11:13:43.140Z",
+  "dateModified": "2026-11-01",
+  "inLanguage": "en-GB",
+  "author": {
+   "@type": "Organization",
+   "name": "NextApply Team",
+   "url": "https://nextapply.co.uk/about"
+  },
+  "publisher": {
+   "@type": "Organization",
+   "name": "NextApply",
+   "url": "https://nextapply.co.uk"
+  },
   "image": [
    "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&h=630&q=85"
-  ]
+  ],
+  "articleSection": "",
+  "keywords": "erasmus mundus scholarship 2027, erasmus mundus 1400 monthly, emjm application guide, erasmus mundus eligibility, fully funded masters europe, erasmus mundus acceptance rate, joint master degree europe"
  },
  "relatedArticles": [
   "/articles/how-to-read-phd-job-advertisement-before-applying",

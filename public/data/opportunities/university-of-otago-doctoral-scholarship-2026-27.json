@@ -27,7 +27,7 @@
  ],
  "isFeatured": false,
  "slug": "university-of-otago-doctoral-scholarship-2026-27",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "1 November 2026",
  "verificationStatus": "unverified",
  "seoDescription": "PhD opportunity in Doctoral Scholarship 2026/27 at University of Otago (Dunedin). Fully funded. Deadline: 1 November 2026.",
@@ -103,5 +103,6 @@
     "priceCurrency": "NZD"
    }
   }
- }
+ },
+ "expiredAt": null
 }

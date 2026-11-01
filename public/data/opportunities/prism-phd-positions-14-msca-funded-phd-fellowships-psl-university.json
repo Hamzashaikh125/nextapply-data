@@ -27,7 +27,7 @@
  ],
  "isFeatured": false,
  "slug": "prism-phd-positions-14-msca-funded-phd-fellowships-psl-university",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "31 October 2026",
  "verificationStatus": "unverified",
  "seoDescription": "PRISM (PhD Research Programme for International Training in Sustainable Soft Matter) offers up to 14 fully funded PhD fellowships at PSL University in Paris.",
@@ -48,7 +48,7 @@
   "Computational Biology"
  ],
  "opportunityType": "phd_position",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "chemistry",
   "materials_science",
@@ -75,7 +75,7 @@
   "slug": "universit-psl"
  },
  "category": "phd_position",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-09-23T11:49:55.798Z",
  "id": "aJKesnbWQLblJl0e7dVH",
  "keywords": [
@@ -129,5 +129,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }

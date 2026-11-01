@@ -28,7 +28,7 @@
  ],
  "isFeatured": false,
  "slug": "phd-studentship-in-federated-machine-unlearning-for-privacy-preserving-ai-surrey",
- "updatedAt": "2026-10-29T05:40:00.000Z",
+ "updatedAt": "2026-11-01",
  "deadlineText": "31 October 2026",
  "verificationStatus": "verified",
  "seoDescription": "University of Surrey offers a partially funded PhD position in Federated Machine Unlearning for Privacy-Preserving AI, Surrey. Deadline: 31 October 2026.",
@@ -49,7 +49,7 @@
   "Machine Learning"
  ],
  "opportunityType": "scholarship",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "machine_learning",
   "computer_science"
@@ -67,7 +67,7 @@
   "slug": "university-of-surrey"
  },
  "category": "scholarship",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T14:31:54.547Z",
  "id": "ZfKXJEHuvEB4KMonXgZz",
  "keywords": [
@@ -106,5 +106,6 @@
     "priceCurrency": "GBP"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-01T00:30:00.000Z"
 }
