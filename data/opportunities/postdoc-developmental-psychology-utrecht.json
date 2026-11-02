@@ -1,8 +1,8 @@
 {
  "title": "Postdoc in Developmental Psychology - Utrecht University, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "postdoc-developmental-psychology-utrecht",
- "isOpen": true,
+ "isOpen": false,
  "category": "postdoctoral",
  "organizationId": "Tkt2HGVHQxUc2tDa29hb",
  "organization": {
@@ -114,5 +114,5 @@
   },
   "validThrough": "2026-11-01T23:59:00.000Z"
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

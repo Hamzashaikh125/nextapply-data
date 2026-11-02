@@ -1,8 +1,8 @@
 {
  "title": "Promovendus Ouderenzorg & Innovatie - GOUD-poli (Elderly Care Innovation Clinic) - Maastricht University, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "promovendus-ouderenzorg-innovatie-goud-poli-maastricht",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "YK4SCtYfENuzV1UgrtVG",
  "organization": {
@@ -123,5 +123,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

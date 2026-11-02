@@ -48,7 +48,7 @@
   "All Subjects"
  ],
  "opportunityType": "scholarship",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "all_subjects"
  ],
@@ -65,7 +65,7 @@
   "slug": "university-of-auckland"
  },
  "category": "scholarship",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T14:28:04.256Z",
  "id": "4tY0z4qZo6Y3o4FcsgYK",
  "keywords": [
@@ -106,5 +106,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

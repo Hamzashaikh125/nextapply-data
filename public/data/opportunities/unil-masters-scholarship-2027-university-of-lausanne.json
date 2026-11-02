@@ -48,7 +48,7 @@
   "International Students"
  ],
  "opportunityType": "scholarship",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "all_subjects"
  ],
@@ -66,7 +66,7 @@
   "slug": "university-of-lausanne"
  },
  "category": "scholarship",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-09-13T23:01:36.541Z",
  "id": "zqMN8ANZT8NECiRfVGp8",
  "keywords": [
@@ -107,5 +107,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

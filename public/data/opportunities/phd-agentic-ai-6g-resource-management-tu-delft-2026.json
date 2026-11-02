@@ -1,8 +1,8 @@
 {
  "title": "PhD in Agentic AI for Resource Management and Resilient Operations in 6G at TU Delft, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "phd-agentic-ai-6g-resource-management-tu-delft-2026",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "fWDwnuGf3LBFaQhGO7iT",
  "organization": {
@@ -121,5 +121,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

@@ -1,8 +1,8 @@
 {
  "title": "PhD-TA in Statistics (Functional Data Analysis) - Eindhoven University of Technology (TU/e), Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "phd-ta-statistics-functional-data-analysis-tue-2027",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "5L5GcPf0FsQQYS2RVcHV",
  "organization": {
@@ -126,5 +126,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

@@ -1,8 +1,8 @@
 {
  "title": "PhD in Orbitronics and Twistronics 2027 — Aarhus University, Denmark",
- "status": "published",
+ "status": "expired",
  "slug": "phd-orbitronics-twistronics-arpes-aarhus-2027",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "BRDMvO9gnNRKLKI7TVUE",
  "organization": {
@@ -112,5 +112,5 @@
   },
   "validThrough": "2026-11-01T23:59:00.000Z"
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

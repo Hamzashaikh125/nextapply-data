@@ -1,8 +1,8 @@
 {
  "title": "PhD Candidate: Dutch Morphology and Constructicography - Leiden University, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "phd-dutch-morphology-constructicography-leiden-2027",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "VI2WdxcX4L8yaUEcp4bW",
  "organization": {
@@ -125,5 +125,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

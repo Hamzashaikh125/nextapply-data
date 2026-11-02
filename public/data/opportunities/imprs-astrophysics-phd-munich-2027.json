@@ -45,7 +45,7 @@
   "PhD"
  ],
  "opportunityType": "phd_position",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "physics"
  ],
@@ -62,7 +62,7 @@
   "slug": "max-planck-society"
  },
  "category": "phd_position",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T14:27:55.899Z",
  "id": "Dlw6OLlKuryr43LeFb6J",
  "stipendAmount": 3010,
@@ -118,5 +118,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

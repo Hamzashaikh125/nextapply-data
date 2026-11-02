@@ -47,7 +47,7 @@
   "All Subjects"
  ],
  "opportunityType": "scholarship",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "all_subjects"
  ],
@@ -64,7 +64,7 @@
   "slug": "victoria-university-of-wellington"
  },
  "category": "scholarship",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T14:40:41.553Z",
  "selectedCountriesNote": "eligibility was \"nz_only\" before normalization (repair-imported-records)",
  "eligibility": "selected_countries",
@@ -106,5 +106,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

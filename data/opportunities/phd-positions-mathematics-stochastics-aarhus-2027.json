@@ -1,8 +1,8 @@
 {
  "title": "PhD Positions in Mathematics and Stochastics 2027 - Aarhus University - Aarhus University, Denmark",
- "status": "published",
+ "status": "expired",
  "slug": "phd-positions-mathematics-stochastics-aarhus-2027",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "BRDMvO9gnNRKLKI7TVUE",
  "organization": {
@@ -125,5 +125,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

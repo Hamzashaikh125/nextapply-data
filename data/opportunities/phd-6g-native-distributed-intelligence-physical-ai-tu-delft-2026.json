@@ -1,8 +1,8 @@
 {
  "title": "PhD in 6G-Native Distributed Intelligence for Physical AI at TU Delft, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "phd-6g-native-distributed-intelligence-physical-ai-tu-delft-2026",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "fWDwnuGf3LBFaQhGO7iT",
  "organization": {
@@ -122,5 +122,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

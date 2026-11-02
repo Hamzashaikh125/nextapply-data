@@ -1,8 +1,8 @@
 {
  "title": "Promovendus arts-onderzoeker Anesthesiologie & Gynaecologische Oncologie - UMCG, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "promovendus-arts-onderzoeker-anesthesiologie-gynaecologische-oncologie-umcg",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "nWd3exgtGmageyoKFEOe",
  "organization": {
@@ -123,5 +123,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

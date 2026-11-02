@@ -47,7 +47,7 @@
   "Machine Learning"
  ],
  "opportunityType": "phd_position",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "artificial_intelligence",
   "machine_learning"
@@ -65,7 +65,7 @@
   "slug": "max-planck-society"
  },
  "category": "phd_position",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T14:41:03.512Z",
  "id": "famDWU3tX1SXsFAcndLJ",
  "stipendAmount": 3010,
@@ -121,5 +121,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

@@ -1,8 +1,8 @@
 {
  "title": "Doctoral Student: Game-Theoretic Methods for Multi-Agent Autonomous Systems - KTH Royal Institute of Technology, Sweden",
- "status": "published",
+ "status": "expired",
  "slug": "doctoral-game-theoretic-methods-multi-agent-autonomous-systems-kth",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "4mRUAVcBMAUy8ZvMxPY3",
  "organization": {
@@ -126,5 +126,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

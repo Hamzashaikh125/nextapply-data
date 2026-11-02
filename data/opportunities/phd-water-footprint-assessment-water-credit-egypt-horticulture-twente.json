@@ -1,8 +1,8 @@
 {
  "title": "PhD: Water Footprint Assessment & Water Credit Design in Egypt's Horticulture Sector - University of Twente, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "phd-water-footprint-assessment-water-credit-egypt-horticulture-twente",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "jGc3ALW15fGcYhQbIkh5",
  "organization": {
@@ -126,5 +126,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

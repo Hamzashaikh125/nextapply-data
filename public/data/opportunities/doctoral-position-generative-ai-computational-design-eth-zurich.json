@@ -1,8 +1,8 @@
 {
  "title": "Doctoral Position in Generative AI-Based Computational Design Methods at ETH Zurich, Switzerland",
- "status": "published",
+ "status": "expired",
  "slug": "doctoral-position-generative-ai-computational-design-eth-zurich",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "VDK5HvkfDwPkO0qnSBdN",
  "organization": {
@@ -132,5 +132,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

@@ -1,8 +1,8 @@
 {
  "title": "PhD Student in Electrical Engineering: Power System Adequacy - Uppsala University, Sweden",
- "status": "published",
+ "status": "expired",
  "slug": "phd-electrical-engineering-power-system-adequacy-uppsala-2027",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "xdUkOGn8yH35UrymKVky",
  "organization": {
@@ -125,5 +125,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

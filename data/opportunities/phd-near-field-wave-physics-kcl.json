@@ -49,7 +49,7 @@
   "Imaging"
  ],
  "opportunityType": "phd_position",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "physics",
   "engineering"
@@ -68,7 +68,7 @@
   "slug": "kings-college-london"
  },
  "category": "phd_position",
- "status": "published",
+ "status": "expired",
  "id": "W29CcnCgiJset826EnF7",
  "keywords": [
   "Fully Funded PhD Studentship: Near-Field Wave Physics (ERC ATLANTIS",
@@ -122,5 +122,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

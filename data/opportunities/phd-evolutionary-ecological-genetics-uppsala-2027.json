@@ -1,8 +1,8 @@
 {
  "title": "PhD-student in Evolutionary and Ecological Genetics - Uppsala University, Sweden",
- "status": "published",
+ "status": "expired",
  "slug": "phd-evolutionary-ecological-genetics-uppsala-2027",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "xdUkOGn8yH35UrymKVky",
  "organization": {
@@ -126,5 +126,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

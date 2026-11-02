@@ -47,7 +47,7 @@
   "All Subjects"
  ],
  "opportunityType": "scholarship",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "all_subjects"
  ],
@@ -64,7 +64,7 @@
   "slug": "auckland-university-of-technology-aut"
  },
  "category": "scholarship",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T14:28:05.918Z",
  "id": "dveqz3ckybSOF6bsxT7j",
  "keywords": [
@@ -105,5 +105,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

@@ -1,8 +1,8 @@
 {
  "title": "PhD in AI for Biomedicine 2027 — AITHYRA Vienna, Austria",
- "status": "published",
+ "status": "expired",
  "slug": "phd-ai-biomedicine-aithyra-vienna-2027",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "UhokoNoGm4Z8jmewW2e6",
  "organization": {
@@ -125,5 +125,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

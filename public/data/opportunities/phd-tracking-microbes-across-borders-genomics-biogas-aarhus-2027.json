@@ -1,8 +1,8 @@
 {
  "title": "PhD: Tracking Microbes Across Borders using Genomics (Biomass-to-Biogas) - Aarhus University, Denmark",
- "status": "published",
+ "status": "expired",
  "slug": "phd-tracking-microbes-across-borders-genomics-biogas-aarhus-2027",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "BRDMvO9gnNRKLKI7TVUE",
  "organization": {
@@ -128,5 +128,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }

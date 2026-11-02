@@ -49,7 +49,7 @@
   "Food Technology"
  ],
  "opportunityType": "scholarship",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "food_science",
   "food_technology"
@@ -67,7 +67,7 @@
   "slug": "massey-university"
  },
  "category": "scholarship",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T14:40:42.399Z",
  "id": "e6AstZUrA04alievV2Kq",
  "keywords": [
@@ -108,5 +108,5 @@
    }
   }
  },
- "expiredAt": null
+ "expiredAt": "2026-11-02T00:24:59.739Z"
 }
