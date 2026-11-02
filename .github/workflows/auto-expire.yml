@@ -1,0 +1,242 @@
+# auto-expire.yml — DAILY SWEEP: expire listings whose deadline has passed.
+#
+# ⚠️  PROPOSAL ONLY — this file is NOT committed and NOT enabled.
+#     Nothing runs until it is committed to main by a human decision.
+#
+# Why a scheduled sweep: the site derives "closed" from the deadline at
+# runtime, but the DATA still needs to move from status "published" to
+# "expired" so the public index, stats and sitemap stop advertising a
+# listing that has closed. Doing it daily keeps the data honest without a
+# human remembering to run scripts/expire-past-deadlines.mjs.
+#
+# Policy: the script mirrors the site's src/lib/deadline.mjs — expiry is
+# day-granular in Europe/London and rolling/open_until_filled/custom never
+# expire. 03:00 UTC is always after the end of the previous London civil
+# day, in both GMT and BST.
+#
+# Why this workflow does its own purge + webhook: a push made with the
+# repository's GITHUB_TOKEN does NOT trigger other workflows (GitHub's
+# recursion guard), so purge-cache.yml will not run for this commit. The
+# `[skip ci]` marker is belt-and-braces. The purge + webhook block below is
+# copied from purge-cache.yml (same jsDelivr purge, same Vercel-edge
+# Cloudflare bypass, same 50-path batching + changedSlugs).
+#
+# Setup (one time, only if you enable this):
+#   Secret   DATA_SYNC_WEBHOOK_TOKEN  — same value as the Vercel env var
+#   Variable SITE_URL                 — optional, defaults to nextapply.co.uk
+
+name: Auto-expire past-deadline listings
+
+on:
+  schedule:
+    # 03:00 UTC daily — safely after the previous London civil day has ended.
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Report what would expire without committing or pushing"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-expire
+  cancel-in-progress: false
+
+jobs:
+  expire:
+    runs-on: ubuntu-latest
+    env:
+      DRY_RUN: ${{ github.event.inputs.dry_run == 'true' }}
+    steps:
+      - name: Checkout (full history for the diff)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Expire past-deadline listings
+        run: |
+          set -e
+          if [ "$DRY_RUN" = "true" ]; then
+            node scripts/expire-past-deadlines.mjs | tee expire.log
+          else
+            node scripts/expire-past-deadlines.mjs --apply | tee expire.log
+          fi
+          {
+            echo "## Auto-expire sweep"
+            echo ""
+            echo '```'
+            cat expire.log
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Detect changes
+        id: diff
+        run: |
+          set -e
+          if git diff --quiet -- data public/data; then
+            echo "count=0" >> "$GITHUB_OUTPUT"
+            echo "No changes — nothing to publish."
+          else
+            git diff --name-only -- data public/data > changed.txt
+            COUNT=$(grep -c . changed.txt || true)
+            echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+            echo "$COUNT file(s) changed:"
+            cat changed.txt
+          fi
+
+      - name: Commit + push
+        if: steps.diff.outputs.count > 0 && env.DRY_RUN != 'true'
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data public/data
+          git commit -m "[skip ci] chore: auto-expire past-deadline listings"
+          git push
+
+      - name: Purge jsDelivr + notify the site
+        if: steps.diff.outputs.count > 0 && env.DRY_RUN != 'true'
+        env:
+          WEBHOOK_TOKEN: ${{ secrets.DATA_SYNC_WEBHOOK_TOKEN }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: |
+          python3 - <<'EOF'
+          import json, os, socket, subprocess, sys, time
+          from urllib.parse import urlparse
+
+          paths = [l.strip() for l in open('changed.txt') if l.strip()]
+          repo = os.environ['GITHUB_REPOSITORY']
+          token = os.environ.get('WEBHOOK_TOKEN') or ''
+
+          site = (os.environ.get('SITE_URL') or 'https://nextapply.co.uk').strip().rstrip('/')
+          if site and not site.startswith('http'):
+              site = 'https://' + site
+          host = urlparse(site).hostname or 'nextapply.co.uk'
+          CHUNK = 50          # endpoint hard limit: "Too many purge paths (max 50)"
+          OPP = 'public/data/opportunities/'
+
+          # ---- 1. jsDelivr: purge every changed file (8 parallel) ----------
+          purge_fail = 0
+          for i in range(0, len(paths), 8):
+              batch = paths[i:i + 8]
+              procs = [
+                  subprocess.Popen(
+                      ['curl', '-s', '-o', '/dev/null', '-w', '%{http_code}',
+                       f'https://purge.jsdelivr.net/gh/{repo}@main/{p}'],
+                      stdout=subprocess.PIPE, text=True)
+                  for p in batch
+              ]
+              for p in procs:
+                  code = (p.communicate()[0] or '').strip()
+                  if code != '200':
+                      purge_fail += 1
+          print(f'jsDelivr purge: {len(paths)} file(s), {purge_fail} failure(s) '
+                f'(retry-safe: the next sweep re-purges)')
+          if purge_fail:
+              print(f'::warning::jsDelivr purge had {purge_fail} failure(s)')
+
+          # ---- 2. Site webhook: ISR + memo flush ---------------------------
+          if not token:
+              print('::error::DATA_SYNC_WEBHOOK_TOKEN secret is not set '
+                    '(repo Settings > Secrets and variables > Actions)')
+              sys.exit(1)
+
+          # Vercel's anycast edge routes by SNI: pinning the host to a Vercel
+          # edge IP reaches production directly, with Cloudflare never in the
+          # path (runner-IP reputation cannot 403-challenge it).
+          edge_ips = ['76.76.21.21']
+          try:
+              for ai in socket.getaddrinfo('cname.vercel-dns.com', 443,
+                                           socket.AF_INET, socket.SOCK_STREAM):
+                  ip = ai[4][0]
+                  if ip not in edge_ips:
+                      edge_ips.append(ip)
+          except Exception:
+              pass
+          if '76.76.21.22' not in edge_ips:
+              edge_ips.append('76.76.21.22')
+          edge_ips = edge_ips[:3]
+
+          origins = [(f'vercel-edge {ip}', site, ip) for ip in edge_ips]
+          origins.append(('main domain', site, None))
+
+          UAS = [
+              'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+              '(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+              'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 '
+              '(KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36',
+              'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) '
+              'Gecko/20100101 Firefox/135.0',
+          ]
+
+          def call(base, payload, ua, ip=None):
+              cmd = ['curl', '-s', '--compressed',
+                     '--connect-timeout', '15', '--max-time', '120',
+                     '-o', 'resp.json', '-w', '%{http_code}']
+              if ip:
+                  cmd += ['--resolve', f'{host}:443:{ip}']
+              cmd += ['-A', ua,
+                      '-H', 'Accept: application/json, text/plain, */*',
+                      '-H', 'Content-Type: application/json',
+                      '-H', f'x-webhook-token: {token}',
+                      '-d', payload,
+                      f'{base}/api/webhooks/data-sync']
+              r = subprocess.run(cmd, capture_output=True, text=True)
+              body = ''
+              if os.path.exists('resp.json'):
+                  try:
+                      body = open('resp.json').read()[:150]
+                  except Exception:
+                      pass
+              return (r.stdout.strip() or '000'), body
+
+          def slugs_of(batch):
+              return [p[len(OPP):-5] for p in batch
+                      if p.startswith(OPP) and p.endswith('.json')]
+
+          failures = []
+          batches = (len(paths) + CHUNK - 1) // CHUNK
+          for b in range(batches):
+              batch = paths[b * CHUNK:(b + 1) * CHUNK]
+              payload = json.dumps({'paths': batch, 'changedSlugs': slugs_of(batch)})
+              done = False
+              for rnd in range(3):
+                  for name, base, ip in origins:
+                      code, body = call(base, payload, UAS[rnd % len(UAS)], ip)
+                      print(f'webhook batch {b + 1}/{batches} via {name}: '
+                            f'{len(batch)} paths -> HTTP {code} {body}')
+                      if code == '200':
+                          done = True
+                          break
+                      if code in ('401', '400'):
+                          print(f'::error::webhook config error HTTP {code}: {body}')
+                          sys.exit(1)
+                  if done:
+                      break
+                  time.sleep(2 + 3 * rnd)   # 2s, then 5s
+              if not done:
+                  failures.append(f'batch {b + 1}')
+          if failures:
+              print('::error::site webhook failed for ' + ', '.join(failures))
+              sys.exit(1)
+          print(f'Site webhook ok: {len(paths)} path(s) in {batches} batch(es)')
+          EOF
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "## Auto-expire summary"
+            echo ""
+            echo "- Mode: \`${{ env.DRY_RUN == 'true' && 'dry run' || 'apply' }}\`"
+            echo "- Changed files: \`${{ steps.diff.outputs.count || 0 }}\`"
+            echo "- jsDelivr purge + site webhook: only when changes were pushed"
+          } >> "$GITHUB_STEP_SUMMARY"
