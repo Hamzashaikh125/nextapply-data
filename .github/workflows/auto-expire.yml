@@ -1,7 +1,6 @@
 # auto-expire.yml — DAILY SWEEP: expire listings whose deadline has passed.
 #
-# ⚠️  PROPOSAL ONLY — this file is NOT committed and NOT enabled.
-#     Nothing runs until it is committed to main by a human decision.
+# ENABLED: committed to main and scheduled daily at 03:00 UTC.
 #
 # Why a scheduled sweep: the site derives "closed" from the deadline at
 # runtime, but the DATA still needs to move from status "published" to
@@ -21,7 +20,7 @@
 # copied from purge-cache.yml (same jsDelivr purge, same Vercel-edge
 # Cloudflare bypass, same 50-path batching + changedSlugs).
 #
-# Setup (one time, only if you enable this):
+# Setup (one time):
 #   Secret   DATA_SYNC_WEBHOOK_TOKEN  — same value as the Vercel env var
 #   Variable SITE_URL                 — optional, defaults to nextapply.co.uk
 
