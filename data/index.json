@@ -29327,7 +29327,7 @@
   "slug": "university-of-otago-doctoral-scholarship-2026-27",
   "id": "IkT11QvVR0LViJlgExeZ",
   "title": "University of Otago Doctoral Scholarship 2026/27",
-  "intro": "University of Otago is offering a PhD opportunity centred on Doctoral Scholarship 2026/27. The opportunity is fully funded; financial support is listed as NZD 34,128/year plus domestic tuition. The stated deadline is 1 November 2026. The role is based in Dunedin, New Zealand.",
+  "intro": "University of Otago is offering a PhD opportunity centred on Doctoral Scholarship 2026/27. The opportunity is fully funded; financial support is listed as NZD 34,128/year plus domestic tuition. Applications are considered in quarterly rounds held in March, June, September and November. The role is based in Dunedin, New Zealand.",
   "organization": {
    "website": "https://www.otago.ac.nz/",
    "name": "University of Otago",
@@ -29369,8 +29369,8 @@
   "stipend": "NZD 34,128/year plus domestic tuition",
   "stipendAmount": 34128,
   "stipendPeriod": "year",
-  "deadline": "2026-11-01T23:59:00Z",
-  "deadlineText": "1 November 2026",
+  "deadline": null,
+  "deadlineText": "Rolling — check official page",
   "deadlineType": "custom",
   "status": "published",
   "isFeatured": false,
@@ -29379,7 +29379,7 @@
   "ogImage": "https://nextapply.co.uk/university-of-otago-doctoral-scholarship-2026-27/opengraph-image",
   "opportunityType": "scholarship",
   "addedDate": "2026-10-09T14:28:06.217Z",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-02",
   "verificationStatus": "unverified"
  }
 ]
