@@ -46,7 +46,7 @@
   "Artificial Intelligence"
  ],
  "opportunityType": "phd_position",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "artificial_intelligence"
  ],
@@ -63,7 +63,7 @@
   "slug": "norwegian-university-of-science-and-technology-ntnu"
  },
  "category": "phd_position",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T14:40:50.634Z",
  "id": "7CWvwWhVz1IvMDy7wdEO",
  "keywords": [
@@ -117,5 +117,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-03T10:19:25.764Z"
 }

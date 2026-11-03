@@ -1,8 +1,8 @@
 {
  "title": "PhD: Developing Green Facades for Building Insolation & Enhancing Urban Diversity - Wageningen University & Research, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "phd-green-facades-building-insolation-urban-diversity-wageningen",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "aH7cyJLYS4VOa85VihTb",
  "organization": {
@@ -124,5 +124,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-03T10:19:25.764Z"
 }

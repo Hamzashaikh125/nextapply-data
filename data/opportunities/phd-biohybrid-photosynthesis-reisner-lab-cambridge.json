@@ -48,7 +48,7 @@
   "Cambridge"
  ],
  "opportunityType": "phd_position",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "microbiology",
   "chemistry",
@@ -68,7 +68,7 @@
   "slug": "university-of-cambridge"
  },
  "category": "phd_position",
- "status": "published",
+ "status": "expired",
  "id": "TE3zmiCj5bN1C0zv3oI9",
  "keywords": [
   "Fully Funded PhD Studentship: Biohybrid Photosynthesis /",
@@ -121,5 +121,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-03T10:19:25.764Z"
 }

@@ -1,8 +1,8 @@
 {
  "title": "PhD in Militarization of Societal Resilience at Wageningen, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "phd-militarization-societal-resilience-wageningen-2026",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "aH7cyJLYS4VOa85VihTb",
  "organization": {
@@ -120,5 +120,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-03T10:19:25.764Z"
 }

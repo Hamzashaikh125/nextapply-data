@@ -48,7 +48,7 @@
   "Solar Energy"
  ],
  "opportunityType": "phd_position",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "chemistry",
   "biology",
@@ -68,7 +68,7 @@
   "slug": "university-of-cambridge"
  },
  "category": "phd_position",
- "status": "published",
+ "status": "expired",
  "id": "upQ6DvIJjnGFFUkRhwEr",
  "keywords": [
   "Fully Funded PhD Studentships",
@@ -122,5 +122,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-03T10:19:25.764Z"
 }

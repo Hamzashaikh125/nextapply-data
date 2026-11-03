@@ -1,8 +1,8 @@
 {
  "title": "PhD: 2D Materials-Reinforced Multifunctional Coatings for Built Environments - University of Exeter, United Kingdom",
- "status": "published",
+ "status": "expired",
  "slug": "phd-2d-materials-multifunctional-coatings-built-environments-exeter",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "ilDn70f8hVWU0pd8ztGA",
  "organization": {
@@ -125,5 +125,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-03T10:19:25.764Z"
 }

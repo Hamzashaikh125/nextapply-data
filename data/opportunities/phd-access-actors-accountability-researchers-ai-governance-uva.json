@@ -1,8 +1,8 @@
 {
  "title": "PhD Candidate: Access, Actors and Accountability - Researchers in AI Governance - University of Amsterdam, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "phd-access-actors-accountability-researchers-ai-governance-uva",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "GsCjPacYO0973DSLrRIW",
  "organization": {
@@ -125,5 +125,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-03T10:19:25.764Z"
 }

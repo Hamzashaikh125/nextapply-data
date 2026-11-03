@@ -1,8 +1,8 @@
 {
  "title": "Promovendus: Digi-, Data- en AI-competenties (Digital, Data & AI Competencies) - Amsterdam UMC, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "promovendus-digi-data-ai-competenties-amsterdam-umc",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "2Go1ThYV28FBR72JjjEp",
  "organization": {
@@ -122,5 +122,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-03T10:19:25.764Z"
 }

@@ -43,7 +43,7 @@
   "PhD"
  ],
  "opportunityType": "doctoral_training_centre",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "neuroscience"
  ],
@@ -60,7 +60,7 @@
   "slug": "max-planck-society"
  },
  "category": "doctoral_training_centre",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T14:32:04.531Z",
  "id": "nW3v6YS5y1MaAzTQsMPT",
  "stipendAmount": 3010,
@@ -115,5 +115,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-03T10:19:25.764Z"
 }

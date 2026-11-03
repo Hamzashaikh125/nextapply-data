@@ -1,8 +1,8 @@
 {
  "title": "Post-doctoral Fellow: Assessment of Global Forest Dynamics - Lund University, Sweden",
- "status": "published",
+ "status": "expired",
  "slug": "postdoc-assessment-global-forest-dynamics-lund",
- "isOpen": true,
+ "isOpen": false,
  "category": "postdoctoral",
  "organizationId": "uG8z1YJ0KwTVZ1wljGjD",
  "organization": {
@@ -115,5 +115,6 @@
    }
   },
   "validThrough": "2026-11-02T23:59:00.000Z"
- }
+ },
+ "expiredAt": "2026-11-03T10:19:25.764Z"
 }

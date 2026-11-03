@@ -1,8 +1,8 @@
 {
  "title": "PhD: Natural Visual Patterns, Mental Wellbeing and Overheating Resilience - Eindhoven University of Technology (TU/e), Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "phd-natural-visual-patterns-mental-wellbeing-overheating-resilience-tue",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "5L5GcPf0FsQQYS2RVcHV",
  "organization": {
@@ -123,5 +123,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-03T10:19:25.764Z"
 }

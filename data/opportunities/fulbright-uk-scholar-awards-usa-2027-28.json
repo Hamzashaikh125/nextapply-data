@@ -1,8 +1,8 @@
 {
  "title": "Fulbright UK Scholar Awards 2027-28 – Fully Funded Research and Teaching in the USA",
- "status": "published",
+ "status": "expired",
  "slug": "fulbright-uk-scholar-awards-usa-2027-28",
- "isOpen": true,
+ "isOpen": false,
  "category": "fellowship",
  "organizationId": "Hj5pQd3sNcWx8Rkv6YtB",
  "organization": {
@@ -98,5 +98,6 @@
    "logo": "https://www.google.com/s2/favicons?domain=fulbright.org.uk&sz=256"
   }
  },
- "deadlineTimezone": "Europe/London"
+ "deadlineTimezone": "Europe/London",
+ "expiredAt": "2026-11-03T10:19:25.764Z"
 }
