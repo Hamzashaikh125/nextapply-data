@@ -1,8 +1,8 @@
 {
  "title": "PhD Student in Molecular Biosciences (Wenner-Gren Institute) - Stockholm University, Sweden",
- "status": "published",
+ "status": "expired",
  "slug": "phd-molecular-biosciences-wenner-gren-institute-stockholm-2027",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "mSuP4MJ5SQGUH7FrVQ2q",
  "organization": {
@@ -125,5 +125,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-04T10:12:21.174Z"
 }

@@ -1,8 +1,8 @@
 {
  "title": "PhD Student in Sustainability Science (Stockholm Resilience Centre) - Stockholm University, Sweden",
- "status": "published",
+ "status": "expired",
  "slug": "phd-sustainability-science-stockholm-resilience-centre-2027",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "mSuP4MJ5SQGUH7FrVQ2q",
  "organization": {
@@ -126,5 +126,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-04T10:12:21.174Z"
 }

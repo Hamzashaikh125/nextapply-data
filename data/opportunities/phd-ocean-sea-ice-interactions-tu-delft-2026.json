@@ -1,8 +1,8 @@
 {
  "title": "PhD in Ocean–Sea Ice Interactions at TU Delft, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "phd-ocean-sea-ice-interactions-tu-delft-2026",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "fWDwnuGf3LBFaQhGO7iT",
  "organization": {
@@ -121,5 +121,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-04T10:12:21.174Z"
 }

@@ -1,8 +1,8 @@
 {
  "title": "Loke Centre for Trophoblast Research PhD Studentship (Placental Biology) - University of Cambridge, United Kingdom",
- "status": "published",
+ "status": "expired",
  "slug": "loke-centre-trophoblast-research-phd-studentship-cambridge-2027",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "PnEG0pcrRuckMliHa12w",
  "organization": {
@@ -125,5 +125,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-04T10:12:21.174Z"
 }

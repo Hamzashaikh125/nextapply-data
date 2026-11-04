@@ -47,7 +47,7 @@
   "Artificial intelligence"
  ],
  "opportunityType": "postdoctoral",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "astronomy",
   "physics",
@@ -67,7 +67,7 @@
   "slug": "instituto-tecnologico-de-aeronautica"
  },
  "category": "postdoctoral",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T14:41:00.424Z",
  "id": "gYkr69Ppk1xduCBdsYGM",
  "keywords": [
@@ -112,5 +112,6 @@
    }
   },
   "validThrough": "2026-11-03T02:59:59.999Z"
- }
+ },
+ "expiredAt": "2026-11-04T10:12:21.174Z"
 }

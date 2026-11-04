@@ -48,7 +48,7 @@
   "Ageing Research"
  ],
  "opportunityType": "phd_position",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "biology",
   "bioinformatics",
@@ -70,7 +70,7 @@
   "slug": "cologne-graduate-school-of-ageing-research-cga"
  },
  "category": "phd_position",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-09-23T11:38:12.887Z",
  "id": "HmkQU4curl3SeEs3TJDA",
  "stipendPeriod": "month",
@@ -126,5 +126,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-04T10:12:21.174Z"
 }

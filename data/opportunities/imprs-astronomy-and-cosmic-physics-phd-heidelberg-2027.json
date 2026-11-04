@@ -46,7 +46,7 @@
   "PhD"
  ],
  "opportunityType": "doctoral_training_centre",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "physics"
  ],
@@ -63,7 +63,7 @@
   "slug": "max-planck-society"
  },
  "category": "doctoral_training_centre",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T14:32:02.096Z",
  "id": "fkTuofNauu5SZ6TV711y",
  "keywords": [
@@ -117,5 +117,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-04T10:12:21.174Z"
 }

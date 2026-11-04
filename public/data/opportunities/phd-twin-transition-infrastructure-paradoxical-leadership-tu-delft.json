@@ -1,8 +1,8 @@
 {
  "title": "PhD Position on Twin Transition of Infrastructure: Paradoxical Leadership (NWO Vidi) - TU Delft, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "phd-twin-transition-infrastructure-paradoxical-leadership-tu-delft",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "fWDwnuGf3LBFaQhGO7iT",
  "organization": {
@@ -124,5 +124,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-04T10:12:21.174Z"
 }

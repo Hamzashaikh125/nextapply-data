@@ -1,8 +1,8 @@
 {
  "title": "4-Year PhD Programme 2027 at The Francis Crick Institute, London",
- "status": "published",
+ "status": "expired",
  "slug": "phd-programme-2027-francis-crick-institute",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "QpDVpOXtxZuWIipshpbJ",
  "organization": {
@@ -136,5 +136,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-04T10:12:21.174Z"
 }

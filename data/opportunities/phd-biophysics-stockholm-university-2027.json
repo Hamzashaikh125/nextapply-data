@@ -1,8 +1,8 @@
 {
  "title": "PhD Student in Biophysics (Dept. of Biochemistry and Biophysics) - Stockholm University, Sweden",
- "status": "published",
+ "status": "expired",
  "slug": "phd-biophysics-stockholm-university-2027",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "mSuP4MJ5SQGUH7FrVQ2q",
  "organization": {
@@ -128,5 +128,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-04T10:12:21.174Z"
 }
