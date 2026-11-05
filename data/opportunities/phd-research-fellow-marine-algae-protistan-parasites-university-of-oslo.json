@@ -1,8 +1,8 @@
 {
  "title": "PhD Research Fellow in Diversity and Ecology of Marine Algae and Protistan Parasites, University of Oslo",
- "status": "published",
+ "status": "expired",
  "slug": "phd-research-fellow-marine-algae-protistan-parasites-university-of-oslo",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "oKSbfAf4psGGq9DM93cV",
  "organization": {
@@ -134,5 +134,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-05T10:04:53.668Z"
 }

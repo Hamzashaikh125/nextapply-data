@@ -1,8 +1,8 @@
 {
  "title": "Business Developer Life Sciences (iPsomics) - UMCG, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "business-developer-life-sciences-ipsomics-umcg",
- "isOpen": true,
+ "isOpen": false,
  "category": "job",
  "organizationId": "nWd3exgtGmageyoKFEOe",
  "organization": {
@@ -121,5 +121,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-05T10:04:53.668Z"
 }

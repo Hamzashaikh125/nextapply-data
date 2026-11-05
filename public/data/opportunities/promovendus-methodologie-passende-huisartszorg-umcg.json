@@ -1,8 +1,8 @@
 {
  "title": "Promovendus Methodologie voor Passende Huisartszorg (ZonMw PZL-AWH) - UMCG, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "promovendus-methodologie-passende-huisartszorg-umcg",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "nWd3exgtGmageyoKFEOe",
  "organization": {
@@ -123,5 +123,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-05T10:04:53.668Z"
 }

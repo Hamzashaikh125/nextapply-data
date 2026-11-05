@@ -1,8 +1,8 @@
 {
  "title": "PhD Students in Statistics: Next-Generation Latent Variable Models (Fully Funded 4 Years) - Umea University, Sweden",
- "status": "published",
+ "status": "expired",
  "slug": "phd-statistics-next-generation-latent-variable-models-umea-2027",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "S9cVtwrGVoxIt1blCgzJ",
  "organization": {
@@ -126,5 +126,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-05T10:04:53.668Z"
 }

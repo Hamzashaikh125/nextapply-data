@@ -1,8 +1,8 @@
 {
  "title": "Promovendus Internationaal Onderzoek naar de Hersenziekte MLC (Leukodystrophy) - Amsterdam UMC, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "promovendus-internationaal-onderzoek-hersenziekte-mlc-amsterdam-umc",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "2Go1ThYV28FBR72JjjEp",
  "organization": {
@@ -123,5 +123,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-05T10:04:53.668Z"
 }

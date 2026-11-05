@@ -1,8 +1,8 @@
 {
  "title": "PhD: Impact Evaluation of Climate Policies in Agricultural and Forest Landscapes (EU Horizon PolicyForClimate) - Wageningen University & Research, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "phd-impact-evaluation-climate-policies-agricultural-forest-landscapes-wageningen",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "aH7cyJLYS4VOa85VihTb",
  "organization": {
@@ -125,5 +125,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-05T10:04:53.668Z"
 }
