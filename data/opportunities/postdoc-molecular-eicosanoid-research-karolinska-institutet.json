@@ -1,8 +1,8 @@
 {
  "title": "Post Doctoral Researcher in Molecular Eicosanoid Research (Scholarship) - Karolinska Institutet, Sweden",
- "status": "published",
+ "status": "expired",
  "slug": "postdoc-molecular-eicosanoid-research-karolinska-institutet",
- "isOpen": true,
+ "isOpen": false,
  "category": "postdoctoral",
  "organizationId": "rOzyEVccMOXc2qSh2Ci0",
  "organization": {
@@ -114,5 +114,6 @@
    }
   },
   "validThrough": "2026-11-05T23:59:00.000Z"
- }
+ },
+ "expiredAt": "2026-11-06T10:09:35.305Z"
 }

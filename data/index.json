@@ -3497,65 +3497,6 @@
   "verificationStatus": "unverified"
  },
  {
-  "slug": "doctoral-risk-safety-heterogeneous-swarm-systems-lund-chass",
-  "id": "OaMBuhnv0NLKbTqCVC2H",
-  "title": "Doctoral Student in Risk and Safety of Heterogeneous Swarm Systems (CHASS, SSF-funded) - Lund University, Sweden",
-  "intro": "Lund University has opened a PhD track in Doctoral Student in Risk and Safety of Heterogeneous Swarm Systems (CHASS, SSF-funded) - Lund University, Sweden. Funding covers the full cost of participation; financial support is listed as Salaried PhD position per the Swedish collective agreement. Applications close 5 November 2026.",
-  "organization": {
-   "name": "Lund University",
-   "logoUrl": "https://www.google.com/s2/favicons?domain=lunduniversity.lu.se&sz=256"
-  },
-  "organizationId": "uG8z1YJ0KwTVZ1wljGjD",
-  "city": "Lund",
-  "countryCode": "SE",
-  "regionId": "europe",
-  "category": "phd_position",
-  "disciplines": [
-   "robotics",
-   "computer_science",
-   "electrical_engineering",
-   "artificial_intelligence"
-  ],
-  "subjects": [
-   "Swarm systems",
-   "Risk and safety",
-   "SSF-funded centre",
-   "Salaried PhD"
-  ],
-  "degreeLevels": [
-   "phd"
-  ],
-  "tags": [
-   "phd",
-   "fully-funded",
-   "se",
-   "swarm",
-   "2026",
-   "lund-university"
-  ],
-  "eligibility": "worldwide",
-  "fundingType": "fully_funded",
-  "fundingCoverage": {
-   "stipendProvided": true,
-   "tuitionCovered": true
-  },
-  "stipend": "Salaried PhD position per the Swedish collective agreement",
-  "stipendAmount": 31300,
-  "stipendPeriod": "month",
-  "deadline": "2026-11-05T23:59:00.000Z",
-  "deadlineText": "5 November 2026",
-  "deadlineType": "fixed",
-  "status": "published",
-  "isFeatured": false,
-  "isRemote": false,
-  "ieltsRequired": true,
-  "ogImage": "https://nextapply.co.uk/doctoral-risk-safety-heterogeneous-swarm-systems-lund-chass/opengraph-image",
-  "opportunityType": "phd_position",
-  "addedDate": "2026-10-22T13:07:14.000Z",
-  "updatedAt": "2026-10-29T04:10:00.000Z",
-  "verificationStatus": "verified"
- },
- {
   "slug": "doctoral-student-neuromotor-interfaces-dexterous-robot-teleoperation-eth-zurich",
   "id": "tIQNwlmUDUZK1mXG9c8l",
   "title": "Doctoral Student in Neuromotor Interfaces for Dexterous Robot Teleoperation at ETH Zurich",
@@ -9752,61 +9693,6 @@
   "verificationStatus": "verified"
  },
  {
-  "slug": "impact-stakeholder-coordinator-utrecht",
-  "id": "ilsRadU4BVXr2iD09mOu",
-  "title": "Impact & Stakeholder Coordinator - Utrecht University, Netherlands",
-  "intro": "Utrecht University is offering a master's opportunity centred on Impact & Stakeholder Coordinator - Utrecht University, Netherlands. According to the listing, this is a fully funded opportunity; financial support is listed as Salary per CAO universities pay scales (typically €4,000–€6,000/month gross for postdocs). Applications close 5 November 2026.",
-  "organization": {
-   "name": "Utrecht University",
-   "logoUrl": "https://www.google.com/s2/favicons?domain=uu.nl&sz=256"
-  },
-  "organizationId": "Tkt2HGVHQxUc2tDa29hb",
-  "city": "Utrecht",
-  "countryCode": "NL",
-  "regionId": "europe",
-  "category": "job",
-  "disciplines": [
-   "public_policy",
-   "governance"
-  ],
-  "subjects": [
-   "Research impact",
-   "Stakeholder coordination",
-   "Knowledge exchange",
-   "Science-society"
-  ],
-  "degreeLevels": [
-   "masters"
-  ],
-  "tags": [
-   "job",
-   "nl",
-   "2026",
-   "utrecht-university"
-  ],
-  "eligibility": "worldwide",
-  "fundingType": "fully_funded",
-  "fundingCoverage": {
-   "stipendProvided": true,
-   "tuitionCovered": false
-  },
-  "stipend": "Salary per CAO universities pay scales (typically €4,000–€6,000/month gross for postdocs)",
-  "stipendAmount": null,
-  "stipendPeriod": "month",
-  "deadline": "2026-11-05T23:59:00.000Z",
-  "deadlineText": "5 November 2026",
-  "deadlineType": "fixed",
-  "status": "published",
-  "isFeatured": false,
-  "isRemote": false,
-  "ieltsRequired": false,
-  "ogImage": "https://nextapply.co.uk/impact-stakeholder-coordinator-utrecht/opengraph-image",
-  "opportunityType": "job",
-  "addedDate": "2026-10-22T07:30:00.000Z",
-  "updatedAt": "2026-10-29T04:10:00.000Z",
-  "verificationStatus": "verified"
- },
- {
   "slug": "imprs-biology-and-computation-phd-berlin-2027",
   "id": "LOcuh7cXBkjstieKpDmz",
   "title": "IMPRS Biology and Computation PhD, Berlin 2027",
@@ -14189,62 +14075,6 @@
   "opportunityType": "scholarship",
   "addedDate": "2026-10-23T00:07:35.000Z",
   "updatedAt": "2026-10-29T05:40:00.000Z",
-  "verificationStatus": "unverified"
- },
- {
-  "slug": "paid-phd-position-in-bioinformatics-and-machine-learning-for-infection-and-amr-inland-norway",
-  "id": "5HBBXejOVyqvzfkLL368",
-  "title": "Paid PhD Position in Bioinformatics and Machine Learning for Infection and AMR, Inland Norway",
-  "intro": "University of Inland Norway lists this PhD opportunity in Bioinformatics and Machine Learning for Infection and AMR, Inland Norway. According to the listing, funding covers the full cost of participation; financial support is listed as NOK 550,800/year gross (Norwegian state salary plan 17.510, code 1017). Applications close 5 November 2026.",
-  "organization": {
-   "name": "University of Inland Norway",
-   "logoUrl": "https://www.helmholtz-hida.de/hida-files/user_upload/logos_zentren/Profilseiten/Norwegen/University_of_Inland_Norway.png"
-  },
-  "organizationId": "Ry30y9lDNoB6Nj4RpM8D",
-  "city": "Various",
-  "countryCode": "NO",
-  "regionId": "europe",
-  "category": "phd_position",
-  "disciplines": [
-   "bioinformatics",
-   "machine_learning"
-  ],
-  "subjects": null,
-  "degreeLevels": [
-   "phd"
-  ],
-  "tags": [
-   "University of Inland Norway",
-   "Bioinformatics",
-   "Machine Learning",
-   "Phd Position",
-   "Fully Funded",
-   "Norway",
-   "Machine learning",
-   "Antimicrobial resistance",
-   "PhD",
-   "Machine Learning"
-  ],
-  "eligibility": "worldwide",
-  "fundingType": "fully_funded",
-  "fundingCoverage": {
-   "stipendProvided": true,
-   "tuitionCovered": true
-  },
-  "stipend": "NOK 550,800/year gross (Norwegian state salary plan 17.510, code 1017)",
-  "stipendAmount": 550800,
-  "stipendPeriod": "year",
-  "deadline": "2026-11-05T22:59:59.999Z",
-  "deadlineText": "5 November 2026",
-  "deadlineType": "fixed",
-  "status": "published",
-  "isFeatured": false,
-  "isRemote": false,
-  "ieltsRequired": true,
-  "ogImage": "https://nextapply.co.uk/paid-phd-position-in-bioinformatics-and-machine-learning-for-infection-and-amr-inland-norway/opengraph-image",
-  "opportunityType": "phd_position",
-  "addedDate": "2026-10-09T14:40:48.548Z",
-  "updatedAt": "2026-10-29T06:00:00.000Z",
   "verificationStatus": "unverified"
  },
  {
@@ -21416,64 +21246,6 @@
   "ogImage": "https://nextapply.co.uk/postdoc-machine-learning-wind-flow-prediction-coastal-dunes-utrecht/opengraph-image",
   "opportunityType": "postdoctoral",
   "addedDate": "2026-10-22T07:30:00.000Z",
-  "updatedAt": "2026-10-29T04:10:00.000Z",
-  "verificationStatus": "verified"
- },
- {
-  "slug": "postdoc-molecular-eicosanoid-research-karolinska-institutet",
-  "id": "nOAD7WlJoFaXTG50uabi",
-  "title": "Post Doctoral Researcher in Molecular Eicosanoid Research (Scholarship) - Karolinska Institutet, Sweden",
-  "intro": "Karolinska Institutet has opened a postdoctoral track in Post Doctoral Researcher in Molecular Eicosanoid Research (Scholarship) - Karolinska Institutet, Sweden. Full funding is provided; financial support is listed as Stipend/salary rate set by the funder — see the official listing. Interested candidates should note the deadline: 5 November 2026.",
-  "organization": {
-   "name": "Karolinska Institutet",
-   "logoUrl": "https://images.seeklogo.com/logo-png/41/1/karolinska-institutet-logo-png_seeklogo-410862.png"
-  },
-  "organizationId": "rOzyEVccMOXc2qSh2Ci0",
-  "city": "Stockholm",
-  "countryCode": "SE",
-  "regionId": "europe",
-  "category": "postdoctoral",
-  "disciplines": [
-   "biochemistry",
-   "immunology",
-   "medicine",
-   "biology"
-  ],
-  "subjects": [
-   "Eicosanoids",
-   "Lipid mediators",
-   "Inflammation research",
-   "Postdoc scholarship"
-  ],
-  "degreeLevels": [
-   "postdoctoral"
-  ],
-  "tags": [
-   "postdoc",
-   "fully-funded",
-   "se",
-   "2026",
-   "karolinska-institutet"
-  ],
-  "eligibility": "worldwide",
-  "fundingType": "fully_funded",
-  "fundingCoverage": {
-   "stipendProvided": true,
-   "tuitionCovered": true
-  },
-  "stipend": "Stipend/salary rate set by the funder — see the official listing",
-  "stipendAmount": null,
-  "stipendPeriod": null,
-  "deadline": "2026-11-05T23:59:00.000Z",
-  "deadlineText": "5 November 2026",
-  "deadlineType": "fixed",
-  "status": "published",
-  "isFeatured": false,
-  "isRemote": false,
-  "ieltsRequired": true,
-  "ogImage": "https://nextapply.co.uk/postdoc-molecular-eicosanoid-research-karolinska-institutet/opengraph-image",
-  "opportunityType": "postdoctoral",
-  "addedDate": "2026-10-22T13:07:14.000Z",
   "updatedAt": "2026-10-29T04:10:00.000Z",
   "verificationStatus": "verified"
  },

@@ -1,8 +1,8 @@
 {
  "title": "Doctoral Student in Risk and Safety of Heterogeneous Swarm Systems (CHASS, SSF-funded) - Lund University, Sweden",
- "status": "published",
+ "status": "expired",
  "slug": "doctoral-risk-safety-heterogeneous-swarm-systems-lund-chass",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "uG8z1YJ0KwTVZ1wljGjD",
  "organization": {
@@ -125,5 +125,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-06T10:09:35.305Z"
 }

@@ -1,8 +1,8 @@
 {
  "title": "Impact & Stakeholder Coordinator - Utrecht University, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "impact-stakeholder-coordinator-utrecht",
- "isOpen": true,
+ "isOpen": false,
  "category": "job",
  "organizationId": "Tkt2HGVHQxUc2tDa29hb",
  "organization": {
@@ -111,5 +111,6 @@
    }
   },
   "validThrough": "2026-11-05T23:59:00.000Z"
- }
+ },
+ "expiredAt": "2026-11-06T10:09:35.305Z"
 }

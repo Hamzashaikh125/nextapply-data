@@ -45,7 +45,7 @@
   "Machine Learning"
  ],
  "opportunityType": "phd_position",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "bioinformatics",
   "machine_learning"
@@ -62,7 +62,7 @@
   "slug": "university-of-inland-norway"
  },
  "category": "phd_position",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T14:40:49.072Z",
  "id": "5HBBXejOVyqvzfkLL368",
  "stipendAmount": 550800,
@@ -118,5 +118,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-06T10:09:35.305Z"
 }
