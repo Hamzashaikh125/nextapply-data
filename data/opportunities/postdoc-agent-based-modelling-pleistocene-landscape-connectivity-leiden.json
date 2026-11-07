@@ -1,8 +1,8 @@
 {
  "title": "Post-doctoral Researcher: Agent-Based Modelling of Pleistocene Landscape Connectivity in Europe - Leiden University, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "postdoc-agent-based-modelling-pleistocene-landscape-connectivity-leiden",
- "isOpen": true,
+ "isOpen": false,
  "category": "postdoctoral",
  "organizationId": "VI2WdxcX4L8yaUEcp4bW",
  "organization": {
@@ -114,5 +114,6 @@
    }
   },
   "validThrough": "2026-11-06T23:59:00.000Z"
- }
+ },
+ "expiredAt": "2026-11-07T09:26:13.561Z"
 }

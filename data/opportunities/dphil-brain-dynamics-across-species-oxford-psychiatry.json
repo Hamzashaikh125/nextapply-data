@@ -1,8 +1,8 @@
 {
  "title": "DPhil Studentship - Brain Dynamics Across Species (ERC Starting Grant) - University of Oxford, United Kingdom",
- "status": "published",
+ "status": "expired",
  "slug": "dphil-brain-dynamics-across-species-oxford-psychiatry",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "nCHqzgsh9Kz2xqWmuDHg",
  "organization": {
@@ -124,5 +124,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-07T09:26:13.561Z"
 }

@@ -1,8 +1,8 @@
 {
  "title": "PhD in Stem Cell Biology at CRUK Manchester Institute, UK",
- "status": "published",
+ "status": "expired",
  "slug": "phd-stem-cell-biology-cruk-manchester-institute-2026",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "0OJsTOxyT9g3NXo9WtwQ",
  "organization": {
@@ -132,5 +132,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-07T09:26:13.561Z"
 }

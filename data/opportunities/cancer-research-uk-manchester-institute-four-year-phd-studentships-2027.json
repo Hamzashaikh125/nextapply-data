@@ -48,7 +48,7 @@
   "PhD"
  ],
  "opportunityType": "phd_position",
- "isOpen": true,
+ "isOpen": false,
  "disciplines": [
   "biology",
   "biomedical_science",
@@ -67,7 +67,7 @@
   "slug": "university-of-manchester"
  },
  "category": "phd_position",
- "status": "published",
+ "status": "expired",
  "publishedAt": "2026-10-09T14:27:55.189Z",
  "id": "GoaVfUCfg88pZM98IY7w",
  "keywords": [
@@ -122,5 +122,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-07T09:26:13.561Z"
 }

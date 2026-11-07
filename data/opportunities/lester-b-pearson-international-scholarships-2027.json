@@ -1,8 +1,8 @@
 {
  "title": "Lester B. Pearson International Scholarships – University of Toronto",
- "status": "published",
+ "status": "expired",
  "slug": "lester-b-pearson-international-scholarships-2027",
- "isOpen": true,
+ "isOpen": false,
  "category": "scholarship",
  "organizationId": "TvXElzGhvqYwCNJv81Kd",
  "organization": {
@@ -102,5 +102,6 @@
    "@type": "Offer",
    "category": "Fully Funded programme"
   }
- }
+ },
+ "expiredAt": "2026-11-07T09:26:13.561Z"
 }

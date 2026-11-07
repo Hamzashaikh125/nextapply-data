@@ -1,8 +1,8 @@
 {
  "title": "PhD Position in Political Science: Militarization and Democratic Erosion in Latin America - University of Amsterdam, Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "phd-political-science-militarization-democratic-erosion-latin-america-uva",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "GsCjPacYO0973DSLrRIW",
  "organization": {
@@ -125,5 +125,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-07T09:26:13.561Z"
 }

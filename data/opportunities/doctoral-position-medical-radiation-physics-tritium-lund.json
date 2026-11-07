@@ -1,8 +1,8 @@
 {
  "title": "Doctoral Position in Medical Radiation Physics (Tritium Persistence) - Lund University, Sweden",
- "status": "published",
+ "status": "expired",
  "slug": "doctoral-position-medical-radiation-physics-tritium-lund",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "uG8z1YJ0KwTVZ1wljGjD",
  "organization": {
@@ -124,5 +124,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-07T09:26:13.561Z"
 }

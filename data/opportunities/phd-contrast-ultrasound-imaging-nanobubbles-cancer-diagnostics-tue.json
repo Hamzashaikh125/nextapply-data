@@ -1,8 +1,8 @@
 {
  "title": "PhD in Contrast Ultrasound Imaging of Nanobubbles for Cancer Diagnostics (NWO MOMENTUM) - Eindhoven University of Technology (TU/e), Netherlands",
- "status": "published",
+ "status": "expired",
  "slug": "phd-contrast-ultrasound-imaging-nanobubbles-cancer-diagnostics-tue",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "5L5GcPf0FsQQYS2RVcHV",
  "organization": {
@@ -125,5 +125,6 @@
     "unitText": "MONTH"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-07T09:26:13.561Z"
 }

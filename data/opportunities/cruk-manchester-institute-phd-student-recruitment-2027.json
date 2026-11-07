@@ -1,8 +1,8 @@
 {
  "title": "CRUK Manchester Institute PhD Student Recruitment 2027 (6 Projects)",
- "status": "published",
+ "status": "expired",
  "slug": "cruk-manchester-institute-phd-student-recruitment-2027",
- "isOpen": true,
+ "isOpen": false,
  "category": "phd_position",
  "organizationId": "0OJsTOxyT9g3NXo9WtwQ",
  "organization": {
@@ -134,5 +134,6 @@
     "unitText": "YEAR"
    }
   }
- }
+ },
+ "expiredAt": "2026-11-07T09:26:13.561Z"
 }
