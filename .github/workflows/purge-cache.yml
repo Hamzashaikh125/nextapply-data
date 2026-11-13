@@ -3,10 +3,11 @@
 # Setup (one time, in THIS repo on GitHub):
 #   Settings > Secrets and variables > Actions
 #     - Secret  DATA_SYNC_WEBHOOK_TOKEN  (same value as the DATA_SYNC_WEBHOOK_TOKEN
-#       env var on Vercel: Project Settings > Environment Variables)
+#       env var on CLOUDFLARE: Workers & Pages > the site > Settings >
+#       Variables and Secrets. The app is hosted ON Cloudflare.)
 #     - Variable SITE_URL = https://nextapply.co.uk  (optional, has a default)
-#     - Variable VERCEL_SITE_URL = https://<project>.vercel.app  (OPTIONAL -
-#       v6 no longer needs it; kept only as an extra fallback origin)
+#     - Variable VERCEL_SITE_URL = any DIRECT origin URL, e.g.
+#       https://<site>.workers.dev  (OPTIONAL fallback; legacy name kept)
 #
 # What it does on every push that changes public/data/** (or this workflow file):
 #   1. Finds the files changed in the latest public/data commit (works for manual
@@ -18,33 +19,24 @@
 #      DETAIL pages (+ their checklist mirrors) on demand instead of waiting out
 #      their weekly ISR window.
 #
-# v6 changes (run #33 fix - deterministic Cloudflare bypass + trigger repair):
-#   - ROOT CAUSE of #32/#33: the webhook POST to nextapply.co.uk goes through
-#     Cloudflare, which 403-challenges GitHub runner IPs ("Just a moment...").
-#     That is IP-reputation roulette - run #31 passed, #32/#33 failed with
-#     every browser-UA trick. VERCEL_SITE_URL was never set, and the obvious
-#     guess (nextapply.vercel.app) is a STALE project without the API routes.
-#   - FIX: the webhook is now called through VERCEL'S ANYCAST EDGE IPs via
-#     curl --resolve (host nextapply.co.uk pinned to 76.76.21.21 etc.).
-#     Vercel routes by SNI, so this reaches the PRODUCTION project directly -
-#     Cloudflare is never in the path. Deterministic, no repo variables, no
-#     Cloudflare rules, no dashboard setup. (Verified live 2026-10-31: all
-#     three edge IPs answer /api/webhooks/data-sync with the app's own 401
-#     JSON, TLS-valid, and /api/redirects with 200.)
-#   - TRIGGER FIX: on.push.branches was corrupted to the literal string "ain]"
-#     (never matches a branch), so NO push ever auto-triggered this workflow -
-#     every previous run was a manual dispatch. Now it is "main", and this
-#     workflow file is itself in the paths filter, so pushing a workflow fix
-#     immediately re-runs the pending purge.
-#   - 404 on one origin no longer aborts the job (v5 did); we fall through to
-#     the next origin. 401/400 stay fatal - those are config errors that no
-#     origin can fix.
-#   - Origin order: Vercel anycast edge IPs (deterministic) > VERCEL_SITE_URL
-#     (if set) > main domain via Cloudflare (roulette, last resort).
+# v7 changes (run #40: 401 webhook + dead Vercel bypass):
+#   - The site is HOSTED ON CLOUDFLARE (Workers/Pages). The v6 trick of pinning
+#     nextapply.co.uk to Vercel anycast edge IPs is DEAD: that Vercel project is
+#     disabled and answers 402 DEPLOYMENT_DISABLED on every edge IP. All
+#     vercel-edge origins are REMOVED. The webhook now goes to the main domain —
+#     which run #40 proved works: the 401 body was the app's own JSON, i.e.
+#     requests from GitHub runners DO reach the app through Cloudflare.
+#   - The 401 in run #40 = token mismatch only. Fix: set the SAME
+#     DATA_SYNC_WEBHOOK_TOKEN value in the GitHub secret AND in the Cloudflare
+#     env var, redeploy the site, then re-run the workflow.
+#   - VERCEL_SITE_URL is repurposed as a generic optional fallback origin (any
+#     URL that reaches the app directly, e.g. the workers.dev domain). The
+#     legacy variable name is kept so existing repo variables still work.
 #
-# v5: VERCEL_SITE_URL tried first; UA rotation; error classification.
-# v4: changedSlugs per batch (on-demand detail/checklist revalidation).
-# v3: browser-like headers for Cloudflare. v2: 50-path batches, unbounded
+# v6: Vercel anycast edge bypass (now dead — see v7), trigger repair
+#     ("ain]" -> "main"). v5: VERCEL_SITE_URL tried first; UA rotation.
+#     v4: changedSlugs per batch (on-demand detail/checklist revalidation).
+#     v3: browser-like headers for Cloudflare. v2: 50-path batches, unbounded
 #     jsDelivr purge, manual re-run friendly diff. v1: initial release.
 
 name: Purge CDN caches
@@ -108,7 +100,7 @@ jobs:
           VERCEL_SITE_URL: ${{ vars.VERCEL_SITE_URL }}
         run: |
           python3 - <<'EOF'
-          import json, os, socket, subprocess, sys, time
+          import json, os, subprocess, sys, time
           from urllib.parse import urlparse
 
           paths = [l.strip() for l in open('changed.txt') if l.strip()]
@@ -134,31 +126,20 @@ jobs:
               sys.exit(1)
 
           # ---- ORIGINS, tried in order -------------------------------------
-          # Vercel's anycast edge routes by SNI: pinning the site host to a
-          # Vercel edge IP reaches the production webhook DIRECTLY, with
-          # Cloudflare never in the path - immune to the runner-IP reputation
-          # roulette that 403-challenged runs #32/#33.
-          edge_ips = ['76.76.21.21']   # Vercel's long-standing anycast A IP
-          try:
-              for ai in socket.getaddrinfo('cname.vercel-dns.com', 443,
-                                           socket.AF_INET, socket.SOCK_STREAM):
-                  ip = ai[4][0]
-                  if ip not in edge_ips:
-                      edge_ips.append(ip)
-          except Exception:
-              pass                       # DNS hiccup: hardcoded IPs still work
-          if '76.76.21.22' not in edge_ips:
-              edge_ips.append('76.76.21.22')
-          edge_ips = edge_ips[:3]
-
-          origins = [(f'vercel-edge {ip}', site, ip) for ip in edge_ips]
+          # The site is hosted ON Cloudflare (Workers/Pages): the main domain
+          # IS the app — there is no third-party edge to bypass and nothing to
+          # pin. run #40 proved requests from GitHub runners reach the app
+          # through Cloudflare (the 401 body came from the app itself).
+          # VERCEL_SITE_URL (legacy name) is a generic optional fallback: any
+          # URL that reaches the app directly, e.g. https://<site>.workers.dev.
+          origins = []
           if fallback:
-              origins.append(('VERCEL_SITE_URL', fallback, None))
-          origins.append(('main via Cloudflare', site, None))
+              origins.append(('fallback origin', fallback, None))
+          origins.append((f'main ({host})', site, None))
 
           # Cloudflare scores the client fingerprint; rotating realistic
-          # browser UAs across retries changes the verdict on the
-          # Cloudflare-proxied path (last-resort origin only).
+          # browser UAs across retries changes the verdict if a challenge
+          # ever does appear on the main domain.
           UAS = [
               'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
               '(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
@@ -247,22 +228,23 @@ jobs:
                   if kind == 'token':
                       msg += (' [401 from the app itself: the '
                               'DATA_SYNC_WEBHOOK_TOKEN GitHub secret and the '
-                              'Vercel env var hold DIFFERENT values - set the '
-                              'SAME string in both places]')
+                              'Cloudflare env var (Workers & Pages > the site > '
+                              'Settings > Variables and Secrets) hold DIFFERENT '
+                              'values - set the SAME string in both, redeploy '
+                              'the site, then re-run]')
                   elif kind == 'payload':
                       msg += ' [400: request rejected - see response body above]'
                   elif kind == 'missing':
                       msg += (' [/api/webhooks/data-sync not found on any '
-                              'origin - if VERCEL_SITE_URL is set it must point '
-                              'at the PRODUCTION project (the one serving '
-                              'nextapply.co.uk); also check the site deploy '
-                              'includes the webhook route]')
+                              'origin - if VERCEL_SITE_URL is set it must reach '
+                              'THIS app (e.g. the workers.dev URL of the same '
+                              'deployment); also check the site deploy includes '
+                              'the webhook route]')
                   else:
-                      msg += (' [unreachable from every origin. The vercel-edge '
-                              'paths bypass Cloudflare entirely and should not '
-                              'fail; if they show connection errors, Vercel '
-                              'anycast IPs changed - update the edge_ips list '
-                              'in this workflow]')
+                      msg += (' [unreachable from every origin. If the main '
+                              'domain shows a Cloudflare challenge for GitHub '
+                              'runner IPs, set VERCEL_SITE_URL to a direct '
+                              'origin URL such as https://<site>.workers.dev]')
                   fails.append(msg)
           if fails:
               for f in fails:
@@ -280,5 +262,5 @@ jobs:
             echo "- Changed public/data files: \`${{ steps.diff.outputs.count }}\`"
             echo "- jsDelivr per-file purge: all files, 8x parallel"
             echo "- Site webhook: batches of 50 paths + changedSlugs (on-demand ISR for /{slug} + /checklist/{slug} + hubs)"
-            echo "- Origin strategy: Vercel anycast edge IPs first (Cloudflare bypassed, deterministic), then VERCEL_SITE_URL (if set), then the main domain last"
+            echo "- Origin strategy: main domain first (site is hosted on Cloudflare), optional fallback origin via VERCEL_SITE_URL"
           } >> "$GITHUB_STEP_SUMMARY"

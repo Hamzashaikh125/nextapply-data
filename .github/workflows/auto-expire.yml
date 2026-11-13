@@ -17,12 +17,16 @@
 # repository's GITHUB_TOKEN does NOT trigger other workflows (GitHub's
 # recursion guard), so purge-cache.yml will not run for this commit. The
 # `[skip ci]` marker is belt-and-braces. The purge + webhook block below is
-# copied from purge-cache.yml (same jsDelivr purge, same Vercel-edge
-# Cloudflare bypass, same 50-path batching + changedSlugs).
+# kept in sync with purge-cache.yml v7 (same jsDelivr purge, same origin
+# strategy: main domain first — the site is hosted ON Cloudflare — with an
+# optional direct fallback origin, same 50-path batching + changedSlugs).
 #
 # Setup (one time):
-#   Secret   DATA_SYNC_WEBHOOK_TOKEN  — same value as the Vercel env var
+#   Secret   DATA_SYNC_WEBHOOK_TOKEN  — same value as the CLOUDFLARE env var
+#            (Workers & Pages > the site > Settings > Variables and Secrets)
 #   Variable SITE_URL                 — optional, defaults to nextapply.co.uk
+#   Variable VERCEL_SITE_URL          — optional direct fallback origin URL,
+#            e.g. https://<site>.workers.dev  (legacy name kept)
 
 name: Auto-expire past-deadline listings
 
@@ -106,9 +110,10 @@ jobs:
         env:
           WEBHOOK_TOKEN: ${{ secrets.DATA_SYNC_WEBHOOK_TOKEN }}
           SITE_URL: ${{ vars.SITE_URL }}
+          VERCEL_SITE_URL: ${{ vars.VERCEL_SITE_URL }}
         run: |
           python3 - <<'EOF'
-          import json, os, socket, subprocess, sys, time
+          import json, os, subprocess, sys, time
           from urllib.parse import urlparse
 
           paths = [l.strip() for l in open('changed.txt') if l.strip()]
@@ -119,6 +124,9 @@ jobs:
           if site and not site.startswith('http'):
               site = 'https://' + site
           host = urlparse(site).hostname or 'nextapply.co.uk'
+          fallback = (os.environ.get('VERCEL_SITE_URL') or '').strip().rstrip('/')
+          if fallback and not fallback.startswith('http'):
+              fallback = 'https://' + fallback
           CHUNK = 50          # endpoint hard limit: "Too many purge paths (max 50)"
           OPP = 'public/data/opportunities/'
 
@@ -148,24 +156,16 @@ jobs:
                     '(repo Settings > Secrets and variables > Actions)')
               sys.exit(1)
 
-          # Vercel's anycast edge routes by SNI: pinning the host to a Vercel
-          # edge IP reaches production directly, with Cloudflare never in the
-          # path (runner-IP reputation cannot 403-challenge it).
-          edge_ips = ['76.76.21.21']
-          try:
-              for ai in socket.getaddrinfo('cname.vercel-dns.com', 443,
-                                           socket.AF_INET, socket.SOCK_STREAM):
-                  ip = ai[4][0]
-                  if ip not in edge_ips:
-                      edge_ips.append(ip)
-          except Exception:
-              pass
-          if '76.76.21.22' not in edge_ips:
-              edge_ips.append('76.76.21.22')
-          edge_ips = edge_ips[:3]
-
-          origins = [(f'vercel-edge {ip}', site, ip) for ip in edge_ips]
-          origins.append(('main domain', site, None))
+          # The site is hosted ON Cloudflare (Workers/Pages): the main domain
+          # IS the app — no third-party edge to bypass, nothing to pin. The
+          # old Vercel-edge-IP trick is dead (that project answers 402
+          # DEPLOYMENT_DISABLED) and has been removed. VERCEL_SITE_URL (legacy
+          # name) is a generic optional fallback: any URL that reaches the
+          # app directly, e.g. https://<site>.workers.dev.
+          origins = []
+          if fallback:
+              origins.append(('fallback origin', fallback, None))
+          origins.append((f'main ({host})', site, None))
 
           UAS = [
               'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
@@ -215,7 +215,14 @@ jobs:
                       if code == '200':
                           done = True
                           break
-                      if code in ('401', '400'):
+                      if code == '401':
+                          print('::error::webhook 401: the DATA_SYNC_WEBHOOK_TOKEN '
+                                'GitHub secret and the Cloudflare env var (Workers '
+                                '& Pages > the site > Settings > Variables and '
+                                'Secrets) hold DIFFERENT values - set the SAME '
+                                'string in both, redeploy the site, then re-run')
+                          sys.exit(1)
+                      if code == '400':
                           print(f'::error::webhook config error HTTP {code}: {body}')
                           sys.exit(1)
                   if done:
