@@ -80,11 +80,11 @@ jobs:
         id: diff
         run: |
           set -e
-          if git diff --quiet -- data public/data; then
+          if git diff --quiet -- public/data; then
             echo "count=0" >> "$GITHUB_OUTPUT"
             echo "No changes — nothing to publish."
           else
-            git diff --name-only -- data public/data > changed.txt
+            git diff --name-only -- public/data > changed.txt
             COUNT=$(grep -c . changed.txt || true)
             echo "count=$COUNT" >> "$GITHUB_OUTPUT"
             echo "$COUNT file(s) changed:"
@@ -97,7 +97,7 @@ jobs:
           set -e
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A data public/data
+          git add -A public/data
           git commit -m "[skip ci] chore: auto-expire past-deadline listings"
           git push
 

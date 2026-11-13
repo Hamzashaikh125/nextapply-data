@@ -1,16 +1,18 @@
 #!/usr/bin/env node
 /**
- * scripts/expire-past-deadlines.mjs
+ * scripts/expire-past-deadlines.mjs — SINGLE-PLANE EDITION (public/data only)
  *
  * Flips published listings whose deadline has passed to `status: "expired"`,
  * then rebuilds the published projections from disk truth:
  *
- *   index.json        published-only listing entries (order preserved)
- *   all-slugs.json    every record slug, sorted (public/data is its home)
- *   stats.json        totalOpportunities / openOpportunities / org / article
+ *   public/data/index.json      published-only listing entries (order preserved)
+ *   public/data/all-slugs.json  every record slug, sorted
+ *   public/data/stats.json      totalOpportunities / openOpportunities / org / article
  *
- * Both planes are written together (data/ + public/data/) and the script ends
- * with a byte-level drift report that must read "0 differing files".
+ * Single plane: the old byte-identical `data/` mirror was removed from the
+ * repo on 2026-11-14 (it was a strict duplicate of `public/data/`, which is
+ * the plane the site actually reads through jsDelivr). The plane-drift report
+ * of the twin-plane edition is replaced by a repo consistency report.
  *
  * DEFAULT IS A DRY RUN. Pass --apply to write anything.
  *
@@ -37,19 +39,17 @@
  *   node scripts/expire-past-deadlines.mjs --apply          # write (canonical)
  *   node scripts/expire-past-deadlines.mjs --apply --utc    # write (literal UTC)
  *   node scripts/expire-past-deadlines.mjs --now=2026-11-02T00:00:00Z
- *   node scripts/expire-past-deadlines.mjs --mirror-all-slugs
+ *   node scripts/expire-past-deadlines.mjs --quiet
+ *   node scripts/expire-past-deadlines.mjs --help
  *
  * Flags:
  *   --apply              write changes (default: dry run, nothing is written)
  *   --utc                literal UTC predicate instead of the canonical policy
  *   --now=<ISO>          evaluate at this instant (default: now)
- *   --mirror-all-slugs   also write data/all-slugs.json (repoStore declares
- *                        public/data/all-slugs.json as its only home, so the
- *                        data-plane twin is NOT created by default)
  *   --quiet              omit the per-record list
  *   --help               print this help
  *
- * Exit codes: 0 = ok, 1 = error / plane drift / unsafe state.
+ * Exit codes: 0 = ok, 1 = error / unsafe state.
  */
 
 import { createHash } from "node:crypto";
@@ -64,7 +64,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const PLANES = ["data", "public/data"];
+const PLANE = "public/data";
 const OPP_DIR = "opportunities";
 
 // ── args ────────────────────────────────────────────────────────────────────
@@ -79,7 +79,7 @@ if (has("--help") || has("-h")) {
   console.log(
     readFileSync(fileURLToPath(import.meta.url), "utf8")
       .split("\n")
-      .slice(1, 62)
+      .slice(1, 61)
       .map((l) => l.replace(/^ \* ?/, ""))
       .join("\n")
   );
@@ -88,7 +88,6 @@ if (has("--help") || has("-h")) {
 
 const APPLY = has("--apply");
 const QUIET = has("--quiet");
-const MIRROR_ALL_SLUGS = has("--mirror-all-slugs");
 const MODE = has("--utc") ? "utc" : "canonical";
 
 if (MODE !== "canonical" && MODE !== "utc") {
@@ -287,23 +286,6 @@ function writeIfChanged(rel, content) {
   return true;
 }
 
-function sha256(rel) {
-  return createHash("sha256").update(readFileSync(abs(rel))).digest("hex");
-}
-
-function walk(plane) {
-  const out = [];
-  const visit = (dir) => {
-    for (const entry of readdirSync(abs(dir), { withFileTypes: true })) {
-      const rel = `${dir}/${entry.name}`;
-      if (entry.isDirectory()) visit(rel);
-      else if (entry.isFile()) out.push(rel);
-    }
-  };
-  visit(plane);
-  return out;
-}
-
 function fail(msg) {
   console.error(`\nABORT: ${msg}`);
   process.exit(1);
@@ -311,38 +293,26 @@ function fail(msg) {
 
 // ── load records ────────────────────────────────────────────────────────────
 
-const primaryDir = `${PLANES[0]}/${OPP_DIR}`;
-const publicDir = `${PLANES[1]}/${OPP_DIR}`;
+const oppDir = `${PLANE}/${OPP_DIR}`;
 
-if (!existsSync(abs(primaryDir))) fail(`missing directory: ${primaryDir}`);
-if (!existsSync(abs(publicDir))) fail(`missing directory: ${publicDir}`);
+if (!existsSync(abs(oppDir))) fail(`missing directory: ${oppDir}`);
 
-const primaryFiles = readdirSync(abs(primaryDir)).filter((f) => f.endsWith(".json")).sort();
-const publicFiles = readdirSync(abs(publicDir)).filter((f) => f.endsWith(".json")).sort();
-
-const onlyData = primaryFiles.filter((f) => !publicFiles.includes(f));
-const onlyPublic = publicFiles.filter((f) => !primaryFiles.includes(f));
-if (onlyData.length || onlyPublic.length) {
-  fail(
-    `opportunity file sets differ between planes (data-only: ${onlyData.length}, public-only: ${onlyPublic.length}). ` +
-      `Fix the drift before expiring anything.`
-  );
-}
+const oppFiles = readdirSync(abs(oppDir)).filter((f) => f.endsWith(".json")).sort();
 
 const records = [];
 const unparseable = [];
 
-for (const file of primaryFiles) {
-  const raw = readText(`${primaryDir}/${file}`);
+for (const file of oppFiles) {
+  const raw = readText(`${oppDir}/${file}`);
   let obj;
   try {
     obj = JSON.parse(raw);
   } catch (err) {
-    fail(`unparseable JSON in ${primaryDir}/${file}: ${err.message}`);
+    fail(`unparseable JSON in ${oppDir}/${file}: ${err.message}`);
   }
   const expectedSlug = file.slice(0, -".json".length);
   if (obj.slug !== expectedSlug) {
-    fail(`slug/filename mismatch: ${primaryDir}/${file} has slug "${obj.slug}"`);
+    fail(`slug/filename mismatch: ${oppDir}/${file} has slug "${obj.slug}"`);
   }
   records.push({ file, slug: obj.slug, raw, obj });
 }
@@ -414,12 +384,8 @@ const openSlugs = new Set(
 for (const m of matches) openSlugs.delete(m.slug);
 
 // index.json — filter the existing entries (never regenerate the shape).
-const idxRawData = readText("data/index.json");
-const idxRawPublic = readText("public/data/index.json");
-if (idxRawData.replace(/\r\n/g, "\n") !== idxRawPublic.replace(/\r\n/g, "\n")) {
-  fail("data/index.json and public/data/index.json are not identical — fix the drift first.");
-}
-const indexEntries = JSON.parse(idxRawData);
+const idxRaw = readText(`${PLANE}/index.json`);
+const indexEntries = JSON.parse(idxRaw);
 const nextIndex = indexEntries.filter((e) => openSlugs.has(e.slug));
 const indexSlugSet = new Set(nextIndex.map((e) => e.slug));
 const missingFromIndex = [...openSlugs].filter((s) => !indexSlugSet.has(s));
@@ -433,18 +399,14 @@ if (missingFromIndex.length) {
 
 // all-slugs.json — every record slug, sorted (status-independent).
 const nextAllSlugs = records.map((r) => r.slug).sort();
-const allSlugsRaw = readText("public/data/all-slugs.json");
+const allSlugsRaw = readText(`${PLANE}/all-slugs.json`);
 const currentAllSlugs = JSON.parse(allSlugsRaw);
 
 // stats.json — disk truth, lastExportAt preserved unless something changes.
-const statsRawData = readText("data/stats.json");
-const statsRawPublic = readText("public/data/stats.json");
-if (statsRawData.replace(/\r\n/g, "\n") !== statsRawPublic.replace(/\r\n/g, "\n")) {
-  fail("data/stats.json and public/data/stats.json are not identical — fix the drift first.");
-}
-const currentStats = JSON.parse(statsRawData);
-const orgs = JSON.parse(readText("data/organizations.json"));
-const articles = JSON.parse(readText("data/articles.json"));
+const statsRaw = readText(`${PLANE}/stats.json`);
+const currentStats = JSON.parse(statsRaw);
+const orgs = JSON.parse(readText(`${PLANE}/organizations.json`));
+const articles = JSON.parse(readText(`${PLANE}/articles.json`));
 
 const nextStats = {
   totalOpportunities: records.length,
@@ -530,60 +492,34 @@ const unchanged = [];
 if (APPLY) {
   const nowIso = NOW.toISOString();
 
-  // 1. Expire records in both planes. Verify plane parity per touched record
-  //    BEFORE writing anything.
-  for (const m of matches) {
-    const pubRel = `${publicDir}/${m.file}`;
-    if (!existsSync(abs(pubRel))) fail(`missing public twin: ${pubRel}`);
-    const pubRaw = readText(pubRel);
-    if (JSON.stringify(JSON.parse(pubRaw)) !== JSON.stringify(m.obj)) {
-      fail(`plane drift on ${m.file}: data/ and public/data/ records differ. Fix drift first.`);
-    }
-  }
-
+  // 1. Expire records.
   for (const m of matches) {
     m.obj.status = "expired";
     m.obj.isOpen = false;
     m.obj.expiredAt = nowIso;
 
-    const dataRel = `${primaryDir}/${m.file}`;
-    const pubRel = `${publicDir}/${m.file}`;
-    const dataContent = serializeLike(m.obj, readText(dataRel));
-    const pubContent = serializeLike(m.obj, readText(pubRel));
-
-    (writeIfChanged(dataRel, dataContent) ? written : unchanged).push(dataRel);
-    (writeIfChanged(pubRel, pubContent) ? written : unchanged).push(pubRel);
+    const rel = `${oppDir}/${m.file}`;
+    (writeIfChanged(rel, serializeLike(m.obj, readText(rel))) ? written : unchanged).push(rel);
   }
 
-  // 2. index.json (both planes, same bytes).
-  const nextIndexContent = serializeLike(nextIndex, idxRawData);
-  (writeIfChanged("data/index.json", nextIndexContent) ? written : unchanged).push("data/index.json");
-  (writeIfChanged("public/data/index.json", nextIndexContent) ? written : unchanged).push(
-    "public/data/index.json"
-  );
+  // 2. index.json.
+  (writeIfChanged(`${PLANE}/index.json`, serializeLike(nextIndex, idxRaw))
+    ? written
+    : unchanged
+  ).push(`${PLANE}/index.json`);
 
-  // 3. all-slugs.json — public/data is its contractual home.
-  const allSlugsContent = serializeLike(nextAllSlugs, allSlugsRaw);
-  (writeIfChanged("public/data/all-slugs.json", allSlugsContent) ? written : unchanged).push(
-    "public/data/all-slugs.json"
-  );
-  if (existsSync(abs("data/all-slugs.json")) || MIRROR_ALL_SLUGS) {
-    const dataTwinRaw = existsSync(abs("data/all-slugs.json"))
-      ? readText("data/all-slugs.json")
-      : allSlugsRaw;
-    (writeIfChanged("data/all-slugs.json", serializeLike(nextAllSlugs, dataTwinRaw))
+  // 3. all-slugs.json.
+  (writeIfChanged(`${PLANE}/all-slugs.json`, serializeLike(nextAllSlugs, allSlugsRaw))
+    ? written
+    : unchanged
+  ).push(`${PLANE}/all-slugs.json`);
+
+  // 4. stats.json.
+  if (statsFieldsChanged) {
+    (writeIfChanged(`${PLANE}/stats.json`, serializeLike(nextStats, statsRaw))
       ? written
       : unchanged
-    ).push("data/all-slugs.json");
-  }
-
-  // 4. stats.json (both planes).
-  if (statsFieldsChanged) {
-    const statsContent = serializeLike(nextStats, statsRawData);
-    (writeIfChanged("data/stats.json", statsContent) ? written : unchanged).push("data/stats.json");
-    (writeIfChanged("public/data/stats.json", statsContent) ? written : unchanged).push(
-      "public/data/stats.json"
-    );
+    ).push(`${PLANE}/stats.json`);
   }
 } else {
   for (const m of matches) {
@@ -592,25 +528,34 @@ if (APPLY) {
   }
 }
 
-// ── drift report (always, even on dry run) ──────────────────────────────────
+// ── repo consistency report (always, even on dry run) ──────────────────────
+// Replaces the twin-plane drift report of the two-plane edition: with a single
+// plane there is no mirror to compare against, so we verify the projections
+// the site depends on instead.
 
-// Keys are data-relative: data/x and public/data/x share the key "data/x".
-const planeKey = (p) => p.replace(/^public\//, "");
-const dataFiles = walk("data");
-const publicFilesAll = walk("public/data");
-const dataKeys = new Set(dataFiles);
-const publicByKey = new Map(publicFilesAll.map((p) => [planeKey(p), p]));
-const common = dataFiles.filter((p) => publicByKey.has(p));
-const differing = common.filter((p) => sha256(p) !== sha256(publicByKey.get(p)));
-const dataOnly = dataFiles.filter((p) => !publicByKey.has(p));
-const publicOnly = publicFilesAll.filter((p) => !dataKeys.has(planeKey(p)));
+const diskSlugSet = new Set(records.map((r) => r.slug));
+const missingFromAllSlugs = [...diskSlugSet].filter((s) => !currentAllSlugs.includes(s));
+const extraInAllSlugs = currentAllSlugs.filter((s) => !diskSlugSet.has(s));
+const expiredInIndex = indexEntries.filter(
+  (e) => records.find((r) => r.slug === e.slug)?.obj.status === "expired"
+);
 
-console.log("Plane drift report (data/ vs public/data/):");
-console.log(`  common files        ${common.length}`);
-console.log(`  differing files     ${differing.length}${differing.length ? "  <-- MUST BE 0" : "  (ok)"}`);
-console.log(`  data-only files     ${dataOnly.length}${dataOnly.length ? `: ${dataOnly.join(", ")}` : ""}`);
-console.log(`  public-only files   ${publicOnly.length}${publicOnly.length ? `: ${publicOnly.join(", ")}` : ""}`);
-if (differing.length) for (const p of differing) console.log(`    DIFF ${p}`);
+console.log("Repo consistency report (single plane: public/data):");
+console.log(`  opportunity files on disk     ${records.length}`);
+console.log(`  published                     ${beforePublished}`);
+console.log(`  index.json entries            ${indexEntries.length}`);
+console.log(
+  `  all-slugs vs disk             missing ${missingFromAllSlugs.length}, extra ${extraInAllSlugs.length}` +
+    (missingFromAllSlugs.length
+      ? `  <-- run with --apply to rebuild all-slugs.json`
+      : "")
+);
+console.log(
+  `  index holds expired slugs     ${expiredInIndex.length}` +
+    (expiredInIndex.length && !APPLY
+      ? "  <-- run with --apply to clean index.json"
+      : "")
+);
 console.log("");
 
 if (APPLY) {
@@ -630,9 +575,4 @@ if (APPLY) {
       "Use --utc to see the literal 'deadline < now (UTC)' set (also expires custom/rolling and same-day deadlines)."
     );
   }
-}
-
-if (differing.length) {
-  console.error("\nABORT: plane drift detected — data/ and public/data/ must be byte-identical.");
-  process.exit(1);
 }
