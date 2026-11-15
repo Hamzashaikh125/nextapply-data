@@ -20511,67 +20511,6 @@
   "verificationStatus": "unverified"
  },
  {
-  "slug": "ukri-ai-cdt-dependable-deployable-ai-robotics-cdt-d2air",
-  "id": "jM7NH32Gp461ZFhGIe63",
-  "title": "UKRI AI CDT in Dependable and Deployable AI for Robotics (CDT-D2AIR)",
-  "intro": "UKRI AI Centre for Doctoral Training in Dependable and Deployable AI for Robotics has opened a PhD track in UKRI AI CDT in Dependable and Deployable AI for Robotics (CDT-D2AIR). This is a fully funded opportunity; financial support is listed as £21,805/year (tax-free). The stated deadline is 14 November 2026.",
-  "organization": {
-   "name": "UKRI AI Centre for Doctoral Training in Dependable and Deployable AI for Robotics",
-   "logoUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.sicsa.ac.uk%2Fwp-content%2Fuploads%2F2024%2F10%2Fedinburgh-centre-for-robotics-logo.jpg&output=png"
-  },
-  "organizationId": "Ve15FPmJpk0KvTLwcLav",
-  "city": "Edinburgh",
-  "countryCode": "GB",
-  "regionId": "europe",
-  "category": "doctoral_training_centre",
-  "disciplines": [
-   "robotics",
-   "artificial_intelligence",
-   "computer_science",
-   "engineering",
-   "machine_learning"
-  ],
-  "subjects": null,
-  "degreeLevels": [
-   "phd"
-  ],
-  "tags": [
-   "UKRI AI Centre for Doctoral Training in Dependable and Deployable AI for Robotics",
-   "Robotics",
-   "Artificial Intelligence",
-   "Computer Science",
-   "Engineering",
-   "Machine Learning",
-   "Doctoral Training Centre",
-   "Fully Funded",
-   "UKRI",
-   "CDT",
-   "AI",
-   "Dependable AI"
-  ],
-  "eligibility": "worldwide",
-  "fundingType": "fully_funded",
-  "fundingCoverage": {
-   "stipendProvided": true,
-   "tuitionCovered": true
-  },
-  "stipend": "£21,805/year (tax-free)",
-  "stipendAmount": 21805,
-  "stipendPeriod": "year",
-  "deadline": "2026-11-14T23:59:59.999Z",
-  "deadlineText": "14 November 2026",
-  "deadlineType": "fixed",
-  "status": "published",
-  "isFeatured": false,
-  "isRemote": false,
-  "ieltsRequired": true,
-  "ogImage": "https://nextapply.co.uk/ukri-ai-cdt-dependable-deployable-ai-robotics-cdt-d2air/opengraph-image",
-  "opportunityType": "doctoral_training_centre",
-  "addedDate": "2026-09-17T00:06:15.901Z",
-  "updatedAt": "2026-10-29T04:10:00.000Z",
-  "verificationStatus": "verified"
- },
- {
   "slug": "unic-european-university-alliance-repic-programmes",
   "id": "21CdEXqNfmemkS9pu13E",
   "title": "UNIC – European University Alliance Programmes (REPIC and more)",
